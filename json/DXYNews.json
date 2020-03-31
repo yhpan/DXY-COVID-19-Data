@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1585657228000",
+            "title": "白俄罗斯出现首例新冠肺炎死亡病例 为75岁演员",
+            "summary": "据白俄罗斯通讯社报道，3月31日，白俄罗斯总统亚历山大·卢卡申科宣布该国出现首例新冠肺炎死亡病例。死者为75岁的白俄罗斯演员维克多·达什科维奇，他同时患有其他疾病。白俄罗斯总统卢卡申科认为，暂无必要关闭边境，学校正常上课，国内体育赛事照常举行。白俄罗斯不打算取消庆祝反法西斯胜利75周年活动，筹备工作也在继续开展。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTNnhms6IRizfdoHf8W1L200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585657103000",
+            "title": "菲律宾内政部长确诊感染新冠肺炎 此前已有多名要员感染",
+            "summary": "3月31日晚，菲律宾内政部长爱德华多·阿诺发表声明称，他的新冠肺炎检测结果呈阳性，确诊感染。阿诺称，在3月26日，他得知曾与4位确诊病例有过接触，于是开始进行自我隔离。他在3月27日做了病毒检测，并于31日得知结果呈阳性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7k6MLZmogfMGwWgp4amZ200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585656925000",
+            "title": "​意大利伦巴第大区一市镇至今新冠肺炎零感染引关注",
+            "summary": "据意大利《新闻报》等多家媒体报道，该国北部一个名叫费雷拉埃尔伯尼奥内的市镇因尚无一个居民感染新冠肺炎，近期吸引了各界的关注。费雷拉埃尔伯尼奥内仅有1099名常住人口，位于伦巴第大区帕维亚省。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC593rLDsEhZAaaq0AH3W200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585656837000",
+            "title": "​荷兰新增新冠肺炎确诊病例845例 累计确诊12595例",
+            "summary": "据荷兰公共卫生与环境研究院31日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例845例，累计确诊12595例。其中住院治疗病例新增722例，累计4712例。此外死亡病例新增175例，累计死亡1039例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWomBNOb9Jc6vyo1441aA200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585656326000",
+            "title": "新加坡新增47例新冠肺炎确诊病例 累计确诊926例",
+            "summary": "新加坡跨部门工作小组31日傍晚召开新闻发布会，公布当天确诊病例47例，其中16例是输入病例，18例尚未查到感染源。累计确诊总数926例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifeX52HFVnRE3LXEour5G200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585656050000",
             "title": "​马里新增3例新冠肺炎确诊病例 包括一名5岁儿童",
             "summary": "当地时间31日，马里卫生部发布公告，该国当天新确诊3例新冠肺炎病例，其中包括一名5岁的儿童。截至目前，马里共累计确诊28例新冠肺炎病例。",
@@ -42,51 +87,6 @@
             "summary": "摩洛哥卫生部31日上午8时更新了当天新冠疫情数据。摩洛哥当天再增18例新冠肺炎确诊病例，累计达574例，其中死亡33人，治愈15人。截至目前，摩洛哥已经对2801名疑似病例进行了病毒检测，其中2227人为阴性。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViqrrtY21oIf7FJwjxLv200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585654167000",
-            "title": "中国援助波兰防疫物资抵达",
-            "summary": "当地时间31日，由中国政府向波兰援助的防疫物资顺利运抵华沙肖邦国际机场。机上载有10000份新冠病毒检测试剂、20000只N-95口罩、5000套防护服、5000副医疗护目镜、10000副一次性医用手套及10000双鞋套。中国驻波兰大使刘光源表示，抗击疫情，我们与波兰人民坚定站在一起。",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4488621266408242",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585653844000",
-            "title": "​巴林新增52例新冠肺炎确诊病例 累计确诊567例",
-            "summary": "巴林卫生部当地时间31日下午发布通告，确定境内新增52例新型冠状病毒肺炎确诊病例，其中4例为输入病例，52例为本地感染病例。至此巴林境内累计已发现567例新型冠状病毒肺炎确诊病例，其中295名患者已痊愈出院，4名患者病重不治。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSlYxRzIHWBgvVZjnkKaH200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585653480000",
-            "title": "日本新确认感染者137人 累计感染者2124人",
-            "summary": "根据日本各地方政府和厚生劳动省的统计，截至东京时间31日下午5时30分，日本全国新确认的感染者共137人，累计感染者达到2124人。在日本国内确认的感染者有59人死亡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPV1PBk2ap1NZt3IwreHN200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585653465000",
-            "title": "德国耶拿或将成为首个出台民众戴口罩条令的城市",
-            "summary": "根据德国东部城市耶拿当地时间31日公布的消息，当地政府准备用一周的时间逐步引入在超市及公共交通等人员流动频繁场所配戴口罩的义务，以遏制新冠肺炎疫情的迅速蔓延。由此，耶拿将成为第一个要求民众戴口罩的德国城市。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMkW3whgZM4bkGpS5mZNt200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585653402000",
-            "title": "文莱新增2例新冠肺炎确诊病例 累计确诊129例",
-            "summary": "当地时间31日，文莱政府宣布新增2例新冠肺炎确诊病例，累计确诊129例。文莱卫生部长伊桑说，截至31日下午5时，共有7人获准出院回家，累计治愈病例45例。当地死亡病例维持1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih6PjISWbqWLzTOnJ0G5W200331&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
