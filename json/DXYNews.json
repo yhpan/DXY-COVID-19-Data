@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1585662994000",
+            "title": "世卫组织：全球新冠肺炎确诊病例累计近72万",
+            "summary": "根据世界卫生组织发布的最新数据，截至欧洲中部时间3月31日10时（北京时间3月31日16时），全球新冠肺炎确诊病例累计达719700例，累计死亡33673人，已报告病例的国家和地区共计202例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSzpNOf6W24CXMDLJTMi9200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585662983000",
+            "title": "葡萄牙新冠肺炎新增确诊病例1035例 累计7443例",
+            "summary": "当地时间31日，葡萄牙新冠肺炎确诊7443例，死亡160例，新增1035例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitb628CpQxkBAdz8ZyiED200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585662964000",
+            "title": "塞拉利昂出现首例新冠肺炎确诊病例 3月16日从法国返回",
+            "summary": "当地时间3月31日，塞拉利昂确诊首例新冠肺炎患者。这名患者当地时间3月16日从法国回到塞拉利昂。这是非洲大陆第48个报告新冠肺炎确诊病例的国家，目前仅有科摩罗、南苏丹等少数非洲国家未报告新冠肺炎病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIOwiWEbxqPGFQOsgWGyg200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585661958000",
+            "title": "澳门31日新增2例输入性新冠肺炎确诊病例 累计确诊41例",
+            "summary": "澳门新型冠状病毒感染应变协调中心3月31日晚间发布消息表示，当天新增2例输入性新冠肺炎确诊病例，累计确诊病例增至41例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJTVA1oDSCxymmYkRnO3l200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585661306000",
+            "title": "肯尼亚新增9例确诊新冠肺炎病例 累计确诊59例",
+            "summary": "肯尼亚卫生部于当地时间3月31日发表消息称，新增9例确诊新冠肺炎病例。目前肯尼亚累计确诊数从50例上升为59例，累计1例死亡，1例康复，现存病例为57例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRLgNBlwloE0ea9VeGGDq200331&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585657228000",
             "title": "白俄罗斯出现首例新冠肺炎死亡病例 为75岁演员",
             "summary": "据白俄罗斯通讯社报道，3月31日，白俄罗斯总统亚历山大·卢卡申科宣布该国出现首例新冠肺炎死亡病例。死者为75岁的白俄罗斯演员维克多·达什科维奇，他同时患有其他疾病。白俄罗斯总统卢卡申科认为，暂无必要关闭边境，学校正常上课，国内体育赛事照常举行。白俄罗斯不打算取消庆祝反法西斯胜利75周年活动，筹备工作也在继续开展。",
@@ -42,51 +87,6 @@
             "summary": "新加坡跨部门工作小组31日傍晚召开新闻发布会，公布当天确诊病例47例，其中16例是输入病例，18例尚未查到感染源。累计确诊总数926例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifeX52HFVnRE3LXEour5G200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585656050000",
-            "title": "​马里新增3例新冠肺炎确诊病例 包括一名5岁儿童",
-            "summary": "当地时间31日，马里卫生部发布公告，该国当天新确诊3例新冠肺炎病例，其中包括一名5岁的儿童。截至目前，马里共累计确诊28例新冠肺炎病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM9VehXooPJSKUUk5iOuZ200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585655391000",
-            "title": "外交部：高度重视和关心海外中国留学人员 滞留埃塞的200多名留学生已安全回国",
-            "summary": "外交部发言人：党中央始终高度重视和关心海外中国留学人员，为保护他们的生命安全和身体健康采取了一系列重大举措，各有关部门按照党中央决策部署，积极采取行动。他们都是祖国的孩子，是建设中国未来的重要力量。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5UUHS7t8dM7jcISufKZX200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585654614000",
-            "title": "日本暂停发往153个国家和地区国际邮寄业务",
-            "summary": "由于全球范围新冠肺炎疫情扩大，航班大幅减少，日本邮政将从4月2日零点开始，部分或者完全暂停发往153个国家和地区的国际邮寄业务，对象包括印度、印度尼西亚等亚洲各国，以及意大利、西班牙等欧洲各国。另外，美国、英国和法国暂时不包括在其中。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMiNHLBiPq6Xy4Re3plh200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585654542000",
-            "title": "​斯里兰卡新增新冠肺炎确诊病例10例 累计确诊132例",
-            "summary": "当地时间3月31日下午，斯里兰卡卫生部表示，该国新冠肺炎确诊病例升至132例。与前一天公布的数据相比，新增10例。此外，斯卫生部还表示，截至目前，斯共有2例死亡病例，另有16例痊愈。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artisv5iROH8V1cKbBylsBia200331&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585654244000",
-            "title": "​摩洛哥新增18例新冠肺炎确诊病例 累计确诊574例",
-            "summary": "摩洛哥卫生部31日上午8时更新了当天新冠疫情数据。摩洛哥当天再增18例新冠肺炎确诊病例，累计达574例，其中死亡33人，治愈15人。截至目前，摩洛哥已经对2801名疑似病例进行了病毒检测，其中2227人为阴性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViqrrtY21oIf7FJwjxLv200331&isfromapp=1",
             "province": null,
             "provinceId": ""
         }

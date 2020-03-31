@@ -3,12 +3,12 @@
         {
             "currentConfirmedCount": 3048,
             "currentConfirmedIncr": -227,
-            "confirmedCount": 82599,
-            "confirmedIncr": 135,
+            "confirmedCount": 82601,
+            "confirmedIncr": 137,
             "suspectedCount": 771,
             "suspectedIncr": 30,
-            "curedCount": 76237,
-            "curedIncr": 355,
+            "curedCount": 76239,
+            "curedIncr": 357,
             "deadCount": 3314,
             "deadIncr": 7,
             "seriousCount": 528,
@@ -22,7 +22,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1585659449149
+            "updateTime": 1585664608916
         }
     ],
     "success": true
