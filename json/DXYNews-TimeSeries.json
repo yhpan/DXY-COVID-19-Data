@@ -1,5 +1,25 @@
 [
     {
+        "id": 21838,
+        "pubDate": 1585725405000,
+        "title": "​阿曼新增18例新冠肺炎确诊病例 累计210例",
+        "summary": "据阿曼官方通讯社报道，当地时间4月1日，阿曼卫生部确认该国新增18例新冠肺炎确诊病例。截至目前，阿曼确诊新冠肺炎病例总数达到210例，其中已经治愈34例，死亡1例。阿曼卫生部呼吁所有公民和外籍居民加强预防，尽量待在家中，避免非必要的外出；一旦出现相应症状，须尽快到医院进行检查，并采取必要的医疗措施；不要听信和散播谣言，应从官方渠道获取准确信息。（总台记者 孙建）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBR3pJ4OA4kQFAziAHFZf200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585726457339
+    },
+    {
+        "id": 21818,
+        "pubDate": 1585724056000,
+        "title": "辽宁31日新增1例境外输入确诊病例行程轨迹公布",
+        "summary": "3月31日，辽宁省铁岭市新增1例境外输入新冠肺炎确诊病例（来自美国），属重型病例。患者已在定点医疗机构隔离治疗。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGFT9XvwpWWnjCERnqgk0200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585725849029
+    },
+    {
         "id": 21798,
         "pubDate": 1585721122000,
         "title": "内蒙古3月31日新增境外输入新冠肺炎确诊病例4例",
