@@ -1,5 +1,75 @@
 [
     {
+        "id": 21944,
+        "pubDate": 1585732880000,
+        "title": "马来西亚新增142例新冠肺炎确诊病例 累计2908例",
+        "summary": "当地时间4月1日，马来西亚宣布新增142例新冠肺炎确诊病例，累计确诊2908例；新增2例死亡病例，累计死亡病例45例。 据马来西亚卫生总监努尔·希萨姆·阿卜杜拉介绍，4月1日，共有108人治愈出院，累计治愈645例。截至目前，共有102名患者被收治在特护病房，其中66人必须依赖呼吸机辅助治疗。（总台记者 徐荃乐）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqUEoKgTJGgI5xAsh1AdX200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585733981361
+    },
+    {
+        "id": 21943,
+        "pubDate": 1585732479000,
+        "title": "印尼新增新冠肺炎确诊病例149例 累计1677例",
+        "summary": "4月1日，印尼卫生部宣布新增149例新冠肺炎确诊病例，全国累计确诊1677例，含157例死亡病例。（总台记者 贾建京）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifsGiKDkwRec1lFOWJrdg200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585733981361
+    },
+    {
+        "id": 21935,
+        "pubDate": 1585732221000,
+        "title": "格鲁吉亚新冠肺炎累计确诊115例",
+        "summary": "当地时间4月1日，格鲁吉亚政府疫情监测平台公布消息，格鲁吉亚境内累计确诊新冠肺炎病例115例，其中治愈22例。目前，共有5783人接受隔离，301人处于医学观察。因疫情发展，格政府已宣布国家紧急状态持续至4月21日。（总台记者 宋瑶）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyRwXB8gWIHjs309Ue8xT200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585733981361
+    },
+    {
+        "id": 21913,
+        "pubDate": 1585730963000,
+        "title": "​尼日尔新增7例新冠肺炎确诊病例 累计确诊34例",
+        "summary": "当地时间3月31日，尼日尔卫生部发布公告，宣布尼日尔境内3月31日新增7例新冠肺炎确诊病例，截至目前该国累计共确诊34例，其中死亡3例。（总台记者 何绪）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNljorxXLr85dC3Vtkt08200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585731372688
+    },
+    {
+        "id": 21914,
+        "pubDate": 1585730937000,
+        "title": "埃塞俄比亚新增新冠肺炎确诊病例4例 累计确诊29例",
+        "summary": "当地时间3月31日晚及4月1日上午，埃塞俄比亚卫生部连续发布声明，相继确诊4例新冠肺炎确诊病例，4人均为埃塞俄比亚人。目前累计确诊病例29人，2人治愈，2人确诊后离境，境内现存病例25例，其中2人病情较重。（总台记者 吴婷）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySI95E1go1qbIgOfWkwM200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585731372688
+    },
+    {
+        "id": 21906,
+        "pubDate": 1585730122000,
+        "title": "喀麦隆新增40例新冠肺炎确诊病例 累计确诊233例",
+        "summary": "喀麦隆昨晚与今早分别新增30例和10例新冠肺炎确诊病例，累计新增40例确诊病例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidTcpgPDKGDUEq74ExHlL200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585730945916
+    },
+    {
+        "id": 21904,
+        "pubDate": 1585730336000,
+        "title": "菲律宾新增227例新冠肺炎确诊病例 累计2311例",
+        "summary": "菲律宾卫生部发布公告称，截至1日下午4点，菲律宾当天共计新增227例新冠肺炎确诊病例，确诊病例累计达2311例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti54xtjgZqZbBnmb6LLM27200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585730885448
+    },
+    {
         "id": 21898,
         "pubDate": 1585730015000,
         "title": "澳大利亚新增新冠肺炎确诊病例303例 累计4860例",
