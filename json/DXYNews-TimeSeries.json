@@ -1,5 +1,55 @@
 [
     {
+        "id": 22302,
+        "pubDate": 1585754190000,
+        "title": "毛里求斯新增7例新冠肺炎确诊病例 累计确诊154例",
+        "summary": "毛里求斯卫生部于当地时间4月1日晚发布消息称，毛里求斯新增7例新冠肺炎确诊病例。累计确诊数从原来的147例上升到154例，累计5例死亡，现存确诊149例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif4Z6ba2m131QjcAzRtMp200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585755215969
+    },
+    {
+        "id": 22285,
+        "pubDate": 1585753400000,
+        "title": "加拿大安大略省新冠病毒感染病例新增426例 刷新单日最大增量",
+        "summary": "加拿大安大略省政府网站当地时间4月1日更新了新冠疫情的统计数字，数据显示，过去24小时内，该省新增426例感染病例，刷新了此前351例的单日最大增量记录。累计病例突破2000，跃升到2392例。这个数字也将加拿大的感染病例推到9017例，正在迈向万例大关。此外，安大略省死亡病例增至37例，至此，加拿大的新冠死亡已经达到105例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXAlGyr0sq0eRzDyrj0Yl200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585755155336
+    },
+    {
+        "id": 22212,
+        "pubDate": 1585748077000,
+        "title": "日本新冠肺炎新增261例确诊病例 累计确诊2490例",
+        "summary": "据日本放送协会消息，日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间1日晚10点，当天新增确诊病例261例，为日本单日确诊感染者数中最多病例数，累计新冠肺炎确诊病例达到2490例。其中东京单天新增确诊66人，总数达到587人。当天新增1例死亡病例，目前日本国内感染新冠肺炎患者的死亡人数为68人。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAMpg9AxQwzhZ5tIxvmw200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585752423832
+    },
+    {
+        "id": 22229,
+        "pubDate": 1585750112000,
+        "title": "新加坡新冠肺炎累计确诊破1000例 最年长感染者102岁",
+        "summary": "4月1日，新加坡卫生部宣布，截至当天中午12时，新加坡新增74例新冠肺炎确诊病例，总病例数达到1000例。在新增病例中，有20例是输入病例，54例是社区传播病例。同时，有10例新确诊病例来自新加坡一家养老院。新加坡媒体《海峡时报》报道，其中一名感染者已经102岁。4月1日当天又有3名新加坡医护人员确诊感染新冠肺炎。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbn6JkQcKnN2oy9EtukV200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585752302648
+    },
+    {
+        "id": 22231,
+        "pubDate": 1585750066000,
+        "title": "葡萄牙新冠肺炎确诊8251例 总理呼吁民众4月假期留在家中",
+        "summary": "根据葡萄牙卫生局4月1日公布的数据，截至当天，葡萄牙累计新冠肺炎确诊病例8251例，24小时增加808例。死亡187例，增加27例。住院接受治疗726例，其中危重症230例。目前仍有近5000名疑似病例在等待检测结果。葡萄牙总理科斯塔当天表示，在即将来临的4月假期期间，民众应该呆在家中，政府也将进一步强化相关管控措施。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEMV9qmsoIGHt4jReSfRQ200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585752302648
+    },
+    {
         "id": 22208,
         "pubDate": 1585747961000,
         "title": "再次追加资金 上海将向困难职工发放疫情期间生活补贴",

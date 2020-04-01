@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1585754190000",
+            "title": "毛里求斯新增7例新冠肺炎确诊病例 累计确诊154例",
+            "summary": "毛里求斯卫生部于当地时间4月1日晚发布消息称，毛里求斯新增7例新冠肺炎确诊病例。累计确诊数从原来的147例上升到154例，累计5例死亡，现存确诊149例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif4Z6ba2m131QjcAzRtMp200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585753400000",
+            "title": "加拿大安大略省新冠病毒感染病例新增426例 刷新单日最大增量",
+            "summary": "加拿大安大略省政府网站当地时间4月1日更新了新冠疫情的统计数字，数据显示，过去24小时内，该省新增426例感染病例，刷新了此前351例的单日最大增量记录。累计病例突破2000，跃升到2392例。这个数字也将加拿大的感染病例推到9017例，正在迈向万例大关。此外，安大略省死亡病例增至37例，至此，加拿大的新冠死亡已经达到105例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXAlGyr0sq0eRzDyrj0Yl200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585750112000",
+            "title": "新加坡新冠肺炎累计确诊破1000例 最年长感染者102岁",
+            "summary": "4月1日，新加坡卫生部宣布，截至当天中午12时，新加坡新增74例新冠肺炎确诊病例，总病例数达到1000例。在新增病例中，有20例是输入病例，54例是社区传播病例。同时，有10例新确诊病例来自新加坡一家养老院。新加坡媒体《海峡时报》报道，其中一名感染者已经102岁。4月1日当天又有3名新加坡医护人员确诊感染新冠肺炎。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbn6JkQcKnN2oy9EtukV200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585750066000",
+            "title": "葡萄牙新冠肺炎确诊8251例 总理呼吁民众4月假期留在家中",
+            "summary": "根据葡萄牙卫生局4月1日公布的数据，截至当天，葡萄牙累计新冠肺炎确诊病例8251例，24小时增加808例。死亡187例，增加27例。住院接受治疗726例，其中危重症230例。目前仍有近5000名疑似病例在等待检测结果。葡萄牙总理科斯塔当天表示，在即将来临的4月假期期间，民众应该呆在家中，政府也将进一步强化相关管控措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEMV9qmsoIGHt4jReSfRQ200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585748077000",
+            "title": "日本新冠肺炎新增261例确诊病例 累计确诊2490例",
+            "summary": "据日本放送协会消息，日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间1日晚10点，当天新增确诊病例261例，为日本单日确诊感染者数中最多病例数，累计新冠肺炎确诊病例达到2490例。其中东京单天新增确诊66人，总数达到587人。当天新增1例死亡病例，目前日本国内感染新冠肺炎患者的死亡人数为68人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAMpg9AxQwzhZ5tIxvmw200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585747961000",
             "title": "再次追加资金 上海将向困难职工发放疫情期间生活补贴",
             "summary": "总台记者从上海市总工会了解到，新冠肺炎疫情暴发以来，为关心关爱困难职工，上海及时加大帮扶工作力度，提供生活救助、子女助学、医疗救助。在向已建档的困难职工发放常态化帮扶金127万余元的基础上，再次追加帮困资金，向上海已建档的629户深度困难职工一次性发放2000元的疫情期间生活补贴，向上海已建档的205户困难职工一次性发放1000元的疫情期间生活补贴。",
@@ -42,51 +87,6 @@
             "summary": "截至当地时间4月1日，根据瑞士根据瑞士联邦公共卫生部最新数据，瑞士和列支敦士登共确诊新冠肺炎感染病例17139例，24小时新增963例，累计死亡378例。瑞士目前每天可进行6000~8000次病毒测试。从本周开始，瑞士将进行新一轮的大范围测试，以确定感染人群，从而了解人口的病毒免疫情况。联邦卫生局流行病办公室负责人丹尼尔·科什表示，病毒的蔓延没有停止，但有所放缓。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAikZueUbDOEaPafkZVV200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585744619000",
-            "title": "肯尼亚新增22例新冠肺炎确诊病例 累计确诊81例",
-            "summary": "肯尼亚卫生部于当地时间4月1日发表消息称，新增22例确诊新冠肺炎病例。目前肯尼亚累计确诊数从59例上升为81例，累计死亡1例，治愈3例，现存病例为77例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5A1TvXXVxhYcmQrFzZKN200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585743686000",
-            "title": "中国驻符拉迪沃斯托克总领馆向俄远东地区捐助共计8万只口罩",
-            "summary": "3月30日至31日，中国驻俄罗斯符拉迪沃斯托克总领事馆分别向俄罗斯滨海边疆区政府和符拉迪沃斯托克市政府捐助5万只和3万只医用防护口罩，用于缓解当地防疫医疗物资的短缺情况。\n据介绍，俄滨海边疆区和符拉迪沃斯托克市政府将把这批防护口罩配发给当地福利机构、医院、学校和幼儿园的教职员工以及市政部门工作人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiIQDmaJB8GhuPy9RbbOW200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585742968000",
-            "title": "​世卫组织：全球新冠肺炎病例累计达到783360例",
-            "summary": "世卫组织实时统计数据显示，截至欧洲中部时间4月1日10时（北京时间4月1日16时），全球确诊新冠肺炎783360例，死亡37203例，目前全球已有205个国家地区出现新冠肺炎病例，中国以外超过70万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW3VvsvohulR3OvOZQ5VW200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585742301000",
-            "title": "多哥新增2例新冠肺炎确诊病例 累计36例",
-            "summary": "据多哥政府统计，4月1日多哥新增2例新冠肺炎确诊病例，累计36例，累计治愈10例，当天新增1例死亡，累计死亡2例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEe4KKncGcy6S8YleXum200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585742123000",
-            "title": "南非艾滋病首席科学家吉塔·拉姆吉因新冠肺炎去世",
-            "summary": "2020年4月1日，南非副总统马布扎向因新冠肺炎去世的吉塔·拉姆吉表示哀悼。\n吉塔·拉姆吉是南非国家艾滋病委员会（SANAC）前首席科学家和南非医学研究委员会（SAMRC）艾滋病预防研究室主任。她在杀菌研究领域的专长获得国际认可，包括获得了终身预防艾滋病毒成就奖，并因其一生专注于发现新疾病的工作而被欧洲发展临床试验合作组织授予“杰出女科学家”奖。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ByxFGhg2nLxJqZBbtHp200401&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
