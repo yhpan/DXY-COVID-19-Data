@@ -1,5 +1,65 @@
 [
     {
+        "id": 22516,
+        "pubDate": 1585779894000,
+        "title": "加拿大累计新冠肺炎确诊病例9720例 死亡病例升至111例",
+        "summary": "据加拿大各省当地时间4月1日报道，新冠肺炎确诊病例累计达到9720例，死亡病例增至111例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGCQ4U1P3AeVLfKTnsIWA200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780677046
+    },
+    {
+        "id": 22384,
+        "pubDate": 1585760860000,
+        "title": "联合国：新冠肺炎疫情或致全球经济萎缩近1%",
+        "summary": "当地时间4月1日， 联合国经济与社会事务部副秘书长刘振民对媒体进行书面吹风，介绍新冠病毒大流行对经济走向和可持续发展的影响。刘振民说， 新冠病毒疫情对人口流动和广泛的经济活动造成了前所未有的限制，并促使许多国家宣布进入国家紧急状态。随着疫情的暴发，联合国经济和社会事务部一直在密切跟踪在发展中国家和发达国家的事态发展。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz9Xlw817CDZnDQefHpqH200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780555840
+    },
+    {
+        "id": 22515,
+        "pubDate": 1585779996000,
+        "title": "阿联酋4月1日起签证免费续签",
+        "summary": "当地时间4月1日，阿联酋政府宣布，根据阿联酋内阁会议决定，3月初到期的阿联酋居留签证和阿联酋身份证可以免费续签三个月。另外，旅游和访问签证也可以免费延期。迪拜居住和外国人事务局（GDRFA）总干事穆罕默德·艾哈迈德·阿尔·梅里少将表示这是为了配合阿联酋整个防疫措施作出的调整。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS8YpkRvOfkrL6X9bUhqu200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780495287
+    },
+    {
+        "id": 22515,
+        "pubDate": 1585779996000,
+        "title": "阿联酋4月1日起签证免费续签",
+        "summary": "当地时间4月1日，阿联酋政府宣布，根据阿联酋内阁会议决定，3月初到期的阿联酋居留签证和阿联酋身份证可以免费续签三个月。另外，旅游和访问签证也可以免费延期。迪拜居住和外国人事务局（GDRFA）总干事穆罕默德·艾哈迈德·阿尔·梅里少将表示这是为了配合阿联酋整个防疫措施作出的调整。\n△阿联酋内阁会议\n近期，阿联酋新冠肺炎确诊人数快速上升，为了应对新冠疫情，阿联酋在3月19日起全面严控人员出入境，并在3月",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS8YpkRvOfkrL6X9bUhqu200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780434728
+    },
+    {
+        "id": 22481,
+        "pubDate": 1585772695000,
+        "title": "中国第二批赴意抗疫医疗专家组从米兰启程回国",
+        "summary": "当地时间4月1日下午，中国援助意大利抗击新冠肺炎疫情的第二批医疗专家组一行12人从米兰马尔彭萨机场乘机回国，中国驻米兰总领事宋雪峰等前往送行。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikLYniShkemc7FL9hsrTo200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780434728
+    },
+    {
+        "id": 22486,
+        "pubDate": 1585772871000,
+        "title": "华盛顿特区迎来“居家隔离令”首日",
+        "summary": "3月31日，华盛顿特区居民迎来“居家隔离令”首日，店铺都已关门停业，往日喧闹的街道上更是人迹寥寥，机场，火车站，地铁也寂寂无声。按照“居家隔离令”要求，所有居民被要求居家隔离，除非是采购生活物资、看病等必要活动。违反者将会被警告，严重违反者将处以5000美元罚款。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCwZI2P8lWxqW8IFB3mzw200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585780374153
+    },
+    {
         "id": 22359,
         "pubDate": 1585758797000,
         "title": "奥地利新冠肺炎确诊人数破万 开展新冠病毒抽检",
