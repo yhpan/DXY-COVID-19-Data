@@ -1,5 +1,55 @@
 [
     {
+        "id": 22091,
+        "pubDate": 1585742301000,
+        "title": "多哥新增2例新冠肺炎确诊病例 累计36例",
+        "summary": "据多哥政府统计，4月1日多哥新增2例新冠肺炎确诊病例，累计36例，累计治愈10例，当天新增1例死亡，累计死亡2例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilEe4KKncGcy6S8YleXum200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585742963931
+    },
+    {
+        "id": 22089,
+        "pubDate": 1585742123000,
+        "title": "南非艾滋病首席科学家吉塔·拉姆吉因新冠肺炎去世",
+        "summary": "2020年4月1日，南非副总统马布扎向因新冠肺炎去世的吉塔·拉姆吉表示哀悼。\n吉塔·拉姆吉是南非国家艾滋病委员会（SANAC）前首席科学家和南非医学研究委员会（SAMRC）艾滋病预防研究室主任。她在杀菌研究领域的专长获得国际认可，包括获得了终身预防艾滋病毒成就奖，并因其一生专注于发现新疾病的工作而被欧洲发展临床试验合作组织授予“杰出女科学家”奖。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1ByxFGhg2nLxJqZBbtHp200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585742963931
+    },
+    {
+        "id": 22082,
+        "pubDate": 1585741457000,
+        "title": "中央指导组：加快新冠肺炎疫苗、治疗技术和药物科研攻关",
+        "summary": "为深入贯彻习近平总书记重要指示精神，落实中央应对疫情工作领导小组部署，中共中央政治局委员、国务院副总理、中央指导组组长孙春兰1日召开抗疫一线专家院士和科研工作者座谈会，听取新冠肺炎疫苗研发、治疗技术和药物科研攻关等进展情况汇报，强调要坚持临床和科研结合，打破壁垒，总结经验，给予更大支持，推动超常规创新，为战胜疫情提供有力科技支撑。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticQBNlQlR6jl2516XxzpH200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585742414117
+    },
+    {
+        "id": 22063,
+        "pubDate": 1585740306000,
+        "title": "索马里前总理因新冠肺炎去世",
+        "summary": "据土耳其安纳多卢通讯社报道，4月1日，索马里前总理努尔·哈桑·侯赛因·努尔·阿德（Nour Hassan Hussein Nour Adde）因新冠肺炎在英国去世，他曾于2007年11月至2009年2月担任索马里总理。他的家人发表声明说，他是在伦敦的国王学院（King’s College）去世的，最近几周他都在那里接受治疗。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5CrkItBc9KW3tOvYwQAG200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585742414117
+    },
+    {
+        "id": 22070,
+        "pubDate": 1585740745000,
+        "title": "​加纳新增34例确诊新冠肺炎病例 累计195例",
+        "summary": "当地时间4月1日，加纳卫生部发布消息称新增34例确诊新冠肺炎病例，其中以大阿克拉省病例最多，占到174例。目前加纳累计确诊从原来的161例上升到195例，累计死亡5例，3例通过治疗康复，49例已恢复到无明显症状现在居家隔离中，现存确诊187例均在接受隔离治疗和观察。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ijQTkw9z6HoFL7DCNQu200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585742353657
+    },
+    {
         "id": 22047,
         "pubDate": 1585738988000,
         "title": "​巴林新增2例新冠肺炎确诊病例 累计569例",
