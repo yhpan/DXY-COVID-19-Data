@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585759500000",
+            "title": "意大利4月1日累计新冠肺炎确诊病例超11万 新增4782例",
+            "summary": "当地时间4月1日下午，意大利民事保护部门负责人、新冠病毒应急委员会专员博雷利在疫情每日通报会上公布了最新官方统计数字。截至当天18时，意大利新冠肺炎确诊病例累计达110574例，相比前一天增加4782例。累计死亡达13155例，当日新增死亡病例727例，为3月27日以来最低；治愈新增1118例，累计16847例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4aCydmlL7y5QKBBcofzn200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585758797000",
+            "title": "奥地利新冠肺炎确诊人数破万 开展新冠病毒抽检",
+            "summary": "据奥地利卫生部网站消息，截至当地时间4月1日8点，奥地利共有新冠肺炎确诊病例10482例，24小时内新增511例，累计治愈1436例，死亡146例。4月1日，奥地利政府召开新闻发布会宣布，将追加10亿欧元作为小微企业紧急援助金，总规模达20亿欧元。另据奥地利媒体报道，疫情重创奥就业市场。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCWYUhwSfoLYjkRLp698I200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585757954000",
             "title": "阿尔及利亚新增130例新冠肺炎确诊病例 累计确诊846例",
             "summary": "阿尔及利亚卫生部4月1日证实，过去24小时该国共有14人死于新冠肺炎，139人被确认感染。截至目前，阿尔及利亚共有新冠肺炎确诊病例846例，累计死亡人数58人。",
@@ -69,24 +87,6 @@
             "summary": "根据葡萄牙卫生局4月1日公布的数据，截至当天，葡萄牙累计新冠肺炎确诊病例8251例，24小时增加808例。死亡187例，增加27例。住院接受治疗726例，其中危重症230例。目前仍有近5000名疑似病例在等待检测结果。葡萄牙总理科斯塔当天表示，在即将来临的4月假期期间，民众应该呆在家中，政府也将进一步强化相关管控措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEMV9qmsoIGHt4jReSfRQ200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585748077000",
-            "title": "日本新冠肺炎新增261例确诊病例 累计确诊2490例",
-            "summary": "据日本放送协会消息，日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间1日晚10点，当天新增确诊病例261例，为日本单日确诊感染者数中最多病例数，累计新冠肺炎确诊病例达到2490例。其中东京单天新增确诊66人，总数达到587人。当天新增1例死亡病例，目前日本国内感染新冠肺炎患者的死亡人数为68人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAMpg9AxQwzhZ5tIxvmw200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585747961000",
-            "title": "再次追加资金 上海将向困难职工发放疫情期间生活补贴",
-            "summary": "总台记者从上海市总工会了解到，新冠肺炎疫情暴发以来，为关心关爱困难职工，上海及时加大帮扶工作力度，提供生活救助、子女助学、医疗救助。在向已建档的困难职工发放常态化帮扶金127万余元的基础上，再次追加帮困资金，向上海已建档的629户深度困难职工一次性发放2000元的疫情期间生活补贴，向上海已建档的205户困难职工一次性发放1000元的疫情期间生活补贴。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR2oQJQ50obyPjG9v1ym2200401&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
