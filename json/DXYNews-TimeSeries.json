@@ -1,5 +1,55 @@
 [
     {
+        "id": 22350,
+        "pubDate": 1585757954000,
+        "title": "阿尔及利亚新增130例新冠肺炎确诊病例 累计确诊846例",
+        "summary": "阿尔及利亚卫生部4月1日证实，过去24小时该国共有14人死于新冠肺炎，139人被确认感染。截至目前，阿尔及利亚共有新冠肺炎确诊病例846例，累计死亡人数58人。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKP2wwJdQtRUtsNLcVgso200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585758855126
+    },
+    {
+        "id": 22352,
+        "pubDate": 1585757700000,
+        "title": "美国新冠肺炎确诊病例超过19万",
+        "summary": "据美国约翰斯·霍普金斯大学调查数据显示，截至美东时间4月1日11点，美国新冠肺炎确诊病例已经达到至少190089例，死亡病例至少4102例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibMRC1sqhj6UHx11IY0MH200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585758855126
+    },
+    {
+        "id": 22329,
+        "pubDate": 1585757117000,
+        "title": "卢森堡新增新冠肺炎确诊病例141例 累计确诊2319例",
+        "summary": "当地时间4月1日下午，据卢森堡卫生部门最新通报，过去24小时，其境内新增新冠肺炎确诊病例141例，累计确诊2319例。其中死亡病例新增6例，共计29例。另据统计，自疫情暴发以来，卢森堡已进行了18690次新冠病毒检测。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizqzKUqh1z57hDO4OwOqO200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585758855126
+    },
+    {
+        "id": 22313,
+        "pubDate": 1585755257000,
+        "title": "斯洛伐克新增新冠肺炎确诊病例37例 累计确诊400例",
+        "summary": "当地时间4月1日，斯洛伐克总理马托维奇通报称，31日境内新增新冠肺炎确诊病例37例，多数年龄都在30岁左右，其中最小的感染者只有5岁，累计确诊病例达到400例。累计治愈3例，死亡1例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX3PdbUDRzvPCEG0HXUP5200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585756125753
+    },
+    {
+        "id": 22313,
+        "pubDate": 1585755257000,
+        "title": "斯洛伐克新增新冠肺炎确诊病例37例 累计确诊400例",
+        "summary": "△图片来自当地媒体\n当地时间4月1日，斯洛伐克总理马托维奇通报称，31日境内新增新冠肺炎确诊病例37例，多数年龄都在30岁左右，其中最小的感染者只有5岁，累计确诊病例达到400例。累计治愈3例，死亡1例。（总台记者 徐明）\n关注更多权威信息\n戳链接↓↓↓\nH5丨新冠肺炎疫情实时更新",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX3PdbUDRzvPCEG0HXUP5200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585756065196
+    },
+    {
         "id": 22302,
         "pubDate": 1585754190000,
         "title": "毛里求斯新增7例新冠肺炎确诊病例 累计确诊154例",
