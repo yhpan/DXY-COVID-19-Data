@@ -1,5 +1,65 @@
 [
     {
+        "id": 22003,
+        "pubDate": 1585736104000,
+        "title": "​毛里求斯新增4例新冠肺炎确诊病例 累计确诊147例",
+        "summary": "毛里求斯卫生部于当地时间4月1日发布消息称，毛里求斯新增4例确诊新冠肺炎病例。累计确诊数从原来的143例上升到147例，累计5例死亡，现存确诊142例。（总台记者 顾雪嘉）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2tzNqTOm9N05KsGrmjId200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585736955225
+    },
+    {
+        "id": 22005,
+        "pubDate": 1585736045000,
+        "title": "​伊朗新增新冠肺炎确诊病例2987例 累计确诊47593例",
+        "summary": "根据伊朗卫生部最新消息，当地时间1日，伊朗新增新冠肺炎确诊病例2987例，新增死亡138例。截至当天中午，伊朗累计确诊新冠肺炎病例47593例，其中治愈15473例，死亡3036例。（总台记者 李健南 倪紫慧）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFOY7uqPtQijUbYPFvtfk200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585736955225
+    },
+    {
+        "id": 21966,
+        "pubDate": 1585734024000,
+        "title": "西班牙成全球第3个确诊超10万国家",
+        "summary": "据西班牙卫生部官网通报，过去24小时，该国新增 7719例新冠肺炎确诊病例，累计确诊102136例，累计死亡9053例。（总台记者魏帆） ",
+        "infoSource": "央视新闻",
+        "sourceUrl": "http://m.weibo.cn/2656274875/4488956211567800",
+        "provinceId": "",
+        "crawlTime": 1585735012946
+    },
+    {
+        "id": 21963,
+        "pubDate": 1585733845000,
+        "title": "​比利时新增新冠肺炎确诊病例1189例 累计确诊13964例",
+        "summary": "当地时间4月1日上午，据比利时卫生部门官方通报，在过去24小时内比利时新增新冠肺炎确诊病例1189例，累计确诊13964例。死亡病例新增123例，累计828例。目前住院治疗的病例达到4995例，其中1088例接受重症监护，占到比利时重症监护容量的54%。此外，从3月15日到3月31日，已有2132名病患治愈出院。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiygcQGVd10e7MoQpq1Kkg200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585735012946
+    },
+    {
+        "id": 21954,
+        "pubDate": 1585732954000,
+        "title": "香港特区政府宣布美容院、卡拉OK等场所关闭14日",
+        "summary": "今天（1日）下午，香港特区政府公布了扩大预防及控制疾病新范围，涵盖卡拉OK场所、美容院等，公告已于今天下午3时起生效，但新纳入规管范围场所的防控实施时间仍未确定。至此香港特区政府已涵盖要求12类被指高危的场所关闭14天，包括游戏机中心、健身中心、游乐场所、电影院、派对房间、卡拉OK等等。（总台记者 周伟琪 叶丽丽）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8KWpdVSnODacFc96Oc7v200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585734042109
+    },
+    {
+        "id": 21936,
+        "pubDate": 1585732168000,
+        "title": "香港新增51例新冠肺炎确诊病例 累计765例",
+        "summary": "香港特区政府卫生署及医院管理局1日下午就新冠肺炎疫情的最新情况举行简报会，会议指出，截至4月1日16:30，香港新增51例新冠肺炎确诊病例，累计确诊病例增至765例。今日确诊病例中有23名女士和28名男士，其中34人有旅游史，13人是学生，尖沙咀卡拉OK群组的7人全部确诊，最小的一名确诊患者为40天的婴儿。（总台记者 刘志敏）",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiVEFQZvlzCHC0CZ2wx7200401&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585734042109
+    },
+    {
         "id": 21944,
         "pubDate": 1585732880000,
         "title": "马来西亚新增142例新冠肺炎确诊病例 累计2908例",

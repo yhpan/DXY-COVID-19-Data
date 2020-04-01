@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1585736104000",
+            "title": "​毛里求斯新增4例新冠肺炎确诊病例 累计确诊147例",
+            "summary": "毛里求斯卫生部于当地时间4月1日发布消息称，毛里求斯新增4例确诊新冠肺炎病例。累计确诊数从原来的143例上升到147例，累计5例死亡，现存确诊142例。（总台记者 顾雪嘉）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2tzNqTOm9N05KsGrmjId200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585736045000",
+            "title": "​伊朗新增新冠肺炎确诊病例2987例 累计确诊47593例",
+            "summary": "根据伊朗卫生部最新消息，当地时间1日，伊朗新增新冠肺炎确诊病例2987例，新增死亡138例。截至当天中午，伊朗累计确诊新冠肺炎病例47593例，其中治愈15473例，死亡3036例。（总台记者 李健南 倪紫慧）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFOY7uqPtQijUbYPFvtfk200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585734024000",
+            "title": "西班牙成全球第3个确诊超10万国家",
+            "summary": "据西班牙卫生部官网通报，过去24小时，该国新增 7719例新冠肺炎确诊病例，累计确诊102136例，累计死亡9053例。（总台记者魏帆） ",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4488956211567800",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585733845000",
+            "title": "​比利时新增新冠肺炎确诊病例1189例 累计确诊13964例",
+            "summary": "当地时间4月1日上午，据比利时卫生部门官方通报，在过去24小时内比利时新增新冠肺炎确诊病例1189例，累计确诊13964例。死亡病例新增123例，累计828例。目前住院治疗的病例达到4995例，其中1088例接受重症监护，占到比利时重症监护容量的54%。此外，从3月15日到3月31日，已有2132名病患治愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiygcQGVd10e7MoQpq1Kkg200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585732954000",
+            "title": "香港特区政府宣布美容院、卡拉OK等场所关闭14日",
+            "summary": "今天（1日）下午，香港特区政府公布了扩大预防及控制疾病新范围，涵盖卡拉OK场所、美容院等，公告已于今天下午3时起生效，但新纳入规管范围场所的防控实施时间仍未确定。至此香港特区政府已涵盖要求12类被指高危的场所关闭14天，包括游戏机中心、健身中心、游乐场所、电影院、派对房间、卡拉OK等等。（总台记者 周伟琪 叶丽丽）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8KWpdVSnODacFc96Oc7v200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585732880000",
             "title": "马来西亚新增142例新冠肺炎确诊病例 累计2908例",
             "summary": "当地时间4月1日，马来西亚宣布新增142例新冠肺炎确诊病例，累计确诊2908例；新增2例死亡病例，累计死亡病例45例。 据马来西亚卫生总监努尔·希萨姆·阿卜杜拉介绍，4月1日，共有108人治愈出院，累计治愈645例。截至目前，共有102名患者被收治在特护病房，其中66人必须依赖呼吸机辅助治疗。（总台记者 徐荃乐）",
@@ -28,65 +73,20 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1585732168000",
+            "title": "香港新增51例新冠肺炎确诊病例 累计765例",
+            "summary": "香港特区政府卫生署及医院管理局1日下午就新冠肺炎疫情的最新情况举行简报会，会议指出，截至4月1日16:30，香港新增51例新冠肺炎确诊病例，累计确诊病例增至765例。今日确诊病例中有23名女士和28名男士，其中34人有旅游史，13人是学生，尖沙咀卡拉OK群组的7人全部确诊，最小的一名确诊患者为40天的婴儿。（总台记者 刘志敏）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiVEFQZvlzCHC0CZ2wx7200401&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585730963000",
             "title": "​尼日尔新增7例新冠肺炎确诊病例 累计确诊34例",
             "summary": "当地时间3月31日，尼日尔卫生部发布公告，宣布尼日尔境内3月31日新增7例新冠肺炎确诊病例，截至目前该国累计共确诊34例，其中死亡3例。（总台记者 何绪）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNljorxXLr85dC3Vtkt08200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585730937000",
-            "title": "埃塞俄比亚新增新冠肺炎确诊病例4例 累计确诊29例",
-            "summary": "当地时间3月31日晚及4月1日上午，埃塞俄比亚卫生部连续发布声明，相继确诊4例新冠肺炎确诊病例，4人均为埃塞俄比亚人。目前累计确诊病例29人，2人治愈，2人确诊后离境，境内现存病例25例，其中2人病情较重。（总台记者 吴婷）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySI95E1go1qbIgOfWkwM200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585730336000",
-            "title": "菲律宾新增227例新冠肺炎确诊病例 累计2311例",
-            "summary": "菲律宾卫生部发布公告称，截至1日下午4点，菲律宾当天共计新增227例新冠肺炎确诊病例，确诊病例累计达2311例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti54xtjgZqZbBnmb6LLM27200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585730122000",
-            "title": "喀麦隆新增40例新冠肺炎确诊病例 累计确诊233例",
-            "summary": "喀麦隆昨晚与今早分别新增30例和10例新冠肺炎确诊病例，累计新增40例确诊病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidTcpgPDKGDUEq74ExHlL200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585730015000",
-            "title": "澳大利亚新增新冠肺炎确诊病例303例 累计4860例",
-            "summary": "根据澳大利亚联邦卫生部4月1日最新统计，截至当地时间15时，澳大利亚新冠肺炎感染病例累计4860例，包括20个死亡病例，过去的24小时新增303例。新南威尔士州确诊2182例，维多利亚州确诊968例，昆士兰州确诊781例，西澳州确诊392例，南澳州确诊367例，北领地确诊18例，首都领地确诊84例，塔斯马尼亚州确诊68例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0nEuRpvtrq11BM7BbZ2K200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585729835000",
-            "title": "俄罗斯新增440例新冠肺炎确诊病例 累计确诊2777例",
-            "summary": "俄罗斯新冠肺炎疫情防控指挥部4月1日宣布，在过去的24小时，俄罗斯新增440例新冠肺炎确诊病例，全国累计确诊2777例。新增的440例确诊病例分布在俄罗斯的35个地区，其中莫斯科市的新增确诊病例数最多，为267例。根据俄官方公布的数据，在过去的一天中，共有69例新冠肺炎确诊病例治愈出院，累计达到190例，另有7人不幸离世，死亡病例达到24例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibHPYSKjo35s1fX75Xqe7200401&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585727700000",
-            "title": "以色列新增新冠肺炎确诊病例233例 累计确诊5591例",
-            "summary": "当地时间4月1日上午，以色列卫生部公布的最新疫情通报显示，在过去的12小时（3月31日晚22时至4月1日早10时），该国新冠肺炎确诊病例增加了233例，累计5591例；新增死亡1例，死亡累计21例；97人病情危重，其中76人已插管；226人康复。有数据显示，新冠肺炎疫情爆发以来，以色列每10万人中平均有53人被感染，绝大多数被感染者是在超正统犹太教城镇和社区，政府正在考虑对这些城镇实行全面封锁。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6N81FOQ7o5i0S6oRF1R200401&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
