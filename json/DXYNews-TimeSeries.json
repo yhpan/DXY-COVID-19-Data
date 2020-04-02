@@ -1,5 +1,75 @@
 [
     {
+        "id": 23251,
+        "pubDate": 1585841058000,
+        "title": "​斯里兰卡新冠肺炎确诊病例升至150例",
+        "summary": "当地时间4月2日，斯里兰卡卫生部表示，该国新冠肺炎确诊病例升至150例。与前一天数据相比，共新增4例。所有累计病例中，3例死亡，21例康复。另有126名疑似病例正在接受观察。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif9OKFxpdVgVs2sX5obZb200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585841861099
+    },
+    {
+        "id": 23252,
+        "pubDate": 1585841040000,
+        "title": "​毛里求斯新增8例新冠肺炎确诊病例 累计确诊169例",
+        "summary": "毛里求斯卫生部于当地时间4月2日发布消息称，毛里求斯新增8例确诊新冠肺炎病例，新增1例死亡病例，为一名59岁的男性患者。累计确诊数从原来的161例上升到169例，累计7例死亡，现存确诊162例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6O7dhPaKxZsn7hcEzWgs200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585841861099
+    },
+    {
+        "id": 23245,
+        "pubDate": 1585840711000,
+        "title": "塞尔维亚新增111例新冠肺炎确诊病例 累计确诊1171例",
+        "summary": "据塞尔维亚卫生部4月2日15:00公布的数据，4月1日15:00以后对637个疑似病例进行了检测，111份结果呈阳性，新增3例死亡，累计死亡31例，全国累计确诊1171例，完成5008份样本检测。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYuhAywMhbwBMURQey0i2200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585841800393
+    },
+    {
+        "id": 23246,
+        "pubDate": 1585840674000,
+        "title": "​日本新增277例新冠肺炎确诊病例 再破单日新增纪录",
+        "summary": "据日本《每日新闻》报道，4月2日，日本国内新冠肺炎确诊病例新增277人，成为迄今为止单日确诊病例最多的一天。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihI3YSWzAwYwnmUyhcWyc200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585841800393
+    },
+    {
+        "id": 23218,
+        "pubDate": 1585838697000,
+        "title": "​加拿大新冠病毒感染病例突破万例",
+        "summary": "加拿大安大略省政府网站当地时间2日上午10:30更新的新冠疫情统计显示，该省新增426个病例，累计2793例。这使得加拿大的累计病例达到10121例，累计突破万例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijHxxHbf1wkQbUIqW0h6J200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585840104347
+    },
+    {
+        "id": 23219,
+        "pubDate": 1585838683000,
+        "title": "叙利亚新增6例新冠肺炎确诊病例 累计确诊16例",
+        "summary": "当地时间2日晚，叙利亚卫生部宣布叙境内新增6例新冠肺炎确诊病例，加上此前已经确诊的10例病例，截至当地时间2日晚，叙境内共累计发现新冠肺炎确诊病例16例，其中包含两例死亡病例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZBQIMEAo7lGmgworflw4200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585840104347
+    },
+    {
+        "id": 23222,
+        "pubDate": 1585838795000,
+        "title": "几内亚新增21例新冠肺炎确诊病例 累计52例",
+        "summary": "当地时间4月2日，几内亚国家卫生安全署（ANSS）发表声明称，4月1日几内亚新增新冠肺炎确诊病例21例。截至4月1日，几内亚累计确诊病例52例，治愈1例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNVlnUmA9TQfry8bPweOk200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585840043738
+    },
+    {
         "id": 23211,
         "pubDate": 1585838176000,
         "title": "缅甸新增4例新冠肺炎确诊病例 均为此前确诊病例亲属",

@@ -1,6 +1,69 @@
 {
     "results": [
         {
+            "pubDate": "1585841058000",
+            "title": "​斯里兰卡新冠肺炎确诊病例升至150例",
+            "summary": "当地时间4月2日，斯里兰卡卫生部表示，该国新冠肺炎确诊病例升至150例。与前一天数据相比，共新增4例。所有累计病例中，3例死亡，21例康复。另有126名疑似病例正在接受观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif9OKFxpdVgVs2sX5obZb200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585841040000",
+            "title": "​毛里求斯新增8例新冠肺炎确诊病例 累计确诊169例",
+            "summary": "毛里求斯卫生部于当地时间4月2日发布消息称，毛里求斯新增8例确诊新冠肺炎病例，新增1例死亡病例，为一名59岁的男性患者。累计确诊数从原来的161例上升到169例，累计7例死亡，现存确诊162例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6O7dhPaKxZsn7hcEzWgs200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585840711000",
+            "title": "塞尔维亚新增111例新冠肺炎确诊病例 累计确诊1171例",
+            "summary": "据塞尔维亚卫生部4月2日15:00公布的数据，4月1日15:00以后对637个疑似病例进行了检测，111份结果呈阳性，新增3例死亡，累计死亡31例，全国累计确诊1171例，完成5008份样本检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYuhAywMhbwBMURQey0i2200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585840674000",
+            "title": "​日本新增277例新冠肺炎确诊病例 再破单日新增纪录",
+            "summary": "据日本《每日新闻》报道，4月2日，日本国内新冠肺炎确诊病例新增277人，成为迄今为止单日确诊病例最多的一天。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihI3YSWzAwYwnmUyhcWyc200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585838795000",
+            "title": "几内亚新增21例新冠肺炎确诊病例 累计52例",
+            "summary": "当地时间4月2日，几内亚国家卫生安全署（ANSS）发表声明称，4月1日几内亚新增新冠肺炎确诊病例21例。截至4月1日，几内亚累计确诊病例52例，治愈1例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNVlnUmA9TQfry8bPweOk200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585838697000",
+            "title": "​加拿大新冠病毒感染病例突破万例",
+            "summary": "加拿大安大略省政府网站当地时间2日上午10:30更新的新冠疫情统计显示，该省新增426个病例，累计2793例。这使得加拿大的累计病例达到10121例，累计突破万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijHxxHbf1wkQbUIqW0h6J200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585838683000",
+            "title": "叙利亚新增6例新冠肺炎确诊病例 累计确诊16例",
+            "summary": "当地时间2日晚，叙利亚卫生部宣布叙境内新增6例新冠肺炎确诊病例，加上此前已经确诊的10例病例，截至当地时间2日晚，叙境内共累计发现新冠肺炎确诊病例16例，其中包含两例死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZBQIMEAo7lGmgworflw4200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585838176000",
             "title": "缅甸新增4例新冠肺炎确诊病例 均为此前确诊病例亲属",
             "summary": "据缅甸卫生部4月2日晚发布的消息，缅甸新增4例新冠肺炎确诊病例，累计确诊20例。",
@@ -24,69 +87,6 @@
             "summary": "4月1日，新加坡卫生部宣布，截至当天中午12时，新加坡新增49例新冠肺炎病例。新增病例中，有8例是输病例，41起为社区感染病例，新加坡总感染人数上升至1049人，治愈出院266人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiub0HvQp2DlOKl5xl1dVT200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585834872000",
-            "title": "布基纳法索新增6例新冠肺炎确诊病例 累计确诊288例",
-            "summary": "据布基纳法索卫生部统计，4月1日，布基纳法索新增新冠肺炎确诊病例6例，累计288例（192名男性，96名女性）。当天新增4例治愈，累计治愈50例；当天无新增死亡，累计死亡16例。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitguYC2xL29VFRfbolCdk200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585834451000",
-            "title": "​多哥累计确诊39例 宣布全国进入紧急状态",
-            "summary": "据多哥政府统计，4月2日多哥新增3例新冠肺炎确诊病例，累计39例，新增治愈7例，累计治愈17例，累计死亡2例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJUW912Oz8RCYVMGcadUq200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585833970000",
-            "title": "葡萄牙累计确诊新冠肺炎病例9034例",
-            "summary": "截至当地时间4月2日，葡萄牙累计确诊新冠肺炎病例9034例，死亡209例，新增病例783例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti69tKDGeF1rx7bHUCBbwj200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585833684000",
-            "title": "4月2日6时至18时 天津无新增新冠肺炎确诊病例",
-            "summary": "4月2日6时至18时，天津无新增报告境外输入确诊病例，治愈出院5人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAPKLqIH8Ak0rthbQc8ET200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585833302000",
-            "title": "英国新增4244例新冠肺炎确诊病例 累计确诊33718例",
-            "summary": "根据英国卫生与社会保健部消息，截至当地时间4月2日9时，英国新冠肺炎确诊病例达33718例，单日新增4244例；截至当地时间4月1日17时，死亡病例2921例，单日新增569例。（总台记者 陈明磊）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbOdKDckGDSFI8ptmg9M200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585833020000",
-            "title": "​肯尼亚新增29例新冠肺炎确诊病例 累计确诊110例",
-            "summary": "肯尼亚卫生部当地时间4月2日发布消息，称过去24小时内检测了662人，新增29例确诊新冠肺炎确诊病例和2例死亡病例，年龄最小为16岁，最大为64岁。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiTgbDQrAAeqjiUKtT1f5200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585832731000",
-            "title": "科威特新增25例新冠肺炎确诊病例",
-            "summary": "科威特卫生部当地时间2日下午发布通告，确认境内新增25例新型冠状病毒肺炎确诊病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtietjQKCeexExG24VpuFAU200402&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
