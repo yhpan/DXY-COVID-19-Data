@@ -1,5 +1,85 @@
 [
     {
+        "id": 23027,
+        "pubDate": 1585827642000,
+        "title": "​阿尔巴尼亚新增新冠肺炎确诊病例18例  累计确诊277例",
+        "summary": "当地时间4月2日中午，阿尔巴尼亚公共卫生研究所消息，截至到记者发稿时，塞浦路斯新增新冠肺炎确诊病例18例，累计277例，死亡16例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKCN3ZpJRkUI7CZlQevI200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585828332799
+    },
+    {
+        "id": 23009,
+        "pubDate": 1585826382000,
+        "title": "匈牙利新冠肺炎确诊病例增至585例 首位政界官员确诊",
+        "summary": "当地时间4月2日，匈牙利官方新冠肺炎疫情信息网站公布，境内新增新冠肺炎确诊病例60例，累计确诊585例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtictocvPZdiHh6NxlPjErm200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585826997133
+    },
+    {
+        "id": 23001,
+        "pubDate": 1585825559000,
+        "title": "外交部提醒暂勿前往疫情高风险26国",
+        "summary": "外交部提醒暂勿前往疫情高风险26国。当地中国公民遇紧急情况，可联系中国驻当地使领馆寻求领事保护与协助。",
+        "infoSource": "人民日报",
+        "sourceUrl": "http://m.weibo.cn/2803301701/4489340136973058",
+        "provinceId": "",
+        "crawlTime": 1585826936524
+    },
+    {
+        "id": 23010,
+        "pubDate": 1585826220000,
+        "title": "武汉市4月1日新增无症状感染者35例",
+        "summary": "2020年4月1日0时至24时，武汉市新增确诊病例0例，新增出院病例145例，新增死亡病例6例，新增疑似病例0例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqichmUsPybcE4dzvU0i4200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585826815125
+    },
+    {
+        "id": 23002,
+        "pubDate": 1585825774000,
+        "title": "尼泊尔报告第6例新冠肺炎确诊病例",
+        "summary": "4月2日，尼泊尔新增1例新冠肺炎确诊病例，由此尼泊尔累计确诊病例达6例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKHXrDyYhUK16Syob4soN200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585826572652
+    },
+    {
+        "id": 22986,
+        "pubDate": 1585824979000,
+        "title": "​塞内加尔新增5例新冠肺炎确诊病例 累计确诊195例",
+        "summary": "当地时间2日，塞内加尔卫生部发布最新通告称，在127份检测样本中，新增5例确诊病例，其中2名为输入病例，3名为接触病例。此外又有10名患者已经康复。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJeKMqDvRfKE2uM8PZYVF200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585825481967
+    },
+    {
+        "id": 22978,
+        "pubDate": 1585824747000,
+        "title": "​赞比亚新增新冠肺炎确诊病例3例 首次出现1例死亡病例",
+        "summary": "当地时间4月2日，赞比亚卫生部通报，截至当地时间4月2日，赞比亚境内新增3例新冠肺炎确诊病例，累计至39例。此外，赞比亚首次出现了1例新冠肺炎死亡病例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hSoMhG4OHRBayssgnof200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585825481967
+    },
+    {
+        "id": 22976,
+        "pubDate": 1585824402000,
+        "title": "​巴林新增66例新冠肺炎确诊病例 累计635例",
+        "summary": "巴林卫生部当地时间2日下午发布通告，确定境内新增66例新型冠状病毒肺炎确诊病例。至此巴林境内累计已发现635例新型冠状病毒肺炎确诊病例，其中341名患者已经痊愈出院，4名患者病重不治。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGt1s9yG5zdFmze4hrbsr200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585825481967
+    },
+    {
         "id": 22927,
         "pubDate": 1585821169000,
         "title": "美国各州战“疫”进行时：关闭游乐场、颁布居家隔离令……",
