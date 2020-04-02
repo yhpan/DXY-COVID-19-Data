@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1585796627000",
+            "title": "澳大利亚从中国采购90吨医疗物资 澳方感谢中国",
+            "summary": "4月1日，在澳大利亚西澳州卫生部召开的记者会上，福特斯克金属集团（FMG）董事长、明德路基金会主席弗里斯特高兴地宣布，为解决澳大利亚抗击新冠肺炎疫情医疗物资短缺问题，明德路基金会从中国采购的第一批医疗物资从上海启程并于1日晚抵达珀斯。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5P5bRfvLqpEhdPqS9Xq6200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585796170000",
+            "title": "河南4月2日最新通报：无新增新冠肺炎确诊病例 新增境外无症状感染者1例",
+            "summary": "2020年4月1日0时-24时，河南无新增新冠肺炎确诊病例。截至4月1日24时，河南累计报告本地新冠肺炎确诊病例1273例，累计死亡病例22例，累计出院病例1250例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSOzAAm51J6cGc41YzSVQ200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585796128000",
+            "title": "新西兰新增76例新冠肺炎确诊病例 累计确诊723例",
+            "summary": "根据新西兰卫生部门数据，截至当地时间4月2日上午，新西兰新增76例确诊病例。新西兰累计新冠肺炎确诊病例723例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti586D79VpODfAl2BuphAh200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585795492000",
+            "title": "美国新冠肺炎确诊病例破21万例 死亡超5000例",
+            "summary": "据美国约翰·霍普金斯大学实时统计数据显示，截至北京时间2日10时30分，美国新冠肺炎确诊病例增至215417例，累计死亡5116例。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4489214026112056",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585794003000",
             "title": "钟南山谈康复患者是否会有后遗症",
             "summary": "钟南山谈康复患者是否会有后遗症，钟南山院士最新表示，新冠肺炎患者康复后是否有后遗症，到现在为止还很难讲，因为新冠肺炎暴发前后才三个月的时间，还需要密切观察。",
@@ -51,42 +87,6 @@
             "summary": "新疆维吾尔自治区（含新疆生产建设兵团）无新增新冠肺炎确诊病例，已连续44天无新增确诊病例。新疆（含兵团）现有确诊病例0例，正在接受医学观察0人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU1KfYYUnK0vxsHEUUre6200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585791519000",
-            "title": "澳大利亚新增新冠肺炎确诊病例269例 累计4976例",
-            "summary": "据澳大利亚联邦卫生部4月2日最新统计，截至当地时间6时，澳大利亚新冠肺炎感染病例累计4976例，包括21个死亡病例，过去24小时新增269例。新南威尔士州确诊2298例，仍为澳大利亚各州之首。新州警方宣布，预计严禁户外活动的禁令将维持三个月，到6月底结束。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq0CVUtmGk9TUIc4P4G4u200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585788981000",
-            "title": "2020年4月2日广东省新冠肺炎疫情情况",
-            "summary": "全省新增境外输入确诊病例6例，为广州报告6例。全省累计报告境外输入病例154例。",
-            "infoSource": "广东卫健委",
-            "sourceUrl": "http://wsjkw.gd.gov.cn/xxgzbdfk/yqtb/content/post_2963648.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585786125000",
-            "title": "中国赴意大利抗疫医疗专家组为华人华侨举办防疫讲座",
-            "summary": "中国赴意大利抗疫医疗专家组为华人华侨举办防疫讲座\n当地时间4月1日，中国赴意大利抗疫医疗专家组在普拉托举办首场新冠肺炎防疫线上讲座。当天讲座的主题是“海外华人如何抗疫”以及“新冠肺炎病人的流行病学特征”，由医疗专家组组长，福建省立医院金山医院副院长郭延松和福建省疾控中心专家吴生根分别主讲，吸引了大量在意华人华侨、留学生和中资机构人员在线参与。专家组在直播中还解答了各类问题和疑惑。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiO1Adu99L6MVv2eOr3wO200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585785600000",
-            "title": "2020年4月1日广西新型冠状病毒肺炎疫情情况",
-            "summary": "4月1日0至24时，我区无新增确诊、疑似病例，无新增死亡病例。2例境外输入确诊病例治愈出院。全区累计报告确诊病例254例，治愈出院252例，死亡2例。本日无新增无症状感染者，现有无症状感染者3例，其中境外输入2例，湖北来桂人员1例。现有密切接触者149人，均在集中隔离医学观察中。    ",
-            "infoSource": "广西卫健委",
-            "sourceUrl": "http://wsjkw.gxzf.gov.cn/zhuantiqu/ncov/ncovyqtb/2020/0402/70905.html",
             "province": null,
             "provinceId": ""
         }

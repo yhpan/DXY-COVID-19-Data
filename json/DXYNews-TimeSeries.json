@@ -1,5 +1,45 @@
 [
     {
+        "id": 22682,
+        "pubDate": 1585796627000,
+        "title": "澳大利亚从中国采购90吨医疗物资 澳方感谢中国",
+        "summary": "4月1日，在澳大利亚西澳州卫生部召开的记者会上，福特斯克金属集团（FMG）董事长、明德路基金会主席弗里斯特高兴地宣布，为解决澳大利亚抗击新冠肺炎疫情医疗物资短缺问题，明德路基金会从中国采购的第一批医疗物资从上海启程并于1日晚抵达珀斯。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5P5bRfvLqpEhdPqS9Xq6200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585797010616
+    },
+    {
+        "id": 22681,
+        "pubDate": 1585796128000,
+        "title": "新西兰新增76例新冠肺炎确诊病例 累计确诊723例",
+        "summary": "根据新西兰卫生部门数据，截至当地时间4月2日上午，新西兰新增76例确诊病例。新西兰累计新冠肺炎确诊病例723例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti586D79VpODfAl2BuphAh200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585796828249
+    },
+    {
+        "id": 22680,
+        "pubDate": 1585796170000,
+        "title": "河南4月2日最新通报：无新增新冠肺炎确诊病例 新增境外无症状感染者1例",
+        "summary": "2020年4月1日0时-24时，河南无新增新冠肺炎确诊病例。截至4月1日24时，河南累计报告本地新冠肺炎确诊病例1273例，累计死亡病例22例，累计出院病例1250例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSOzAAm51J6cGc41YzSVQ200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585796767660
+    },
+    {
+        "id": 22675,
+        "pubDate": 1585795492000,
+        "title": "美国新冠肺炎确诊病例破21万例 死亡超5000例",
+        "summary": "据美国约翰·霍普金斯大学实时统计数据显示，截至北京时间2日10时30分，美国新冠肺炎确诊病例增至215417例，累计死亡5116例。",
+        "infoSource": "人民日报海外版",
+        "sourceUrl": "http://m.weibo.cn/3057540037/4489214026112056",
+        "provinceId": "",
+        "crawlTime": 1585796524576
+    },
+    {
         "id": 22656,
         "pubDate": 1585794003000,
         "title": "钟南山谈康复患者是否会有后遗症",
