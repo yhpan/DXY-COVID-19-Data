@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1585811200000",
+            "title": "​以色列新增新冠肺炎确诊病例119例  累计6211例",
+            "summary": "当地时间4月2日早晨，以色列卫生部公布的最新疫情通报显示，在过去的一夜之间（4月1日晚22时至4月2日早9时），该国新增新冠肺炎确诊病例119例，累计6211例；新增死亡4例，死亡累计30例；107人病情危重，其中83人已插管。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOegsHkbIAehg25sfN6q8200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585810700000",
+            "title": "湖北4月1日新增新冠肺炎确诊病例0例 新增无症状感染者37例",
+            "summary": "22020年4月1日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。湖北省新增病亡6例，其中：武汉市6例，其他16个市州均为0例。新增出院145例，其中：武汉市145例，其他16个市州均为0例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti69Gwo8Ur4Y4RYtxo0YjF200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585810307000",
+            "title": "​格鲁吉亚新冠肺炎累计确诊130例 国家紧急状态持续至4月21日",
+            "summary": "当地时间4月2日上午，格鲁吉亚政府疫情监测平台公布消息，格鲁吉亚境内累计确诊新冠肺炎病例130例，其中治愈26例。目前，共有5437人接受隔离，260人处于医学观察。因疫情发展，格政府已宣布国家紧急状态持续至4月21日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMDli5UShrmr4MOgbjwuc200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585810279000",
+            "title": "吉尔吉斯斯坦新增5例新冠肺炎确诊病例 累计确诊116例",
+            "summary": "2日，吉尔吉斯斯坦卫生部发布消息称，截至当地时间11时，过去24小时内吉新增5例新冠肺炎确诊病例，累计确诊116例。此外，乌内务部2日宣布，1日当天全国共拘留上千名违反宵禁命令的居民，乌政府再次呼吁，无特殊需求，所有人都要待在家中，外出的公民必须有政府发放的通行证。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuSepmrGSgLnAKWnWjPwu200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585810074000",
+            "title": "韩国出现首位因感染新冠病毒死亡的医务工作者",
+            "summary": "2日，韩国一名感染新冠病毒的医生不治身亡，成为韩国首位感染新冠病毒死亡的医务工作者。据了解，这位现年59岁的医生在门诊时与确诊患者接触而在3月19日确诊感染了新冠病毒，之后在庆北大学医院住院接受治疗；4月1日因心肌梗塞而接受了心脏支架手术，但在2日还是由于心肌梗塞而死亡。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijnlm0ueoHqfyIn0QwX8I200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585809295000",
             "title": "湖南首例境外输入确诊病例详情披露  系一男性英国留学生",
             "summary": "记者从湖南郴州新冠肺炎疫情应急处置指挥部获悉，2020年4月1日0-24时，郴州市报告新冠肺炎新增确诊病例1例，为境外输入。目前患者正在定点医院隔离治疗，病情稳定。",
@@ -42,51 +87,6 @@
             "summary": "近日印度新冠肺炎确诊病例呈快速上升趋势。据印度卫生部官方网站公布的最新数据，截至当地时间2日上午9点（北京时间2日11点30分），印度境内累计确诊病例已达1968例，其中死亡50例，治愈出院150例。据统计数据显示，过去24小时印度境内出现死亡病例12例，创疫情暴发以来单日死亡病例新高。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93PQ271phZrlsronFpUC200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585807661000",
-            "title": "胡钦勇的战“疫”：我更加理解了人生的价值",
-            "summary": "在抗击新冠肺炎疫情的战斗中，湖北省政协委员、武汉大学人民医院院长助理兼汉南区人民医院院长胡钦勇临危受命，担任武汉体育中心方舱医院执行院长。从2月12日开舱到3月8日休舱，胡钦勇统筹带队的武汉体育中心方舱医院累计收治患者1056人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTar7tmtBdw8nqQSlktu200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585807337000",
-            "title": "不如实申报健康情况 多人被海关行政立案并列入失信黑名单",
-            "summary": "昨天（4月1日），海关总署对外通报近期查获的三起不如实填报健康申明卡的妨害国境卫生检疫行政违法案件。海关表示，不如实申报不仅面临行政处罚，甚至将移送司法机关追究刑事责任。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8n96RcF8BqktGqKf3jHk200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585806977000",
-            "title": "泰国新增104例新冠肺炎确诊病例  累计确诊1875例",
-            "summary": "4月2日，泰国卫生部在疫情例行发布会上透露，泰国新增104例新冠肺炎确诊病例，截止到目前，泰国累计确诊病例1875例，其中15例死亡，治愈505例，留院治疗1355例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBXyGXIyqM0ErvVb31IWs200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585806388000",
-            "title": "医用口罩、防护服......中国政府援助俄罗斯抗疫物资离京赴俄",
-            "summary": "\n北京时间1日晚间，中国政府援助俄罗斯的抗疫物资离开北京前往俄罗斯莫斯科。为帮助俄罗斯政府应对新冠肺炎疫情，中国政府同意向俄罗斯政府援助抗疫物资，并负责将物资运至中国北京首都国际机场。运输物资的俄方安124客机北京时间23时01分起飞离开首都机场前往俄罗斯。预计当地时间2日货机将抵达莫斯科。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibyLCWowmt84jd7if3Tak200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585806253000",
-            "title": "巴基斯坦总理称赞中国在抗击疫情中为巴方提供的帮助",
-            "summary": "巴基斯坦总理伊姆兰·汗4月1日表示，中国刚一控制住国内的新冠肺炎疫情，就优先向巴基斯坦提供了医疗援助。他对中国向巴基斯坦及时提供医疗援助和医疗物资、帮助巴基斯坦控制疫情的做法表示赞赏和感谢。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYJrc7UuGPQ4xJ95GUqKc200402&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
