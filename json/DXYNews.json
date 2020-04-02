@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585868499000",
+            "title": "伊朗议长确诊新冠肺炎",
+            "summary": "据伊朗当地媒体4月2日报道，伊朗议长阿里·拉里贾尼在出现一些症状后进行了新冠病毒检测，结果呈阳性。报道称，他目前已在家中隔离并接受治疗。",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4489520240295599",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585867041000",
+            "title": "​巴西新冠肺炎确诊病例达7910例 逾2.5万份重病患者的样本亟待检测",
+            "summary": "截至当地时间4月2日14时，巴西全国共确诊新冠肺炎病例7910例，比昨日新增1074例，全国累计死亡病例299例，死亡率为3.8%。巴西卫生部长曼德塔表示，由于新冠病毒检测试剂和检测机构不足，因此巴西实际的新冠肺炎感染人数远高于卫生部每天发布的统计数字。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7n4KxDdze195gCP16c0F200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585866592000",
             "title": "早啊！新闻来了〔2020.04.03〕",
             "summary": "东京奥运会决定延期至2021年7月23日开幕后，奥运圣火未来一段时间将保存在日本，等待奥运圣火传递活动重启。\n● 4月8日至9日湖北部分旅客列车恢复开行",
@@ -69,24 +87,6 @@
             "summary": "当地时间4月2日晚，土耳其卫生部宣布，土耳其当天进行了18757次新冠病毒检测，其中2456人检测结果呈阳性。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirzYFgkMdnJfW4TvarsHj200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585845502000",
-            "title": "希腊新增169例新冠肺炎确诊病例 累计1584例",
-            "summary": "希腊当地时间4月2日，希腊卫生部发言人在新闻发布会上表示，希腊新增169例新冠肺炎病例，累计1584例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1NdGdUHK9OUMhCNg4uTz200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585845466000",
-            "title": "​丹麦新增279例新冠肺炎确诊病例 累计3386例",
-            "summary": "当地时间4月2日，丹麦广播电视台报道，当日丹麦新增279例新冠肺炎确诊病例，全国累计3386例。当日累计死亡19例，累计死亡病例123例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5myYuVyqHkTYteEgeHID200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
