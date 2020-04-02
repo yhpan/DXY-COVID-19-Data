@@ -1,5 +1,225 @@
 [
     {
+        "id": 22927,
+        "pubDate": 1585821169000,
+        "title": "美国各州战“疫”进行时：关闭游乐场、颁布居家隔离令……",
+        "summary": "4月1日，美国疫情严重的纽约等多地采取关闭游乐场、颁布居家隔离令等更加严格的措施，阻止疫情进一步蔓延。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaxBBFkHozOw98R6LXCpD200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585823298461
+    },
+    {
+        "id": 22941,
+        "pubDate": 1585822534000,
+        "title": "G20贸易部长应对新冠肺炎特别会议发表声明",
+        "summary": "近日，G20举行贸易部长应对新冠肺炎特别会议，会议发表了《G20贸易部长应对新冠肺炎特别会议声明》。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1JqeibwSc2VhRpvHQlEC200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585823237845
+    },
+    {
+        "id": 22934,
+        "pubDate": 1585821879000,
+        "title": "​阿曼卫生大臣：本国新冠肺炎治愈病例累计达57例",
+        "summary": "据阿曼官方通讯社报道，当地时间4月2日，阿曼卫生大臣艾哈迈德·本·穆罕默德·赛义迪向外界表示，阿曼新增16例新冠肺炎治愈病例，由此该国治愈病例累计达到57例，治愈率为26.2%。\n当天早些时候，阿曼卫生部曾公布该国新增21例新冠肺炎确诊病例和7例治愈病例。截至目前，阿曼确诊新冠肺炎病例总数为231例，其中已经治愈57例，死亡1例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0tDaGvjUYS4HJV3hPqe200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585822752424
+    },
+    {
+        "id": 22925,
+        "pubDate": 1585821426000,
+        "title": "比利时新增新冠肺炎确诊病例1384例 累计确诊15348例",
+        "summary": "据比利时官方媒体当地时间4月2日上午报道，在过去24小时内，比利时境内新增新冠肺炎确诊病例1384例，新增死亡病例183例。截至目前，该国累计确诊病例15348例，累计死亡1011例，1114名病患正在接受重症监护。 ",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz6cimVOPCLcup48fvMkT200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585822691700
+    },
+    {
+        "id": 22935,
+        "pubDate": 1585821877000,
+        "title": "亚美尼亚新增新冠肺炎确诊病例92例 累计确诊663例",
+        "summary": "当地时间4月2日11点，亚美尼亚疫情防控统一信息平台公布消息，亚美尼亚境内当日新增确诊新冠肺炎病例92例，累计确诊病例663例，累计治愈33例，死亡4例。为防止疫情升级，自3月16日至4月14日，亚美尼亚进入全国紧急状态。除铁路交通和出租车外，包括地铁在内的公共交通停运。(总台记者 宋一平）\n关注更多权威信息戳链接↓↓↓\nH5丨新冠肺炎疫情实时更新",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigfwn9FKEX8bp3B9uANJP200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585822570424
+    },
+    {
+        "id": 22929,
+        "pubDate": 1585821693000,
+        "title": "印尼新增新冠肺炎确诊病例113例 累计1790例",
+        "summary": "4月2日，印尼卫生部宣布，新增113例新冠肺炎确诊病例，全国累计确诊病例1790人，含170例死亡病例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidmh3ubjHDEsSV9xZ0JnA200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585822570424
+    },
+    {
+        "id": 22916,
+        "pubDate": 1585821035000,
+        "title": "黎巴嫩新增新冠肺炎确诊病例15例 累计494例",
+        "summary": "黎巴嫩卫生部官网公布，截至2日中午，新冠肺炎确诊总人数为494人，较昨日增加15人。根据卫生部所公布的数字，近几天又有6名患者被治愈，治愈总人数已达43人，目前死亡病例上升至16例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKt4Xi9stm2Seeeo9CoVV200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22917,
+        "pubDate": 1585820949000,
+        "title": "​伊朗新增新冠肺炎确诊病例2875例 累计50468例",
+        "summary": "根据伊朗卫生部最新消息，当地时间2日，伊朗新增新冠肺炎确诊病例2875例，新增死亡124例。截至当天中午，伊朗累计确诊新冠肺炎病例50468例，其中16711例康复，3160例死亡。(总台记者 李健南 倪紫慧)",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOzPOmfZOV7WlE0nt5Lwp200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22914,
+        "pubDate": 1585820760000,
+        "title": "西班牙新增新冠肺炎确诊病例8102例 累计110238例",
+        "summary": "当地时间2日据西班牙卫生部官网通报，过去24小时，该国新增 8102例新冠肺炎确诊病例，累计确诊110238例；累计死亡10003例，24小时新增死亡950例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilWIwPrzBDVuzDoCJXATq200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22902,
+        "pubDate": 1585819463000,
+        "title": "文莱新增2例新冠肺炎确诊病例 累计确诊133例",
+        "summary": "当地时间2日，文莱政府宣布新增2例新冠肺炎确诊病例，累计确诊133例。文莱卫生部长伊桑说，截至2日下午5时，共有4人获准出院回家，累计治愈病例56例。当地死亡病例则维持1例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7XG73o3vYrJF7QFjfBq5200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22903,
+        "pubDate": 1585819411000,
+        "title": "马来西亚新增208例新冠肺炎确诊病例 累计3116例",
+        "summary": "当地时间2日，马来西亚宣布新增208例新冠肺炎确诊病例，累计确诊3116例；新增死亡病例5例，累计死亡50例。 马来西亚卫生总监努尔·希萨姆·阿卜杜拉介绍说，今日（2日）共有122人治愈出院，累计治愈病例767例。截至目前，共有105名患者被收治在特护病房，其中54人必须依赖呼吸机辅助治疗。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilWJYVBvE1Mf0sIZxcUZg200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22895,
+        "pubDate": 1585819006000,
+        "title": "马来西亚宣布对所有入境者实施14天隔离医学观察",
+        "summary": "当地时间2日下午，马来西亚宣布所有入境者都将被带往隔离中心进行为期14天的隔离医学观察。马来西亚国防部高级部长伊斯迈沙比里说，上述措施适用于马来西亚的所有陆海空入境口岸。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTPFyuO3NPGn9sfxwWJHE200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22893,
+        "pubDate": 1585818778000,
+        "title": "保加利亚新增新冠肺炎确诊病例37例 累计确诊449例",
+        "summary": "当地时间4月2日，据索非亚新闻社消息，截止到当地时间11时30分，在过去的24小时内，保加利亚新增新冠肺炎确诊病例37例，累计确诊449例。此前一天（当地时间4月1日），为了控制新冠疫情在保加利亚的蔓延，保加利亚政府决定将全国紧急状态延长至5月31日。此前，保加利亚政府在3月13日宣布进入紧急状态，以控制新冠肺炎疫情在该国的扩散。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6k7ErBOFdYAbDT4hHru200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22884,
+        "pubDate": 1585818456000,
+        "title": "菲律宾新增322例新冠肺炎确诊病例 累计2633例",
+        "summary": "菲律宾卫生部发布公告称，截至2日下午4点，菲律宾当天共计新增322例新冠肺炎确诊病例，确诊病例累计达2633例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEGIkMR8b5pgtBumP0J6X200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22878,
+        "pubDate": 1585818218000,
+        "title": "严控新冠疫情 ​塞浦路斯航空禁飞令继续延长14天",
+        "summary": "当地时间4月2日，塞浦路斯运输部长亚尼斯·卡鲁索斯（Yiannis Karousos）在其社交媒体上发文表示表示，考虑到目前塞浦路斯国内及欧洲其他国家的新冠肺炎疫情仍较为严峻，决定将原计划于4月4日结束的航空禁飞令继续延长14天。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJh5ziK4OHsUVVV4hRnzM200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22873,
+        "pubDate": 1585817929000,
+        "title": "北京实施分时预约 祭扫人员同比下降90%",
+        "summary": "从3月21日开始，在严格落实疫情防控前提下，北京市各扫墓点有序开放祭扫活动，通过提前预约、分时入园、身份核验、人流疏导等措施，实现祭扫活动安全平稳有序。据北京市民政局二级巡视员李全喜介绍，从3月21日至4月1日，12天时间，北京全市各殡葬服务机构已累计接待43.3万祭扫群众，日均接待量为3.6万人，与去年同期相比祭扫人员下降了90%。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihN0hH8p7ExC4AO22wTWP200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22864,
+        "pubDate": 1585817332000,
+        "title": "泰国总理下令延缓入境政策",
+        "summary": "当地时间4月2日下午12:30，泰国政府大楼召开新冠肺炎疫情管理中心例行发布会，管理中心发言人Taweesil Wissanuayothin博士透露，考虑到新增确诊病例及死亡人数的增加，泰国总理巴育已下令采取延缓泰国公民及外籍人士入境政策，以减缓境外输入病例的情况，泰国外交部将处理进一步事宜。\n",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikiJb3Jiwj7QMfT2sUszY200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22866,
+        "pubDate": 1585817133000,
+        "title": "​摩洛哥新增22例新冠肺炎确诊病例 累计676例",
+        "summary": "摩洛哥卫生部4月2日上午8时证实，该国当天新增22例新冠肺炎确诊病例。截至发稿时，摩洛哥共确诊新冠肺炎病例676例，累计死亡39人，治愈29人。从疫情开始至今，摩洛哥共有2726人病毒测试呈阴性。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil6zmaWlhx4FrgVzzIBhc200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22867,
+        "pubDate": 1585817109000,
+        "title": "香港新增37例新冠肺炎确诊病例 累计802例",
+        "summary": "来自香港特区政府的最新消息，截至4月2日16点35分，香港新增37例新冠肺炎确诊病例，其中30例患者曾赴境外旅游，其中包括一名年仅2岁的儿童。至此，香港累计确诊病例增至802例。治愈患者达147例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHpFRojZ9AQlCOKO6WH0c200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22858,
+        "pubDate": 1585816349000,
+        "title": "希腊旅游胜地米克诺斯岛出现首例新冠肺炎确诊病例",
+        "summary": "希腊当地时间4月2日，据希腊每日报消息，希腊旅游度假圣地米克诺斯岛出现首例新冠肺炎确诊病例。该确诊病例为一名69岁的女性，大约在10天前出现呼吸道不适症状，几天前因为症状加重就医，4月1日下午接受了新冠肺炎病毒测试，结果呈阳性。目前她已经入院进入隔离病房治疗。该名患者自述近期无境外旅游史，也未曾与出现新冠肺炎症状的人接触，目前她的病因尚不清楚。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii923eyewX7jEgqId7QnH200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22854,
+        "pubDate": 1585816091000,
+        "title": "澳大利亚新增新冠肺炎确诊病例273例 累计5133例",
+        "summary": "据澳大利亚联邦卫生部最新统计，截至当地时间2日下午15时，澳大利亚确诊新冠肺炎病例累计5133例。过去24小时，新增确诊病例273例；新增死亡病例3例，全国累计死亡病例23例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRis01fMxskbK4IuoReQV200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
+        "id": 22847,
+        "pubDate": 1585814906000,
+        "title": "俄罗斯新增771例新冠肺炎确诊病例 累计确诊3548例",
+        "summary": "据俄罗斯新冠病毒防疫官网消息，截至4月2日，俄罗斯境内共确诊新冠肺炎感染病例3548例，单日新增771例。累计治愈病例共235例，死亡30例",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGEEuPX29SbyrtOjVL4aP200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585821781406
+    },
+    {
         "id": 22797,
         "pubDate": 1585811200000,
         "title": "​以色列新增新冠肺炎确诊病例119例  累计6211例",
