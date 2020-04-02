@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1585830242000",
+            "title": "斯洛伐克新增26例新冠肺炎确诊病例 累计确诊426例",
+            "summary": "当地时间4月2日，斯洛伐克卫生部长克拉伊奇通报称，4月1日境内新增新冠肺炎确诊病例26例，累计确诊426例，其中包括3例治愈病例和1例死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8QPyvtzOYnrr0AIMnxpj200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585830218000",
+            "title": "中国以外累计确诊超86万例",
+            "summary": "截至北京时间4月2日17时，除中国外，203个国家和地区累计确诊862272例，钻石公主号邮轮712例，累计死亡44200例。\n",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4489359677780852",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585828200000",
+            "title": "喀麦隆新增51例新冠肺炎确诊病例 累计284例",
+            "summary": "当地时间4月2日，根据喀麦隆国家电视台（CRTV）的报道，该国24小时内共新增51例新冠肺炎确诊病例。截至2日中午，喀麦隆累计确诊新冠肺炎病例284例，其中7例死亡，10例治愈。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigR8vfJOLj6yZBSoGcAd3200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585828140000",
+            "title": "越南新增新冠肺炎确诊病例5例 累计227例",
+            "summary": "据越南卫生部4月2日晚间最新消息，越南新增5例新冠肺炎确诊病例，该国确诊病例已增至227例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKvm8NJdsnBmGY3tBEmXs200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585827642000",
             "title": "​阿尔巴尼亚新增新冠肺炎确诊病例18例  累计确诊277例",
             "summary": "当地时间4月2日中午，阿尔巴尼亚公共卫生研究所消息，截至到记者发稿时，塞浦路斯新增新冠肺炎确诊病例18例，累计277例，死亡16例。",
@@ -51,42 +87,6 @@
             "summary": "当地时间2日，塞内加尔卫生部发布最新通告称，在127份检测样本中，新增5例确诊病例，其中2名为输入病例，3名为接触病例。此外又有10名患者已经康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJeKMqDvRfKE2uM8PZYVF200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585824747000",
-            "title": "​赞比亚新增新冠肺炎确诊病例3例 首次出现1例死亡病例",
-            "summary": "当地时间4月2日，赞比亚卫生部通报，截至当地时间4月2日，赞比亚境内新增3例新冠肺炎确诊病例，累计至39例。此外，赞比亚首次出现了1例新冠肺炎死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hSoMhG4OHRBayssgnof200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585824402000",
-            "title": "​巴林新增66例新冠肺炎确诊病例 累计635例",
-            "summary": "巴林卫生部当地时间2日下午发布通告，确定境内新增66例新型冠状病毒肺炎确诊病例。至此巴林境内累计已发现635例新型冠状病毒肺炎确诊病例，其中341名患者已经痊愈出院，4名患者病重不治。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGt1s9yG5zdFmze4hrbsr200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585822534000",
-            "title": "G20贸易部长应对新冠肺炎特别会议发表声明",
-            "summary": "近日，G20举行贸易部长应对新冠肺炎特别会议，会议发表了《G20贸易部长应对新冠肺炎特别会议声明》。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1JqeibwSc2VhRpvHQlEC200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585821879000",
-            "title": "​阿曼卫生大臣：本国新冠肺炎治愈病例累计达57例",
-            "summary": "据阿曼官方通讯社报道，当地时间4月2日，阿曼卫生大臣艾哈迈德·本·穆罕默德·赛义迪向外界表示，阿曼新增16例新冠肺炎治愈病例，由此该国治愈病例累计达到57例，治愈率为26.2%。\n当天早些时候，阿曼卫生部曾公布该国新增21例新冠肺炎确诊病例和7例治愈病例。截至目前，阿曼确诊新冠肺炎病例总数为231例，其中已经治愈57例，死亡1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic0tDaGvjUYS4HJV3hPqe200402&isfromapp=1",
             "province": null,
             "provinceId": ""
         }

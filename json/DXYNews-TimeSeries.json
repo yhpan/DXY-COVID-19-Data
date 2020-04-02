@@ -1,5 +1,45 @@
 [
     {
+        "id": 23075,
+        "pubDate": 1585830242000,
+        "title": "斯洛伐克新增26例新冠肺炎确诊病例 累计确诊426例",
+        "summary": "当地时间4月2日，斯洛伐克卫生部长克拉伊奇通报称，4月1日境内新增新冠肺炎确诊病例26例，累计确诊426例，其中包括3例治愈病例和1例死亡病例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8QPyvtzOYnrr0AIMnxpj200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585831004298
+    },
+    {
+        "id": 23074,
+        "pubDate": 1585830218000,
+        "title": "中国以外累计确诊超86万例",
+        "summary": "截至北京时间4月2日17时，除中国外，203个国家和地区累计确诊862272例，钻石公主号邮轮712例，累计死亡44200例。\n",
+        "infoSource": "人民日报",
+        "sourceUrl": "http://m.weibo.cn/2803301701/4489359677780852",
+        "provinceId": "",
+        "crawlTime": 1585830580280
+    },
+    {
+        "id": 23046,
+        "pubDate": 1585828200000,
+        "title": "喀麦隆新增51例新冠肺炎确诊病例 累计284例",
+        "summary": "当地时间4月2日，根据喀麦隆国家电视台（CRTV）的报道，该国24小时内共新增51例新冠肺炎确诊病例。截至2日中午，喀麦隆累计确诊新冠肺炎病例284例，其中7例死亡，10例治愈。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigR8vfJOLj6yZBSoGcAd3200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585829004030
+    },
+    {
+        "id": 23040,
+        "pubDate": 1585828140000,
+        "title": "越南新增新冠肺炎确诊病例5例 累计227例",
+        "summary": "据越南卫生部4月2日晚间最新消息，越南新增5例新冠肺炎确诊病例，该国确诊病例已增至227例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKvm8NJdsnBmGY3tBEmXs200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585828636378
+    },
+    {
         "id": 23027,
         "pubDate": 1585827642000,
         "title": "​阿尔巴尼亚新增新冠肺炎确诊病例18例  累计确诊277例",
