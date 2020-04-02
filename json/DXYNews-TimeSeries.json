@@ -1,5 +1,45 @@
 [
     {
+        "id": 23211,
+        "pubDate": 1585838176000,
+        "title": "缅甸新增4例新冠肺炎确诊病例 均为此前确诊病例亲属",
+        "summary": "据缅甸卫生部4月2日晚发布的消息，缅甸新增4例新冠肺炎确诊病例，累计确诊20例。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5s85xwAl6WuxAv7lxJyK200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585839069219
+    },
+    {
+        "id": 23212,
+        "pubDate": 1585838103000,
+        "title": "印度新冠肺炎确诊病例升至2069例",
+        "summary": "印度卫生部官网最新数据显示，截至当地时间4月2日下午6时（北京时间20:30），印度新冠肺炎确诊病例达到2069人，其中死亡53人，治愈出院156人。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ3jkMIHmKUi9HGbaBQMi200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585839008565
+    },
+    {
+        "id": 23158,
+        "pubDate": 1585834872000,
+        "title": "布基纳法索新增6例新冠肺炎确诊病例 累计确诊288例",
+        "summary": "据布基纳法索卫生部统计，4月1日，布基纳法索新增新冠肺炎确诊病例6例，累计288例（192名男性，96名女性）。当天新增4例治愈，累计治愈50例；当天无新增死亡，累计死亡16例。 ",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitguYC2xL29VFRfbolCdk200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585836948710
+    },
+    {
+        "id": 23174,
+        "pubDate": 1585835712000,
+        "title": "新加坡新增新冠肺炎确诊病例49例",
+        "summary": "4月1日，新加坡卫生部宣布，截至当天中午12时，新加坡新增49例新冠肺炎病例。新增病例中，有8例是输病例，41起为社区感染病例，新加坡总感染人数上升至1049人，治愈出院266人。",
+        "infoSource": "央视新闻app",
+        "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiub0HvQp2DlOKl5xl1dVT200402&isfromapp=1",
+        "provinceId": "",
+        "crawlTime": 1585836888199
+    },
+    {
         "id": 23146,
         "pubDate": 1585834451000,
         "title": "​多哥累计确诊39例 宣布全国进入紧急状态",

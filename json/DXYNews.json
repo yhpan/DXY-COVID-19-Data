@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1585838176000",
+            "title": "缅甸新增4例新冠肺炎确诊病例 均为此前确诊病例亲属",
+            "summary": "据缅甸卫生部4月2日晚发布的消息，缅甸新增4例新冠肺炎确诊病例，累计确诊20例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5s85xwAl6WuxAv7lxJyK200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585838103000",
+            "title": "印度新冠肺炎确诊病例升至2069例",
+            "summary": "印度卫生部官网最新数据显示，截至当地时间4月2日下午6时（北京时间20:30），印度新冠肺炎确诊病例达到2069人，其中死亡53人，治愈出院156人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ3jkMIHmKUi9HGbaBQMi200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585835712000",
+            "title": "新加坡新增新冠肺炎确诊病例49例",
+            "summary": "4月1日，新加坡卫生部宣布，截至当天中午12时，新加坡新增49例新冠肺炎病例。新增病例中，有8例是输病例，41起为社区感染病例，新加坡总感染人数上升至1049人，治愈出院266人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiub0HvQp2DlOKl5xl1dVT200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585834872000",
+            "title": "布基纳法索新增6例新冠肺炎确诊病例 累计确诊288例",
+            "summary": "据布基纳法索卫生部统计，4月1日，布基纳法索新增新冠肺炎确诊病例6例，累计288例（192名男性，96名女性）。当天新增4例治愈，累计治愈50例；当天无新增死亡，累计死亡16例。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitguYC2xL29VFRfbolCdk200402&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585834451000",
             "title": "​多哥累计确诊39例 宣布全国进入紧急状态",
             "summary": "据多哥政府统计，4月2日多哥新增3例新冠肺炎确诊病例，累计39例，新增治愈7例，累计治愈17例，累计死亡2例。",
@@ -51,42 +87,6 @@
             "summary": "科威特卫生部当地时间2日下午发布通告，确认境内新增25例新型冠状病毒肺炎确诊病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtietjQKCeexExG24VpuFAU200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585831991000",
-            "title": "吉布提新增7例新冠肺炎确诊病例 累计确诊40例",
-            "summary": "当地时间4月2日，吉布提卫生部发布公告，新增7例新冠肺炎确诊病例，其中6例为接触病例、1例为新病例，同时首次宣布2例患者痊愈。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinU1whhZ3mn66HciywOkl200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585831895000",
-            "title": "​意大利因新冠肺炎去世医生达69人 超1万名医护感染",
-            "summary": "2日，意大利外科和牙科医生联合会发布公告称，该国自疫情暴发以来因感染新冠肺炎而去世的医生达69人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFD6494JtNmEWSunQf4x200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585831748000",
-            "title": "沙特新增165例新冠肺炎确诊病例 新增5例死亡病例",
-            "summary": "沙特卫生部发言人当地时间2日下午向外界透露，沙特境内过去24小时新增165例新型冠状病毒肺炎确诊病例，同时新增5例新冠肺炎死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2aG099ecpnVliO2Zcqe200402&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585831623000",
-            "title": "甘肃4月2日通报：无新增新冠肺炎确诊病例 累计治愈出院35例",
-            "summary": "4月1日20时至4月2日20时，伊朗包机来甘311人中，共计确诊37例，累计治愈出院35例，现有2例在甘肃省级定点医院隔离治疗。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNEAXczXOvfAqUNITSM5W200402&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
