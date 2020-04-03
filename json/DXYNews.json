@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1585914355000",
+            "title": "德国总理默克尔解除居家隔离",
+            "summary": "德国联邦政府发言人当地时间4月3日透露，德国总理默克尔当天已结束两周的居家隔离返回总理府办公。此前，默克尔因接触过一名确诊感染新冠病毒的医生而从3月22日晚间开始进行居家隔离。期间，她的三次新冠病毒测试结果均呈阴性，显示其并未感染。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2jxAy182LWJI8P5kTyhA200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585913639000",
             "title": "瑞士和列支敦士登新冠肺炎确诊病例达19303例 专家：尚未达到峰值",
             "summary": "截至当地时间4月2日，根据瑞士联邦公共卫生部最新数据，瑞士和列支敦士登共确诊新冠肺炎感染病例19303例，累计死亡484例。",
@@ -78,15 +87,6 @@
             "summary": "科威特卫生部当地时间3日上午发布通告，确认境内新增75例新型冠状病毒肺炎确诊病例。通告显示，新增病例中7例为输入病例，其中5名科威特公民近期曾赴英国旅行，1名科威特公民近期曾赴伊朗旅行，已经在科威特常住的伊拉克公民近期从伊拉克返回科威特后被确诊；36例为本地感染病例，其中包括4名科威特公民、26名印度公民、3名孟加拉国公民和3名埃及公民；另有32名患者的感染途径仍在调查中．",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsTVw6r9sjkOFtMnIqcw200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585900005000",
-            "title": "俄罗斯新增601例新冠肺炎确诊病例 累计确诊4149例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间4月3日10时30分，俄罗斯境内新增601例新冠肺炎感染病例，累计确诊4149例。此外共累计治愈病例281例，死亡34例。另据俄联邦消费者权益保护和公益监督局消息，全俄目前已进行了近57万次病毒核酸检测，目前全境有20余万人在进行医学隔离观察。为了防止新冠肺炎疫情的进一步扩散，俄罗斯总统普京2日宣布全俄罗斯将延长带薪休假至4月30日。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilxuV38OcC6usbs2Br4VY200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
