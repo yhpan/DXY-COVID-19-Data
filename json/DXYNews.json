@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1585921013000",
+            "title": "吉布提新增9例新冠肺炎确诊病例 累计49例",
+            "summary": "当地时间4月3日，吉布提卫生部发布公告，吉布提新增9例新冠肺炎确诊病例，其中3例为接触病例，6例为新病例，同时宣布当天有6例患者痊愈。目前吉布提累计确诊病例49例，治愈8例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9tEWZyS3XY7ZKYJkCgGv200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585920824000",
+            "title": "英国新冠肺炎确诊病例达38168例",
+            "summary": "根据英国卫生与社会保健部消息，截至当地时间4月3日上午9点，英国新冠肺炎确诊病例达38168例，单日新增4450例；截至当地时间4月2日下午5点，死亡病例3605例，单日新增684例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiop4h6l85xW4DFNyzXqby200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585920796000",
+            "title": "肯尼亚新增12例新冠肺炎确诊病例 累计122例",
+            "summary": "肯尼亚卫生部于当地时间4月3日发表消息称，肯尼亚新增12例新冠肺炎确诊病例，目前肯尼亚累计确诊数从110例上升为122例，累计3例死亡，4例康复，现存病例为115例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAoCvzNRZhbHJakRA3KU200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585914355000",
             "title": "德国总理默克尔解除居家隔离",
             "summary": "德国联邦政府发言人当地时间4月3日透露，德国总理默克尔当天已结束两周的居家隔离返回总理府办公。此前，默克尔因接触过一名确诊感染新冠病毒的医生而从3月22日晚间开始进行居家隔离。期间，她的三次新冠病毒测试结果均呈阴性，显示其并未感染。",
@@ -60,33 +87,6 @@
             "summary": "马来西亚首个方舱医院于近期改建完成，3日向媒体开放。该医院全称为“低风险新冠肺炎隔离与医疗中心”，由雪兰莪州沙登农业展览馆改建而成。其中共有604个床位，根据安全等级分为红区、黄区和绿区，并有网络、休闲区、育婴室等配套设施。马来西亚卫生部长阿扎姆称，沙登方舱医院拥有完善的设备，但主要为情况稳定的轻症患者提供隔离地点，重症患者仍需前往医院治疗。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Q7EJrin0pGqsCzvjkmi200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585907951000",
-            "title": "埃塞俄比亚新增新冠肺炎确诊病例6例 累计35例",
-            "summary": "当地时间4月3日，埃塞俄比亚卫生部发布声明，新增6例新冠肺炎确诊病例，均为埃塞俄比亚人。目前累计确诊病例35人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirQeOoCfXqMKeq3godaVG200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585905333000",
-            "title": "印尼新冠肺炎确诊病例新增196例 累计1986例",
-            "summary": "4月3日，印尼卫生部宣布新增196例新冠肺炎确诊病例，全国累计确诊病例1986人，含181例死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2VanyI4sBFZb1soFHbdI200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585903354000",
-            "title": "科威特新增75例新冠肺炎确诊病例 单日确诊病例数创新高",
-            "summary": "科威特卫生部当地时间3日上午发布通告，确认境内新增75例新型冠状病毒肺炎确诊病例。通告显示，新增病例中7例为输入病例，其中5名科威特公民近期曾赴英国旅行，1名科威特公民近期曾赴伊朗旅行，已经在科威特常住的伊拉克公民近期从伊拉克返回科威特后被确诊；36例为本地感染病例，其中包括4名科威特公民、26名印度公民、3名孟加拉国公民和3名埃及公民；另有32名患者的感染途径仍在调查中．",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsTVw6r9sjkOFtMnIqcw200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
