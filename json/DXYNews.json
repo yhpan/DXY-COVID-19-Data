@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1585930384000",
+            "title": "卡塔尔新冠肺炎确诊病例升至1075例",
+            "summary": "卡塔尔公共卫生部3日晚间对外公布，在过去的24小时中，卡塔尔全国新增126例新冠肺炎确诊病例，总确诊病例数达1075例。此外，卡塔尔当天还有21名治愈患者，总治愈人数达93例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMj4XRfVElkfY4FKFPbat200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585929300000",
             "title": "​赞比亚首次出现2例新冠肺炎治愈病例",
             "summary": "当地时间4月3日，据赞比亚卫生部消息，赞比亚首次出现2例新冠肺炎确诊病例的患者经治疗后检测结果呈阴性，这2名被治愈的新冠肺炎患者预计将于当地时间4月4日出院。据了解，截至当地时间4月3日，赞比亚累计新冠肺炎确诊病例为39例，其中有2例治愈病例，1例死亡病例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间4月3日，斯洛伐克总理马托维奇通报称，4月2日斯洛伐克境内新增新冠肺炎确诊病例24例，累计确诊450例。此外，斯洛伐克卫生部发言人苏珊娜·埃利亚索娃（Zuzana Eliasova）宣布境内新增5例治愈病例，累计治愈8例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiugvRLuORMxzbfec5ega4200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585922400000",
-            "title": "甘肃4月3日通报：无新增新冠肺炎确诊病例",
-            "summary": "4月2日20时至4月3日20时，伊朗包机来甘311人中，共计确诊37例，新增治愈出院2例。截至4月3日20时，伊朗包机来甘被确诊为新冠肺炎的37人全部治愈出院，所有密切接触者已全部解除医学观察。4月2日20时至4月3日20时，其他航班回国来甘人员无新增新冠肺炎确诊病例，累计确诊9例。新增治愈出院2例，累计治愈出院5例，现有2例在临夏州定点医院住院隔离治疗，2例在省级定点医院住院隔离治疗。累计追踪到",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLsjWr7PvSm0NHbrpswct200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
