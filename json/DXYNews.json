@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1585881285000",
+            "title": "香港发生近70例酒吧群组感染 特区政府：3日起关闭酒吧等场所14天",
+            "summary": "△香港特区政府食物及卫生局局长陈肇始\n香港特区政府食物及卫生局局长陈肇始在2日晚举行的记者会上表示，在3月19日至4月1日香港573例确诊个案中，有132例本地感染个案，当中有69例即超过一半涉及在酒吧等场所中的顾客及表演乐队的群组暴发，这些确诊个案也有第二代及第三代的传播。由此可见，酒吧等场所是传播病毒的高风险地方。因此，香港特区政府决定从4月3日晚6时起关闭酒吧、酒馆，以及主要售卖酒类产品或提",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDcl1ue2hldrqGX1CFXxZ200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585879484000",
+            "title": "湖北4月2日无新增新冠肺炎确诊病例 累计治愈出院63612例",
+            "summary": "2020年4月2日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。湖北省新增病亡4例，其中：武汉市4例，其他16个市州均为0例。湖北省新增出院141例，其中：武汉市141例，其他16个市州均为0例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimrPtP9Z0W0Hkp810hOn5200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585879025000",
+            "title": "国家卫健委：4月2日全国新增31例肺炎确诊病例",
+            "summary": "4月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例31例，其中29例为境外输入病例，2例为本土病例（辽宁1例，广东1例）；新增死亡病例4例（湖北4例）；新增疑似病例12例，均为境外输入病例。当日新增治愈出院病例163例，解除医学观察的密切接触者1990人，重症病例减少50例。境外输入现有确诊病例710例（含重症病例19例），现有疑似病例135例。累计确诊病例870例，累计治愈出院病例160例，累计死亡病例0例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaBDcqSQv5Xeri49Os5GG200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585878541000",
+            "title": "天津4月2日18时至3日6时新增2例境外输入新冠肺炎确诊病例",
+            "summary": "4月2日18时至3日6时，天津无新增报告本地新冠肺炎确诊病例。新增报告2例境外输入确诊病例（中国籍），累计报告境外输入确诊病例43例（中国籍39例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院7例，在院36例（重型4例、普通型22例、轻型8例、分型待定2例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXumcDqEuPuRaK8Ssgsk5200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585878223000",
             "title": "乌拉圭新冠肺炎确诊病例达369例 乌全国学校将“无限期”停课",
             "summary": "当地时间4月1日，乌拉圭国会通过决议，决定设立防治新冠肺炎专项资金。政府被获准动用中央财政的首批款项为4亿美元，将用于疫情防控和发放相关社会补贴。此前一天（3月31日），乌拉圭国会还通过了政府官员和国家公务员集体减薪20%支援国家抗疫的决议。",
@@ -51,42 +87,6 @@
             "summary": "据美国约翰斯·霍普金斯大学发布的实时统计数据显示，截至北京时间4月3日06时30分左右，美国新冠肺炎累计确诊238820例，确诊病例依然全球居首；死亡病例5758例；康复人数8889人。与前一天6时30分数据相比，美国新增确诊病例25448例，连续第4天新增确诊数超2万；死亡病例新增1001例。\n",
             "infoSource": "人民日报海外网",
             "sourceUrl": "http://m.weibo.cn/3057540037/4489540733821704",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585872990000",
-            "title": "辽宁4月2日新增1例境外输入新冠肺炎确诊病例 新增无症状感染者3例",
-            "summary": "4月2日0时至24时，辽宁省新增1例新型冠状病毒肺炎确诊病例，为大连市境外输入关联病例，属普通型病例。新增无症状感染者3例。无新增治愈出院病例。辽宁省累计报告确诊病例141例，出院124例，死亡2例，在院治疗15例（境外输入病例14例，境外输入关联病例1例）。15名在治患者中，重型病例1例，无危重型病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0s6rcoiTiBZWJwFBIa19200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585872381000",
-            "title": "澳大利亚新冠肺炎确诊病例增至5224例 新增248例",
-            "summary": "根据澳大利亚联邦卫生部4月3日最新统计，截止当地时间6时，澳大利亚累计确诊新冠肺炎感染病例达5224例，过去的24小时累计新增248例。新南威尔士州确诊2389例，维多利亚州确诊1036例，昆士兰州确诊835例，西澳州确诊400例，南澳州确诊385例，北领地确诊20例，首都领地确诊88例，塔斯马尼亚州确诊71例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHD2LSqiRcHSNlTfjnWNQ200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585868499000",
-            "title": "伊朗议长确诊新冠肺炎",
-            "summary": "据伊朗当地媒体4月2日报道，伊朗议长阿里·拉里贾尼在出现一些症状后进行了新冠病毒检测，结果呈阳性。报道称，他目前已在家中隔离并接受治疗。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4489520240295599",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585867041000",
-            "title": "​巴西新冠肺炎确诊病例达7910例 逾2.5万份重病患者的样本亟待检测",
-            "summary": "截至当地时间4月2日14时，巴西全国共确诊新冠肺炎病例7910例，比昨日新增1074例，全国累计死亡病例299例，死亡率为3.8%。巴西卫生部长曼德塔表示，由于新冠病毒检测试剂和检测机构不足，因此巴西实际的新冠肺炎感染人数远高于卫生部每天发布的统计数字。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7n4KxDdze195gCP16c0F200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
