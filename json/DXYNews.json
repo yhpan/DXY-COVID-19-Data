@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1585898703000",
+            "title": "乌克兰新增新冠肺炎确诊病例45例 累计942例",
+            "summary": "当地时间4月3日，乌克兰卫生部发布消息称，截止到当日上午10时，乌克兰新冠肺炎确诊病例累计942例，较前一日（2日）晚新增45例。截至目前，乌克兰共报告新冠肺炎死亡病例23例，治愈病例19例。乌克兰已于3月25日宣布国家进入紧急情况，时间持续至4月24日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLLRu7oYjea4QJKHOh72y200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585896003000",
             "title": "美国护士感染后被要求继续工作",
             "summary": "据美联社报道，美国时间4月2号，美国纽约一医疗中心的护士和医生走上街头，抗议缺乏个人防护装备。Matthew是一名治疗新冠肺炎患者的男护士，他说即使他已经在工作中感染了病毒，竟然也被要求继续工作。\n",
@@ -78,15 +87,6 @@
             "summary": "2020年4月2日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。湖北省新增病亡4例，其中：武汉市4例，其他16个市州均为0例。湖北省新增出院141例，其中：武汉市141例，其他16个市州均为0例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimrPtP9Z0W0Hkp810hOn5200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585879025000",
-            "title": "国家卫健委：4月2日全国新增31例肺炎确诊病例",
-            "summary": "4月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例31例，其中29例为境外输入病例，2例为本土病例（辽宁1例，广东1例）；新增死亡病例4例（湖北4例）；新增疑似病例12例，均为境外输入病例。当日新增治愈出院病例163例，解除医学观察的密切接触者1990人，重症病例减少50例。境外输入现有确诊病例710例（含重症病例19例），现有疑似病例135例。累计确诊病例870例，累计治愈出院病例160例，累计死亡病例0例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaBDcqSQv5Xeri49Os5GG200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
