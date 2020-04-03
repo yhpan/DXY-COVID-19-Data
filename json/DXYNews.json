@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1585896003000",
+            "title": "美国护士感染后被要求继续工作",
+            "summary": "据美联社报道，美国时间4月2号，美国纽约一医疗中心的护士和医生走上街头，抗议缺乏个人防护装备。Matthew是一名治疗新冠肺炎患者的男护士，他说即使他已经在工作中感染了病毒，竟然也被要求继续工作。\n",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4489635600618596",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585893607000",
+            "title": "纽约医生致信特朗普提3个紧急请求：我们快撑不住了",
+            "summary": "美国纽约医生斯图尔特·迪切克日前分别致信美国总统特朗普和纽约州长科莫，请求他们采取进一步行动应对疫情。在给特朗普的信中，迪切克称当前在纽约布鲁克林和皇后区的医生“濒临崩溃”，呼吁对方满足自己提出的3个紧急请求，包括需要1.6万台呼吸机、1万个精密的高流量鼻导管设备和大量的工作人员来协助在纽约布鲁克林和皇后区的医院。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4489625555028865",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585893393000",
+            "title": "东京都知事：人们应避免前往“三密”场所",
+            "summary": "当地时间3日，日本东京都知事小池百合子就新冠肺炎疫情举行记者会。她呼吁人们避免前往“三密”场所，即密闭空间、人员密集地、近距离密切对话场所等，以避免新冠肺炎感染扩大。在东京都目前发生的新冠肺炎感染中，有多起是发生在夜间餐饮店的集团感染。小池知事表示，东京都将继续呼吁居民夜间少出门、周末少出门的外出“自肃”要求。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1xRtFRSBHKr4bKJGUHou200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585892700000",
+            "title": "印度新冠肺炎确诊病例升至2301人",
+            "summary": "印度卫生部官网最新数据显示，截至当地时间4月3日上午9时（北京时间上午11时30分），印度新冠肺炎确诊病例达到2301人，其中死亡56人，治愈出院157人。（",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBTseRpBXFsm6aWztARRI200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585891324000",
             "title": "格鲁吉亚新冠肺炎累计确诊139例",
             "summary": "当地时间4月3日上午，格鲁吉亚政府疫情监测平台公布消息，格鲁吉亚境内累计确诊新冠肺炎病例139例，其中治愈26例。目前，共有5550人接受隔离，281人处于医学观察。因疫情发展，格政府已宣布国家紧急状态持续至4月21日。（",
@@ -51,42 +87,6 @@
             "summary": "4月2日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例31例，其中29例为境外输入病例，2例为本土病例（辽宁1例，广东1例）；新增死亡病例4例（湖北4例）；新增疑似病例12例，均为境外输入病例。当日新增治愈出院病例163例，解除医学观察的密切接触者1990人，重症病例减少50例。境外输入现有确诊病例710例（含重症病例19例），现有疑似病例135例。累计确诊病例870例，累计治愈出院病例160例，累计死亡病例0例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaBDcqSQv5Xeri49Os5GG200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585878541000",
-            "title": "天津4月2日18时至3日6时新增2例境外输入新冠肺炎确诊病例",
-            "summary": "4月2日18时至3日6时，天津无新增报告本地新冠肺炎确诊病例。新增报告2例境外输入确诊病例（中国籍），累计报告境外输入确诊病例43例（中国籍39例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院7例，在院36例（重型4例、普通型22例、轻型8例、分型待定2例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXumcDqEuPuRaK8Ssgsk5200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585878223000",
-            "title": "乌拉圭新冠肺炎确诊病例达369例 乌全国学校将“无限期”停课",
-            "summary": "当地时间4月1日，乌拉圭国会通过决议，决定设立防治新冠肺炎专项资金。政府被获准动用中央财政的首批款项为4亿美元，将用于疫情防控和发放相关社会补贴。此前一天（3月31日），乌拉圭国会还通过了政府官员和国家公务员集体减薪20%支援国家抗疫的决议。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidr7m3VzThLRVxHwLQViZ200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585877823000",
-            "title": "韩国新冠肺炎确诊病例破万 正全力应对海外输入",
-            "summary": "据韩国卫生部门消息，截至当地时间3日0时，过去24小时（2日0时—3日0时）内韩国新增确诊新型冠状病毒感染者86人，累计感染者数量达到10062人，累计死亡达到174人，治愈6021人。距离1月20日韩国宣布确诊首例新冠病毒感染者以来，74天后感染者数量达到1万人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBBPKVQlBPajEwyzU4qsE200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585877134000",
-            "title": "新西兰新增49例新冠肺炎确诊病例 累计772例",
-            "summary": "当地时间4月3日，新西兰卫生部门确认，过去24小时，新西兰新增49例新冠肺炎确诊病例，22例疑似病例。截至目前，新西兰累计新冠肺炎病例868例（含疑似病例），其中确诊病例累计772例。目前有103人已经康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuJyEScocqJZl3iK93Hh8200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
