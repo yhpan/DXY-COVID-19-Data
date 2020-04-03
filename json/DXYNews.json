@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585903354000",
+            "title": "科威特新增75例新冠肺炎确诊病例 单日确诊病例数创新高",
+            "summary": "科威特卫生部当地时间3日上午发布通告，确认境内新增75例新型冠状病毒肺炎确诊病例。通告显示，新增病例中7例为输入病例，其中5名科威特公民近期曾赴英国旅行，1名科威特公民近期曾赴伊朗旅行，已经在科威特常住的伊拉克公民近期从伊拉克返回科威特后被确诊；36例为本地感染病例，其中包括4名科威特公民、26名印度公民、3名孟加拉国公民和3名埃及公民；另有32名患者的感染途径仍在调查中．",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwsTVw6r9sjkOFtMnIqcw200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585900005000",
+            "title": "俄罗斯新增601例新冠肺炎确诊病例 累计确诊4149例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间4月3日10时30分，俄罗斯境内新增601例新冠肺炎感染病例，累计确诊4149例。此外共累计治愈病例281例，死亡34例。另据俄联邦消费者权益保护和公益监督局消息，全俄目前已进行了近57万次病毒核酸检测，目前全境有20余万人在进行医学隔离观察。为了防止新冠肺炎疫情的进一步扩散，俄罗斯总统普京2日宣布全俄罗斯将延长带薪休假至4月30日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilxuV38OcC6usbs2Br4VY200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585898703000",
             "title": "乌克兰新增新冠肺炎确诊病例45例 累计942例",
             "summary": "当地时间4月3日，乌克兰卫生部发布消息称，截止到当日上午10时，乌克兰新冠肺炎确诊病例累计942例，较前一日（2日）晚新增45例。截至目前，乌克兰共报告新冠肺炎死亡病例23例，治愈病例19例。乌克兰已于3月25日宣布国家进入紧急情况，时间持续至4月24日。",
@@ -69,24 +87,6 @@
             "summary": "据越南卫生部4月3日上午最新消息，越南新增6例新冠肺炎确诊个案。新增的6例感染者中，5例为海外输入型病例，1例与越南河内白梅医院相关。截至记者发稿，该国已确诊233例新冠肺炎感染个案，其中有75例已病愈出院。4月1日，越南已宣布将新冠肺炎列为全国性疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9cH6yIJ7TwDFQY7fJ9A9200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585881285000",
-            "title": "香港发生近70例酒吧群组感染 特区政府：3日起关闭酒吧等场所14天",
-            "summary": "△香港特区政府食物及卫生局局长陈肇始\n香港特区政府食物及卫生局局长陈肇始在2日晚举行的记者会上表示，在3月19日至4月1日香港573例确诊个案中，有132例本地感染个案，当中有69例即超过一半涉及在酒吧等场所中的顾客及表演乐队的群组暴发，这些确诊个案也有第二代及第三代的传播。由此可见，酒吧等场所是传播病毒的高风险地方。因此，香港特区政府决定从4月3日晚6时起关闭酒吧、酒馆，以及主要售卖酒类产品或提",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDcl1ue2hldrqGX1CFXxZ200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585879484000",
-            "title": "湖北4月2日无新增新冠肺炎确诊病例 累计治愈出院63612例",
-            "summary": "2020年4月2日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。湖北省新增病亡4例，其中：武汉市4例，其他16个市州均为0例。湖北省新增出院141例，其中：武汉市141例，其他16个市州均为0例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimrPtP9Z0W0Hkp810hOn5200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
