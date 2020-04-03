@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1585873385000",
+            "title": "美国连续4天新增确诊病例超2万例 累计确诊238820例",
+            "summary": "据美国约翰斯·霍普金斯大学发布的实时统计数据显示，截至北京时间4月3日06时30分左右，美国新冠肺炎累计确诊238820例，确诊病例依然全球居首；死亡病例5758例；康复人数8889人。与前一天6时30分数据相比，美国新增确诊病例25448例，连续第4天新增确诊数超2万；死亡病例新增1001例。\n",
+            "infoSource": "人民日报海外网",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4489540733821704",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585872990000",
+            "title": "辽宁4月2日新增1例境外输入新冠肺炎确诊病例 新增无症状感染者3例",
+            "summary": "4月2日0时至24时，辽宁省新增1例新型冠状病毒肺炎确诊病例，为大连市境外输入关联病例，属普通型病例。新增无症状感染者3例。无新增治愈出院病例。辽宁省累计报告确诊病例141例，出院124例，死亡2例，在院治疗15例（境外输入病例14例，境外输入关联病例1例）。15名在治患者中，重型病例1例，无危重型病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0s6rcoiTiBZWJwFBIa19200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585872381000",
+            "title": "澳大利亚新冠肺炎确诊病例增至5224例 新增248例",
+            "summary": "根据澳大利亚联邦卫生部4月3日最新统计，截止当地时间6时，澳大利亚累计确诊新冠肺炎感染病例达5224例，过去的24小时累计新增248例。新南威尔士州确诊2389例，维多利亚州确诊1036例，昆士兰州确诊835例，西澳州确诊400例，南澳州确诊385例，北领地确诊20例，首都领地确诊88例，塔斯马尼亚州确诊71例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHD2LSqiRcHSNlTfjnWNQ200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585868499000",
             "title": "伊朗议长确诊新冠肺炎",
             "summary": "据伊朗当地媒体4月2日报道，伊朗议长阿里·拉里贾尼在出现一些症状后进行了新冠病毒检测，结果呈阳性。报道称，他目前已在家中隔离并接受治疗。",
@@ -60,33 +87,6 @@
             "summary": "根据美国约翰斯·霍普金斯大学发布的统计数据，截至美国东部时间2日16时，也就是北京时间3日4时，美国累计新冠肺炎确诊病例升至236339例，是目前确诊病例最多的国家，其死亡病例为5648例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwzPgxsntxeUmA0TBOSvx200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585862762000",
-            "title": "​利比亚出现首例新冠肺炎死亡病例",
-            "summary": "当地时间2日，位于利比亚首都的黎波里的利比亚国家疾病控制中心发表声明称，一名已经死亡的85岁妇女的新冠病毒检测结果呈阳性。这是利比亚出现的首例新冠肺炎死亡病例。声明提到，该名妇女死亡以后，利比亚国家疾病控制中心收到了她的病毒检测样本，在对样本进行化验后，结果显示为阳性。声明未对该病例的其它具体情况作出说明。目前，利比亚境内的新冠肺炎累计确诊病例为11例，死亡1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitSs5e90dqshZgDNVq1dR200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585860480000",
-            "title": "埃及新增86例新冠肺炎确诊病例 累计865例",
-            "summary": "当地时间4月2日晚，埃及卫生与人口部发表声明称，埃及境内当天新增新冠肺炎确诊病例86例，新增死亡6例，新增治愈出院22例，其中包括1名德国人和21名埃及人。声明说，新增的86例确诊病例全部为埃及人，包括从国外返回的埃及人以及和此前确诊病例有过接触的人员。新增的6例死亡病例全部为埃及人。截至当地时间4月2日晚，埃及境内累计确诊新冠肺炎病例上升至865例，累计死亡病例58例，累计治愈病例201例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNuk1PhlohvUyqRuzm32d200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585845697000",
-            "title": "​土耳其新冠肺炎累计确诊达18135例 累计死亡356例",
-            "summary": "当地时间4月2日晚，土耳其卫生部宣布，土耳其当天进行了18757次新冠病毒检测，其中2456人检测结果呈阳性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirzYFgkMdnJfW4TvarsHj200403&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
