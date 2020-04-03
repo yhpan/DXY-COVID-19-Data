@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585891324000",
+            "title": "格鲁吉亚新冠肺炎累计确诊139例",
+            "summary": "当地时间4月3日上午，格鲁吉亚政府疫情监测平台公布消息，格鲁吉亚境内累计确诊新冠肺炎病例139例，其中治愈26例。目前，共有5550人接受隔离，281人处于医学观察。因疫情发展，格政府已宣布国家紧急状态持续至4月21日。（",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTKPY1RqJ6IyFsDvHuZGa200403&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585891260000",
+            "title": "德国新冠肺炎累计确诊79696例，德国官方开始建议所有人戴口罩",
+            "summary": "根据德国疾病防控机构罗伯特·科赫研究所最新公布的数据显示，截至当地时间4月3日0时，德国共确诊79696例新冠病毒肺炎感染病例，其中死亡病例1017例。较4月2日0时，新增6174例，新增死亡145例。该所一份情况报告显示，截至当地时间4月2日，德国共有约21400人痊愈。据德媒报道，该所已于2日正式改变了其此前一直以来认为只有患呼吸道疾病才需要戴口罩的态度，建议所有人都佩戴口罩。\n",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4489615710835807",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585886522000",
             "title": "越南新冠肺炎确诊病例增至233例",
             "summary": "据越南卫生部4月3日上午最新消息，越南新增6例新冠肺炎确诊个案。新增的6例感染者中，5例为海外输入型病例，1例与越南河内白梅医院相关。截至记者发稿，该国已确诊233例新冠肺炎感染个案，其中有75例已病愈出院。4月1日，越南已宣布将新冠肺炎列为全国性疫情。",
@@ -69,24 +87,6 @@
             "summary": "当地时间4月3日，新西兰卫生部门确认，过去24小时，新西兰新增49例新冠肺炎确诊病例，22例疑似病例。截至目前，新西兰累计新冠肺炎病例868例（含疑似病例），其中确诊病例累计772例。目前有103人已经康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuJyEScocqJZl3iK93Hh8200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585877099000",
-            "title": "湖南4月3日通报：无新增新冠肺炎确诊病例",
-            "summary": "2020年4月2日0—24时，湖南省报告新型冠状病毒肺炎新增确诊病例0例。截至4月2日24时，湖南省累计报告新型冠状病毒肺炎确诊病例1019例，死亡病例4例，出院病例1014例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3aI3BbH6m5VDw9XCHFYH200403&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585876680000",
-            "title": "福建省：新增境外输入确诊病例4例，本地无新增",
-            "summary": "4月2日0—24时，福建省报告新增境外输入确诊病例4例，其中：布基纳法索1例（无症状感染者转确诊）、巴西1例（福州市报告）；英国1例、荷兰1例（厦门市报告）。当日报告新增境外输入疑似病例1例，为阿联酋输入（福州市报告）。当日报告新增境外输入无症状感染者0例，转为确诊病例1例。",
-            "infoSource": "福建卫健委",
-            "sourceUrl": "http://wjw.fujian.gov.cn/ztzl/gzbufk/yqtb/202004/t20200403_5228066.htm",
             "province": null,
             "provinceId": ""
         }
