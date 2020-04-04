@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585970669000",
+            "title": "缅甸仰光曼德勒等城市出台泼水节限制出行行政令",
+            "summary": "缅甸的仰光和曼德勒近日分别出台了泼水节期间限制出行的行政令。据仰光省政府通知，要求在当地时间4月10日起至4月19日期间，所有居民除健康医疗需求和购买食物之外不得外出，该命令已传达至仰光所有镇区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8owKPSYu2FfBx7THdEBl200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585970597000",
+            "title": "云南4月3日无新增新冠肺炎确诊病例 现有境外输入确诊病例10例",
+            "summary": "4月3日0时至24时，云南省无新增确诊病例和无症状感染者。截至4月3日24时，云南省通报累计境外输入确诊病例10例（中国籍9例），无症状感染者4例（中国籍3例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticZXNwsEFYIMrLrbcfpQk200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585969236000",
             "title": "中国驻马来西亚大使馆下半旗 深切悼念新冠肺炎疫情牺牲烈士和逝世同胞",
             "summary": "4月4日早，中国驻马来西亚大使馆下半旗，哀悼在抗击新冠肺炎疫情中牺牲烈士和逝世同胞。",
@@ -69,24 +87,6 @@
             "summary": "墨西哥当地时间4月3日，墨西哥卫生部宣布，截至墨西哥当地时间4月3日晚上7点，墨西哥全国确诊1688例新冠肺炎病例，较前一天新增了178例，为单日新增病例最高数量。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMuXFGEp6sQBtDFa1J5V1200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585964873000",
-            "title": "广东3日新增2例新冠肺炎境外输入确诊病例",
-            "summary": "4月3日0—24时，广东省新增境外输入确诊病例2例，为深圳、佛山各报告1例（英国输入）。广东省累计报告境外输入病例162例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiicmBDnCCvBEMlTbr7CC200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585964383000",
-            "title": "2020年4月3日青海省无新型冠状病毒肺炎新增确诊病例和疑似病例",
-            "summary": "2020年4月3日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例和疑似病例，无无症状感染者报告。\n\t\t\n\t\t",
-            "infoSource": "青海卫健委",
-            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/04/1585963936820.html",
             "province": null,
             "provinceId": ""
         }
