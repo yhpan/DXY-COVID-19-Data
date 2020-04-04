@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1585975933000",
+            "title": "泰国新增89例新冠肺炎确诊病例 累计2067例",
+            "summary": "当地时间4月4日，泰国卫生部在疫情例行发布会上透露，泰国新增89例新冠肺炎确诊病例。截止到目前，泰国累计确诊病例2067例，其中20例死亡，612例治愈，1435例留院治疗。（总台记者 陈林聪）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIupCyV3tKSAz17uaT0ms200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585974034000",
+            "title": "乌兹别克斯坦新冠肺炎累计确诊病例达227例",
+            "summary": "4日，乌兹别克斯坦卫生部发布消息称，截至当地时间4日上午9时，乌新增6例新冠肺炎确诊病例，累计确诊227例，其中3人死亡，25人治愈。正在接受治疗的患者中，17人有肺炎症状，其中4人情况严重。（总台记者 曹胜济）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUyHVDlK49ejYo5dBTOd8200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585970669000",
             "title": "缅甸仰光曼德勒等城市出台泼水节限制出行行政令",
             "summary": "缅甸的仰光和曼德勒近日分别出台了泼水节期间限制出行的行政令。据仰光省政府通知，要求在当地时间4月10日起至4月19日期间，所有居民除健康医疗需求和购买食物之外不得外出，该命令已传达至仰光所有镇区。",
@@ -69,24 +87,6 @@
             "summary": "2020年4月3日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例3例。截至4月3日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例44例，出院病例7例，现有在院37例（其中：重型3例，普通型23例，轻型10例，待分型1例）。",
             "infoSource": "天津卫健委",
             "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/4/art_87_72993.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585965960000",
-            "title": "习近平等党和国家领导人向新冠肺炎疫情牺牲烈士和逝世同胞默哀",
-            "summary": "上午10时，习近平等党和国家领导人来到中南海怀仁堂前，向新冠肺炎疫情牺牲烈士和逝世同胞默哀3分钟。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMlTjwNsDwuATCG6PL2ne200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585964983000",
-            "title": "墨西哥新增178例新冠肺炎确诊病例 累计1688例",
-            "summary": "墨西哥当地时间4月3日，墨西哥卫生部宣布，截至墨西哥当地时间4月3日晚上7点，墨西哥全国确诊1688例新冠肺炎病例，较前一天新增了178例，为单日新增病例最高数量。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMuXFGEp6sQBtDFa1J5V1200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
