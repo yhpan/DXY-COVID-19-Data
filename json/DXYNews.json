@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586002803000",
+            "title": "巴西总统博索纳呼吁民众绝食一天远离新冠病毒",
+            "summary": "据路透社4日报道，当地时间3日，巴西总统博索纳罗应福音派基督徒的请求，呼吁巴西民众本周日(5日)绝食一天远离新冠病毒。与牧师会面后，博索纳罗在Jovem Pan电台上宣布：“(我)与牧师和宗教领袖一起，呼吁巴西人斋戒一日，巴西便可尽早摆脱这种罪恶。”路透社还称，截至当地时间周五，巴西新冠肺炎死亡人数升至359人，确诊人数跃至9056人。",
+            "infoSource": "人民日报海外网",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4490083552276354",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586001945000",
+            "title": "支援全球抗疫 浙大一院多方式分享经验",
+            "summary": "3月以来，浙江大学医学院附属第一医院受邀开展11场视频连线，向英国、美国、加拿大、俄罗斯等国以及部分国际组织分享新冠肺炎救治经验。此外，浙大一院从3月中旬陆续发布了英语、日语、法语、韩语、意大利语等10个版本的《新冠肺炎防治手册》，目前手册下载总量达到54.1万，在线阅读量达到40.4万，覆盖了227个国家和地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCt26pLqqqV1ljm3ilYoB200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586001796000",
             "title": "武汉各行各业人员默哀3分钟 ​向英雄致敬 愿逝者安息",
             "summary": "在今天（4日）的哀悼活动中，湖北武汉各界人民群众深切悼念抗击新冠肺炎疫情斗争中的牺牲烈士和逝世同胞。当笛声鸣响，大家共同向因守护生命而远去的英雄致敬，愿逝去的亲人、同胞安息。 上午10点，武汉百年地标建筑——江汉关大楼已降下半旗，当防空警报响彻长空，路上行人纷纷驻足肃立。这一刻，在长江两岸、市区街道、宽阔的江面，车辆与轮船全部暂停行驶并鸣笛，深切悼念抗击新冠肺炎疫情的牺牲烈士和逝世同胞。",
@@ -69,24 +87,6 @@
             "summary": "巴林卫生部当地时间4日下午发布通告，巴林境内累计已发现688例新型冠状病毒肺炎确诊病例，其中399名患者已经治愈出院，4名患者病重不治。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5rGrrGoAuxSzi7uJAd4200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585996910000",
-            "title": "俄罗斯驻华大使用中文悼念逝者：和中国人民一道默哀",
-            "summary": "俄罗斯驻华大使用中文悼念逝者：“今天是清明节，俄罗斯人民和中国人民一道沉痛默哀，向英勇牺牲的医务人员致敬。相信病毒必败、生命必胜！”",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidL1xUpePpqChh8cAuC6S200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585995900000",
-            "title": "​中国驻德国大使馆下半旗志哀 悼念抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞",
-            "summary": "当地时间4月4日，中国驻德国大使馆下半旗，向在抗击新冠疫情斗争中牺牲的烈士以及逝世的同胞们表示深切哀悼与缅怀。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOi4cw5tTtX1ZkalOSxAq200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
