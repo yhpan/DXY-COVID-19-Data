@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586006402000",
+            "title": "英国累计确诊病例超4万例 累计死亡4313例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月4日上午9时，英国新冠肺炎确诊病例达41903例；截至当地时间4月3日下午5点，死亡病例4313例。\n",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4490098647424700",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586002803000",
             "title": "巴西总统博索纳呼吁民众绝食一天远离新冠病毒",
             "summary": "据路透社4日报道，当地时间3日，巴西总统博索纳罗应福音派基督徒的请求，呼吁巴西民众本周日(5日)绝食一天远离新冠病毒。与牧师会面后，博索纳罗在Jovem Pan电台上宣布：“(我)与牧师和宗教领袖一起，呼吁巴西人斋戒一日，巴西便可尽早摆脱这种罪恶。”路透社还称，截至当地时间周五，巴西新冠肺炎死亡人数升至359人，确诊人数跃至9056人。",
@@ -78,15 +87,6 @@
             "summary": "黎巴嫩卫生部官网公布，截至当地时间4日中午新冠肺炎确诊总人数为520人，较前一日增加12人。根据黎卫生部公布，过去24小时内有4名患者被治愈，治愈总人数已达50人。死亡病例仍为17例不变，但确诊患者中危重病例增加至26例，疑似病例目前为509例，另外有1022人处于隔离状态。（总台记者 孙虎）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjwVlqJVVgPRNmS1K4Eg200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585997002000",
-            "title": "巴林新增16例新冠肺炎确诊病例 累计688例",
-            "summary": "巴林卫生部当地时间4日下午发布通告，巴林境内累计已发现688例新型冠状病毒肺炎确诊病例，其中399名患者已经治愈出院，4名患者病重不治。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP5rGrrGoAuxSzi7uJAd4200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
