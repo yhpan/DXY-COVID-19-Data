@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1585981174000",
+            "title": "刚果（金）新增14例新冠肺炎确诊病例 累计148例",
+            "summary": "当地时间4月4日凌晨，世界卫生组织驻刚果（金）办事处在社交媒体上宣布，该国3日新增14例新冠肺炎确诊病例。其中11例是本地传播病例，3例是输入病例。截至3日晚，该国累计新冠肺炎确诊病例148例，死亡病例16例。（总台记者 白洁）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaLzWRrIPdbGaTp4avXQ200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585979416000",
             "title": "中国驻肯尼亚大使馆降半旗志哀 深切悼念新冠肺炎疫情牺牲烈士和逝世同胞",
             "summary": "当地时间4月4日，驻肯尼亚使馆降半旗，集体默哀三分钟，对抗击新冠肺炎疫情牺牲的烈士和逝世同胞表达最深切的哀悼。",
@@ -78,15 +87,6 @@
             "summary": "4月4日早，中国驻马来西亚大使馆下半旗，哀悼在抗击新冠肺炎疫情中牺牲烈士和逝世同胞。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiZJKPb6zz8mBPjg9xCd2200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585969149000",
-            "title": "日本新冠肺炎确诊病例达3142例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间4日上午11点，当天新增感染者13人，累计新冠肺炎确诊病例达到3142人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti64pKz9oloLB8XebBa5J5200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
