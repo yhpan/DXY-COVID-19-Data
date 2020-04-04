@@ -1,11 +1,65 @@
 {
     "results": [
         {
+            "pubDate": "1585969236000",
+            "title": "中国驻马来西亚大使馆下半旗 深切悼念新冠肺炎疫情牺牲烈士和逝世同胞",
+            "summary": "4月4日早，中国驻马来西亚大使馆下半旗，哀悼在抗击新冠肺炎疫情中牺牲烈士和逝世同胞。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiZJKPb6zz8mBPjg9xCd2200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585969149000",
+            "title": "日本新冠肺炎确诊病例达3142例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间4日上午11点，当天新增感染者13人，累计新冠肺炎确诊病例达到3142人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti64pKz9oloLB8XebBa5J5200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585968392000",
+            "title": "深切悼念新冠肺炎疫情牺牲烈士和逝世同胞 香港特别行政区下半旗志哀",
+            "summary": "为表达全国各族人民对抗击新冠肺炎疫情斗争牺牲烈士和逝世同胞的深切哀悼， 4月4日举行全国性哀悼活动，香港特别行政区悬挂国旗及区旗的政府机构，以中央政府驻香港特区联络办公室、外交部驻香港特区特派员公署的办公所在地也下半旗志哀。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2kaULWbwLZEVCY9OXgkO200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585968243000",
+            "title": "天津4日通报：本地无新增新冠肺炎确诊病例 无新增境外输入确诊病例",
+            "summary": "记者从天津市疾控中心获悉，4月3日18时至4日6时，天津无新增报告境外输入确诊病例。累计报告境外输入确诊病例44例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ZnvGVrNCBMY68Lo7jCE200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585967389000",
+            "title": "联合国大会通过新加坡等国提议：合作抗疫不应有歧视排外心理",
+            "summary": "据新加坡《联合早报》报道，联合国大会2日批准了一项决议，呼吁各国在抗击新冠肺炎疫情时采取国际合作及多边主义。这是疫情暴发以来，联大发布的第一份案文。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21eGcBDDQTL3nfxGmaiJ200404&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1585966025000",
             "title": "2020年4月4日天津市新型冠状病毒肺炎疫情情况",
             "summary": "2020年4月3日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例3例。截至4月3日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例44例，出院病例7例，现有在院37例（其中：重型3例，普通型23例，轻型10例，待分型1例）。",
             "infoSource": "天津卫健委",
             "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/4/art_87_72993.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1585965960000",
+            "title": "习近平等党和国家领导人向新冠肺炎疫情牺牲烈士和逝世同胞默哀",
+            "summary": "上午10时，习近平等党和国家领导人来到中南海怀仁堂前，向新冠肺炎疫情牺牲烈士和逝世同胞默哀3分钟。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMlTjwNsDwuATCG6PL2ne200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -33,60 +87,6 @@
             "summary": "2020年4月3日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例和疑似病例，无无症状感染者报告。\n\t\t\n\t\t",
             "infoSource": "青海卫健委",
             "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/04/1585963936820.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585964100000",
-            "title": "陕西4日通报：新增1例境外输入新冠肺炎确诊病例 累计境外输入11例",
-            "summary": "2020年4月3日8时至4日8时，陕西新增1例境外（美国）输入新冠肺炎确诊病例，治愈出院1例。新增密切接触者4人（外省协查）。截至2020年4月4日8时，陕西累计报告境外输入新冠肺炎确诊病例11例（治愈出院3例）。尚在接受医学观察无症状感染者2例，均为境外输入。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7JjaRwZyel2D5WE3r8IO200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585964012000",
-            "title": "山东临沂首例境外输入新冠肺炎确诊患者治愈出院",
-            "summary": "山东省卫健委4月4日最新通报显示：4月3日0—24时，境外输入新冠肺炎确诊病例新增治愈出院1例。 这一病例出现在临沂，是临沂市首例境外输入新冠肺炎确诊患者。患者马某某连续三次核酸检测阴性，符合出院标准，于4月3日下午治愈出院。马某某，男，62岁，沂水县人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipi2ixZefdWScmpscc7hh200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585963981000",
-            "title": "江西省3日无新增新冠肺炎确诊病例报告",
-            "summary": "2020年4月3日0—24时，江西省无本地新增新冠肺炎确诊病例报告，无本地新增疑似病例，无本地住院确诊病例。截至4月3日24时，全省累计报告本地确诊病例935例，累计出院病例934例，累计死亡病例1例。2020年4月3日0—24时，江西省无境外新增输入新冠肺炎确诊病例报告。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5cIKyLOMMQ0nuS1SOuL200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585963955000",
-            "title": "韩国新增新冠肺炎确诊病例94例 累计确诊10156例",
-            "summary": "韩国中央防疫对策本部4日通报，截至当天零时，韩国在24小时内新增新冠肺炎确诊病例94例，累计确诊10156例；新增死亡病例3例，累计死亡177人。另外，新增治愈病例304例，累计治愈病例6325例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinagu1v8pFnWTaB5Jpma1200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585963838000",
-            "title": "陕西新增1例境外输入新冠肺炎  累计境外输入11例",
-            "summary": "2020年4月3日8时至4日8时，陕西新增1例境外（美国）输入新冠肺炎确诊病例，治愈出院1例。新增密切接触者4人（外省协查）。截至2020年4月4日8时，陕西累计报告境外输入新冠肺炎确诊病例11例（治愈出院3例）。\n           ",
-            "infoSource": "陕西卫健委",
-            "sourceUrl": "http://sxwjw.shaanxi.gov.cn/art/2020/4/4/art_9_69421.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1585963758000",
-            "title": "美国新增1480例新冠肺炎死亡病例 系单日最大增幅",
-            "summary": " 据法新社4日最新报道，美国约翰斯·霍普金斯大学公布的数据显示，美国在过去24小时内新增1480例新冠肺炎死亡病例，累计死亡7406例。报道称，这是美国新冠肺炎疫情发生以来，单日新增死亡病例最多的一天。疫情严峻：美国新增1480例新冠肺炎死亡病例 系单日最大增幅\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4489919785100831",
             "province": null,
             "provinceId": ""
         }
