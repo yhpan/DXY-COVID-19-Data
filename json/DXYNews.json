@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586045875000",
+            "title": "加拿大新冠肺炎确诊病例达14018例 新增1552例",
+            "summary": "根据加拿大各省和地区4日当天公布的新冠疫情统计数据，截止到发稿时（当地时间4日19时40分），加拿大累计确诊新冠病毒感染病例14018例，死亡病例233例。分别比此前一天增加1552例和46例",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Coy4iKnaWMjPOaydZdr200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586045229000",
+            "title": "巴拿马新增128例新冠肺炎确诊病例 累计达1801例",
+            "summary": "巴拿马卫生部4日宣布新增128例新冠肺炎确诊病例，全国累计病例达1801例，其中229人入院治疗，75人为重症，死亡病例升至46例。巴拿马卫生部当天呼吁民众正确使用口罩有效避免感染新冠肺炎病毒",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX7xQL9EmZlCjYyPoYRQf200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586044560000",
             "title": "31省区市新增新冠肺炎30例",
             "summary": "4月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例30例，其中25例为境外输入病例，5例为本土病例（广东5例）；新增死亡病例3例（湖北3例）；新增疑似病例11例，均为境外输入病例。当日新增治愈出院病例213例，解除医学观察的密切接触者1869人，重症病例减少36例。境外输入现有确诊病例697例（含重症病例18例），现有疑似病例107例。累计确诊病例913例，累计治愈出院病例216例，累计死亡病例0例。截至4月4日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例1376例（其中重症病例295例），累计治愈出院病例76964例，累计死亡病例3329例，累计报告确诊病例81669例，现有疑似病例107例。累计追踪到密切接触者713110人，尚在医学观察的密切接触者17436人。",
@@ -69,24 +87,6 @@
             "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间4日晚十一点，当天新增感染者367人，累计新冠肺炎确诊病例达到3497例。目前日本国内感染新冠肺炎患者的死亡人数为84人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFvlKUZooy4QEmxQqbyIr200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586014696000",
-            "title": "德国总理默克尔满意度此任期内创新高",
-            "summary": "德国媒体最新的一项民意调查显示，民众对总理安格拉·默克尔在此任期内工作的满意度达到最高点。 超过60％的受访者对她表示满意或非常满意。 卫生部长斯潘的满意度为60％，财政部长朔尔茨的满意度为63％。调查显示，大多数德国民众对默克尔所领导的内阁应对新冠肺炎疫情的表现表示满意。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV0vzN8fDfnAqobr7xvvm200404&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586013192000",
-            "title": "刚果（布）新增4例新冠肺炎确诊病例 累计45例",
-            "summary": "当地时间4月4日下午，根据当地媒体的报道，刚果（布）抗击新冠疫情国家委员会（Le comité national de la riposte contre le COVID-19）协调员吉尔伯特（Gilbert Ndziessi）宣布，该国新增4例新冠肺炎确诊病例。截至4日下午，该国累计确诊新冠肺炎病例45例，死亡5例，新增的2例死亡病例是私人医疗机构的工作人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSszK3TahqOfpILibPwE2200404&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
