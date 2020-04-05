@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586064347000",
+            "title": "哈萨克斯坦新冠肺炎确诊病例达551例 新增20例",
+            "summary": "哈萨克斯坦新冠肺炎疫情防控指挥部5日通报称，截至当地时间9时15分，境内共有新冠肺炎确诊病例551例，较前一天增加20例。治愈36例，死亡5例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLbExzpLKNepPf6oEYFg200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586063806000",
+            "title": "上海有27例确诊病例5日出院 共计383例治愈出院",
+            "summary": "上海市卫生健康委今日（5日）通报：27例新冠肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新冠肺炎确诊病例解除隔离和出院标准，于今日出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQlyqzSrEIE0IQXuWcwn200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586061383000",
             "title": "泰国南部宋卡府宣布封城 加强疫情防控",
             "summary": "当地时间4月5日上午，泰国宋卡府府尹扎喇坞·廉杰拉Charuwat Klaengkla宣布，从4月6日起至30日，禁止任何人以陆路和水上的交通方式进出宋卡府。",
@@ -69,24 +87,6 @@
             "summary": "据约翰斯·霍普金斯实时数据统计显示，截至北京时间4月5日9时24分，全球新冠肺炎累计确诊病例已超过120万，共1201591例。累计死亡病例64703例。\n",
             "infoSource": "人民日报海外版",
             "sourceUrl": "http://m.weibo.cn/3057540037/4490282093683849",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586045875000",
-            "title": "加拿大新冠肺炎确诊病例达14018例 新增1552例",
-            "summary": "根据加拿大各省和地区4日当天公布的新冠疫情统计数据，截止到发稿时（当地时间4日19时40分），加拿大累计确诊新冠病毒感染病例14018例，死亡病例233例。分别比此前一天增加1552例和46例",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2Coy4iKnaWMjPOaydZdr200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586045229000",
-            "title": "巴拿马新增128例新冠肺炎确诊病例 累计达1801例",
-            "summary": "巴拿马卫生部4日宣布新增128例新冠肺炎确诊病例，全国累计病例达1801例，其中229人入院治疗，75人为重症，死亡病例升至46例。巴拿马卫生部当天呼吁民众正确使用口罩有效避免感染新冠肺炎病毒",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX7xQL9EmZlCjYyPoYRQf200405&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
