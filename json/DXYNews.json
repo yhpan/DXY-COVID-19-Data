@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586057356000",
+            "title": "澳大利亚新冠肺炎确诊病例增至5635例 新增181例",
+            "summary": "根据澳大利亚联邦卫生部4月5日最新统计，截止当地时间6时，澳大利亚累计确诊新冠肺炎感染病例达5635例，包括34个死亡病例，过去的24小时累计新增181例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFYXzYXmlzNVrhwQDIwC200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586053706000",
+            "title": "智利新增新冠肺炎确诊病例424例 全民隔离期间居民外出每周最多两次",
+            "summary": "当地时间4月4日，智利卫生部最新数据显示，该国单日新增新冠肺炎确诊病例424例，死亡病例5例。截至目前累计确诊病例4161例，死亡病例27例，治愈病例528例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJssfQjtnEAThUsMB17sS200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586052279000",
             "title": "纽约市新冠肺炎死亡人数达2624人 公共服务及交通受冲击",
             "summary": "当地时间4月4日，据纽约州长办公室介绍，纽约市因新冠肺炎死亡人数已经达到了2624人，而新冠肺炎确诊人数也达到了63306例。\n纽约公共事务收到新冠肺炎疫情剧烈冲击，其中纽约市警察局（NYPD）目前已有1775名警察及260名非出警人员新冠肺炎测试呈阳性。此外，6698名警察申请病假，数量达到了警力的18.5%。",
@@ -69,24 +87,6 @@
             "summary": "世卫组织实时统计数据显示，截至欧洲中部时间4月4日18时（北京时间4月5日0时），全球确诊新冠肺炎1056159例，死亡57206例。目前全球已有207个国家和地区出现新冠肺炎病例，中国以外超过97万例。\n",
             "infoSource": "央视新闻",
             "sourceUrl": "http://m.weibo.cn/2656274875/4490250904876127",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586041203000",
-            "title": "美国新增新冠肺炎确诊病例逾3.1万例# 累计确诊逾30万例",
-            "summary": "据美国约翰斯·霍普金斯大学发布的实时统计数据显示，截至北京时间4月5日06时30分左右，全球新冠肺炎确诊病例逾110万例，共计1192028例。其中美国累计确诊305820例；死亡病例8291例；康复人数14520人。与前一天6时30分数据相比，美国新增确诊病例31940例；死亡病例新增1215例。网页链接\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4490244612913873",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586040944000",
-            "title": "哥伦比亚新增139例新冠肺炎确诊病例 累计1406例",
-            "summary": "哥伦比亚卫生部4日宣布新增139例新冠肺炎确诊病例，全国累计病例达1406例，死亡病例升至32例，治愈病例85例。截至当天，全国已完成至少22300例新冠肺炎病毒检测。在确诊病例中仍有403名患者的传染路径尚未查明，比例约占28%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4J5UczNKz5fBdWTdKL200405&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
