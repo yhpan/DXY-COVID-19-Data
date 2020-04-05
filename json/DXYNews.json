@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1586070635000",
+            "title": "东京5日新增新冠肺炎确诊病例超130例 累计确诊超1000例",
+            "summary": "据NHK从东京都政府消息人士处获悉，当地时间5日，东京确诊新冠肺炎感染者超过130人，为疫情发生以来确诊人数最多的一天。截至目前，东京确诊人数超过1000人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwPAxevPxPk0Zks8FlAsy200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586070529000",
+            "title": "澳大利亚“红宝石公主”号邮轮已有超过620人感染新冠肺炎",
+            "summary": "4月5日，澳大利亚新南威尔士州警方宣布，截至目前，曾靠港悉尼的“红宝石公主”号邮轮的游客和船员中，已经有超过620人确诊感染新冠肺炎，10人已经死亡。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZFcwR9Ak8khUfgihvFZb200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586067603000",
+            "title": "西班牙确诊新冠肺炎超12万例",
+            "summary": "当地时间4日，据西班牙卫生部消息，西班牙累计确诊新冠肺炎124736例，单日新增7026例。西班牙首相桑切斯宣布，政府将申请延长国家紧急状态至4月25日24时，该提议将于7日提交国会表决。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4490355342771564",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586067437000",
+            "title": "乌兹别克斯坦新增32例新冠肺炎确诊病例 累计确诊298例",
+            "summary": "5日，乌兹别克斯坦卫生部发布消息称，截至5日上午11时，乌新增新冠肺炎确诊病例32例，累计确诊达298例，其中2人死亡，25人治愈。消息还指出，目前乌兹别克斯坦有超过10万人被隔离，其中2.3万人在医院接受隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK6R8DM8cbGVQo89HE74I200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586064529000",
+            "title": "山东省现有12例无症状感染者个案信息公布：最小仅1岁",
+            "summary": "目前，山东省现有正在接受隔离观察治疗的无症状感染者12例，其中境外输入11例，本地1例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWyn7b6t6VuhjtSlafCX200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586064347000",
             "title": "哈萨克斯坦新冠肺炎确诊病例达551例 新增20例",
             "summary": "哈萨克斯坦新冠肺炎疫情防控指挥部5日通报称，截至当地时间9时15分，境内共有新冠肺炎确诊病例551例，较前一天增加20例。治愈36例，死亡5例。",
@@ -42,51 +87,6 @@
             "summary": "根据澳大利亚联邦卫生部4月5日最新统计，截止当地时间6时，澳大利亚累计确诊新冠肺炎感染病例达5635例，包括34个死亡病例，过去的24小时累计新增181例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFYXzYXmlzNVrhwQDIwC200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586053706000",
-            "title": "智利新增新冠肺炎确诊病例424例 全民隔离期间居民外出每周最多两次",
-            "summary": "当地时间4月4日，智利卫生部最新数据显示，该国单日新增新冠肺炎确诊病例424例，死亡病例5例。截至目前累计确诊病例4161例，死亡病例27例，治愈病例528例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJssfQjtnEAThUsMB17sS200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586052279000",
-            "title": "纽约市新冠肺炎死亡人数达2624人 公共服务及交通受冲击",
-            "summary": "当地时间4月4日，据纽约州长办公室介绍，纽约市因新冠肺炎死亡人数已经达到了2624人，而新冠肺炎确诊人数也达到了63306例。\n纽约公共事务收到新冠肺炎疫情剧烈冲击，其中纽约市警察局（NYPD）目前已有1775名警察及260名非出警人员新冠肺炎测试呈阳性。此外，6698名警察申请病假，数量达到了警力的18.5%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN3pbOzUX6S4HRgRbprqd200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586050683000",
-            "title": "新西兰新增89例新冠肺炎确诊病例,累计1039例",
-            "summary": "据新西兰国家广播电台网站消息，当地时间4月5日，过去24小时，新西兰新增89例新冠肺炎病例，累计确诊病例超过1000例，为1039例。\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4490284374916876",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586050206000",
-            "title": "韩国新冠肺炎累计确诊病例升至10237例,日新增不到百例",
-            "summary": "韩国中央防疫对策本部5日通报，截至当天0时（4月4日0时至4月5日0时），韩国新增新冠肺炎确诊病例81例，累计确诊病例升至10237例。新增死亡病例6例，累计死亡病例升至183例。累计治愈并解除隔离6463例，较前一日新增138例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKJcqUMN8CkpCzQQkvDoH200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586050138000",
-            "title": "全球新冠肺炎确诊病例超120万,累计死亡64703例",
-            "summary": "据约翰斯·霍普金斯实时数据统计显示，截至北京时间4月5日9时24分，全球新冠肺炎累计确诊病例已超过120万，共1201591例。累计死亡病例64703例。\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4490282093683849",
             "province": null,
             "provinceId": ""
         }
