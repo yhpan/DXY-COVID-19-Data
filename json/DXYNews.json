@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1586073596000",
+            "title": "沙特新增191例新冠肺炎确诊病例 累计2370例",
+            "summary": "沙特卫生部网站当地时间5日上午公布的数字显示，截至当地时间4月4日午夜沙特境内新增191例新型冠状病毒肺炎确诊病例，累计确诊病例数达2370例，其中420名患者已痊愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJItNlMHpTkSz2wVJsKPg200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586072126000",
+            "title": "乌克兰新增新冠肺炎确诊病例26例 累计1251例",
+            "summary": "当地时间4月5日，乌克兰卫生部发布消息称，截止到当日上午10时，乌克兰新冠肺炎确诊病例累计1251例，较前一日晚新增26例，单日内新增156例。截至目前，乌克兰共报告新冠肺炎死亡病例32例，治愈病例25例。因疫情发展，乌克兰已于3月25日宣布国家进入紧急情况，时间持续至4月24日 。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwdTMUsK0LZBinkC5dYCZ200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586072074000",
+            "title": "以色列新冠肺炎确诊病例新增167例 累计8018例",
+            "summary": "当地时间4月5日上午，以色列卫生部公布的最新疫情通报显示，在过去的12个小时（4日晚22时至5日10时），该国新冠肺炎确诊病例增加了167例，累计8018例；新增死亡3例，死亡累计46例；127人病情危重，其中106人使用呼吸机；477人康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXZ7pWCY46oDJLwGqvswG200405&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586070635000",
             "title": "东京5日新增新冠肺炎确诊病例超130例 累计确诊超1000例",
             "summary": "据NHK从东京都政府消息人士处获悉，当地时间5日，东京确诊新冠肺炎感染者超过130人，为疫情发生以来确诊人数最多的一天。截至目前，东京确诊人数超过1000人。",
@@ -60,33 +87,6 @@
             "summary": "上海市卫生健康委今日（5日）通报：27例新冠肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新冠肺炎确诊病例解除隔离和出院标准，于今日出院。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQlyqzSrEIE0IQXuWcwn200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586061383000",
-            "title": "泰国南部宋卡府宣布封城 加强疫情防控",
-            "summary": "当地时间4月5日上午，泰国宋卡府府尹扎喇坞·廉杰拉Charuwat Klaengkla宣布，从4月6日起至30日，禁止任何人以陆路和水上的交通方式进出宋卡府。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigS32sOcWC6B6yEL1gFRo200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586060417000",
-            "title": "泰国新增102例新冠肺炎确诊病例 累计2169例",
-            "summary": "当地时间5日，泰国疾控厅通报了最新疫情数据。与上一日相比新增102例新冠肺炎确诊病例和3例死亡病例。截止到当地时间4月5日上午，泰国确诊病例累计2169例，其中死亡病例23例，治愈病例674例，1472例正在留院治疗。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUbChHJfQWJPfcxQ6grB200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586057356000",
-            "title": "澳大利亚新冠肺炎确诊病例增至5635例 新增181例",
-            "summary": "根据澳大利亚联邦卫生部4月5日最新统计，截止当地时间6时，澳大利亚累计确诊新冠肺炎感染病例达5635例，包括34个死亡病例，过去的24小时累计新增181例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFYXzYXmlzNVrhwQDIwC200405&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
