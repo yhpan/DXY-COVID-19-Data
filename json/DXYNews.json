@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1586104686000",
+            "title": "布基纳法索新增27例新冠肺炎确诊病例 累计确诊345例",
+            "summary": "据布基纳法索卫生部统计，当地时间4月3日，布基纳法索新增27例新冠肺炎确诊病例，累计345例（226名男性，119名女性）。当天新增24例治愈，累计治愈90例；当天新增死亡1例，累计死亡17例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiACfm5EUqmvJdc1wNucxH200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586104394000",
+            "title": "意大利新增4316例新冠肺炎确诊病例 累计确诊128948例",
+            "summary": "当地时间5日，意大利民事保护部公布统计数字显示，截至当天18时，意大利24小时新增4316例新冠肺炎确诊病例，累计确诊128948例，死亡15887例，治愈21815例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrEe8EEdlcf5LcqRkVcr200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586104341000",
+            "title": "挪威新增135例新冠肺炎确诊病例 全国累计5686病例",
+            "summary": "当地时间4月5日，挪威《晚邮报》报道，截止到当日18时，挪威当日新增135例，全国累计确诊病例5686例，全国累计死亡70例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiODws1KAzMaKkfNIfqEaX200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586103644000",
             "title": "阿塞拜疆新增63例新冠肺炎确诊病例 累计确诊584例",
             "summary": "据俄媒援引阿塞拜疆政府疫情防控指挥部4月5日消息，阿塞拜疆境内当日新增63例新冠肺炎确诊病例，累计确诊病例达584例。在确诊病例中，32人治愈出院，5人死亡。",
@@ -60,33 +87,6 @@
             "summary": "当地时间4月5日，爱沙尼亚国家广播电视台ERR报道，爱沙尼亚当日新增79例新冠肺炎确诊病例，全国累计确诊1097例，累计15人死亡。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibU8SjlWccHGheztoc4qi200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586102045000",
-            "title": "拉脱维亚新增24例新冠肺炎确诊病例 累计确诊533例",
-            "summary": "当地时间4月5日，拉脱维亚通讯社（LETA）报道，当日拉脱维亚新增24例新冠肺炎病例，全国累计533例。在拉脱维亚进行的新冠肺炎病毒检测总数已至20680人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV4JrGsG3pjKxxBFvBB1o200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586101837000",
-            "title": "肯尼亚新增16例新冠肺炎确诊病例 累计确诊142例",
-            "summary": "肯尼亚卫生部于当地时间4月5日发表消息称，新增16例确诊新冠肺炎病例，其中11人有国外旅行史，5人为本地社区感染。目前肯尼亚累计确诊数从126例上升为142例，累计4例死亡，4例康复，现存病例为134例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisrlfqdEvyKPEhBXmj2cq200405&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586101827000",
-            "title": "斯洛伐克新增14例新冠肺炎确诊病例 累计确诊485例",
-            "summary": "当地时间4月5日，斯洛伐克卫生部长克拉伊奇通报称，4月4日境内新增新冠肺炎确诊病例14例，其中有两名年仅8岁的小女孩，累计确诊病例为485例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizsoJtEFNqEEAvXV6C90s200405&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
