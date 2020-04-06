@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1586133601000",
+            "title": "智利累计确诊病例达4471例 成为受新冠肺炎影响最严重25个国家之一",
+            "summary": "当地时间4月5日，智利卫生部宣布该国新增新冠肺炎确诊病例310例，累计达4471例；新增死亡7例，累计达34例；治愈病例为598例。按照这一最新数据，智利成为全世界受新冠肺炎影响最严重的25个国家之一，在拉丁美洲仅次于巴西。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8xgjovIEA4MO8vDGRoi200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586133521000",
+            "title": "陕西无新增境外输入新冠肺炎   累计境外输入11例",
+            "summary": "2020年4月5日8时至6日8时，陕西无新增境外输入新冠肺炎确诊病例，治愈出院1例。新增密切接触者14人，其中境外输入病例密切接触者10人、外省协查4人。",
+            "infoSource": "陕西卫健委",
+            "sourceUrl": "http://sxwjw.shaanxi.gov.cn/art/2020/4/6/art_9_69425.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586133511000",
+            "title": "四川省新型冠状病毒肺炎疫情最新情况（4月6日发布）",
+            "summary": "4月5日0-24时，四川省新型冠状病毒肺炎新增1例确诊病例（为境外输入），新增1例治愈出院病例，无新增疑似病例，无新增死亡病例。",
+            "infoSource": "四川卫健委",
+            "sourceUrl": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/4/6/2d06e73d4ee14597bb375ece4b6f02ac.shtml",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586133063000",
+            "title": "国家卫健委4月6日最新通报：新增新冠肺炎确诊病例39例 其中广东新增1例本土病例",
+            "summary": "4月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例39例，其中38例为境外输入病例，1例为本土病例（广东1例）；新增死亡病例1例（湖北1例）；新增疑似病例10例，均为境外输入病例。当日新增治愈出院病例114例，解除医学观察的密切接触者2151人，重症病例减少30例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFZkEgpHMhl24DQxuse04200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586132880000",
+            "title": "新疆 (含兵团) 4 月 5 日新型冠状病毒肺炎病例无新增",
+            "summary": "2020年4月5日0-24时，新疆（含兵团）报告新型冠状病毒肺炎新增确诊病例0例，新增无症状感染者0例。",
+            "infoSource": "新疆卫健委",
+            "sourceUrl": "http://www.xjhfpc.gov.cn/info/2070/19972.htm",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586127420000",
             "title": "摩洛哥5日晚再增31例新冠肺炎确诊病例 累计过千",
             "summary": "摩洛哥卫生部4月5日18时证实，该国当天又增加31例新冠肺炎确诊病例和1例死亡病例。目前摩洛哥累计确诊1021例，死亡70例，治愈76例。",
@@ -42,51 +87,6 @@
             "summary": "突尼斯卫生部当天（5日）晚通报，当天突尼斯各实验室完成了658份病毒检测，确认新增21例新冠肺炎确诊病例，新增死亡4例。截至突尼斯当地时间4月5日晚，突尼斯新冠肺炎确诊病例累计达574例，累计死亡22例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyFCpLZ7IZOdr49DJD5NN200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586124183000",
-            "title": "马达加斯加新冠肺炎确诊病例累计72例 首次出现治愈病例",
-            "summary": "当地时间4月5日，马达加斯加通报新增1例新冠肺炎确诊病例，为21岁女性，属于输入病例。\n目前，累计确诊人数为72例，无死亡病例。同时，今日也有两名确诊病例治愈。这是马达加斯加首次出现治愈病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQmzuGSDoY4BtreUFbvBY200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586123523000",
-            "title": "波兰新增475例新冠肺炎确诊病例 累计确诊4102例",
-            "summary": "当地时间4月5日，根据波兰卫生部公布的疫情数据，当天波兰境内新增新冠肺炎确诊病例475例，累计确诊4102例；新增死亡病例15例，累计死亡94例；新增治愈病例18例，累计治愈134例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikpQepekgUQeJJOBAHEoe200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586122275000",
-            "title": "加蓬新增3例新冠肺炎确诊病例 累计确诊24例",
-            "summary": "当地时间4月5日晚，加蓬卫生部发布消息称，该国新增3例新冠肺炎确诊病例，全部都是本地社区传播病例。截至5日晚，加蓬累计确诊新冠肺炎病例24例，其中1例死亡，1例治愈。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3f4ftj8jzzu6lvZYN0Er200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586104686000",
-            "title": "布基纳法索新增27例新冠肺炎确诊病例 累计确诊345例",
-            "summary": "据布基纳法索卫生部统计，当地时间4月3日，布基纳法索新增27例新冠肺炎确诊病例，累计345例（226名男性，119名女性）。当天新增24例治愈，累计治愈90例；当天新增死亡1例，累计死亡17例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiACfm5EUqmvJdc1wNucxH200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586104394000",
-            "title": "意大利新增4316例新冠肺炎确诊病例 累计确诊128948例",
-            "summary": "当地时间5日，意大利民事保护部公布统计数字显示，截至当天18时，意大利24小时新增4316例新冠肺炎确诊病例，累计确诊128948例，死亡15887例，治愈21815例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrEe8EEdlcf5LcqRkVcr200406&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
