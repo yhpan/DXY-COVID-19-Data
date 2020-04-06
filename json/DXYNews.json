@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586143482000",
+            "title": "蒙古国新增1例新冠肺炎确诊病例 累计确诊15例",
+            "summary": "当地时间4月6日，蒙古国卫生部在当日上午11点举行的视频直播例行新闻发布会上宣布，截至目前，在蒙古国境内仍有2075人在接受隔离观察。当日（6日）无新增疑似病例，新增1例确诊病例，是一位土耳其公民，至此，在蒙古国境内累计出现的境外新冠肺炎输入确诊病例已增至15例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4ZEnLBjRnvQioic4LpTM200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586139041000",
             "title": "新西兰新增39例新冠肺炎确诊病例 累计确诊911例",
             "summary": "当地时间4月6日，新西兰卫生部门确认，过去24小时，新西兰新增67例新冠肺炎病例，其中39例确诊病例，28例疑似病例。新西兰累计新冠肺炎病例1106例，其中确诊病例累计911例，疑似病例195例，死亡1例。",
@@ -78,15 +87,6 @@
             "summary": "2020年4月5日8时至6日8时，陕西无新增境外输入新冠肺炎确诊病例，治愈出院1例。新增密切接触者14人，其中境外输入病例密切接触者10人、外省协查4人。",
             "infoSource": "陕西卫健委",
             "sourceUrl": "http://sxwjw.shaanxi.gov.cn/art/2020/4/6/art_9_69425.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586133511000",
-            "title": "四川省新型冠状病毒肺炎疫情最新情况（4月6日发布）",
-            "summary": "4月5日0-24时，四川省新型冠状病毒肺炎新增1例确诊病例（为境外输入），新增1例治愈出院病例，无新增疑似病例，无新增死亡病例。",
-            "infoSource": "四川卫健委",
-            "sourceUrl": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/4/6/2d06e73d4ee14597bb375ece4b6f02ac.shtml",
             "province": null,
             "provinceId": ""
         }
