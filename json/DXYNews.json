@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586139041000",
+            "title": "新西兰新增39例新冠肺炎确诊病例 累计确诊911例",
+            "summary": "当地时间4月6日，新西兰卫生部门确认，过去24小时，新西兰新增67例新冠肺炎病例，其中39例确诊病例，28例疑似病例。新西兰累计新冠肺炎病例1106例，其中确诊病例累计911例，疑似病例195例，死亡1例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGaCKEclOx4UCQVBG21Ft200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586139009000",
+            "title": "澳大利亚新增109例新冠肺炎确诊病例 累计5744例",
+            "summary": "截至当地时间4月6日上午6时，澳大利亚在过去24小时内，新增新冠肺炎确诊病例109例。目前，全国累计确诊5744例，死亡36例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaQ1icnh6UDxWDX9Qw6XK200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586138996000",
+            "title": "浙江4月6日最新通报：新增境外输入新冠肺炎确诊病例1例 系西班牙输入病例",
+            "summary": "4月5日0-24时，浙江新增境外输入新冠肺炎确诊病例1例（西班牙输入）。无新增出院病例。截至4月5日24时，累计报告境外输入确诊病例46例，累计出院14例。4月5日0-24时，新增无症状感染者4例（均为境外输入，其中乌克兰1例、阿富汗2例、俄罗斯1例）。无当日转为确诊病例，无当日解除隔离病例。截至4月5日24时，尚在医学观察无症状感染者51例（其中境外输入38例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMomc427NODQ6xkbhS4aM200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586137503000",
+            "title": "2名香港警员先后确诊新冠肺炎 122名警员须隔离",
+            "summary": "香港卫生署卫生防护中心传染病处主任张竹君称，一名隶属香港西九龙总区机动部队的46岁男警长4日确诊感染新冠肺炎，该名警员与3月30日确诊的西九龙机动部队男警员，几乎没有直接接触，仅知道两人共用过警署内同层洗手间，或是接触了受污染物件，如把手或洗手盆等，而受到感染。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQ7Q0c3g3o9DXwSi6kv8200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586136780000",
             "title": "四川省4月6日最新通报：新增1例境外输入病例 新增1例治愈出院病例",
             "summary": "4月5日0-24时，四川省新型冠状病毒肺炎新增1例确诊病例（为境外输入），新增1例治愈出院病例，无新增疑似病例，无新增死亡病例。",
@@ -51,42 +87,6 @@
             "summary": "4月5日0-24时，四川省新型冠状病毒肺炎新增1例确诊病例（为境外输入），新增1例治愈出院病例，无新增疑似病例，无新增死亡病例。",
             "infoSource": "四川卫健委",
             "sourceUrl": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/4/6/2d06e73d4ee14597bb375ece4b6f02ac.shtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586133063000",
-            "title": "国家卫健委4月6日最新通报：新增新冠肺炎确诊病例39例 其中广东新增1例本土病例",
-            "summary": "4月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例39例，其中38例为境外输入病例，1例为本土病例（广东1例）；新增死亡病例1例（湖北1例）；新增疑似病例10例，均为境外输入病例。当日新增治愈出院病例114例，解除医学观察的密切接触者2151人，重症病例减少30例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFZkEgpHMhl24DQxuse04200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586132880000",
-            "title": "新疆 (含兵团) 4 月 5 日新型冠状病毒肺炎病例无新增",
-            "summary": "2020年4月5日0-24时，新疆（含兵团）报告新型冠状病毒肺炎新增确诊病例0例，新增无症状感染者0例。",
-            "infoSource": "新疆卫健委",
-            "sourceUrl": "http://www.xjhfpc.gov.cn/info/2070/19972.htm",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586132640000",
-            "title": "湖南省新型冠状病毒肺炎疫情信息发布",
-            "summary": "020年4月5日0-24时，湖南省报告新型冠状病毒肺炎新增确诊病例0例。截至4月5日24时，湖南省累计报告新型冠状病毒肺炎确诊病例1019例，死亡病例4例，出院病例1014例。\n        ",
-            "infoSource": "湖南卫健委",
-            "sourceUrl": "http://wjw.hunan.gov.cn/wjw/xxgk/gzdt/zyxw_1/202004/t20200406_11872027.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586127420000",
-            "title": "摩洛哥5日晚再增31例新冠肺炎确诊病例 累计过千",
-            "summary": "摩洛哥卫生部4月5日18时证实，该国当天又增加31例新冠肺炎确诊病例和1例死亡病例。目前摩洛哥累计确诊1021例，死亡70例，治愈76例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmEZjzcsC2k1guu9KsUI200406&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
