@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1586175506000",
+            "title": "约翰斯·霍普金斯大学：全球新冠死亡病例超过7万例",
+            "summary": "美国约翰斯·霍普金斯大学6日发布的全球新冠疫情最新统计数据显示，全球累计死亡病例已超过7万例，累计确诊病例已超过128万例。",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4490807921138074",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586174386000",
+            "title": "1400多名医疗队员今日撤离武汉",
+            "summary": "今天（4月6日），各地援鄂医疗队的1400多名医护人员在完成救治任务后撤离，国家及各地援鄂医疗队还有1500多人留在武汉，与本地医护人员一起，继续加强对重症、危重症患者的救治。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIsfmdekzq1nsITqnqZwA200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586173632000",
+            "title": "​安道尔新冠肺炎确诊病例增至526例 死亡21例",
+            "summary": "当地时间4月6日，据安道尔卫生部长贝纳泽的最新通报，安道尔境内累计新冠肺炎确诊病例已升至526例。其中55例住院治疗（17名病患在重症监护室），419例处于隔离状态。另有21例死亡，31例治愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioaXJggUqW2XlhHE7mAoR200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586173130000",
+            "title": "印度政府：下调内阁成员未来一年工资30%以应对疫情",
+            "summary": "印度政府当地时间6日下午召开内阁联合会议商讨目前疫情形势，印度总理莫迪及内阁部长等政要出席会议。会议结束后，印度新闻信息广播部长普拉卡什·贾瓦德卡尔在新闻发布会上宣布，印度政府决定下调内阁成员及政府议员未来一年工资的30%，消减的工资将划拨到印度联合基金会，用于抗击新冠肺炎疫情。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyV6ruqn7wyXZHiu7X6u1200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586172671000",
+            "title": "喀麦隆新增8例新冠肺炎确诊病例  累计658例",
+            "summary": "当地时间4月6日，根据喀麦隆公共卫生部长马拉切·马纳乌达（Manaouda Malachie）在社交媒体上发布的消息和喀麦隆国家电视台（CRTV）的报道，通过对48份样本的检测，该国新发现8例新冠肺炎确诊病例，其中1例位于雅温得，7例位于杜阿拉。截至6日中午，该国累计确诊新冠肺炎病例658例，其中9例死亡，17例治愈。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAgO4fJGeUxVb8LJxmow200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586172483000",
             "title": "尼泊尔再次延长“封城”措施",
             "summary": "当地时间4月6日，尼泊尔内阁会议决定将已经执行了两周的“封城”规定延长到4月15日，届时尼泊尔的“封城”将达到21天。",
@@ -42,51 +87,6 @@
             "summary": "中国工程院院士、中国医学科学院院长王辰：我国目前疫情防控效果明显，但对新冠病毒的认识还远远不够，对其传播规律也缺乏想象力，所以还不是歇口气的时候，还要对疫情是否反复保持足够警惕。",
             "infoSource": "人民日报",
             "sourceUrl": "http://m.weibo.cn/2803301701/4490782067263971",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586168964000",
-            "title": "引导线上踏青文明祭扫 清明节期间北京各大博物馆推出22项主题活动",
-            "summary": "清明节期间，北京地区博物馆坚持闭馆不闭展，在紧抓疫情防控工作的同时，利用已有资源运用新媒体传播技术，以“忆满京城 情思华夏”为主题开展线上传统节日文化活动。据不完全统计，共推出清明节线上主题文化活动22项，开展线上教育与公益活动46次。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZKdfDIBJMq7oLD4kDYBU200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586168948000",
-            "title": "驻日美军宣布关东地区美军基地进入公共卫生紧急状态",
-            "summary": "鉴于日本东京地区新冠肺炎疫情扩大，驻日美军司令部6日宣布，关东地区的美军基地和设施进入公共卫生紧急状态，时间持续至5月5日。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMpnG3f2M2CsDBnu944EJ200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586168647000",
-            "title": "云南19个陆路口岸 14个通道暂停客运功能 仅保留货运通行功能",
-            "summary": "为有效应对疫情跨境输入风险，云南已对19个陆路口岸、14个通道暂停客运功能，仅保留货运通行功能，其余通道暂时关闭。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7qQeu8vgzH97evFvXtrx200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586168520000",
-            "title": "上海援鄂医疗队471人今日平安返沪",
-            "summary": "4月6日下午，上海援鄂医疗队471人平安返回上海。医疗队员分成两批，从武汉搭乘当日下午两架东航包机航班返沪。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPRycQtJtlYxYkMGm1e9I200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586168460000",
-            "title": "世卫组织：全球新冠肺炎累计超过117万例",
-            "summary": "世卫组织实时统计数据显示，截至欧洲中部时间4月6日2时（北京时间4月6日8时），全球确诊新冠肺炎1174866例，死亡64541例，目前欧洲区域已有621407例，中国以外超过109万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXsLJhQMOOATETJBi1np200406&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
