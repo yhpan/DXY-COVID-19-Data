@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586186532000",
+            "title": "​巴基斯坦新增新冠肺炎确诊病例502例 累计确诊3658例",
+            "summary": "截至当地时间6日19:48，巴基斯坦当地媒体报新增病例502新冠肺炎确诊病例，全国累计确诊3658例，52例死亡病例，257人康复。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0JwgINTu62B6MrlhCOxS200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586184864000",
+            "title": "​毛里求斯新增17例新冠肺炎确诊病例 累计确诊244例",
+            "summary": "毛里求斯卫生部于当地时间4月6日发布消息称，毛里求斯新增17例确诊新冠肺炎病例，4例康复病例。累计确诊数从原来的227例上升到244例，累计7例死亡，4例康复，现存确诊233例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCvlGnINFsJxEHltNhemH200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586184237000",
+            "title": "吉布提新冠肺炎确诊病例累计达90例",
+            "summary": "当地时间4月6日，吉布提卫生部发布公告，在当天的513次检测中，确诊31例新冠肺炎病例，目前吉布提累计确诊病例达90例，治愈9例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1JJrlcNA9nStCKZ9Eewa200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586183851000",
+            "title": "英国伦敦10名公交系统工作者确诊新冠肺炎后死亡",
+            "summary": "当地时间6日中午，伦敦市长萨迪克·汗（Sadiq Khan）通过视频表示，过去几天英国伦敦共计10名公交系统工作者确诊新冠肺炎后死亡，其中8名为公交车工作人员，1名为地铁工作人员，另1名为伦敦交通局工作人员。他紧急呼吁伦敦人除非必须出行，否则停止使用公共交通，把出行份额让给NHS（英国国家医疗服务体系）医务人员及其他关键岗位的工作人员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1q8nPzmDCP92oTyoe5Xg200406&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586183330000",
             "title": "缅甸新增1例新冠肺炎确诊病例 累计确诊22例",
             "summary": "据缅甸卫生部4月6日晚消息，缅甸新增1例新冠肺炎确诊病例，累计确诊22例。该病例为一名51岁的缅甸女子，已被送至维巴基医院，健康状况良好。同日，缅甸卫生部门还确认来自瑞士的七号病例化验结果转阴，至此缅甸已出现两例确诊患者转阴。同时，缅甸的新冠肺炎确诊病例大多为输入病例。",
@@ -51,42 +87,6 @@
             "summary": "德国内政部长泽霍费尔6日宣布，自4月10日起，所有抵达德国的旅客都必须进行14天的自我隔离。由于德国此前已经禁止非欧盟居民入境，该措施将主要影响德国和欧盟居民。不过，居住在德国边境地区的医疗卫生部门的工作人员及短期入境的商务旅客和技术人员不受这一限制。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQAgvVLiTj9t8FWoDsAI200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586181424000",
-            "title": "越南新冠肺炎确诊病例增至245例",
-            "summary": "据越南卫生部4月6日消息，越南当日新增4例新冠肺炎确诊病例。截至记者发稿时，该国新冠肺炎确诊病例增至245例。另据越南卫生部6日消息，4名新冠肺炎确诊病例宣布病愈出院。截至目前，越南已有95人病愈出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFx48bXgZ83qSe3Ecdoa200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586180889000",
-            "title": "​阿塞拜疆新增新冠肺炎确诊病例57例 累计确诊641例",
-            "summary": "据俄媒援引阿塞拜疆政府疫情防控指挥部4月6日消息，阿塞拜疆境内当日新增确诊新冠肺炎病例57例，累计确诊病例升至641例。其中44人治愈出院，7人死亡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilad7qEzaFoFN1hPXoE87200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586179941000",
-            "title": "阿联酋新增277例新冠肺炎确诊病例 累计2076例",
-            "summary": "据阿通社报道，当地时间4月6日，阿联酋卫生和预防部发表声明确认该国新增新冠肺炎确诊病例277例，新增23例治愈病例，新增1例死亡病例。截至目前，阿联酋新冠肺炎确诊病例总数已达到2076例。共计治愈病例167例，死亡病例11例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiikaRscaXi1DhA5MgEjbD200406&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586178980000",
-            "title": "斯洛伐克新冠肺炎确诊病例累计534例 高级别口罩仅供医护人员和政府机构",
-            "summary": "当地时间4月6日，斯洛伐克总理马托维奇通报称，4月5日境内新增新冠肺炎确诊病例49例，年龄都在60岁以下，其中有34名感染者近期从奥地利返回，累计确诊病例为534例。目前有8名患者已完全康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8d3nL9ZNqYAlUQmIO1oH200406&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
