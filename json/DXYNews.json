@@ -1,6 +1,60 @@
 {
     "results": [
         {
+            "pubDate": "1586226015000",
+            "title": "加拿大新冠感染病例增至16666例 不列颠哥伦比亚省疫情好转",
+            "summary": "加拿大不列颠哥伦比亚省首席医疗官波尼·亨利当地时间6日在例行的疫情通报会上宣布，该省新冠病毒增速的曲线已经向下弯曲，这是个非常重要的变化。根据央视记者的统计，多数省份最近两天的新增感染病例与两天前相比，都有所减少，或者没有新增。截至当地时间6日18时，加拿大累计确诊新冠病毒感染病例16666例，死亡病例323例。分别比此前一天增加1154例和43例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRPSkbzhHcuCwf8G18rh200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586224907000",
+            "title": "天津4月7日通报：6日18时至7日6时 无新增新冠肺炎确诊病例",
+            "summary": "4月6日18时至7日6时，天津无新增报告境外输入确诊病例。累计报告境外输入确诊病例44例（中国籍40例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院18例，在院26例（危重型1例、普通型17例、轻型8例）。天津市尚在医学观察的无症状感染者1例（境外输入）。4月6日18时至7日6时，天津无新增报告本地新冠肺炎确诊病例，累计报告本地新冠肺炎确诊病例136例，",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQqVHTQ7Yg0dPvGLW6Mx200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586224802000",
+            "title": "新西兰新增32例新冠肺炎病例 累计确诊943例",
+            "summary": "根据新西兰卫生部门数据，截至当地时间4月7日下午，新西兰新增32例新冠肺炎确诊病例，新增22例疑似病例。新西兰累计确诊病例943例，疑似217例。截至目前，有241人已经康复。（总台记者 林清辉）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ7nKkyQP5gl6njC8hae6200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586223938000",
+            "title": "2020年4月6日西藏自治区新型冠状病毒肺炎疫情情况",
+            "summary": " 截止4月6日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续68天无新增确诊或疑似病例。",
+            "infoSource": "西藏卫健委",
+            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200407_136392.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586223900000",
+            "title": "巴拉圭新增9例新冠肺炎确诊病例 累计113例",
+            "summary": "当地时间4月6日，巴拉圭卫生部宣布，该国单日新增新冠肺炎确诊病例9例，累计确诊113例。新增死亡2人，累计死亡5人。另有12名感染者痊愈出院。另据报道，为应对疫情蔓延和缓解其可能对国家医疗系统带来的压力，巴拉圭政府正在加速修建两所临时医院，设计床位236张，专门用于收治新冠肺炎感染者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimF6retcDsAHNxo2P2wss200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586223720000",
+            "title": "4月7日安徽省报告新冠肺炎疫情情况",
+            "summary": "  2020年4月6日0-24时，安徽省报告无新增确诊病例，无新增疑似病例。\n截至4月6日24时，安徽省累计报告确诊病例990例，累计治愈出院病例984例，累计死亡病例6例，尚在医学观察194人，累计医学观察29069人。\n2020年4月6日0-24时，安徽省报告新增境外输入无症状感染者1例，转为确诊0例，解除隔离2例。截至4月6日24时，尚在医学观察无症状感染者7例，其中境外来皖（返皖）6例。",
+            "infoSource": "安徽卫健委",
+            "sourceUrl": "http://wjw.ah.gov.cn/news_details_56339.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586222489000",
             "title": "澳大利亚新冠肺炎确诊病例累计5844例",
             "summary": "根据澳大利亚联邦卫生部4月7日最新统计，截至当地时间6时，澳大利亚累计确诊新冠肺炎病例增至5844例，包括42个死亡病例，过去的24小时累计新增100例。",
@@ -33,60 +87,6 @@
             "summary": "截至当地时间4月6日16时，巴西全国共确诊新冠肺炎病例12056例，比昨日新增926例，全国累计死亡病例为553例。巴西东北部塞阿腊州报告了一名3月龄的婴儿不幸因感染新冠病毒病逝，成为巴西年龄最小的死亡患者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXzQoPak5qJPhA6eTRMu200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586220897000",
-            "title": "湖北新增18例无症状感染者",
-            "summary": "2020年4月6日0—24时，湖北全省新增新冠肺炎确诊病例0例，无境外输入病例。全省新增病亡0例。全省新增出院59例。目前仍在院治疗518例，其中：重症111例、危重症73例，均在定点医疗机构接受隔离治疗。现有疑似病例数为0，当日新增数为0，当日排除0人，集中隔离人数为0。累计追踪密切接触者279385人，尚在接受医学观察1611人。全省新增无症状感染者18例，转确诊0例，解除隔离33例，尚在医学观察的无症状感染者690例。\n",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4490998304707172",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586220770000",
-            "title": "截至4月6日24时新型冠状病毒肺炎疫情最新情况",
-            "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例32例，均为境外输入病例；无新增死亡病例；新增疑似病例12例，均为境外输入病例。\n当日新增治愈出院病例89例，解除医学观察的密切接触者2365人，重症病例减少54例。\n境外输入现有确诊病例698例（含重症病例21例），现有疑似病例89例。累计确诊病例983例，累计治愈出院病例285例，无死亡病例。 ",
-            "infoSource": "中国卫健委",
-            "sourceUrl": "http://www.nhc.gov.cn/xcs/yqtb/202004/4c63d42ef61142d6a3d827b9f9fd2fe9.shtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586220759000",
-            "title": "青海省发现1例境外输入新型冠状病毒无症状感染者",
-            "summary": " 4月6日，我省发现1例境外输入新型冠状病毒无症状感染者。\t",
-            "infoSource": "青海卫健委",
-            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/07/1586220196527.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586220301000",
-            "title": "国家卫健委4月7日最新通报：新增32例境外输入病例 新增无症状感染者30例",
-            "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例32例，均为境外输入病例；无新增死亡病例；新增疑似病例12例，均为境外输入病例。当日新增治愈出院病例89例，解除医学观察的密切接触者2365人，重症病例减少54例。境外输入现有确诊病例698例（含重症病例21例），现有疑似病例89例。累计确诊病例983例，累计治愈出院病例285例，无死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWDfKJH84g8ITd2yleXI200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586220082000",
-            "title": "四川4月7日通报：新增境外输入病例1例 新增治愈出院病例1例",
-            "summary": "4月6日0-24时，四川省新型冠状病毒肺炎新增1例确诊病例（为境外输入，无症状感染者转确诊），新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8yGFbmbDx6TOE6dfuNB5200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586219557000",
-            "title": "北京昨日无新增报告新冠肺炎确诊病例，出院5例 ",
-            "summary": "4月6日0时至24时，无新增报告境外输入新冠肺炎确诊病例，新增报告疑似病例1例，无新增报告无症状感染者，治愈出院病例4例。截至4月6日24时，累计报告境外输入确诊病例171例，无境外输入无症状感染者报告，治愈出院病例46例。 ",
-            "infoSource": "北京卫健委",
-            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202004/t20200407_1790793.html",
             "province": null,
             "provinceId": ""
         }
