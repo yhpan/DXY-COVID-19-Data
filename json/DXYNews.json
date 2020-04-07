@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586257376000",
+            "title": "塞内加尔新增11例新冠肺炎确诊病例 累计确诊237例",
+            "summary": "当地时间7日，塞内加尔卫生部发布最新通告称，在110份检测样本中，新发现11例确诊病例，其中9名为接触型病例，2名为社区传播感染病例。此外又有13名患者已经康复。截至目前，塞内加尔已有累计确诊病例237例，其中105例已被治愈，2例死亡。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7uJKUefxa2vHj913DZRO200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586254785000",
             "title": "黎巴嫩新增新冠肺炎确诊病例7例 累计548人例",
             "summary": "黎巴嫩卫生部官网公布，截至7日中午，黎巴嫩新冠肺炎确诊总人数为548人，较昨日增加7人。",
@@ -78,15 +87,6 @@
             "summary": "根据德国疾控机构罗伯特·科赫研究所截至4月7日零点的统计，德国境内共确诊99225例新冠病毒感染者，其中死亡1607例。较前一日新增3834例确诊病例，死亡病例新增173例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiifoHARAN9W0B0O9x1V4G200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586238821000",
-            "title": "黑龙江绥芬河口岸紧急启动应急预案",
-            "summary": "黑龙江省卫健委今天（4月7日）上午通报，4月6日0—24时。黑龙江全省新增境外输入新冠肺炎确诊病例20例，这20例境外输入病例均为中国籍，全部是从中俄绥芬河口岸入境。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigZDGf1kPxzhjIuuVWXGp200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
