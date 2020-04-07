@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586245516000",
+            "title": "世卫组织驻华代表高力：全球确诊人数仍在增长 尚未到达顶峰",
+            "summary": "目前全球新冠肺炎确诊病例已经超过了一百万人，世卫组织称新冠肺炎是人类第一个冠状病毒大流行。世界卫生组织驻华代表高力7日在国务院联防联控机制新闻发布会上表示，看到这样的致死率和触目惊心的数字，能够想到的是新冠肺炎对人类的经济和社会的发展造成了多么大的影响。确诊人数依然在增长，而且很明显尚未到达顶峰。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKVCmSfp3p888KKsByQcd200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586242416000",
             "title": "31省区市新增死亡病例首次为0",
             "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告无新增死亡病例。\n",
@@ -78,15 +87,6 @@
             "summary": "4月6日18时至7日6时，天津无新增报告境外输入确诊病例。累计报告境外输入确诊病例44例（中国籍40例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院18例，在院26例（危重型1例、普通型17例、轻型8例）。天津市尚在医学观察的无症状感染者1例（境外输入）。4月6日18时至7日6时，天津无新增报告本地新冠肺炎确诊病例，累计报告本地新冠肺炎确诊病例136例，",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQqVHTQ7Yg0dPvGLW6Mx200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586224802000",
-            "title": "新西兰新增32例新冠肺炎病例 累计确诊943例",
-            "summary": "根据新西兰卫生部门数据，截至当地时间4月7日下午，新西兰新增32例新冠肺炎确诊病例，新增22例疑似病例。新西兰累计确诊病例943例，疑似217例。截至目前，有241人已经康复。（总台记者 林清辉）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ7nKkyQP5gl6njC8hae6200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
