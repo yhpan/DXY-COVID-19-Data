@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1586229399000",
+            "title": "广州4例境外输入病例多次出入美食店 甄别发现4例关联病例",
+            "summary": "广州市政府新闻办今天（7日）上午举行疫情防控新闻通气会，介绍疫情防控、外国人管理服务等工作情况。\n据广州市卫健委副主任欧阳资文介绍，在对广州市所有的入境人员全面排查期间，在广州\n市越秀区矿泉街入境人员中检测出5例确诊病例，均为尼日利亚籍，皆为集中医学观察期间的筛查发现。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti32RBkx6LBWkQvI5LMjM4200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586228346000",
+            "title": "日本政府就发布“紧急事态宣言”召开“咨询委员会”",
+            "summary": "由于新冠肺炎疫情扩大，当地时间7日上午10点多，在日本首相安倍晋三基于特别措施法发表“紧急事态宣言”之前，召开了听取专家意见的政府“咨询委员会”。安倍计划在向国会进行事前报告的基础上，以东京等7个都府县为对象发表“紧急事态宣言”。在日本，新冠肺炎疫情以城市为中心急速扩大，安倍晋三预计在7日傍晚根据特别措施法将发表“紧急事态宣言”，并于当地时间晚上7点进行记者会见。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB7Hc98TkX0wLfR5CYSxA200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586226741000",
+            "title": "日本新增新冠肺炎确诊病例8例 累计4100例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间7日上午十点，当天新增感染者8人，累计新冠肺炎确诊病例达到4100人。目前日本国内感染新冠肺炎患者的死亡人数为97人。（总台记者 何欣蕾）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirUlwQmsjMJbW5pRZnTvo200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586226015000",
             "title": "加拿大新冠感染病例增至16666例 不列颠哥伦比亚省疫情好转",
             "summary": "加拿大不列颠哥伦比亚省首席医疗官波尼·亨利当地时间6日在例行的疫情通报会上宣布，该省新冠病毒增速的曲线已经向下弯曲，这是个非常重要的变化。根据央视记者的统计，多数省份最近两天的新增感染病例与两天前相比，都有所减少，或者没有新增。截至当地时间6日18时，加拿大累计确诊新冠病毒感染病例16666例，死亡病例323例。分别比此前一天增加1154例和43例。",
@@ -60,33 +87,6 @@
             "summary": "根据澳大利亚联邦卫生部4月7日最新统计，截至当地时间6时，澳大利亚累计确诊新冠肺炎病例增至5844例，包括42个死亡病例，过去的24小时累计新增100例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6w3POMxT3kbCIDk29Q6200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586222269000",
-            "title": "韩国新增47例新冠肺炎确诊病例 累计10331例",
-            "summary": "韩国中央防疫对策本部7日通报，4月6日0时至4月7日0时，韩国新增新冠肺炎确诊病例47例，累计确诊病例升至10331例。这是韩国连续两天单日新增确诊人数低于50例。此外，新增死亡病例6例，累计死亡病例升至192例。累计治愈并解除隔离6694例，较前一日新增96例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXpThPq0l9U7Lz69TDmKA200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586222151000",
-            "title": "阿根廷新冠肺炎确诊新增74例 累计1628例 多地强制居民外出佩戴口罩",
-            "summary": "当地时间4月6日，根据阿根廷卫生部发布的官方数据，该国新冠肺炎确诊病例单日新增74例，死亡5例；累计确诊1628例，死亡53例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiod8RMhRnh3pgXPbS9egL200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586221934000",
-            "title": "巴西新冠肺炎确诊病例突破1.2万例  “远程诊疗”服务需求大涨",
-            "summary": "截至当地时间4月6日16时，巴西全国共确诊新冠肺炎病例12056例，比昨日新增926例，全国累计死亡病例为553例。巴西东北部塞阿腊州报告了一名3月龄的婴儿不幸因感染新冠病毒病逝，成为巴西年龄最小的死亡患者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSXzQoPak5qJPhA6eTRMu200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
