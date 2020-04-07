@@ -1,11 +1,56 @@
 {
     "results": [
         {
+            "pubDate": "1586268438000",
+            "title": "​印度新冠肺炎确诊病例累计4789例",
+            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间7日下午6时，印度境内新冠肺炎确诊病例升至4789例，其中死亡124例，治愈出院353例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipCAzgtNDD1pIjpZRRxO2200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586266094000",
+            "title": "马耳他新增新冠肺炎确诊病例52例 累计确诊293例",
+            "summary": "据马耳他卫生部7日公布数据，该国24小时新增新冠肺炎确诊病例52例，累计确诊293例。这是3月7日马耳他发现首例确诊病例以来，单日新增病例最高纪录。但马耳他卫生部长克里斯·菲恩表示不必为此感到恐慌，称疫情发展符合预期。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirIdOI0OmHqb6JvJrsww7200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586265144000",
+            "title": "斯洛伐克新增新冠肺炎确诊病例47例 累计确诊581例",
+            "summary": "截至当地时间4月7日，斯洛伐克总理马托维奇通报称，4月6日境内新增新冠肺炎确诊病例47例，累计确诊581例。新增死亡病例1例，累计死亡2例；累计治愈8例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiudJMR9pXKJhgp1bBBCp200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586264932000",
+            "title": "​沙特新增新冠肺炎确诊病例43例 累计确诊2795例",
+            "summary": "沙特卫生部公布的最新数字显示，截至当地时间7日下午15时17分，沙特境内新增新冠肺炎确诊病例43例，新增死亡病例3例。至此沙特境内新冠肺炎确诊病例累计已达2795例，其中41名重症患者不治去世，615名患者已痊愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticD8KsnkxRcapVRnsuvL5200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586264810000",
             "title": "英国首相府：首相目前状态良好 没有使用呼吸机",
             "summary": "当地时间7日中午，英国首相府唐宁街10号发布消息称，目前在重症监护接受治疗的英国首相鲍里斯·约翰逊没有使用呼吸机，首相在ICU健康状况稳定，精神良好。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE0PFcELog28T2RAIOcj9200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586263641000",
+            "title": "阿塞拜疆新冠肺炎确诊病例累计717例",
+            "summary": "据俄媒援引阿塞拜疆政府疫情防控指挥部4月7日消息，阿塞拜疆境内当日新增新冠肺炎确诊病例76例，累计确诊717例。其中44人治愈出院，8人死亡。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiALDkrRNltgkqTtYjaHIY200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -42,51 +87,6 @@
             "summary": "当地时间7日，塞内加尔卫生部发布最新通告称，在110份检测样本中，新发现11例确诊病例，其中9名为接触型病例，2名为社区传播感染病例。此外又有13名患者已经康复。截至目前，塞内加尔已有累计确诊病例237例，其中105例已被治愈，2例死亡。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7uJKUefxa2vHj913DZRO200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586256240000",
-            "title": "赤道几内亚新冠肺炎确诊病例累计16例 新增2例治愈",
-            "summary": "当地时间4月6日，赤道几内亚卫生与社会福利部通报该国新增治愈出院病例2例，应葡萄牙政府请求离境回国1例。第2、3例治愈出院病例分别为45岁刚果（布）籍男性和37岁赤几籍女性，将分别在酒店和家中继续隔离观察14天。截至4月6日14时，赤几累计新冠肺炎确诊病例16例（岛屿地区9例，大陆地区7例），已治愈出院3例，离境回国1例，156人正在接受隔离观察，854人已接受病毒检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijxEV8EjRHlqKMbMURt9i200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586254785000",
-            "title": "黎巴嫩新增新冠肺炎确诊病例7例 累计548人例",
-            "summary": "黎巴嫩卫生部官网公布，截至7日中午，黎巴嫩新冠肺炎确诊总人数为548人，较昨日增加7人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuJxrlRylkea21aICI9E7200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586254121000",
-            "title": "印度尼西亚新增新冠肺炎患者247例",
-            "summary": "4月7日，印尼卫生部宣布7日0时—16时，新增247例新冠肺炎确诊病例，全国累计确诊病例2738人，含221例死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirHcueSDIM0UkpAiu7Qkt200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586253976000",
-            "title": "武汉无疫情小区占比已达98.4%",
-            "summary": "湖北省新冠病毒肺炎疫情防控工作指挥部今天下午召开新闻发布会，武汉市政协主席胡曙光在发布会上介绍，武汉市的防疫工作中，小区封控管理在切断传染源，阻断传播途径中发挥了重要的作用。截至4月4日，武汉已命名无疫情小区的占比已经达到98.4%.",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFPMTw6Lc2pmWojGaV7k9200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586252400000",
-            "title": "伊朗新增新冠肺炎确诊病例2089例 累计确诊62589例",
-            "summary": "据伊朗卫生部7日消息，在过去的24小时里，伊朗新增新冠肺炎确诊病例2089例，新增死亡病例133例，截至当天中午，伊朗累计确诊新冠肺炎62589例，其中死亡3872例，治愈27039例，现有重症3987例。（总台记者 李惠中)\n（编辑 王一冰）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN0S7Pd8xGsmfd11Tg2GN200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
