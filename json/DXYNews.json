@@ -1,6 +1,60 @@
 {
     "results": [
         {
+            "pubDate": "1586219557000",
+            "title": "北京昨日无新增报告新冠肺炎确诊病例，出院5例 ",
+            "summary": "4月6日0时至24时，无新增报告境外输入新冠肺炎确诊病例，新增报告疑似病例1例，无新增报告无症状感染者，治愈出院病例4例。截至4月6日24时，累计报告境外输入确诊病例171例，无境外输入无症状感染者报告，治愈出院病例46例。 ",
+            "infoSource": "北京卫健委",
+            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202004/t20200407_1790793.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586219417000",
+            "title": "4月6日贵州省新冠肺炎疫情信息发布",
+            "summary": "2020年4月6日0—24时，贵州省无新增新冠肺炎确诊病例，无新增疑似病例，无新增无症状感染者。截至4月6日24时，贵州省累计报告本地确诊病例146例、境外输入病例1例，累计治愈出院病例144例、死亡病例2例、在院治疗确诊病例1例（境外输入确诊病例），现有疑似病例0例、在院治疗境外输入无症状感染者1例。",
+            "infoSource": "贵州卫健委",
+            "sourceUrl": "http://www.gzhfpc.gov.cn/xwzx_500663/zwyw/202004/t20200407_55804742.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586219150000",
+            "title": "海南4月7日通报：无新增新冠肺炎确诊病例 尚有7例无症状感染者在医学观察",
+            "summary": "4月6日0-24时，海南省报告新冠肺炎新增确诊病例0例，新增重症病例0例，新增死亡病例0例，新增出院0例。截至4月6日24时，海南省累计报告新冠肺炎确诊病例168例，重症病例0例，死亡病例6例，出院病例162例。截至4月6日24时，追踪到密切接触者6601人，已解除医学观察6561人，尚有40人正在接受集中医学观察。截至4月6日24时，海南省报告无症状感染者29例，当日无新增，累计解除隔离22例，",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQtIagnvMlrZUV91p9F2B200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586219043000",
+            "title": "​墨西哥全国确诊新冠肺炎病例2439例  死亡病例上升到125例",
+            "summary": "墨西哥当地时间4月6日，墨西哥卫生部宣布，截止到墨西哥当地时间4月6日晚上7点，墨西哥全国确诊2439例新冠肺炎病例，较前一天新增了296例，刷新了单日新增病例最高数量。\n另外还有6295例疑似病例，而此前已经排除的疑似病例已经累计到11741例。同时，墨西哥全国确诊死亡病例较前一天新增31例，总数已经上升到125例。（总台记者 盛嘉迪 吕兴林）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYBJr1wJIHwDm5313b8TB200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586219022000",
+            "title": "河南4月7日最新通报：无新增新冠肺炎确诊病例",
+            "summary": "2020年4月6日0时-24时，河南省无新增新冠肺炎确诊病例。截至4月6日24时，全省累计报告本地新冠肺炎确诊病例1273例，累计死亡病例22例，累计出院病例1250例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJGXYbRreom6wvjWtwKt7200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586218860000",
+            "title": "截至4月6日24时新疆(含兵团)新型冠状病毒肺炎疫情最新情况",
+            "summary": "2020年4月6日0-24时，新疆（含兵团）报告新型冠状病毒肺炎新增确诊病例0例，新增无症状感染者0例。\n截至4月6日24时，新疆（含兵团）累计报告新型冠状病毒肺炎确诊病例76例（其中治愈出院病例73例、死亡病例3例），现有确诊病例0例，无症状感染者0例，正在接受医学观察0人。",
+            "infoSource": "新疆卫健委",
+            "sourceUrl": "http://www.xjhfpc.gov.cn/info/2070/19982.htm",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586215948000",
             "title": "吉林省卫生健康委员会关于新型冠状病毒肺炎疫情情况通报（2020年4月7日公布）",
             "summary": "4月6日0-24时，全省无新增境外输入确诊病例。截至4月6日24时，全省累计报告境外输入确诊病例5例，其中延边州2例，长春市1例，吉林市1例，梅河口市1例，均在院隔离治疗。上述境外输入确诊病例的密切接触者46人，均在指定地点进行隔离医学观察。",
@@ -33,60 +87,6 @@
             "summary": "当地时间4月6日，利比亚首都黎波里的利比亚国家疾病控制中心发布声明称，新增1例新冠肺炎确诊病例，累计确诊19例。声明提到，医务人员对14例疑似病例进行了新冠病毒检测，结果显示其中1例为阳性。但声明并未透露更多关于确诊病例的细节。3月24日，利比亚宣布确诊了首例新冠肺炎病例。（总台记者 吴爱民）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5JAIu8qdKE3qqpiJ98Yq200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586212443000",
-            "title": "英国首相病情恶化转入icu",
-            "summary": "据BBC报道，英国首相约翰逊6日因新冠肺炎病情恶化，被转入重症监护室（ICU）。目前英国女王伊丽莎白二世已经得知相关消息。白金汉宫发言人说，首相府一直在向她通报约翰逊的病情。就在前一天，女王曾罕见发表全国讲话，鼓舞民众团结抗疫。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4490962845475518",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586211185000",
-            "title": "​23名在意大利的摩洛哥人死于新冠肺炎",
-            "summary": "摩洛哥驻意大利大使优素福 · 贝拉6日证实，目前共有23名住在意大利的摩洛哥人死于新冠肺炎，所有死者均已被安葬。贝拉说，大使馆已经与死者家属取得联系，并向他们表达了深切哀悼。（总台记者 单既明）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqZwblhfYPj6mh91HcUML200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586210590000",
-            "title": "利比亚报告首例新冠肺炎治愈病例",
-            "summary": "当地时间6日，利比亚国家疾病控制中心对外宣布，治愈了一例新冠肺炎确诊病例，而这也是利比亚出现疫情至今的首例治愈病例。截至5日，利比亚境内累计确诊病例为18例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiknONf5kVMSrUBqZTLQ6t200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586209318000",
-            "title": "突尼斯新增22例新冠肺炎确诊病例 累计确诊596例",
-            "summary": "突尼斯卫生部当地时间6日晚通报，当天突尼斯各实验室完成了580份核酸检测，确认新增22例新冠肺炎确诊病例。截至目前，突尼斯已有19122人进行了自我隔离，其中18720人已经结束了隔离期，目前有402人仍在接受进一步的医学观察。此外，还有3000名同确诊病例有过接触史的人员正在进行自我隔离。截至当地时间4月6日晚，突尼斯累计确诊新冠肺炎病例596例，分布在全国22个省。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRlJf9OCZggbXRRyUvCu200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586189285000",
-            "title": "立陶宛新增32例新冠肺炎确诊病例 累计843例",
-            "summary": "当地时间4月6日，波罗的海新闻社（BNS）报道，当日新增32例新冠肺炎确诊病例，累计确诊843例，累计死亡病例14例，检测总人数达到25599人",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mD8KPaywwJc4fMJfxGG200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586188974000",
-            "title": "日本新增新冠肺炎确诊病例226例 累计4083例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间6日晚上11点，当天新增新冠肺炎确诊病例226例，累计确诊病例达到4083例。当天新增4人死亡，目前日本国内新冠肺炎死亡病例为97例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pKNzrKeJpsmtMSVLXpT200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
