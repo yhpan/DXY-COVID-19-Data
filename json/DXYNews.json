@@ -1,11 +1,47 @@
 {
     "results": [
         {
+            "pubDate": "1586261239000",
+            "title": "日本新增新冠肺炎确诊病例242例 累计确诊4340例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据显示，截至当地时间7日0时至8时，新增新冠肺炎确诊病例242例，其中东京都新增80例，累计新冠肺炎确诊病例达4340例。目前日本国内感染新冠肺炎患者的死亡人数为97人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMis2si9muh6MAvhhtSWD200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586260868000",
+            "title": "天津7日6时至18时：无新增新冠肺炎确诊病例 治愈出院1人",
+            "summary": "记者从天津市疾控中心获悉，4月7日6时至18时，天津无新增报告境外输入确诊病例，治愈出院1人。累计报告境外输入确诊病例44例（中国籍40例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院19例，在院25例（危重型1例、普通型16例、轻型8例）。经市天津市专家组讨论，第14例境外输入确诊病例，符合出院标准，于今日出院，转入集中隔离医学观察点。　4月7日6时至18时，天津无新增报告本地新冠肺炎确诊病",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZPh4nx8VZ0dFHphkfF1200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586258639000",
+            "title": "葡萄牙新增新冠肺炎确诊病例712例 累计达12442例",
+            "summary": "当地时间7日，葡萄牙新冠肺炎确诊达12442例，死亡共345例。24小时新增确诊712例，死亡新增病例34例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinBC73AjoLHnxlI4PRY8A200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586257376000",
             "title": "塞内加尔新增11例新冠肺炎确诊病例 累计确诊237例",
             "summary": "当地时间7日，塞内加尔卫生部发布最新通告称，在110份检测样本中，新发现11例确诊病例，其中9名为接触型病例，2名为社区传播感染病例。此外又有13名患者已经康复。截至目前，塞内加尔已有累计确诊病例237例，其中105例已被治愈，2例死亡。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7uJKUefxa2vHj913DZRO200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586256240000",
+            "title": "赤道几内亚新冠肺炎确诊病例累计16例 新增2例治愈",
+            "summary": "当地时间4月6日，赤道几内亚卫生与社会福利部通报该国新增治愈出院病例2例，应葡萄牙政府请求离境回国1例。第2、3例治愈出院病例分别为45岁刚果（布）籍男性和37岁赤几籍女性，将分别在酒店和家中继续隔离观察14天。截至4月6日14时，赤几累计新冠肺炎确诊病例16例（岛屿地区9例，大陆地区7例），已治愈出院3例，离境回国1例，156人正在接受隔离观察，854人已接受病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijxEV8EjRHlqKMbMURt9i200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -51,42 +87,6 @@
             "summary": "当地时间7日，根据西班牙卫生部的数据，西班牙全国新冠肺炎患者达140510例，24小时新增病例5478例，死亡共13798例，24小时死亡新增743例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiznvs0I33COyaPhfVTqOz200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586249371000",
-            "title": "日本疫情形势严峻 首相安倍发布“紧急事态宣言”",
-            "summary": "由于日本新冠肺炎疫情扩大，日本首相安倍晋三于当地时间7日下午17时40分左右，基于新冠肺炎特别措施法（“新冠特措法”）发布“紧急事态宣言”，对象地区为东京都、千叶县、埼玉县、神奈川县、大阪府、兵库县和福冈县等七个都府县，实施时间为4月8日零点至5月6日的未来一个月。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD1EZzRl3BIYE57DztohF200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586245516000",
-            "title": "世卫组织驻华代表高力：全球确诊人数仍在增长 尚未到达顶峰",
-            "summary": "目前全球新冠肺炎确诊病例已经超过了一百万人，世卫组织称新冠肺炎是人类第一个冠状病毒大流行。世界卫生组织驻华代表高力7日在国务院联防联控机制新闻发布会上表示，看到这样的致死率和触目惊心的数字，能够想到的是新冠肺炎对人类的经济和社会的发展造成了多么大的影响。确诊人数依然在增长，而且很明显尚未到达顶峰。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKVCmSfp3p888KKsByQcd200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586242416000",
-            "title": "31省区市新增死亡病例首次为0",
-            "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告无新增死亡病例。\n",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4491088561630761",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586240277000",
-            "title": "德国新增新冠肺炎确诊病例1607例 累计99225例",
-            "summary": "根据德国疾控机构罗伯特·科赫研究所截至4月7日零点的统计，德国境内共确诊99225例新冠病毒感染者，其中死亡1607例。较前一日新增3834例确诊病例，死亡病例新增173例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiifoHARAN9W0B0O9x1V4G200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
