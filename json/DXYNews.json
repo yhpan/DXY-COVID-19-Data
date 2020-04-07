@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586272911000",
+            "title": "巴基斯坦新增新冠肺炎确诊病例346例 累计4004例",
+            "summary": "截至当地时间7日19点17分，据巴基斯坦当地媒体报道，巴基斯坦新增新冠肺炎确诊病例346例，全国累计确诊4004例，死亡病例55例，429例康复。‬",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS9SMIKjEXzGN50fmr8hl200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586272552000",
+            "title": "喀麦隆新增27例新冠肺炎确诊病例 累计确诊685例",
+            "summary": "当地时间4月7日，根据喀麦隆公共卫生部长马拉切·马纳乌达在社交媒体上发布的消息和喀麦隆国家电视台的报道，该国新增27例新冠肺炎确诊病例，累计确诊685例，其中9例死亡，60例治愈。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizEXPj1uKnWHTMJkQKkeC200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586271025000",
+            "title": "毛里求斯新增24例新冠肺炎确诊病例 累计确诊268例",
+            "summary": "毛里求斯卫生部于当地时间4月7日发布消息称，毛里求斯新增24例新冠肺炎确诊病例，4例康复病例。累计确诊数从原来的244例上升到268例，累计7例死亡，8例康复，现存确诊253例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti18RJfHAOxdbGVhWfEmvI200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586270199000",
+            "title": "​巴林新增88例新冠肺炎确诊病例 累计确诊811例",
+            "summary": "巴林卫生部当地时间7日下午发布通告，该国境内新增88例新冠肺炎确诊病例。至此巴林境内已累计发现811例新冠肺炎确诊病例，其中458名患者已经痊愈出院，4名患者病重不治。349名仍在医院接受治疗的患者中4人病情较重，其余患者情况较为稳定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOAltEwUF8ZLvQqmnXPh9200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586268438000",
             "title": "​印度新冠肺炎确诊病例累计4789例",
             "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间7日下午6时，印度境内新冠肺炎确诊病例升至4789例，其中死亡124例，治愈出院353例。",
@@ -51,42 +87,6 @@
             "summary": "据俄媒援引阿塞拜疆政府疫情防控指挥部4月7日消息，阿塞拜疆境内当日新增新冠肺炎确诊病例76例，累计确诊717例。其中44人治愈出院，8人死亡。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiALDkrRNltgkqTtYjaHIY200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586261239000",
-            "title": "日本新增新冠肺炎确诊病例242例 累计确诊4340例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据显示，截至当地时间7日0时至8时，新增新冠肺炎确诊病例242例，其中东京都新增80例，累计新冠肺炎确诊病例达4340例。目前日本国内感染新冠肺炎患者的死亡人数为97人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMis2si9muh6MAvhhtSWD200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586260868000",
-            "title": "天津7日6时至18时：无新增新冠肺炎确诊病例 治愈出院1人",
-            "summary": "记者从天津市疾控中心获悉，4月7日6时至18时，天津无新增报告境外输入确诊病例，治愈出院1人。累计报告境外输入确诊病例44例（中国籍40例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院19例，在院25例（危重型1例、普通型16例、轻型8例）。经市天津市专家组讨论，第14例境外输入确诊病例，符合出院标准，于今日出院，转入集中隔离医学观察点。　4月7日6时至18时，天津无新增报告本地新冠肺炎确诊病",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZZPh4nx8VZ0dFHphkfF1200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586258639000",
-            "title": "葡萄牙新增新冠肺炎确诊病例712例 累计达12442例",
-            "summary": "当地时间7日，葡萄牙新冠肺炎确诊达12442例，死亡共345例。24小时新增确诊712例，死亡新增病例34例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinBC73AjoLHnxlI4PRY8A200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586257376000",
-            "title": "塞内加尔新增11例新冠肺炎确诊病例 累计确诊237例",
-            "summary": "当地时间7日，塞内加尔卫生部发布最新通告称，在110份检测样本中，新发现11例确诊病例，其中9名为接触型病例，2名为社区传播感染病例。此外又有13名患者已经康复。截至目前，塞内加尔已有累计确诊病例237例，其中105例已被治愈，2例死亡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7uJKUefxa2vHj913DZRO200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
