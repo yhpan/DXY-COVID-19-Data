@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586242416000",
+            "title": "31省区市新增死亡病例首次为0",
+            "summary": "4月6日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告无新增死亡病例。\n",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4491088561630761",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586240277000",
             "title": "德国新增新冠肺炎确诊病例1607例 累计99225例",
             "summary": "根据德国疾控机构罗伯特·科赫研究所截至4月7日零点的统计，德国境内共确诊99225例新冠病毒感染者，其中死亡1607例。较前一日新增3834例确诊病例，死亡病例新增173例。",
@@ -78,15 +87,6 @@
             "summary": "根据新西兰卫生部门数据，截至当地时间4月7日下午，新西兰新增32例新冠肺炎确诊病例，新增22例疑似病例。新西兰累计确诊病例943例，疑似217例。截至目前，有241人已经康复。（总台记者 林清辉）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ7nKkyQP5gl6njC8hae6200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586223938000",
-            "title": "2020年4月6日西藏自治区新型冠状病毒肺炎疫情情况",
-            "summary": " 截止4月6日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续68天无新增确诊或疑似病例。",
-            "infoSource": "西藏卫健委",
-            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200407_136392.html",
             "province": null,
             "provinceId": ""
         }
