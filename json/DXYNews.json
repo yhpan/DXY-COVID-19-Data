@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586264810000",
+            "title": "英国首相府：首相目前状态良好 没有使用呼吸机",
+            "summary": "当地时间7日中午，英国首相府唐宁街10号发布消息称，目前在重症监护接受治疗的英国首相鲍里斯·约翰逊没有使用呼吸机，首相在ICU健康状况稳定，精神良好。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE0PFcELog28T2RAIOcj9200407&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586261239000",
             "title": "日本新增新冠肺炎确诊病例242例 累计确诊4340例",
             "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据显示，截至当地时间7日0时至8时，新增新冠肺炎确诊病例242例，其中东京都新增80例，累计新冠肺炎确诊病例达4340例。目前日本国内感染新冠肺炎患者的死亡人数为97人。",
@@ -78,15 +87,6 @@
             "summary": "据伊朗卫生部7日消息，在过去的24小时里，伊朗新增新冠肺炎确诊病例2089例，新增死亡病例133例，截至当天中午，伊朗累计确诊新冠肺炎62589例，其中死亡3872例，治愈27039例，现有重症3987例。（总台记者 李惠中)\n（编辑 王一冰）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN0S7Pd8xGsmfd11Tg2GN200407&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586252371000",
-            "title": "西班牙新增新冠肺炎确诊病例5478例 累计达140510例",
-            "summary": "当地时间7日，根据西班牙卫生部的数据，西班牙全国新冠肺炎患者达140510例，24小时新增病例5478例，死亡共13798例，24小时死亡新增743例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiznvs0I33COyaPhfVTqOz200407&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
