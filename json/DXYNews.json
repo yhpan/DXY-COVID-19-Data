@@ -1,11 +1,11 @@
 {
     "results": [
         {
-            "pubDate": "1586316042000",
-            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
-            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
-            "infoSource": "青海卫健委",
-            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
+            "pubDate": "1586316754000",
+            "title": "山东省疫情风险等级评估调整 青岛市胶州市为中风险地区",
+            "summary": "记者今天从山东省卫健委了解到，根据疫情变化，以县域为单位进行新冠肺炎疫情风险等级评估调整，济南市历下区等136个县（市、区）为低风险地区，青岛市胶州市为中风险地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih3lxmUWllwc42M2HMCj7200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -15,6 +15,15 @@
             "summary": " 截止4月7日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续69天无新增确诊或疑似病例。    ",
             "infoSource": "西藏卫健委",
             "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200408_136524.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586316042000",
+            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
+            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
+            "infoSource": "青海卫健委",
+            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
             "province": null,
             "provinceId": ""
         },
@@ -78,15 +87,6 @@
             "summary": "《金融时报》近日报道，英国政府将学习中国和意大利解除新冠肺炎“限制令”的经验。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihiSAy2ZCFaRsBZxdOBOb200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586306337000",
-            "title": "​墨西哥新冠肺炎确诊病例累计2785例 死亡141例 新增病例数为单日最高",
-            "summary": "墨西哥当地时间4月7日，墨西哥卫生部宣布，截止到墨西哥当地时间4月7日晚上7点，墨西哥全国确诊2785例新冠肺炎病例，较前一天新增了346例，刷新了单日新增病例最高数量。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCIUUVUYVqxbRd604sDuL200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
