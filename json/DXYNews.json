@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586363595000",
+            "title": "美国新冠肺炎确诊超40万",
+            "summary": "约翰斯·霍普金斯大学新冠肺炎疫情统计数据显示，截至北京时间4月9日零时25分，美国累计确诊病例401166例，累计死亡12936例。美国是全球累计确诊病例数最多的国家，死亡病例数第三多国家。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4491596823080578",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586361831000",
+            "title": "英国新增5492例新冠肺炎，累计60733例新冠肺炎",
+            "summary": "4月8日，英国新增新冠肺炎确诊者5492例，累计60733例。新增死亡938例，累计7097例。这也是英国发生疫情以来单日死亡人数最多的一天。据英国政府发言人称，首相鲍里斯·约翰逊仍在重症监护室，但他状况稳定，治疗正在起作用。",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4491589424050329",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586353795000",
             "title": "塞尔维亚新冠肺炎确诊病例新增219例 累计2666例 即将组建2座实验室",
             "summary": "据塞尔维亚卫生部4月8日15时公布数据，4月7号15时以后对1135个疑似病例进行了检测，219份结果呈阳性，累计确诊2447例，新增4例死亡，累计死亡65例，目前1705人住院治疗，有112例属于重症，使用呼吸机，共完成10771份样本检测。科索沃地区截止到8号上午11时，确诊184人，死亡5人，30人治愈。",
@@ -69,24 +87,6 @@
             "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间8日下午5点（北京时间8日晚7点30分），印度境内新冠肺炎确诊病例升至5274例，其中死亡149例，治愈出院411例。（总台记者 李琳）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFf4sfXkjoxZtCCTj6IpJ200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586348853000",
-            "title": "巴林新增10例新冠肺炎确诊病例 累计821例",
-            "summary": "巴林卫生部当地时间8日下午发布通告，确定境内新增10例新型冠状病毒肺炎确诊病例，同时新增一例死亡病例。至此巴林境内累计已发现821例新型冠状病毒肺炎确诊病例，其中467名患者已经痊愈出院，5名患者病重不治。349名仍在医院接受治疗的患者中3人病情较重，其余患者情况较为稳定。（总台记者 李超）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizVqiXacrMrZIiqXRbrEp200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586348183000",
-            "title": "黎巴嫩新增新冠肺炎确诊病例27例 累计575例",
-            "summary": "黎巴嫩卫生部官网公布，截至8日中午新冠肺炎确诊总人数为575人，较昨日增加27人。卫生部公布，过去24小时内有2名患者被治愈，治愈总人数已达62人，死亡病例维持19例不变，确诊患者中危重病例29例，疑似病例数字目前为559人，另外有1260人处于隔离状态。（总台记者 孙虎）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinksDRrZPyU1LL1I23QmM200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
