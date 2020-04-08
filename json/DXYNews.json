@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586336736000",
+            "title": "​白俄罗斯累计确诊新冠肺炎1066例",
+            "summary": "当地时间4月8日，白俄罗斯卫生部新闻处发布消息称，截至目前，白俄罗斯尚有976名新冠肺炎患者在医院接受治疗，大多数为轻中度患者，有33名重症患者需要使用呼吸机。另治愈77例，24小时内未有新增死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRj44GLgBZgh9sVtVMhDE200408&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586336707000",
+            "title": "亚美尼亚新增确诊新冠肺炎病例28例 累计确诊881例",
+            "summary": "当地时4月8日，亚美尼亚疫情防控统一信息平台公布消息，亚美尼亚境内当日新增确诊新冠肺炎病例28例，累计确诊病例881例，累计治愈114例，死亡9例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijvUJOGRqVtKhbSAWtNvj200408&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586335734000",
+            "title": "香港新增25例新冠肺炎确诊病例 累计960例",
+            "summary": "来自香港特区政府的最新消息，截至4月8日16点30分，香港新增25例新冠肺炎确诊病例，其中15名患者曾赴境外旅游。至此，香港累计确诊病例增至960例。治愈患者达236例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiveUSASTB18wOULqaV1IS200408&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586335560000",
+            "title": "​世卫组织：全球新冠肺炎累计超过131万例",
+            "summary": "当地时间4月8日，世卫组织更新实时统计数据，目前全球确诊新冠肺炎1317130例，死亡74306例，中国以外超过123万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9v0axosrzdzOV2UZKiqY200408&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586333801000",
             "title": "菲律宾新增106例新冠肺炎确诊病例 累计3870例",
             "summary": "4月8日下午，菲律宾卫生部发布公告称，截至8日下午4时，菲律宾当天共计新增106例新冠肺炎确诊病例，确诊病例累计达3870例。此外，新增死亡病例5例，累计死亡182例。同时，累计治愈人数为96人。",
@@ -51,42 +87,6 @@
             "summary": "印度卫生部当地时间9日早晨发布消息，印度新冠肺炎确诊病例达到5194人，其中死亡病例149人，治愈出院402人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7K2LaOz1XrAkxd4Vd5LD200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586316754000",
-            "title": "山东省疫情风险等级评估调整 青岛市胶州市为中风险地区",
-            "summary": "记者今天从山东省卫健委了解到，根据疫情变化，以县域为单位进行新冠肺炎疫情风险等级评估调整，济南市历下区等136个县（市、区）为低风险地区，青岛市胶州市为中风险地区。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih3lxmUWllwc42M2HMCj7200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586316042000",
-            "title": "2020年4月7日西藏自治区新型冠状病毒肺炎疫情情况",
-            "summary": " 截止4月7日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续69天无新增确诊或疑似病例。    ",
-            "infoSource": "西藏卫健委",
-            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200408_136524.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586316042000",
-            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
-            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
-            "infoSource": "青海卫健委",
-            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586315770000",
-            "title": "美国新冠肺炎确诊逼近40万例",
-            "summary": "据美国约翰斯·霍普金斯大学数据，截至美东时间7日22：45，美国新冠确诊病例为398809例，死亡12895例。",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4491396230962204",
             "province": null,
             "provinceId": ""
         }
