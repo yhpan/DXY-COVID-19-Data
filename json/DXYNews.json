@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1586316042000",
+            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
+            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
+            "infoSource": "青海卫健委",
+            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586316042000",
+            "title": "2020年4月7日西藏自治区新型冠状病毒肺炎疫情情况",
+            "summary": " 截止4月7日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续69天无新增确诊或疑似病例。    ",
+            "infoSource": "西藏卫健委",
+            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200408_136524.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586315770000",
+            "title": "美国新冠肺炎确诊逼近40万例",
+            "summary": "据美国约翰斯·霍普金斯大学数据，截至美东时间7日22：45，美国新冠确诊病例为398809例，死亡12895例。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4491396230962204",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586307150000",
             "title": "中国驻塞拉利昂大使馆：正全力协助张静静家属韩文涛回国 已有初步方案",
             "summary": "据中国驻塞拉利昂大使馆消息，4月7日晚，驻塞拉利昂大使胡张良前往看望因病去世的山东援鄂医疗队员张静静的丈夫、塞拉利昂唐克里里铁矿公司（投资项目）员工韩文涛。 ",
@@ -60,33 +87,6 @@
             "summary": "墨西哥当地时间4月7日，墨西哥卫生部宣布，截止到墨西哥当地时间4月7日晚上7点，墨西哥全国确诊2785例新冠肺炎病例，较前一天新增了346例，刷新了单日新增病例最高数量。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCIUUVUYVqxbRd604sDuL200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586306255000",
-            "title": "安徽4月8日通报：无新增确诊病例 尚在医学观察无症状感染者7例",
-            "summary": "2020年4月7日0-24时，安徽省报告无新增确诊病例，无新增疑似病例。截至4月7日24时，安徽省累计报告确诊病例990例，累计治愈出院病例984例，累计死亡病例6例，尚在医学观察139人，累计医学观察29076人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPFNBFVb4vH62KOiFosJi200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586306128000",
-            "title": "湖南8日通报：无新增新冠肺炎确诊病例 33人接受医学观察",
-            "summary": "2020年4月7日0-24时，湖南省报告新型冠状病毒肺炎新增确诊病例0例。截至4月7日24时，湖南省累计报告新型冠状病毒肺炎确诊病例1019例，死亡病例4例，出院病例1014例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGdrIsp5Be8hSngvPt8L200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586306124000",
-            "title": "河南8日通报：无新增新冠肺炎确诊病例",
-            "summary": "2020年4月7日0时-24时，河南省无新增新冠肺炎确诊病例。截至4月7日24时，河南省累计报告本地新冠肺炎确诊病例1273例，累计死亡病例22例，累计出院病例1250例",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6EDMGkCb4IJsFPmQF2Gh200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
