@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586327983000",
+            "title": "​格鲁吉亚新冠肺炎累计确诊208例",
+            "summary": "当地时间4月8日上午，格鲁吉亚政府疫情监测平台公布消息，格鲁吉亚境内累计确诊新冠肺炎病例208例，其中治愈46例，死亡3例。目前，共有4674人接受隔离，362人处于医学观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOywT3TBu6uSLPRrP3blc200408&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586323548000",
             "title": "德国新冠肺炎感染者超10万例",
             "summary": "据德国联邦疾控机构罗伯特·科赫研究所截至4月8日零点的数据，德国较前一日新增4003例新冠病毒感染确诊病例，累计103228例。新增死亡病例254例，累计死亡1861例。",
@@ -29,19 +38,19 @@
         },
         {
             "pubDate": "1586316042000",
-            "title": "2020年4月7日西藏自治区新型冠状病毒肺炎疫情情况",
-            "summary": " 截止4月7日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续69天无新增确诊或疑似病例。    ",
-            "infoSource": "西藏卫健委",
-            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200408_136524.html",
+            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
+            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
+            "infoSource": "青海卫健委",
+            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
             "province": null,
             "provinceId": ""
         },
         {
             "pubDate": "1586316042000",
-            "title": "2020年4月7日青海省新型冠状病毒肺炎疫情情况",
-            "summary": " 2020年4月7日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。",
-            "infoSource": "青海卫健委",
-            "sourceUrl": "https://wsjkw.qinghai.gov.cn/ztbd/yqjk/yqtb/2020/04/08/1586308161259.html",
+            "title": "2020年4月7日西藏自治区新型冠状病毒肺炎疫情情况",
+            "summary": " 截止4月7日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续69天无新增确诊或疑似病例。    ",
+            "infoSource": "西藏卫健委",
+            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200408_136524.html",
             "province": null,
             "provinceId": ""
         },
@@ -78,15 +87,6 @@
             "summary": "4月7日0—24时，福建省报告新增境外输入确诊病例0例。当日报告新增境外输入疑似病例0例。当日报告新增境外输入无症状感染者0例。截至4月7日24时，福建省累计报告境外输入确诊病例55例（已治愈出院病例12例、目前住院病例43例，无死亡病例）；",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4csY2cimrYcRKoUtEisK200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586306714000",
-            "title": "​意大利一养老院护理人员因疫情集中撤离 部分老人出现脱水症状",
-            "summary": "据意大利媒体报道，意大利南部普利亚大区索莱托市一家养老院在发生新冠肺炎聚集性疫情后，护理人员集体逃离，造成老人至少两天无人看护。目前已有10名老人死亡。部分死者家属怀疑死因可能是饥饿而非新冠肺炎，当地检方正在展开调查。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimbtw27n24oHhVEYPCdyl200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
