@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586368436000",
+            "title": "纽约州确诊病例数超过西班牙",
+            "summary": "当地时间8日，美国纽约州州长科莫说，纽约州新增死亡病例779例，为有疫情以来增幅最大，累计死亡6268例，已远远超过“9·11”事件，将会下半旗哀悼。\n",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4491617127534761",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586363595000",
             "title": "美国新冠肺炎确诊超40万",
             "summary": "约翰斯·霍普金斯大学新冠肺炎疫情统计数据显示，截至北京时间4月9日零时25分，美国累计确诊病例401166例，累计死亡12936例。美国是全球累计确诊病例数最多的国家，死亡病例数第三多国家。",
@@ -78,15 +87,6 @@
             "summary": "据越南卫生部4月8日消息，越南当日新增2例新冠肺炎确诊病例。截至记者发稿，该国新冠肺炎确诊病例增至251例。另据越南卫生部称，截至8日晚间，越南共有126名感染者病愈出院。（总台记者 周洋）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticcEHKZHc0MQjHakxPcnh200408&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586349683000",
-            "title": "印度累计新冠肺炎确诊病例升至5274例",
-            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间8日下午5点（北京时间8日晚7点30分），印度境内新冠肺炎确诊病例升至5274例，其中死亡149例，治愈出院411例。（总台记者 李琳）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFf4sfXkjoxZtCCTj6IpJ200408&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
