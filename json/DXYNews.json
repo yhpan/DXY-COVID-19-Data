@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586521420000",
+            "title": "瑞士及列支敦士登新冠肺炎确诊病例达24308例",
+            "summary": "截至当地时间4月10日8点，根据瑞士联邦公共卫生部最新数据，瑞士和列支敦士登共确诊新冠肺炎病例24308例，累计死亡805例。(总台记者 薛婧萌）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHG3jgK8z3uknifX5z4AP200410&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586521080000",
+            "title": "​日本新增455例新冠肺炎确诊病例 累计6003例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间10日零点至晚八点，当天新增新冠肺炎确诊病例455例，日本累计新冠肺炎确诊病例达到6003例。目前，日本国内新冠肺炎死亡病例113例。（总台记者 何欣蕾）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqNjOb56d8Mzo3ruhylnu200410&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586520149000",
+            "title": "巴林新增58例新冠肺炎确诊病例",
+            "summary": "巴林卫生部当地时间10日下午发布通告，确认境内新增58例新冠肺炎确诊病例，新增1例死亡病例。截至目前巴林境内累计913例新冠肺炎确诊病例，其中530名患者已经痊愈出院，6名患者病重不治。377名仍在医院接受治疗的患者中有3人病情较重，其余患者情况较为稳定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH6Y2LsRXKUuWnK6hrbPN200410&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586517635000",
+            "title": "​塞内加尔新增15例新冠肺炎确诊病例 累计确诊265例",
+            "summary": "当地时间10日，塞内加尔卫生部发布最新通告称，在195份检测样本中，新发现15例确诊病例，全部为接触性病例，此外又有14名患者已经康复。截至目前，塞内加尔已有累计确诊病例265例，其中137例已被治愈，2例死亡。（总台记者 韩蓄）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis18vY7sP5F6yXXQRuKYO200410&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586515846000",
             "title": "黎巴嫩累计新冠肺炎确诊病例609例",
             "summary": "黎巴嫩卫生部官网公布，截至10日中午黎新冠肺炎确诊总人数为609人，较昨日增加27人。过去24小时内共有5名患者被治愈，治愈总人数已达67人，死亡病例增加1例上升至20例，确诊患者中有危重病例28例，疑似病例目前为596例，另外有1282人处于隔离状态。（总台记者 孙虎）",
@@ -51,42 +87,6 @@
             "summary": "据库克县警方公布的数据，截至当地时间9日晚，已经有276名在押人员新冠病毒检测呈阳性，较前一日增加了25人。其中1人死亡，21人被送往医院救治。此外，当地还有172名警方工作人员确诊，其中大多数在该监狱工作。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidyAJQFRqO4pEtOKOnrPN200410&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586512573000",
-            "title": "马来西亚新增118例新冠肺炎确诊病例，累计确诊4346例",
-            "summary": "当地时间10日，马来西亚宣布新增118例新冠肺炎确诊病例，累计确诊4346例。新增死亡病例3例，累计死亡70例。 马来西亚卫生总监努尔·希萨姆·阿卜杜拉介绍说，今日（10日）共有222人治愈出院，累计治愈病例1830例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4iFnOYNmV2x9GRNQlAJ1200410&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586512020000",
-            "title": "伊朗新增新冠肺炎确诊病例1972例 累计确诊68192例",
-            "summary": "根据伊朗卫生部最新消息，当地时间10日，伊朗新增新冠肺炎确诊病例1972例，新增死亡122例。截至当天中午，伊朗累计确诊新冠肺炎病例68192例，其中35465例康复，4232例死亡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWiBl5JvKgJhAiHk3r2aO200410&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586511908000",
-            "title": "​坦桑尼亚桑给巴尔岛新增2例新冠肺炎确诊病例",
-            "summary": "当地时间4月10日上午，坦桑尼亚桑给巴尔卫生部通报了两例新增新冠肺炎确诊病例。两个确诊病例均为坦桑尼亚人，其中一人4月7日开始发烧，新冠肺炎检测结果呈阳性；另一人有咳嗽和感冒症状，核酸检测呈阳性。这两名确诊病例均未有桑给巴尔岛之外的旅行史。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZCmKhFzgDTEkqg2ICKTc200410&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586511889000",
-            "title": "卢森堡新增新冠肺炎确诊病例64例 累计确诊3034例",
-            "summary": "截至当地时间4月8日下午，据卢森堡卫生部门最新通报，过去24小时其境内新增新冠肺炎确诊病例64例，累计确诊3034例。其中死亡病例新增2例，共计46例。目前，共有231人住院治疗，其中34人在重症监护。另据统计，自疫情暴发以来，卢森堡已进行了26500次新冠病毒检测。（总台记者 西佳）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin6aAIwAPwvOCskJ71dKI200410&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
