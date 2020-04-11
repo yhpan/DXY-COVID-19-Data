@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586579267000",
+            "title": "湖北和武汉重症病例均降至100以下",
+            "summary": "截至4月10日24时，湖北无新增确诊病例，新增治愈出院病例28例（武汉27例），新增死亡病例3例（武汉2例），现有确诊病例320例（武汉319例），其中重症病例95例（武汉94例）。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4492501417154993",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586574003000",
             "title": "湖北新增17例无症状感染者，无境外输入病例",
             "summary": "4月10日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。全省累计治愈出院64264例。目前仍在院治疗320例，其中：重症51例、危重症44例。新增无症状感染者17例，转确诊0例，解除隔离19例，尚在医学观察的无症状感染者673例。",
@@ -78,15 +87,6 @@
             "summary": "根据厄瓜多尔政府公布的数据，截至当地时间4月10日，厄瓜多尔累计确诊7161例新冠肺炎病例，比前一日的4965例增加了40%。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVbUGW3DhFAHrBWy2M3yN200411&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586556148000",
-            "title": "捷克新增新冠肺炎确诊病例207例 累计确诊5674例",
-            "summary": "根据捷克卫生部公布的数据，从当地时间4月9日下午17:30至4月10日下午17:30，境内新增新冠肺炎确诊病例207例，累计确诊5674例",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticafmWxN195yMo0iUvRHk200411&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
