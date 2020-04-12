@@ -19,6 +19,24 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1586697757000",
+            "title": "斯洛伐克新冠肺炎累计确诊742例",
+            "summary": "当地时间4月12日，斯洛伐克卫生部网站通报称，4月11日境内新增新冠肺炎确诊病例14例，累计确诊742例，其中包括23例治愈病例和2例死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieDqSmoSWD3BTPLNY4HiI200412&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586697330000",
+            "title": "世卫组织：全球新冠肺炎累计超过169万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1695096例，死亡105865例，欧洲区域累计达到880106例，中国以外超过161万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFFtCy9mJVLd8pJgM7QLz200412&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586695485000",
             "title": "英国首相出院：约翰逊出院后不会立刻复工",
             "summary": "当地时间4月12日中午，因新冠肺炎入院治疗的英国首相鲍里斯·约翰逊顺利出院，不过英国媒体表示，他还将休息一段时间，不会马上回到工作岗位。\n",
@@ -69,24 +87,6 @@
             "summary": "2020年4月12日7时至16时，内蒙古自治区报告新增境外输入新冠肺炎确诊病例34例。34名患者均来自俄罗斯由满洲里公路口岸入境，经专家会诊，诊断为新冠肺炎确诊病例。",
             "infoSource": "人民日报",
             "sourceUrl": "http://m.weibo.cn/2803301701/4492942188174009",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586684175000",
-            "title": "全球累计新冠肺炎超174万例",
-            "summary": "截至北京时间4月12日16时，疫情已扩散至全球211个国家和地区，累计确诊1741000例，“钻石公主”号邮轮712例，累计死亡108441例。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4492941432847303",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586681715000",
-            "title": "北京高校暂不考虑开学",
-            "summary": "北京市新型冠状病毒肺炎疫情防控工作新闻发布会上，市教委新闻发言人李奕介绍，对于高校学生的要求仍然是不离家不返校。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4492931115282418",
             "province": null,
             "provinceId": ""
         }
