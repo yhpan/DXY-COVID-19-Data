@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1586767643000",
+            "title": "国家卫健委：无论是中国人还是外国人，采取的检疫措施一视同仁",
+            "summary": "今天（13日），国家卫生健康委疾控局监察专员王斌表示：只要是在中国境内的，无论是中国人还是外国人，我们目前采取的检疫措施，包括各项防控措施，包括医疗卫生机构的救治，包括社区的网格化管理要求，都是一视同仁的。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqavhqgNwmVH5hJhiM2pj200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586765470000",
+            "title": "日本新增新冠肺炎确诊病例40例，累计7438例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间13日0时至16时，当天新增感染者40人，日本累计新冠肺炎确诊病例达到7438人。目前日本国内感染新冠肺炎患者的死亡人数为138人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZS8FNf7cXchD22E5H5q200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586762729000",
+            "title": "12日全国本土现有重症病例首次降至100例以下",
+            "summary": "国家卫健委新闻发言人米锋介绍，截至12日，全国本土现有重症病例首次降至100例以下。本土新增确诊病例10例，为3月11日以来单日最高，其中多数属聚集性病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiObwnczI9Tz1hfI9zyNT0200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586760206000",
+            "title": "刚果（金）新增1例新冠肺炎确诊病例",
+            "summary": "根据刚果（金）国家生物医学研究院的数据，截至4月12日晚，刚境内新冠肺炎确诊病例累计达235例，死亡20例，治愈17例，当日新增确诊病例1例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGOcN5A4wAvRTdQ5Bft5W200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586756958000",
+            "title": "泰国新增28例新冠肺炎确诊病例",
+            "summary": "当地时间13日，泰国新冠肺炎防控中心通报了最新疫情数据。与上一日相比新增28例新冠肺炎确诊病例和2例死亡病例。截止到当地时间4月13日上午，泰国累计确诊病例2579例，其中死亡病例累计40例，治愈1288例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLdbcJM1rBQHBysZXzMQH200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586733213000",
             "title": "智利新冠肺炎新增286例 累计确诊7213例",
             "summary": "当地时间4月12日，根据智利卫生部官方报告，该国24小时内新冠肺炎确诊病例新增286例，累计确诊7213例、死亡80例、治愈2059例。在确诊患者中，有387人正在接受重症治疗。",
@@ -42,51 +87,6 @@
             "summary": "据美联社12日报道，迄今为止，美国因新冠肺炎死亡的病人中，至少有2755人来自养老院或长期护理机构，这一数字比10天前暴涨2300多人。但专家警告称，美国养老院实际新冠肺炎死亡数字还要高得多，因为大多数州并不将未得到检测的死亡病例计算在内。美国养老院及长期护理机构接收了约100万老年人及体弱多病者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qfPo5dGXYfM9w2Yw0nT200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586710299000",
-            "title": "意大利新增新冠肺炎4092例，累计确诊156363例",
-            "summary": "当地时间4月12日，意大利民事保护部公布的统计数据显示，意大利过去24小时新增新冠肺炎确诊病例4092 例，累计确诊达156363例。其中，死亡19899例，单日新增431例，为近24天来最低；治愈34211例，新增1677例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSGznYllkTIeBqKreMu0e200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586708480000",
-            "title": "全球新冠肺炎确诊病例突破180万 死亡病例超11万",
-            "summary": "根据美国约翰斯·霍普金斯大学的统计数据显示，截至美国东部时间12日11时30分（北京时间12日23时30分），全球新冠肺炎确诊病例已经突破180万，达到1800791例，死亡病例超过11万，达到110892例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE40jUjG0l9Fyt0dxse2J200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586704751000",
-            "title": "希腊新增新冠肺炎确诊病例33例 累计2114例",
-            "summary": "当地时间4月12日，希腊卫生部消息，希腊新增新冠肺炎确诊病例33例，累计2114例，累计死亡98例。死亡病例中女性占26人，其余为男性。累计确诊病例中542人有国外旅行史，819人是以往确诊病例的接触者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio6kuuy4NAh9Od5sSQbd4200412&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586702826000",
-            "title": "日本累计新冠肺炎确诊病例达7423例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间12日零点至晚十一点半，当天新增感染者500人，日本累计新冠肺炎确诊病例达到7423人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYRJHXTL2id7V0VQaUpr200412&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586702524000",
-            "title": "英国新冠肺炎确诊病例达84279例 ",
-            "summary": "根据英国卫生与社会保障部消息，截至当地时间4月12日上午9点，英国新冠肺炎确诊病例达84279例，单日新增5288例；截至当地时间4月11日下午5点，死亡病例10612例，单日新增737例；共完成352974次病毒检测，其中11日完成18000次。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyIutAWqrxgMTO8MmofNv200412&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
