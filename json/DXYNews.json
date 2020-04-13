@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586772150000",
+            "title": "湖北：对参与疫情防控人员取得的临时性工作补贴和奖金免征个人所得税",
+            "summary": "4月13日，国家税务总局湖北省税务局党委委员、总经济师吴明喜表示，对于参加新冠肺炎疫情防控工作的医务人员和防疫工作者，税收优惠政策主要是个人所得税。按照各级政府规定的补助和奖励标准，取得的临时性工作补贴和奖金都不计入工薪收入，免征个人所得税。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6iVNkusfXe8dpDhAfPPB200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586767643000",
             "title": "国家卫健委：无论是中国人还是外国人，采取的检疫措施一视同仁",
             "summary": "今天（13日），国家卫生健康委疾控局监察专员王斌表示：只要是在中国境内的，无论是中国人还是外国人，我们目前采取的检疫措施，包括各项防控措施，包括医疗卫生机构的救治，包括社区的网格化管理要求，都是一视同仁的。",
@@ -78,15 +87,6 @@
             "summary": "根据厄瓜多尔卫生部公布的数据，截至当地时间4月12日，厄瓜多尔累计确诊7446例新冠肺炎病例，比前一日增加了189例，目前全国累计死亡333人，501人治愈出院。厄瓜多尔受疫情影响最严重的瓜亚斯省确诊病例达到5381例，占该国确诊病例总数70%以上。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFgbJ5biLN41X9BN4w5mo200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586727242000",
-            "title": "美国养老院超过2700人因新冠肺炎死亡",
-            "summary": "据美联社12日报道，迄今为止，美国因新冠肺炎死亡的病人中，至少有2755人来自养老院或长期护理机构，这一数字比10天前暴涨2300多人。但专家警告称，美国养老院实际新冠肺炎死亡数字还要高得多，因为大多数州并不将未得到检测的死亡病例计算在内。美国养老院及长期护理机构接收了约100万老年人及体弱多病者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qfPo5dGXYfM9w2Yw0nT200413&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
