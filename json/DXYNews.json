@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1586795720000",
+            "title": "土耳其本周末将继续实施48小时“禁足令”",
+            "summary": "当地时间4月13日，土耳其总统埃尔多安发表全国电视讲话，表示在31个省市实施“禁足令”是必要的防疫措施，本周末将继续实施48小时“禁足令”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticWUm1ygQaC2tB659HnFt200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586795574000",
+            "title": "土耳其新冠肺炎确诊病例超6万",
+            "summary": "当地时间4月13日晚，土耳其卫生部网站更新的数据显示，当天进行了34456次新冠病毒检测，其中4093人检测结果呈阳性。至此，土耳其累计确诊61049例。当天新增98例死亡病例，累计死亡1296例。当天治愈511例，累计治愈3957例。土耳其总计进行了410556次检测，目前重症监护患者1786例，插管患者1063例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikcA7UOwlh5kVozmnOfrO200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586794933000",
+            "title": "意大利新增确诊3153例，累计159516例，死亡病例突破两万",
+            "summary": "当地时间4月13日，意大利民事保护部公布的统计数据显示，意大利24小时新增新冠肺炎确诊病例3153例，累计确诊达159516例。其中，死亡病例突破两万达到20465例，单日新增566例；治愈35435例，新增1224例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJI4qM5XIm97H3YK8d0wG200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586793913000",
             "title": "布隆迪共和国出现首例新冠肺炎病人死亡",
             "summary": "当地时间4月12日，布隆迪卫生部发布消息，当地已确诊的5例患者中有1位死亡。这名患者在医院重症监护室住院，患有其他基础性疾病。",
@@ -60,33 +87,6 @@
             "summary": "4月13日，普京就俄罗斯当前疫情防控情况召开了远程工作会议。普京指出俄罗斯疫情未出现好转，患者病情在加重，未来几周对疫情防控起着决定性作用。普京要求政府不断更新疫情发展预测，不仅要有中长期预测，还需要做好三天、七天和十天的短期预测，并每日向他进行汇报。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fLohcIaNq9VI2S9cOcZ200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586785465000",
-            "title": "英国新冠肺炎新增确诊4342例，新增死亡717例",
-            "summary": "据英国卫生与社会保障部消息，截至当地时间4月13日上午9点，英国新冠肺炎确诊病例达88621例，单日新增4342例；截至当地时间4月12日下午5点，医院死亡病例11329例，单日新增717例。该数据仅包括因感染病毒在医院死亡的患者，不包括养老院等社会福利机构中的死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdHvd0AJ30xvt9BIXowA200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586781089000",
-            "title": "印度累计确诊病例升至9352例",
-            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间13日下午5时（北京时间晚上7时30分），印度境内新冠肺炎确诊病例升至9352例，其中死亡324例，治愈出院980例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitBj7NoklmRV1bJ2Yw3tW200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586781048000",
-            "title": "英国首相府：约翰逊出院前新冠病毒检测呈阴性",
-            "summary": "据英国媒体报道，英国首相府发言人13日表示，将不推测首相约翰逊何时回到首相府工作。 发言人表示，约翰逊12日出院前其新冠肺炎病毒检测结果呈阴性，现在首相乡村官邸契克斯别墅继续康复。目前，英国外交大臣拉布代表约翰逊处理有关事务。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzFU2ROKmuQWRp5O2WjT200413&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
