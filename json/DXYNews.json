@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586790154000",
+            "title": "麻痹大意导致哈萨克斯坦大量医务人员感染新冠病毒",
+            "summary": "4月13日，哈萨克斯坦卫生部产品和服务安全与质量监督委员会主席比拉别克娃在新闻发布会上通报称，医务人员对新冠病毒的认知不足和防护不到位等现象值得担忧，麻痹大意是导致医疗系统内感染者数量不断增加的主要原因。据卫生部统计，目前有211名医护人员感染新冠病毒，但其中只有74人曾在疫情防控一线工作过。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz6HFQiATMUcVr05HTqd3200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586789452000",
+            "title": "加拿大政府批准一种新冠病毒快速检测试剂盒上市",
+            "summary": "位于加拿大首都渥太华的一家公司当地时间4月13日宣布，他们研发的一种快速检测新冠病毒的便携式试剂盒已经获得了联邦卫生部的上市批准。据了解，这家名为“斯巴达生物科学”（Spartan Bioscience）的公司研发的这种试剂盒只有普通水杯大小，可以在一个小时内检测出新冠病毒。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikymQuOtjtAoJnSCzt5p7200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586785534000",
+            "title": "普京：未来几周对俄疫情防控起着决定性作用",
+            "summary": "4月13日，普京就俄罗斯当前疫情防控情况召开了远程工作会议。普京指出俄罗斯疫情未出现好转，患者病情在加重，未来几周对疫情防控起着决定性作用。普京要求政府不断更新疫情发展预测，不仅要有中长期预测，还需要做好三天、七天和十天的短期预测，并每日向他进行汇报。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fLohcIaNq9VI2S9cOcZ200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586785465000",
+            "title": "英国新冠肺炎新增确诊4342例，新增死亡717例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月13日上午9点，英国新冠肺炎确诊病例达88621例，单日新增4342例；截至当地时间4月12日下午5点，医院死亡病例11329例，单日新增717例。该数据仅包括因感染病毒在医院死亡的患者，不包括养老院等社会福利机构中的死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdHvd0AJ30xvt9BIXowA200413&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586781089000",
             "title": "印度累计确诊病例升至9352例",
             "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间13日下午5时（北京时间晚上7时30分），印度境内新冠肺炎确诊病例升至9352例，其中死亡324例，治愈出院980例。",
@@ -51,42 +87,6 @@
             "summary": "鲁哈尼：抗击疫情，伊朗比欧美做得更好。伊朗总统鲁哈尼12日表示，伊朗现在正同时抗击美国的制裁和新冠肺炎疫情。而在抗击疫情方面，伊朗做得比欧洲和美国更好，这是所有伊朗人的荣耀。他宣布，首都德黑兰地区的“低风险”行业将复工，而伊朗全国将于20日解除城镇间的旅行限制。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5kJOgschxmGLUXUAjlHO200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586774284000",
-            "title": "中国企业和友好组织向泰方捐赠医疗物资",
-            "summary": "4月13日，在中国驻泰国大使馆举行中国企业和友好组织向泰方捐赠医疗物资仪式，中国驻泰国使馆代办杨欣和泰国副总理兼卫生部部长阿努廷出席交接仪式。驻泰国使馆代办杨欣表示，这次由中方企业和友好组织向泰方捐赠医疗物资，体现了“中泰一家亲”的两国特殊友谊，中泰两国“兄弟齐心，其利断金”一定能够战胜疫情。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireoangbRM6QXDVVgWeng200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586773480000",
-            "title": "比利时新增确诊新冠肺炎病例942例，累计30789例",
-            "summary": "据比利时官方当地时间4月13日上午报道，在过去24小时内，比利时境内新增新冠肺炎确诊病例942例，新增死亡病例303例。截至发稿，该国累计确诊病例30789例，累计死亡3903例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikKAmodhDgxXxpsXuoz7c200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586772150000",
-            "title": "湖北：对参与疫情防控人员取得的临时性工作补贴和奖金免征个人所得税",
-            "summary": "4月13日，国家税务总局湖北省税务局党委委员、总经济师吴明喜表示，对于参加新冠肺炎疫情防控工作的医务人员和防疫工作者，税收优惠政策主要是个人所得税。按照各级政府规定的补助和奖励标准，取得的临时性工作补贴和奖金都不计入工薪收入，免征个人所得税。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6iVNkusfXe8dpDhAfPPB200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586767643000",
-            "title": "国家卫健委：无论是中国人还是外国人，采取的检疫措施一视同仁",
-            "summary": "今天（13日），国家卫生健康委疾控局监察专员王斌表示：只要是在中国境内的，无论是中国人还是外国人，我们目前采取的检疫措施，包括各项防控措施，包括医疗卫生机构的救治，包括社区的网格化管理要求，都是一视同仁的。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqavhqgNwmVH5hJhiM2pj200413&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
