@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586835546000",
+            "title": "蒙古国新增13例确诊病例 累计确诊30例",
+            "summary": "当地时间4月14日，蒙古国卫生部官员在当日上午11时举行的视频直播例行新闻发布会上通报说，当日（14日），新增13例确诊病例，至此，蒙古国境外新冠肺炎输入确诊病例已增至30例，治愈出院1例，累计治愈出院5例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiddWJxv4nNPwqMBjoFZB200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586835324000",
+            "title": "乌兹别克斯坦新冠肺炎累计确诊病例达998例",
+            "summary": "4月14日，乌兹别克斯坦卫生部发布消息称，截至当地时间8时，乌新增新冠肺炎确诊病例102例，累计确诊998例，新增治愈19例，累计治愈85例，死亡4例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5T6b3yceg3L9qo0XOUZR200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586834888000",
+            "title": "印度新冠肺炎确诊病例累计已达10363例",
+            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间14日上午8时（北京时间上午10时30分），印度境内新冠肺炎确诊病例升至10363例，其中死亡339例，治愈出院1036例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1qzCfNlYJqCZwzGNAeVD200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586834451000",
+            "title": "王毅：疫情是对各国治理模式与治理能力的一场大考",
+            "summary": "4月13日，国务委员兼外交部长王毅应约同古巴外长罗德里格斯通电话。王毅表示，当前新冠肺炎疫情在全球蔓延。中古作为好朋友、好同志，理应加强战略协调合作。疫情发生后，劳尔第一书记和迪亚斯-卡内尔主席在第一时间向习近平主席致电慰问，卡内尔主席并同习主席通电话，表达对中国抗疫的支持。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN69ny280U3xMgAK5vWnl200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586832950000",
             "title": "日本新增5例新冠肺炎确诊病例 累计7693例",
             "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间14日晚上10点半至上午10点半，日本新增感染者5人，日本累计新冠肺炎确诊病例达到7693人。目前日本国内感染新冠肺炎患者的死亡人数为146人。",
@@ -38,15 +74,6 @@
         },
         {
             "pubDate": "1586828020000",
-            "title": "2020年4月14日天津市报告境外输入性新型冠状病毒肺炎确诊病例0例",
-            "summary": "2020年4月13日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例0例，治愈出院3人。截至4月13日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例48例，出院病例31例，在院17例（其中危重型1例，普通型11例，轻型5例）。",
-            "infoSource": "天津卫健委",
-            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/14/art_87_73155.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586828020000",
             "title": "2020年4月13日青海省无新型冠状病毒肺炎新增确诊病例",
             "summary": "2020年4月13日0-24时，当日青海省无新型冠状病毒肺炎新增确诊病例、疑似病例和无症状感染者。\n\t\t\n\t\t",
             "infoSource": "青海卫健委",
@@ -55,38 +82,11 @@
             "provinceId": ""
         },
         {
-            "pubDate": "1586828018000",
-            "title": "2020年4月13日西藏自治区新冠肺炎确诊病例0例",
-            "summary": "截止4月13日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续75天无新增确诊或疑似病例。",
-            "infoSource": "西藏卫健委",
-            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200414_137069.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586827950000",
-            "title": "黑龙江通报新增79例境外输入确诊病例",
-            "summary": "2020年4月13日0—24时，黑龙江省新增境外输入确诊病例79例，均为中国籍，从俄罗斯输入。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib3p540sG5cqsRANK7Dh2200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586827762000",
-            "title": "韩国新增新冠肺炎确诊病例27例 累计10564例",
-            "summary": "韩国中央防疫对策本部14日通报，4月13日0时至4月14日0时，韩国新增新冠肺炎确诊病例27例，连续6天新增确诊人数少于40例，累计确诊病例为10564例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7bZDD4KfJVWGjHmEKKik200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586827620000",
-            "title": "新突破！我国新冠病毒灭活疫苗获批进入临床试验",
-            "summary": "记者14日从国务院联防联控机制科研攻关组获悉，我国两款新冠病毒灭活疫苗获得国家药品监督管理局一二期合并的临床试验许可，相关临床试验同步启动。这是首批获得临床研究批件的新冠病毒灭活疫苗。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRR3KXXeS5WIzAURDLqrH200413&isfromapp=1",
+            "pubDate": "1586828020000",
+            "title": "2020年4月14日天津市报告境外输入性新型冠状病毒肺炎确诊病例0例",
+            "summary": "2020年4月13日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例0例，治愈出院3人。截至4月13日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例48例，出院病例31例，在院17例（其中危重型1例，普通型11例，轻型5例）。",
+            "infoSource": "天津卫健委",
+            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/14/art_87_73155.html",
             "province": null,
             "provinceId": ""
         }
