@@ -1,6 +1,69 @@
 {
     "results": [
         {
+            "pubDate": "1586821977000",
+            "title": "重庆14日通报：新增1例外地输入无症状感染病例 累计境外输入确诊病例3例",
+            "summary": "4月13日0—24时，重庆市本地无新增新冠肺炎确诊病例报告。截至4月13日24时，重庆市本地无在院确诊病例，累计治愈出院病例570例，累计死亡病例6例，累计报告确诊病例576例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJc0QADwHcuOzFiQ0V67S200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586821655000",
+            "title": "哥伦比亚新冠肺炎累计确诊2852例",
+            "summary": "哥伦比亚卫生部13日宣布，新增76例新冠肺炎确诊病例，全国累计病例达2852例，死亡病例升至112例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimSPPgAbDOd5vm3a9fCuZ200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586821411000",
+            "title": "巴西新增新冠肺炎确诊病例1261例",
+            "summary": "巴西卫生部当地时间13日公布的数据显示，截至当日14时，该国单日新增新冠肺炎确诊病例1261例，累计确诊23430例，累计死亡1328人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiilY2FCJF8aQmRJknbjir200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586821054000",
+            "title": "4月13日0-24时，吉林省无新增境外输入确诊病例",
+            "summary": "4月13日0-24时，全省无新增境外输入确诊病例。截至4月13日24时，全省累计报告境外输入确诊病例7例，累计治愈出院4例（延边州2例，长春市1例，吉林市1例），在院隔离治疗3例（吉林市2例，梅河口市1例）。",
+            "infoSource": "吉林卫健委",
+            "sourceUrl": "http://www.jl.gov.cn/szfzt/jlzxd/yqtb/202004/t20200414_7094988.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586821011000",
+            "title": "内蒙古境外输入无新增确诊病例 累计确诊115例",
+            "summary": "截至4月13日24时，内蒙古自治区已连续55日无新增本土新冠肺炎确诊病例、无新增本土新冠肺炎疑似病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikC3evBMHMyMZn7zvSlfq200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586799205000",
+            "title": "约旦新增2例新冠肺炎确诊病例 累计确诊391例",
+            "summary": "约旦卫生部宣布，4月13日约旦新增新冠肺炎确诊病例2例，新增治愈14例。约旦累计确诊新冠肺炎391例，累计治愈215例，累计死亡7例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3swBnJSPhXtlfj00TQuE200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586799155000",
+            "title": "爱尔兰新冠病毒感染者累计10647人 累计死亡365例",
+            "summary": "当地时间13日下午，爱尔兰卫生部宣布当日新增确诊感染者992人，全国累计感染者增至10647例， 首次超过万人。当天全国新增病逝患者31人、累计死亡增至365例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti56URdGOm1ZfpRzrPAXxT200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586795720000",
             "title": "土耳其本周末将继续实施48小时“禁足令”",
             "summary": "当地时间4月13日，土耳其总统埃尔多安发表全国电视讲话，表示在31个省市实施“禁足令”是必要的防疫措施，本周末将继续实施48小时“禁足令”。",
@@ -24,69 +87,6 @@
             "summary": "当地时间4月13日，意大利民事保护部公布的统计数据显示，意大利24小时新增新冠肺炎确诊病例3153例，累计确诊达159516例。其中，死亡病例突破两万达到20465例，单日新增566例；治愈35435例，新增1224例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJI4qM5XIm97H3YK8d0wG200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586793913000",
-            "title": "布隆迪共和国出现首例新冠肺炎病人死亡",
-            "summary": "当地时间4月12日，布隆迪卫生部发布消息，当地已确诊的5例患者中有1位死亡。这名患者在医院重症监护室住院，患有其他基础性疾病。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirjA69T8GgfkAf5WpdbcW200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586793495000",
-            "title": "纽约州新冠肺炎死亡人数破万",
-            "summary": "当地时间13日，纽约州长库莫称，纽约州新冠疫情造成的死亡人数已经突破一万。当地时间12日，纽约州新增671例死亡案例，死亡人数总数达到10056人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7fPB9oTJhMwOprLCfQwR200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586793169000",
-            "title": "日本新增新冠肺炎确诊病例291例，累计7688例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间13日零点至晚十点半，日本新增新冠肺炎确诊病例291例，累计确诊病例达到7688例。目前日本国内感染新冠肺炎患者的死亡人数为143人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizet9OqEJaDvBLdGKhUeF200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586791908000",
-            "title": "敲响警钟！黑龙江哈尔滨近期发生多例聚集传播感染病例 防控勿放松",
-            "summary": "4月9日至12日，黑龙江省哈尔滨市发生了几例因聚集聚餐传播的新冠肺炎感染病例，再次对疫情防控敲响警钟。韩某（新冠肺炎既往感染者）， 3月19日从美国回到哈尔滨，按照规定居家隔离，曹某为同一单元上下楼邻居，是其关联病例。之后，曹某传染给男友李某，及自己的母亲王某和母亲的男友郭某（为确诊病例，曹某、李某和王某为无症状感染者）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV34Bg2TCBa7qHStJrLSp200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586790154000",
-            "title": "麻痹大意导致哈萨克斯坦大量医务人员感染新冠病毒",
-            "summary": "4月13日，哈萨克斯坦卫生部产品和服务安全与质量监督委员会主席比拉别克娃在新闻发布会上通报称，医务人员对新冠病毒的认知不足和防护不到位等现象值得担忧，麻痹大意是导致医疗系统内感染者数量不断增加的主要原因。据卫生部统计，目前有211名医护人员感染新冠病毒，但其中只有74人曾在疫情防控一线工作过。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz6HFQiATMUcVr05HTqd3200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586789452000",
-            "title": "加拿大政府批准一种新冠病毒快速检测试剂盒上市",
-            "summary": "位于加拿大首都渥太华的一家公司当地时间4月13日宣布，他们研发的一种快速检测新冠病毒的便携式试剂盒已经获得了联邦卫生部的上市批准。据了解，这家名为“斯巴达生物科学”（Spartan Bioscience）的公司研发的这种试剂盒只有普通水杯大小，可以在一个小时内检测出新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikymQuOtjtAoJnSCzt5p7200413&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586785534000",
-            "title": "普京：未来几周对俄疫情防控起着决定性作用",
-            "summary": "4月13日，普京就俄罗斯当前疫情防控情况召开了远程工作会议。普京指出俄罗斯疫情未出现好转，患者病情在加重，未来几周对疫情防控起着决定性作用。普京要求政府不断更新疫情发展预测，不仅要有中长期预测，还需要做好三天、七天和十天的短期预测，并每日向他进行汇报。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8fLohcIaNq9VI2S9cOcZ200413&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
