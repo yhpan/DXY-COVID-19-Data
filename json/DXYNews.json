@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586861249000",
+            "title": "印度确诊病例破万，全国封锁措施延长至5月3日",
+            "summary": "根据印度卫生部发布的数据，截至当地时间今天（14日）上午8时，印度累计新冠肺炎确诊病例升至10363例，死亡病例为339例。为应对疫情，印度总理莫迪今天（14日）宣布，将全国封锁措施延长至5月3日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigYxbDzgizjBpUrZ6tGuO200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586860815000",
+            "title": "日本累计新冠肺炎确诊病例超过八千",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间14日零点至晚七点，日本单天新增感染者315人，日本累计新冠肺炎确诊病例达到8006人。其中东京当天新增感染者161人，累计感染者为2319人。目前日本国内感染新冠肺炎患者的死亡人数为151人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifjSH5GyKX22Dk6l3PXO0200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586858660000",
             "title": "战“疫”后 来自武汉的首趟中欧班列抵达德国杜伊斯堡",
             "summary": "4月14日，德国北威州杜伊斯堡港货运场站迎来10多天前从武汉始发的X8015/6次中欧班列。这是自疫情防控以来，从武汉开出的首趟中欧班列，标志着中欧班列（武汉）恢复常态化运营。此",
@@ -69,24 +87,6 @@
             "summary": "国务院联防联控机制举行新闻发布会，介绍新冠肺炎药物研发、疫苗研制等科研攻关进展情况。科技部社会发展科技司司长吴远彬介绍，目前已经有三个疫苗获批进入临床试验。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwhXnKQ16WBaVQXDCPxXp200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586840697000",
-            "title": "一季度日用电量走出“U”形反转 我国经济正逐步恢复正常水平",
-            "summary": "3月下旬以来，中国经济正逐步恢复到正常水平。在国家电力调度中心，记者拿到了最新的全国用电数据，3月下旬以来，每天的全国日用电量都高于去年同期水平1到2个百分点。 \n  ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidLqZVFJiLKX8B7KKEPvA200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586840249000",
-            "title": "江苏发布2020年全省中考时间安排",
-            "summary": "据江苏教育今天发布消息：经省委、省政府同意，2020年全省中考时间安排在高考结束（7月9日）至中小学生暑假放假（7月18日）之间，具体时间及相关安排由各设区市教育行政部门在本地党委、政府的领导下研究确定，并及时向社会发布。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIQYEhsYpiI1hfPrCqa02200414&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
