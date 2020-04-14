@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586868300000",
+            "title": "建方舱物资紧缺，数百名医护人员驰援边境口岸！",
+            "summary": "昨天（13日），中央应对新冠肺炎疫情工作领导小组召开会议，要求加强境外疫情跨境输入防范。根据边境省份不同防控压力，分级组织内地医疗防控专家工作组到边境一线，支援和指导疫情防控、方舱医院建设、集中隔离点和定点医疗机构设置及患者救治工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLKaAn3toIvPPPB8I8sc200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586864153000",
             "title": "辽宁临时设立新型冠状病毒相关检测价格项目",
             "summary": "为加强新型冠状病毒核酸检测，近日，辽宁省医保局、辽宁省卫生健康委联合下发了《关于临时设立新型冠状病毒相关检测价格项目的通知》。属于辽宁省各地指定的允许开展新型冠状病毒相关检测的公立医疗机构临时设立“新型冠状病毒核酸检测”和“血清新型冠状病毒抗体检测”医疗服务项目，并确定了价格标准。\n上述医疗服务价格项目是此次疫情防控的临时项目和价格，自发布之日起实施，有效期至疫情结束。（总台央视记者 李承泽 徐铁",
@@ -78,15 +87,6 @@
             "summary": "当地时间4月14日，英国首次公布医院外死亡的新冠肺炎病例数据，高于目前英国政府公布的医院死亡病例数据。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia8fgRUozAaIGtYDVYdqd200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586853977000",
-            "title": "​世卫组织：全球新冠肺炎累计达到1776867例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1776867例，死亡111828例，中国以外超过169万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSBr0tsYrtPud0noLFTRt200414&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
