@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586849940000",
+            "title": "俄罗斯新冠肺炎确诊病例累计超过2万 单日新增确诊2774例",
+            "summary": "截至莫斯科时间4月14日10时30分，俄罗斯境内新增2774例新冠肺炎感染病例，累计确诊21102例。其中莫斯科新增1489例，累计确诊达到13002例，是全国疫情最严重的地区。截至目前，俄罗斯共治愈病例1694人，累计死亡170人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz50Xt7bBziCH87zbTgJ0200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586849220000",
+            "title": "国务院联防联控机制科研攻关组：已经有三个新冠病毒疫苗获批进入临床试验",
+            "summary": "国务院联防联控机制举行新闻发布会，介绍新冠肺炎药物研发、疫苗研制等科研攻关进展情况。科技部社会发展科技司司长吴远彬介绍，目前已经有三个疫苗获批进入临床试验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwhXnKQ16WBaVQXDCPxXp200414&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586840697000",
             "title": "一季度日用电量走出“U”形反转 我国经济正逐步恢复正常水平",
             "summary": "3月下旬以来，中国经济正逐步恢复到正常水平。在国家电力调度中心，记者拿到了最新的全国用电数据，3月下旬以来，每天的全国日用电量都高于去年同期水平1到2个百分点。 \n  ",
@@ -69,24 +87,6 @@
             "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，截至当地时间14日晚上10点半至上午10点半，日本新增感染者5人，日本累计新冠肺炎确诊病例达到7693人。目前日本国内感染新冠肺炎患者的死亡人数为146人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNwe4P9jIneJo6y9gCsyN200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586831398000",
-            "title": "在泰国确诊新冠肺炎的26名中国公民 已经治愈返回中国",
-            "summary": "13日，中国驻泰国大使馆代办杨欣向总台记者透露，自从今年1月12日在泰国发现首位中国海外公民确诊新冠肺炎病例以来，中国驻泰国使馆密切与泰国相关部门和医院联系和协调，保障在泰确诊中国公民能够获得最好的医治，到目前为止，共有26名在泰国确诊新冠肺炎中国公民已经治愈返回中国。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRXE2YZ1Bf3AL14adaUjp200414&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586830081000",
-            "title": "天津14日最新通报：无新增新冠肺炎确诊病例",
-            "summary": "4月13日18时至14日6时，天津无新增报告境外输入新冠肺炎确诊病例。累计报告境外输入确诊病例48例（中国籍44例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院31例，在院17例（危重型1例、普通型11例、轻型5例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSlxEXFchRhfmUCnh2TQ3200414&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
