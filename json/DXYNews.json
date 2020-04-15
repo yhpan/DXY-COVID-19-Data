@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586959025000",
+            "title": "杨洁篪应约同美国国务卿蓬佩奥通电话",
+            "summary": "4月15日，中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪应约同美国国务卿蓬佩奥通电话。杨洁篪表示，自3月27日习近平主席同特朗普总统通话以来，中美双方按照两国元首重要共识，就抗疫问题保持了密切沟通。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLM2LA1w5GZWDzMRQOAqk200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586958105000",
+            "title": "世卫组织：全球新冠肺炎累计超过191万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1914916例，死亡123010例，欧洲区域累计达到977596例，中国以外超过183万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinwXXaHpUxDIkwvLqw7Iq200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586956751000",
             "title": "阿联酋首次完成新冠病毒全基因组测序",
             "summary": "当地时间4月15日，迪拜新冠病毒防疫指挥和控制中心宣布，阿联酋穆罕默德·本·拉希德医学与健康科学大学（MBRU）的研究人员首次对迪拜一名新冠肺炎患者的病毒基因组进行了成功测序。",
@@ -69,24 +87,6 @@
             "summary": "印度卫生部官网最新数据显示，截至当地时间15日下午5点（北京时间17:30），印度共报告新冠肺炎确诊病例11933例，其中治愈出院1344例，死亡392例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIHsl6sCv1EruwWTOKQfY200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586951733000",
-            "title": "荷兰新增734例新冠肺炎确诊病例 累计28153例",
-            "summary": "据荷兰卫生部官网15日最新数据，过去24小时，该国新增734例新冠肺炎确诊病例，累计确诊28153例；死亡病例新增189例，累计3134例。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4494063652336550",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586951311000",
-            "title": "瑞士疫情已过拐点 放宽政策将于16日公布",
-            "summary": "截至当地时间4月15日8时，根据瑞士联邦公共卫生部最新数据，瑞士和列支敦士登公国共确诊新冠肺炎感染病例26336例，累计死亡病例973例。瑞士联邦委员表示，瑞士新冠肺炎疫情已过拐点。根据这种情况，瑞士将考虑放宽防疫政策，联邦将于16日召开新闻发布会发布相关通知。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti61ts8iXL3lNgzbpZ52Fa200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
