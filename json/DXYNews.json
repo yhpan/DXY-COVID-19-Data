@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1586939417000",
+            "title": "北京市核酸检测机构增至46家",
+            "summary": "为加强常态化疫情防控工作，促进复工复产秩序全面恢复，确保公众健康安全，北京市卫健委公布了北京市第一批面向团体和个人提供新冠病毒核酸检测的46家机构名单，比2月初的17家检测机构增加了29家。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikbSLJcjbYoJ1B6NJojWD200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586938154000",
             "title": "​世卫组织：全球新冠肺炎确诊病例累计超过187万例",
             "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1878489例，死亡119044例，中国以外超过179万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4I2hthLgVIvoIUQxMZD200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586937265000",
+            "title": "安徽支援湖北医疗队员全部结束隔离平安回家",
+            "summary": "4月14日，安徽首批驰援湖北，也是最后一批撤离的医疗队185人、疾控人员23人结束隔离疗养，全部平安回家。至此，安徽派出的支援武汉、湖北医疗卫生人员1362名全部安全回家。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7TOFY84kzDuZRTarZrW5200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "近日，阿联酋单日最高新增确诊病例数被屡屡刷新，累计确诊新冠肺炎病例已达约5000例。新冠肺炎疫情暴发后，迪拜政府为防控疫情实施了严格的24小时人员流动限制措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKwxXnjbNGMpwMj6UXkp2200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586918974000",
-            "title": "结束隔离 瑞金医院141名逆行者返回医院",
-            "summary": "今天（4月15日），上海交通大学医学院附属瑞金医院第一批和第四批援鄂医疗队员共141人结束隔离，回到医院。至此，该医院的所有医疗队员均凯旋，医院用一场盛大的草坪典礼迎接英雄回家。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4DTDHYu3NM7mu1kr2neJ200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586918697000",
-            "title": "最后一支支援武汉医疗队撤离",
-            "summary": "随着疫情防控持续向好，今天上午，最后一支支援武汉抗击新冠肺炎疫情的国家医疗队——北京协和医院医疗队在完成各项救治任务后，将离汉返京，当地政府和群众为医疗队举行欢送仪式！",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4493925090011796",
             "province": null,
             "provinceId": ""
         }
