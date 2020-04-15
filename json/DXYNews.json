@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586938154000",
+            "title": "​世卫组织：全球新冠肺炎确诊病例累计超过187万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1878489例，死亡119044例，中国以外超过179万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4I2hthLgVIvoIUQxMZD200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586934280000",
+            "title": "千里为邻，战“疫”必胜 ——湖北向黑龙江捐助的第一批医用物资已经抵达！",
+            "summary": "4月15日上午，湖北向黑龙江捐助的第一批医用物资从武汉天河国际机场启程，此刻飞机已经抵达牡丹江海浪国际机场。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Zyk6UGsr3NOoUeqEIpk200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586929773000",
             "title": "上海17例确诊病例今日出院 共计485例患者治愈出院",
             "summary": "上海市卫生健康委今日（15日）通报：17例新型冠状病毒肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新型冠状病毒肺炎确诊病例解除隔离和出院标准，于今日出院。",
@@ -69,24 +87,6 @@
             "summary": "随着疫情防控持续向好，今天上午，最后一支支援武汉抗击新冠肺炎疫情的国家医疗队——北京协和医院医疗队在完成各项救治任务后，将离汉返京，当地政府和群众为医疗队举行欢送仪式！",
             "infoSource": "央视新闻",
             "sourceUrl": "http://m.weibo.cn/2656274875/4493925090011796",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586918288000",
-            "title": "阿根廷累计新冠肺炎确诊病例2443例 将派专机赴中国运载所购防疫物资",
-            "summary": "当地时间4月14日晚，阿根廷卫生部发布公告，该国过去24小时内新增新冠肺炎确诊病例166例，死亡病例4例，累计确诊2443例，死亡105例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM2nta9ToujXoRGQbbXZM200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586917060000",
-            "title": "宁夏4月15日通报：连续42天无新增确诊病例",
-            "summary": "4月15日，宁夏应对新型冠状病毒肺炎疫情工作指挥部发布最新全区新冠肺炎疫情通报。截至2020年4月14日24时，宁夏连续42天无新增确诊病例，无无症状感染者报告。宁夏全区累计报告确诊病例75例（含境外输入病例3例），已全部治愈出院。无疑似病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiueghByZMRA5HFtx43WKr200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
