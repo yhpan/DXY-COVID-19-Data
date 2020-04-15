@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586942135000",
+            "title": "国际劳工组织：应该清醒地认识全球合作的重要性",
+            "summary": "当地时间15日，国际劳工组织负责人盖·莱德在接受瑞士媒体采访时表示，新冠肺炎疫情已经对全球经济构成“二战”以来的最大威胁，他强调应该清醒地意识到全球合作的重要性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVMZSiJzeSEhUvAAnGRyU200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586939417000",
             "title": "北京市核酸检测机构增至46家",
             "summary": "为加强常态化疫情防控工作，促进复工复产秩序全面恢复，确保公众健康安全，北京市卫健委公布了北京市第一批面向团体和个人提供新冠病毒核酸检测的46家机构名单，比2月初的17家检测机构增加了29家。",
@@ -78,15 +87,6 @@
             "summary": "据印度卫生部当地时间15日早晨8点发布的消息，印度新冠肺炎确诊病例达到11439人，其中死亡病例377人，治愈出院1306人。确诊病例比前一晚公布的数字增加了624人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFIDiEiKFesBASmG2nVB200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586919200000",
-            "title": "阿联酋累计确诊新冠肺炎病例约5000例 ",
-            "summary": "近日，阿联酋单日最高新增确诊病例数被屡屡刷新，累计确诊新冠肺炎病例已达约5000例。新冠肺炎疫情暴发后，迪拜政府为防控疫情实施了严格的24小时人员流动限制措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKwxXnjbNGMpwMj6UXkp2200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
