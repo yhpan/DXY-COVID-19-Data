@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1586966677000",
+            "title": "加拿大安大略省新增新冠感染病例和死亡病例双双创下单日最大增量",
+            "summary": "加拿大安大略省政府网站当地时间15日上午公布的疫情统计数据显示，该省新增494个新冠病毒感染病例，死亡病例新增51个，均为疫情发生以来最大单日增量。两项的累计数分别为8447例和385例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtehXBzGAu4AJlOHTNNw200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586965989000",
+            "title": "泰国总理：泰国疫情缓解 四月底将重新评估是否延长《国家紧急状态法》",
+            "summary": "4月15日，泰国总理兼国防部部长巴育在内阁会议上表示，目前泰国疫情局势有所改善，新增确诊病例逐步减少，这将作为泰国新冠肺炎疫情管理中心评估是否延长《国家紧急状态法》及宵禁政策的重要指标，预计将在四月的最后一周做最终评估。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGrFPlOC4Lc3QOSYE1dua200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586965864000",
+            "title": "泰国空军削减23%年度军费 帮助国家度过疫情难关",
+            "summary": "4月15日在泰国皇家空军学院，空军总司令马纳特Manat Wongwat将军在主持预备役入营仪式后透露，他表示目前已削减部分空军装备预算以帮助民众度过疫情危机，对军备没有很大的影响，仍可以保持在一定的战斗力水平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0UmiQPVH2PJUDqjvOlYL200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586965847000",
+            "title": "瑞士：将捍卫世界卫生组织抗击疫情核心作用",
+            "summary": "当地时间15日，瑞士联邦官方表示，将捍卫世界卫生组织应对新冠肺炎疫情的核心地位。瑞士联邦卫生部表示，世卫组织是应对此次疫情关键的国际组织。多边主义和国际合作对全球成功抗击病毒至关重要。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX3pjIieuGGdBeAvksVK6200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586963779000",
             "title": "新加坡新增新冠肺炎确诊病例447例 累计3699例",
             "summary": "4月15日，新加坡卫生部宣布，截至当天中午12点，新加坡新增447例新冠肺炎感染病例，创下单日增长新高，总病例数上升至3699例，累计治愈652例，死亡10例。当天新增病例中，404例是发生在外籍劳工宿舍区的集体感染病例。",
@@ -51,42 +87,6 @@
             "summary": "应沙特阿拉伯政府邀请，中国政府赴沙特抗疫医疗专家组当地时间15日下午乘飞机抵达沙特首都利雅得。专家组由国家卫生健康委组建，宁夏回族自治区卫生健康委选派，涵盖实验室检测、传染病防控、呼吸与重症、护理及中医等领域。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtindgQQMNibe3txOESzMhw200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586959025000",
-            "title": "杨洁篪应约同美国国务卿蓬佩奥通电话",
-            "summary": "4月15日，中共中央政治局委员、中央外事工作委员会办公室主任杨洁篪应约同美国国务卿蓬佩奥通电话。杨洁篪表示，自3月27日习近平主席同特朗普总统通话以来，中美双方按照两国元首重要共识，就抗疫问题保持了密切沟通。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLM2LA1w5GZWDzMRQOAqk200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586958105000",
-            "title": "世卫组织：全球新冠肺炎累计超过191万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1914916例，死亡123010例，欧洲区域累计达到977596例，中国以外超过183万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinwXXaHpUxDIkwvLqw7Iq200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586956751000",
-            "title": "阿联酋首次完成新冠病毒全基因组测序",
-            "summary": "当地时间4月15日，迪拜新冠病毒防疫指挥和控制中心宣布，阿联酋穆罕默德·本·拉希德医学与健康科学大学（MBRU）的研究人员首次对迪拜一名新冠肺炎患者的病毒基因组进行了成功测序。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticoIxMcE7J1KKOJxrBYd1200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586956640000",
-            "title": "国际锐评丨美国“断供”世卫 损人害己",
-            "summary": "美国领导人在当地时间14日的白宫新冠疫情简报会上宣布，美国政府将暂停资助世卫组织，并攻击该组织在处理新冠疫情上不力，导致疫情在全球大暴发。全球公共卫生危机之下，美国这一“甩锅”与单边主义行径，无疑将削弱世卫组织能力，冲击国际抗疫合作，最终损害的将是包括美国人民在内的各国人民的利益，可谓损人害己。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4cZAgM9aMJZFGJUbY4s200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
