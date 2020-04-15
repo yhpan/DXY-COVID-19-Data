@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1586921449000",
+            "title": "​印度新冠肺炎确诊病例升至11439人",
+            "summary": "据印度卫生部当地时间15日早晨8点发布的消息，印度新冠肺炎确诊病例达到11439人，其中死亡病例377人，治愈出院1306人。确诊病例比前一晚公布的数字增加了624人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVFIDiEiKFesBASmG2nVB200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586919200000",
             "title": "阿联酋累计确诊新冠肺炎病例约5000例 ",
             "summary": "近日，阿联酋单日最高新增确诊病例数被屡屡刷新，累计确诊新冠肺炎病例已达约5000例。新冠肺炎疫情暴发后，迪拜政府为防控疫情实施了严格的24小时人员流动限制措施。",
@@ -78,15 +87,6 @@
             "summary": "美国最大的医生组织“美国医学会（American Medical Association）”14日发表声明，反对特朗普停止资助世卫组织的决定。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e3jZIUbtz0fkgwM0Yxn200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586911093000",
-            "title": "短期内新加坡新冠肺炎确诊病例数或将持续上升 将考虑延长严控时间",
-            "summary": "新加坡卫生部长颜金勇当地时间14日在发布会上表示，新加坡新冠肺炎疫情仍然严峻，感染病例在短期内预料会继续增加。政府将研究是否在5月4日后，继续实行“断路器”严控措施，并强调“断路器”抗疫阶段即使结束，也不意味着一切立刻恢复正常。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizHEUKQqz95bb5pRxA8b5200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
