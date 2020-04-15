@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1586926621000",
+            "title": "中国驻新加坡大使馆领事服务大厅、中国签证申请中心暂停对外办公",
+            "summary": "4月15日，中国驻新加坡大使馆发布通知称：结合新冠肺炎疫情发展和新加坡有关防控措施，为确保申请人的健康安全，中国驻新加坡使馆将自4月20日（周一）起暂停领事服务大厅对外办公。同时，中国签证申请服务中心也将暂停对外受理业务。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL0JCNW1RmwxrJONlHuEy200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1586922861000",
+            "title": "​印度最大贫民窟新冠肺炎确诊病例升至60例，7例死亡",
+            "summary": "据印度孟买政府通报，截至当地时间15日上午，塔拉维贫民窟新冠肺炎确诊病例升至60例，其中7例死亡。塔拉维是印度最大的贫民窟，也是亚洲最大贫民窟之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQzKGmEYg7Wl0xTAQ9r4l200415&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1586921449000",
             "title": "​印度新冠肺炎确诊病例升至11439人",
             "summary": "据印度卫生部当地时间15日早晨8点发布的消息，印度新冠肺炎确诊病例达到11439人，其中死亡病例377人，治愈出院1306人。确诊病例比前一晚公布的数字增加了624人。",
@@ -69,24 +87,6 @@
             "summary": "今天上午10点，武汉雷神山医院正式宣布关闭备用。在消杀工作结束后，每间病房都将贴上封条，并不会马上被拆除，而是留作备用。望疫情早日结束，雷神山医院再无重启之时。",
             "infoSource": "央视新闻",
             "sourceUrl": "http://m.weibo.cn/2656274875/4493914167912384",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586913534000",
-            "title": "浙江4月15日通报：新增境外输入新冠肺炎确诊病例1例",
-            "summary": "4月14日0—24时，浙江新增境外输入新冠肺炎确诊病例1例（俄罗斯输入无症状感染者转确诊病例）。新增出院病例2例。截至4月14日24时，累计报告境外输入确诊病例50例，累计出院27例。4月14日0—24时，新增无症状感染者2例（均为境外输入，其中英国1例、西班牙1例），当日转为确诊病例1例，无当日解除隔离者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikYX6JbUIuSzaoPeUU17t200415&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586911138000",
-            "title": "美国医学会：特朗普停止资助世卫组织的举动是“危险的一步”",
-            "summary": "美国最大的医生组织“美国医学会（American Medical Association）”14日发表声明，反对特朗普停止资助世卫组织的决定。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e3jZIUbtz0fkgwM0Yxn200415&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
