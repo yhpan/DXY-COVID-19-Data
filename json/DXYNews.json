@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587025815000",
+            "title": "澳大利亚新增21例确诊病例，累计确诊6468例",
+            "summary": "据澳大利亚联邦卫生部4月16日最新统计，截至当地时间15时，澳大利亚累计确诊新冠肺炎病例增至6468例，包括63例死亡病例，过去的24小时累计新增21例。目前，澳大利亚确诊病例增长曲线明显放缓，连续几日病例增长都在百例之内。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYQYHbfBlU0s3FJl2hHhv200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587022100000",
             "title": "国家卫健委：昨日新增12例本土确诊病例，均为境外输入关联病例",
             "summary": "今天（16日）下午，国务院联防联控机制举行新闻发布会，介绍民营企业、中小企业有序推进复工复产情况。会上，国家卫生健康委新闻发言人米锋通报了最新疫情情况：15日全国新增本土确诊病例12例，均为境外输入关联病例，多为聚集性。应加强对入境人员的健康监测和管理，形成防控闭环，严防聚集性疫情反弹。",
@@ -78,15 +87,6 @@
             "summary": "4月15日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例46例，其中34例为境外输入病例，12例为本土病例（广东5例，黑龙江4例，北京3例）；无新增死亡病例；新增疑似病例4例，其中3例为境外输入疑似病例（上海3例），1例为本土疑似病例（北京1例）。当日新增治愈出院病例76例，解除医学观察的密切接触者521人，重症病例减少18例。境外输入现有确诊病例898例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artianv8BosSgKYa8ABhSOZX200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586997250000",
-            "title": "黑龙江15日新增4例本土新冠确诊病例 新增16例境外输入新冠肺炎确诊病例",
-            "summary": "2020年4月15日0—24时，黑龙江省省内新增确诊病例4例、新增无症状感染者11例（哈尔滨市）。截至4月15日24时，累计报告本土确诊病例505例，现有确诊病例23例（哈尔滨市），现有无症状感染者16例（哈尔滨市）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihCWmi2dAJDPbxXPst7A4200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
