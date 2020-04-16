@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587049839000",
+            "title": "埃及卫生部：埃及新冠肺炎死亡率7.3%，治愈率22%",
+            "summary": "埃及媒体当地时间16日报道，埃及卫生与人口部公布的数据显示，昨天（15日）该国新增5例死亡病例，埃及新冠肺炎死亡总病例数达到183例，但死亡率从7.5％下降到7.3％。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0T6qRPzWhU1t8U37LDH8200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587047470000",
+            "title": "世卫组织：全球新冠肺炎累计超过199万例，欧洲区域超过百万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1991562例，死亡130885例，欧洲区域累计达到1013093例，中国以外确诊病例超过190万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW5uhm02d387GYpXVEywT200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587045360000",
             "title": "天津1例境外输入无症状感染者转为确诊病例",
             "summary": "4月16日6时至18时，天津新增报告境外输入新冠肺炎确诊病例1例（由无症状感染者转为确诊病例），治愈出院1人。",
@@ -69,24 +87,6 @@
             "summary": "近期，北京的各级医疗机构在抓好疫情防控的同时，正在有序恢复日常诊疗服务。记者在北京朝阳医院看到，门口有自动测温设施，进入医院都先进行体温测量。为了做好患者分流，门诊楼和住院大楼的出入口已经进行了重新设定。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViwMvFpSOx8muRjrwJxE200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587028500000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过195万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1954724例，死亡126140例，中国以外超过187万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYQpThyd5Z7h8AyxaWxcr200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587026776000",
-            "title": "香港新增1例新冠肺炎确诊病例",
-            "summary": "来自香港特区政府的最新消息，截至4月16日16时30分，香港新增1例新冠肺炎确诊病例，患者是一位19岁女孩，是英国回来的留学生。至此，香港累计确诊病例增至1017例。在过去24小时内有26人出院，累计康复出院的有484人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gvsj0g022di3rU1c1eI200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
