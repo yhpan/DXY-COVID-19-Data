@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587028500000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过195万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎1954724例，死亡126140例，中国以外超过187万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYQpThyd5Z7h8AyxaWxcr200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587026776000",
+            "title": "香港新增1例新冠肺炎确诊病例",
+            "summary": "来自香港特区政府的最新消息，截至4月16日16时30分，香港新增1例新冠肺炎确诊病例，患者是一位19岁女孩，是英国回来的留学生。至此，香港累计确诊病例增至1017例。在过去24小时内有26人出院，累计康复出院的有484人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gvsj0g022di3rU1c1eI200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587025815000",
             "title": "澳大利亚新增21例确诊病例，累计确诊6468例",
             "summary": "据澳大利亚联邦卫生部4月16日最新统计，截至当地时间15时，澳大利亚累计确诊新冠肺炎病例增至6468例，包括63例死亡病例，过去的24小时累计新增21例。目前，澳大利亚确诊病例增长曲线明显放缓，连续几日病例增长都在百例之内。",
@@ -69,24 +87,6 @@
             "summary": "15日，当被问到五一能不能出去玩这个问题，李兰娟院士表示，五一小长假可以适当地去人员不集中的地方旅游、休闲，目前疫情的国际形势还比较严峻，不建议出国游，旅游在中国还是最安全的。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "http://m.weibo.cn/3057540037/4494266112162858",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586998620000",
-            "title": "湖北16日通报：新增37例无症状感染者 无新确诊病例",
-            "summary": "2020年4月15日0—24时，湖北省新增新冠肺炎确诊病例0例，无境外输入病例。湖北省新增病亡0例。湖北省新增出院33例，其中：武汉市33例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiowkZdFzd5i8ZqmyHcHZz200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586997601000",
-            "title": "国家卫健委：15日新增新冠肺炎确诊病例46例 其中34例为境外输入病例",
-            "summary": "4月15日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例46例，其中34例为境外输入病例，12例为本土病例（广东5例，黑龙江4例，北京3例）；无新增死亡病例；新增疑似病例4例，其中3例为境外输入疑似病例（上海3例），1例为本土疑似病例（北京1例）。当日新增治愈出院病例76例，解除医学观察的密切接触者521人，重症病例减少18例。境外输入现有确诊病例898例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artianv8BosSgKYa8ABhSOZX200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
