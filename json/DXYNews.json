@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587045360000",
+            "title": "天津1例境外输入无症状感染者转为确诊病例",
+            "summary": "4月16日6时至18时，天津新增报告境外输入新冠肺炎确诊病例1例（由无症状感染者转为确诊病例），治愈出院1人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtippJULW8xM83Qn8maHtEy200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587044794000",
+            "title": "英国新冠肺炎确诊病例超过10万，累计死亡超1.3万",
+            "summary": "据英国卫生与社会保障部当地时间16日消息，英国新冠肺炎确诊病例突破10万，累计死亡病例超过1.3万。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti670oJA6HdqxEUsPzQ9Fs200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587043473000",
             "title": "中非共和国政府发布新闻公报重申坚持一个中国原则",
             "summary": "中非共和国政府重申：坚持一个中国原则，中华人民共和国政府是代表整个中国的合法政府，台湾是中国领土不可分割的一部分。",
@@ -69,24 +87,6 @@
             "summary": "来自香港特区政府的最新消息，截至4月16日16时30分，香港新增1例新冠肺炎确诊病例，患者是一位19岁女孩，是英国回来的留学生。至此，香港累计确诊病例增至1017例。在过去24小时内有26人出院，累计康复出院的有484人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gvsj0g022di3rU1c1eI200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587025815000",
-            "title": "澳大利亚新增21例确诊病例，累计确诊6468例",
-            "summary": "据澳大利亚联邦卫生部4月16日最新统计，截至当地时间15时，澳大利亚累计确诊新冠肺炎病例增至6468例，包括63例死亡病例，过去的24小时累计新增21例。目前，澳大利亚确诊病例增长曲线明显放缓，连续几日病例增长都在百例之内。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYQYHbfBlU0s3FJl2hHhv200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587022100000",
-            "title": "国家卫健委：昨日新增12例本土确诊病例，均为境外输入关联病例",
-            "summary": "今天（16日）下午，国务院联防联控机制举行新闻发布会，介绍民营企业、中小企业有序推进复工复产情况。会上，国家卫生健康委新闻发言人米锋通报了最新疫情情况：15日全国新增本土确诊病例12例，均为境外输入关联病例，多为聚集性。应加强对入境人员的健康监测和管理，形成防控闭环，严防聚集性疫情反弹。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticB7eS84HSNjvy4zS3yqc200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
