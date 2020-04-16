@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587035298000",
+            "title": "谭德塞：全球新冠死亡病例呈悲剧性增长，解除限制措施须小心进行",
+            "summary": "世卫组织总干事谭德塞表示，世卫组织已收到近200万新冠肺炎病例报告，死亡人数比上周代表团通报会时增加了4万多例，这是令人惊慌的悲剧性增长，一些国家正在考虑解除限制措施，但必须十分小心地进行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCUa48mYQ0SJzFUnY9B4T200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587034448000",
+            "title": "中国首批援助埃及抗疫物资运抵开罗",
+            "summary": "当地时间16日凌晨，中国向埃及捐赠的首批抗击新冠肺炎疫情援助物资抵达埃及开罗国际机场。埃及卫生与人口部部长助理默罕默德·绍基代表埃及政府前往机场接收了这批物资。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiU46kx9CkhlKb3c1wsLTB200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587031989000",
             "title": "北京各级医疗机构日常诊疗正有序恢复",
             "summary": "近期，北京的各级医疗机构在抓好疫情防控的同时，正在有序恢复日常诊疗服务。记者在北京朝阳医院看到，门口有自动测温设施，进入医院都先进行体温测量。为了做好患者分流，门诊楼和住院大楼的出入口已经进行了重新设定。 ",
@@ -69,24 +87,6 @@
             "summary": "4月16日10时30分，吉林援助黑龙江满洲里医疗队在吉林大学第一医院集结后出征。医疗队成员共11人，其中感染症科医生1名，呼吸与危重症医学科医生1名，ICU科医生2名，感染控制部护士1名，检验科及基因诊断中心技师6名。吉林省新冠肺炎救治重症与危重症专家组组长鲍万国任医疗队队长。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiloOzpYCYC81G9T5UapBk200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587007436000",
-            "title": "印度新冠肺炎确诊病例升至12380例",
-            "summary": "据印度卫生部当地时间16日早晨8点发布消息，印度新冠肺炎确诊病例达到12380人，其中死亡病例414人，治愈出院1489人。确诊病例比前一晚公布的数字增加了447人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiox0kllQ8cv7QAHImd65B200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587000382000",
-            "title": "2020年4月16日天津市新型冠状病毒肺炎疫情情况",
-            "summary": "2020年4月15日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例0例，治愈出院3人。截至4月15日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例49例，出院病例38例，在院11例（其中危重型1例，普通型8例，轻型2例）。",
-            "infoSource": "天津卫健委",
-            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/16/art_87_73189.html",
             "province": null,
             "provinceId": ""
         }
