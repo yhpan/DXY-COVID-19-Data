@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587015986000",
+            "title": "厦门出台疫情防控期间残疾人就业帮扶举措",
+            "summary": "近期厦门印发了《关于贯彻落实疫情防控期间加大残疾人就业帮扶有关措施的通知》，对有厦门市户籍且在法定劳动年龄内（男，16~60周岁；女，16~50周岁）的持证残疾人，在厦门注册开办并正常合法经营的盲人按摩机构、个体工商户、企业（含民办非企业单位），以及2020年1月各区福乐家园、各街（镇）残疾人职业援助中心参训的正式学员，发放相应的补贴。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisNFr8SLpQnp7lqXCmuaT200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587010713000",
             "title": "吉林：医疗队再出发，驰援满洲里",
             "summary": "4月16日10时30分，吉林援助黑龙江满洲里医疗队在吉林大学第一医院集结后出征。医疗队成员共11人，其中感染症科医生1名，呼吸与危重症医学科医生1名，ICU科医生2名，感染控制部护士1名，检验科及基因诊断中心技师6名。吉林省新冠肺炎救治重症与危重症专家组组长鲍万国任医疗队队长。",
@@ -78,15 +87,6 @@
             "summary": "据尼日利亚疾控中心统计，4月15日，尼日利亚新增34例新冠肺炎确诊病例，累计407例，当天新增治愈29例，累计治愈128例，当天新增死亡1例，累计死亡12例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artich4K9rimvLM0EOzuaNKx200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586990131000",
-            "title": "哥伦比亚新冠肺炎累计病例达3105例 低收入群体疫情期间生存压力增大",
-            "summary": "哥伦比亚卫生部15日宣布新增126例新冠肺炎确诊病例，全国累计3105例，死亡病例升至131例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIERQmPV0JUrMpkxO4NWU200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
