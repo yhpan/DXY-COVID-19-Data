@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587010713000",
+            "title": "吉林：医疗队再出发，驰援满洲里",
+            "summary": "4月16日10时30分，吉林援助黑龙江满洲里医疗队在吉林大学第一医院集结后出征。医疗队成员共11人，其中感染症科医生1名，呼吸与危重症医学科医生1名，ICU科医生2名，感染控制部护士1名，检验科及基因诊断中心技师6名。吉林省新冠肺炎救治重症与危重症专家组组长鲍万国任医疗队队长。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiloOzpYCYC81G9T5UapBk200416&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587007436000",
             "title": "印度新冠肺炎确诊病例升至12380例",
             "summary": "据印度卫生部当地时间16日早晨8点发布消息，印度新冠肺炎确诊病例达到12380人，其中死亡病例414人，治愈出院1489人。确诊病例比前一晚公布的数字增加了447人。",
@@ -78,15 +87,6 @@
             "summary": "哥伦比亚卫生部15日宣布新增126例新冠肺炎确诊病例，全国累计3105例，死亡病例升至131例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIERQmPV0JUrMpkxO4NWU200416&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1586968751000",
-            "title": "斯威士兰新增1例新冠肺炎确诊病例 累计确诊16例",
-            "summary": "斯威士兰累计确诊病例16例，累计治愈出院8例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeRYOPzBU5OsPdyCXMfA200416&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
