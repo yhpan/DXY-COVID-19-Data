@@ -1,6 +1,69 @@
 {
     "results": [
         {
+            "pubDate": "1587088800000",
+            "title": "2020年4月16日西藏自治区新型冠状病毒肺炎疫情情况",
+            "summary": "截止4月16日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续78天无新增确诊或疑似病例。",
+            "infoSource": "西藏卫健委",
+            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200417_137610.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587088165000",
+            "title": "新西兰新增2例新冠肺炎死亡病例",
+            "summary": "根据新西兰卫生部门消息，当地时间4月16日，怀卡托一名九十多岁的男子和克赖斯特彻奇一名八十多岁的女子因感染新冠肺炎去世，新西兰新冠肺炎死亡病例达到11例。据官方数据，截至当地时间4月17日上午，新西兰新增2例新冠肺炎确诊病例，累计确诊病例1086例。累计有816名确诊患者已经康复。（总台记者 林清辉）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXs3KSWAllPnJhVYuJDTz200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587088020000",
+            "title": "2020年4月17日天津市新型冠状病毒肺炎疫情情况",
+            "summary": "2020年4月16日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例1例，治愈出院1人。截至4月16日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例50例，出院病例39例，在院11例（其中危重型1例，普通型7例，轻型3例）。",
+            "infoSource": "天津卫健委",
+            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/17/art_87_73220.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587087131000",
+            "title": "截至4月17日7时内蒙古自治区新冠肺炎疫情最新情况",
+            "summary": "2020年4月16日7时至4月17日7时，内蒙古自治区报告无新增本土新冠肺炎确诊病例，新增本土疑似病例1例；报告无新增境外输入新冠肺炎确诊病例，无新增境外输入疑似病例，治愈出院病例9例。                ",
+            "infoSource": "内蒙古卫健委",
+            "sourceUrl": "http://wjw.nmg.gov.cn/doc/2020/04/17/298306.shtml",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587086586000",
+            "title": "韩国连续5天单日新增新冠肺炎确诊病例少于30例",
+            "summary": "韩国中央防疫对策本部当地时间17日通报，截至当天0时（4月16日0时至4月17日0时），韩国新增新冠肺炎确诊病例22例，连续5天单日新增少于30例，累计确诊10635例。此外，新增死亡病例1例，累计死亡病例30例。累计治愈并解除隔离7829例，较前一日新增72例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMAZlwvTedabxGABRwHES200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587086396000",
+            "title": "​乌拉圭新冠肺炎确诊病例达502例",
+            "summary": "当地时间4月16日晚，乌拉圭卫生部发布疫情日报，显示该国新冠肺炎确诊病例单日新增13例；累计确诊502例，治愈286例，死亡9例。另外，现有13人在重症监护室接受治疗；在确诊的患者中，有82名医务工作者，39人已康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8N9t6q2I48yvFGDE06Nr200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587085777000",
+            "title": "国家卫健委：16日新增确诊病例26例 其中15例为境外输入病例",
+            "summary": "4月16日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例26例，其中15例为境外输入病例，11例为本土病例（广东5例，黑龙江3例，山东2例，辽宁1例）；无新增死亡病例；新增疑似病例3例，均为本土疑似病例（黑龙江2例，内蒙古1例）。当日新增治愈出院病例52例，解除医学观察的密切接触者412人，重症病例减少6例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSIQA7MHgxuKYaErwCH8O200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587084449000",
             "title": "意大利、德国等欧洲各国加强疫情防范 加大检测力度",
             "summary": "16日，欧洲疫情继续蔓延，各国不断加强新冠病毒检测力度，同时加强疫情防范以缓解医疗系统的压力。\n意大利：新冠肺炎累计死亡超2.2万例。",
@@ -24,69 +87,6 @@
             "summary": "根据巴西卫生部当地时间16日公布的数据，截至当日14时，该国单日新增新冠肺炎确诊病例2105例，累计确诊30425例，累计死亡病例1924例。但根据当地媒体报道，因检测能力不足，巴西新冠肺炎确诊病例总数可能被低估。此外，随着确诊病例数量的增加，巴西卫生系统重症病床严重短缺。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizJvifjYRERNEPhPjpzwa200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587082466000",
-            "title": "特朗普公布“重启美国”计划：“有些州甚至明天就可以开放”",
-            "summary": "美国总统特朗普16日宣布“重启美国（Opening up America again）”计划，计划分三个阶段重新开放美国的社会经济生活，但何时以及如何开放将由各州自行决定。特朗普说，“我们不是一次全部开放，而是小心地一次一步。”他同时称，一些疫情不严重的、符合标准的州甚至“明天就可以开放”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw5gSavHmp6XkeQugd853200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587082147000",
-            "title": "加拿大新冠肺炎确诊病例达到30106例 死亡病例增至1195例",
-            "summary": "根据加拿大各省当地时间16日陆续发布的新冠疫情统计数据显示，截至发稿（当地时间16日19:50），加拿大已有新冠病毒感染病例30106个，死亡达到1195例，比15日分别增加1727例和185例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimwXXcrLGINPyj7lOO8Q2200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587081377000",
-            "title": "利比亚新增1例新冠肺炎确诊病例 累计确诊49例",
-            "summary": "当地时间17日，利比亚国家疾病控制中心发布声明称，利比亚境内新发现1例新冠肺炎确诊病例。声明提到，利比亚国家疾病控制中心当天进行了65例新冠病毒检测，结果显示其中1例呈阳性。这1例与此前的确诊病例有密切接触史。利比亚目前的累计确诊病例为49例，累计治愈病例为11例，累计死亡1例。（总台记者 陆隽弘）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4AOEBWtbgCYnJ1mlmQ3z200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587081372000",
-            "title": "圭亚那新冠肺炎累计确诊病例57例",
-            "summary": "截至当地时间16日，圭亚那新冠肺炎累计确诊病例57例、死亡病例6例。所有确诊病例中仅4名患者有外游记录，其余53人均为本地感染病例。共260人已接受新冠病毒检测。56人仍在医学观察中。累计治愈出院8例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2bvtlcgjayVP9O2W46te200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587081368000",
-            "title": "上海4月16日无新增新冠肺炎确诊病例",
-            "summary": "上海市卫健委今早（4月17日）通报：4月16日0—24时，无新增境外输入性新冠肺炎确诊病例。新增治愈出院4例，其中来自美国2例，来自英国1例，来自菲律宾1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6cDed9PIHnTqWlbDWCBd200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587080700000",
-            "title": "全球抗疫24小时 | 全球确诊病例近200万 欧盟称将动用更多资源支持世卫组织",
-            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间16日16时（北京时间17日4时），美国新冠肺炎确诊病例达653825例，累计死亡病例30998例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7TsfwPDiHxSMnDVmyhhd200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587080619000",
-            "title": "联合指导委员会成立 东京奥运会筹备工作再启",
-            "summary": "国际奥委会和东京奥组委16日召开电视会议，就东京奥运会推迟后面临的问题达成框架协议，双方同意成立联合指导委员会，负责全程监督各项筹备工作。 双方在会议上还同意采取措施，尽量减少东京奥运会因推迟而造成的额外支出。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7pDHCUJH1NvQ9C3RRPOW200417&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
