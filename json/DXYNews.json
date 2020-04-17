@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587091402000",
+            "title": "天津17日通报：无新增本地新冠肺炎确诊病例 无新增境外输入确诊病例",
+            "summary": "4月16日18时至17日6时，天津无新增报告境外输入新冠肺炎确诊病例。累计报告境外输入确诊病例50例（中国籍46例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院39例，在院11例（危重型1例、普通型7例、轻型3例）。4月16日18时至17日6时，天津无新增报告本地新冠肺炎确诊病例，累计报告本地新冠肺炎确诊病例136例，其中男性73例，女性63例；治愈出院133例，死亡3例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEaqA9eArL6EQOCdogi5N200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587088800000",
             "title": "2020年4月16日西藏自治区新型冠状病毒肺炎疫情情况",
             "summary": "截止4月16日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续78天无新增确诊或疑似病例。",
@@ -55,6 +64,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1587086186000",
+            "title": "阿根廷新冠肺炎确诊病例累计2669例",
+            "summary": "当地时间4月16日，阿根廷卫生部宣布，该国新增新冠肺炎确诊病例98例，累计确诊2669例。新增死亡病例10例，累计死亡122例。新增治愈患者35人，累计治愈631人。阿根廷卫生部发布的公告称，目前，该国疫情形势总体稳定，没有出现感染者暴增和大量感染者死亡的情况。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG8SclmJ8vaOFiDmlGD9q200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587085777000",
             "title": "国家卫健委：16日新增确诊病例26例 其中15例为境外输入病例",
             "summary": "4月16日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例26例，其中15例为境外输入病例，11例为本土病例（广东5例，黑龙江3例，山东2例，辽宁1例）；无新增死亡病例；新增疑似病例3例，均为本土疑似病例（黑龙江2例，内蒙古1例）。当日新增治愈出院病例52例，解除医学观察的密切接触者412人，重症病例减少6例。",
@@ -69,24 +87,6 @@
             "summary": "16日，欧洲疫情继续蔓延，各国不断加强新冠病毒检测力度，同时加强疫情防范以缓解医疗系统的压力。\n意大利：新冠肺炎累计死亡超2.2万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieD4Qi7qLE1xX7Ne6gWxf200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587083995000",
-            "title": "新加坡：外籍务工人员感染新冠肺炎病例可能过万",
-            "summary": "4月16日，新加坡新冠肺炎确诊病例中近九成是外籍务工人员，基本都是在宿舍里集体感染，成为当地最大感染群和最大潜在感染者群体。统计显示，目前新加坡有32.3万名外籍务工人员住在务工宿舍，截止到16日感染率为0.83%，比社区感染率高出40倍。       ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwUCIUgepxFMbOXs5FsY6200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587082561000",
-            "title": "巴西新冠肺炎累计确诊人数破3万 因检测能力不足新冠肺炎确诊病例数量可能被低估",
-            "summary": "根据巴西卫生部当地时间16日公布的数据，截至当日14时，该国单日新增新冠肺炎确诊病例2105例，累计确诊30425例，累计死亡病例1924例。但根据当地媒体报道，因检测能力不足，巴西新冠肺炎确诊病例总数可能被低估。此外，随着确诊病例数量的增加，巴西卫生系统重症病床严重短缺。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizJvifjYRERNEPhPjpzwa200417&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
