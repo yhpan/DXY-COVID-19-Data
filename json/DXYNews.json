@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587123480000",
+            "title": "比利时新冠肺炎确诊病例达36138例 新增1329例",
+            "summary": "据比利时官方当地时间4月17日上午公告，在过去24小时内，比利时境内新增新冠肺炎确诊病例1329例，新增死亡病例313例。截至发稿前，该国累计确诊病例36138例，累计死亡5163例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivmNSttWhMaSOFQrjlAmj200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587120146000",
             "title": "民航局下发通知：国际机票全部采取直销模式 杜绝倒票炒票行为",
             "summary": "为进一步加强疫情期间国际机票销售管理，确保国际航空运输市场平稳有序，切实维护旅客的合法权益，民航局于4月16日下发通知，要求航空公司对国际机票全部采取直销模式，确保公开透明、明码标价，杜绝中间环节倒票、炒票行为。",
@@ -78,15 +87,6 @@
             "summary": "截至当地时间16日，拉美与加勒比地区累计确诊病例超8.6万例，其中巴西累计确诊超过3万例。多国在继续执行限制措施防控疫情的同时，也在考虑如何应对经济受到的影响。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidJAKSDgYB0yhNE3xZArb200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587106930000",
-            "title": "国家外汇管理局：一季度人民币汇率在全球货币中保持相对稳健",
-            "summary": "国务院新闻办公室4月17日下午3时举行新闻发布会，请国家外汇管理局新闻发言人、总经济师、国际收支司司长王春英介绍2020年一季度外汇收支数据，并答记者问。王春英介绍，今年以来，我国外汇市场运行总体稳定。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimx6bhg5rYX1Je2jElDGK200417&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
