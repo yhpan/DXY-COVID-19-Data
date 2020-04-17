@@ -1,16 +1,16 @@
 {
     "results": [
         {
-            "currentConfirmedCount": 1872,
-            "currentConfirmedIncr": -69,
-            "confirmedCount": 83824,
-            "confirmedIncr": 27,
+            "currentConfirmedCount": 907,
+            "currentConfirmedIncr": -1034,
+            "confirmedCount": 84149,
+            "confirmedIncr": 352,
             "suspectedCount": 1549,
             "suspectedIncr": 15,
             "curedCount": 78600,
             "curedIncr": 96,
-            "deadCount": 3352,
-            "deadIncr": 0,
+            "deadCount": 4642,
+            "deadIncr": 1290,
             "seriousCount": 1038,
             "seriousIncr": 6,
             "generalRemark": "1. 3 月 12 日国家卫健委确诊补订遗漏 12 例确诊病例（非 12 日新增），暂无具体省份信息。 2. 浙江省 12 例外省治愈暂无具体省份信息。",
@@ -22,7 +22,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1587092626936
+            "updateTime": 1587094276311
         }
     ],
     "success": true
