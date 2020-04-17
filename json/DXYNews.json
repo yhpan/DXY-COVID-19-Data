@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587099970000",
+            "title": "国家统计局：一季度就业总体平稳规模扩大",
+            "summary": "在国务院新闻办今天（17日）举行的新闻发布会上，国家统计局新闻发言人毛盛勇表示，一季度就业形势总体平稳，就业规模继续扩大。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX4UYWbLiM7cLS6RvyRm7200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587098757000",
             "title": "武汉确诊病例病亡数订正为 3869 例",
             "summary": "2020年4月17日，武汉市新冠肺炎疫情防控指挥部就新冠肺炎确诊病例数、确诊病例死亡数订正情况进行了通报。",
@@ -78,15 +87,6 @@
             "summary": "2020年4月16日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例1例，治愈出院1人。截至4月16日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例50例，出院病例39例，在院11例（其中危重型1例，普通型7例，轻型3例）。",
             "infoSource": "天津卫健委",
             "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/17/art_87_73220.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587087131000",
-            "title": "截至4月17日7时内蒙古自治区新冠肺炎疫情最新情况",
-            "summary": "2020年4月16日7时至4月17日7时，内蒙古自治区报告无新增本土新冠肺炎确诊病例，新增本土疑似病例1例；报告无新增境外输入新冠肺炎确诊病例，无新增境外输入疑似病例，治愈出院病例9例。                ",
-            "infoSource": "内蒙古卫健委",
-            "sourceUrl": "http://wjw.nmg.gov.cn/doc/2020/04/17/298306.shtml",
             "province": null,
             "provinceId": ""
         }
