@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587106966000",
+            "title": "拉美严防疫情 应对经济所受影响",
+            "summary": "截至当地时间16日，拉美与加勒比地区累计确诊病例超8.6万例，其中巴西累计确诊超过3万例。多国在继续执行限制措施防控疫情的同时，也在考虑如何应对经济受到的影响。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidJAKSDgYB0yhNE3xZArb200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587106930000",
+            "title": "国家外汇管理局：一季度人民币汇率在全球货币中保持相对稳健",
+            "summary": "国务院新闻办公室4月17日下午3时举行新闻发布会，请国家外汇管理局新闻发言人、总经济师、国际收支司司长王春英介绍2020年一季度外汇收支数据，并答记者问。王春英介绍，今年以来，我国外汇市场运行总体稳定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimx6bhg5rYX1Je2jElDGK200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587105707000",
+            "title": "俄航SU208航班共确诊66例新冠肺炎病例 总体病情平稳",
+            "summary": "在今天（17日）下午举行的上海市疫情防控工作领导小组新闻发布会上，上海市卫健委透露，4月10日，俄航SU208航班飞抵浦东国际机场，机上共有旅客170人。截至4月16日24时，共确诊66例新冠肺炎病例，全部在定点医院上海市公共卫生临床中心治疗。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivq4qwgJahF8f813cmnKA200417&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587099970000",
             "title": "国家统计局：一季度就业总体平稳规模扩大",
             "summary": "在国务院新闻办今天（17日）举行的新闻发布会上，国家统计局新闻发言人毛盛勇表示，一季度就业形势总体平稳，就业规模继续扩大。",
@@ -60,33 +87,6 @@
             "summary": "4月16日18时至17日6时，天津无新增报告境外输入新冠肺炎确诊病例。累计报告境外输入确诊病例50例（中国籍46例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院39例，在院11例（危重型1例、普通型7例、轻型3例）。4月16日18时至17日6时，天津无新增报告本地新冠肺炎确诊病例，累计报告本地新冠肺炎确诊病例136例，其中男性73例，女性63例；治愈出院133例，死亡3例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEaqA9eArL6EQOCdogi5N200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587088800000",
-            "title": "2020年4月16日西藏自治区新型冠状病毒肺炎疫情情况",
-            "summary": "截止4月16日24时，我区现有新冠肺炎确诊病例0例，重症病例0例，死亡病例0例，疑似病例0例，无症状感染者0例，治愈出院病例1例，累计确诊新冠肺炎病例1例。连续78天无新增确诊或疑似病例。",
-            "infoSource": "西藏卫健委",
-            "sourceUrl": "http://wjw.xizang.gov.cn/xwzx/wsjkdt/202004/t20200417_137610.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587088165000",
-            "title": "新西兰新增2例新冠肺炎死亡病例",
-            "summary": "根据新西兰卫生部门消息，当地时间4月16日，怀卡托一名九十多岁的男子和克赖斯特彻奇一名八十多岁的女子因感染新冠肺炎去世，新西兰新冠肺炎死亡病例达到11例。据官方数据，截至当地时间4月17日上午，新西兰新增2例新冠肺炎确诊病例，累计确诊病例1086例。累计有816名确诊患者已经康复。（总台记者 林清辉）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXs3KSWAllPnJhVYuJDTz200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587088020000",
-            "title": "2020年4月17日天津市新型冠状病毒肺炎疫情情况",
-            "summary": "2020年4月16日0－24时，天津市报告境外输入性新型冠状病毒肺炎确诊病例1例，治愈出院1人。截至4月16日24时，天津市累计报告境外输入性新型冠状病毒肺炎确诊病例50例，出院病例39例，在院11例（其中危重型1例，普通型7例，轻型3例）。",
-            "infoSource": "天津卫健委",
-            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/4/17/art_87_73220.html",
             "province": null,
             "provinceId": ""
         }
