@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587180232000",
+            "title": "绥芬河口岸输入病例情况公布",
+            "summary": "截至4月17日24时，累计入境确诊病例371例，治愈出院1例，现有无症状感染者25例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMDjpb8WYCNZIwJRfmKF200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587179288000",
+            "title": "世卫官员：在疫情暴发期统计准确的数字是一个挑战",
+            "summary": "武汉市新冠肺炎疫情防控指挥部17日订正了当地新冠肺炎确诊病例数和死亡病例数。对此，世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫17日表示，在疫情暴发期确实很难统计准确的数字，预计许多国家都会遇到类似的情况，需要对数据进行修正。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikDPm9UVNO1rXSkQA54na200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587179154000",
+            "title": "疫情结束前中俄陆路口岸旅检绝不开启",
+            "summary": "中国驻俄罗斯大使张汉晖对造谣“绥芬河将恢复旅客通关”和想闯关者提醒：在疫情完全结束前，中俄之间陆路口岸的旅客检查功能绝不会再开启。滞留远东的中国公民，他们就在当地接受隔离，同时要安排好自己的生活，准备生活到疫情结束。\n",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4495017525371813",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587177281000",
             "title": "新疆4月18日通报：连续60天无新增新冠肺炎确诊病例",
             "summary": "新疆维吾尔自治区卫生健康委最新通报，4月17日0时至24时，新疆维吾尔自治区（含新疆生产建设兵团）无新增新冠肺炎确诊病例，已连续60天无新增确诊病例。截至4月17日24时，新疆（含兵团）现有确诊病例0例，正在接受医学观察0人。",
@@ -60,33 +87,6 @@
             "summary": "加拿大各省当地时间4月17日陆续发布的新冠疫情统计数据显示，截至当地时间17日19时30分，加拿大累计新冠肺炎确诊病例31927例，死亡达到1309例，比16日分别增加1821例和114例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSbYdYxI4AEzJnkUB8v3H200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587144076000",
-            "title": "黑龙江绥芬河海关对首次入境中俄铁路工作人员100%核酸检测",
-            "summary": "日前，黑龙江绥芬河铁路口岸旅检通道仅有中俄双方铁路工作人员进出。自4月12日开始，绥芬河海关对入境铁路工作人员不断强化检疫监管措施，对首次入境中俄双方铁路工作人员100%开展核酸检测，对于多次往返的调整为每5天进行核酸检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiME6XBjdSbH5oa8hAON6O200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587133739000",
-            "title": "斯洛伐克累计新冠肺炎确诊病例破千",
-            "summary": "当地时间4月17日，斯洛伐克首席卫生官扬·米卡斯（Jan Mikas）通报称，16日斯洛伐克境内新增新冠肺炎确诊病例72例，累计确诊病例突破千例至1049例；累计治愈167例。另据当地媒体报道，17日新增1例死亡病例，累计死亡病例达到9例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig3Yr20qgMeqBxCTmUwEO200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587128062000",
-            "title": "荷兰确诊新冠肺炎超过3万",
-            "summary": "当地时间17日下午，荷兰卫生部门通报：在过去24小时内，荷兰境内新增确诊新冠肺炎病例1235例，新增死亡病例144例。截至目前，荷兰境内累计确诊达30449例，累计死亡3459例。累计9465名患者住院接受治疗。\n",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4494803230517367",
             "province": null,
             "provinceId": ""
         }
