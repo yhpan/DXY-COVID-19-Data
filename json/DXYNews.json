@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587206975000",
+            "title": "中国驻墨尔本总领事馆高度关注留学生遭袭事件",
+            "summary": "4 月 18 日，中国驻墨尔本总领事馆对外表示：两名墨尔本大学亚裔女留学生在墨尔本市中心遭遇种族歧视语言侮辱和袭击并受轻伤。获悉情况后，总领事馆第一时间向校方和警方核实情况。校方称受害亚裔留学生并非中国籍，已发布声明强烈谴责袭击者言行，并向学生提供必要协助。警方正全力调查案件并缉拿袭击者。中国驻墨尔本总领事馆要求校方和警方进一步重视近期针对亚裔人群歧视言行增多的情况，维护好中国留学生安全。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihnoYOt3700BWMdjoorTD200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587190803000",
             "title": "疫情期印度已对外输送数亿药片",
             "summary": "有“世界药房”之称的印度开始向全球大规模输送药物。在世界疫情暴发后，印度已向108个国家和地区供应了近8500万羟氯喹片、还有5亿扑热息痛片。疫情期间商业航班受限制，许多运输都是通过印度空军、外国撤侨包机甚至外交航班完成。印度因此受到一批“花式赞美”。\n",
@@ -78,15 +87,6 @@
             "summary": "据约翰斯·霍普金斯大学数据，截至美东时间17日20：38，美国新冠肺炎确诊病例为700282例，死亡36822例。 \n",
             "infoSource": "央视新闻",
             "sourceUrl": "http://m.weibo.cn/2656274875/4494987058667223",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587170658000",
-            "title": "湖北18日最新通报：无新增新冠肺炎确诊病例   新增出院7例",
-            "summary": "2020年4月17日0—24时，湖北新增新冠肺炎确诊病例0例，无境外输入病例。新增病亡0例。新增出院7例，其中：武汉市7例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSlOwqcJwKFa9lDfo6jmI200418&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
