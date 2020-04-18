@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587215904000",
+            "title": "阿联酋迪拜首座临时医院正式启用 由迪拜世贸中心改造而成",
+            "summary": "当地时间18日，阿联酋迪拜首座临时医院（field hospital）正式启用。该医院是由迪拜重要的会展中心——迪拜世界贸易中心经过改造而成的，能够提供3000张床位，其中800张可用于进行重症监护。迪拜卫生局（DHA）总干事胡迈德·库塔米（Humaid Al Qutami）近期表示，作为新冠肺炎疫情的预防措施，迪拜将建造或改造至少两座临时医院，进而提升收治新冠肺炎确诊患者的能力。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS99jnwQ5ngi8dnhJUMro200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587215655000",
             "title": "比利时国王夫妇首次佩戴口罩出席公共活动",
             "summary": "比利时国王菲利普夫妇当地时间 17 日前往比利时列日市一家医院访问，看望医护人员和病人。在整个活动期间，国王夫妇全程佩戴口罩。这是自新冠肺炎疫情暴发以来，比利时国王夫妇首次佩戴口罩出席公共活动，引发广泛关注。比利时是遭受新冠病毒影响最严重的欧洲国家之一，不过，尽管该国已有少数城市强制要求民众在公共场合佩戴口罩，但该国联邦政府给出的意见仍然是，口罩不具备防范病毒的功效，不建议普通民众佩戴口罩。",
@@ -78,15 +87,6 @@
             "summary": "当地时间18日，根据西班牙卫生部官方数据，西班牙全国新冠肺炎确诊病例达191726例，死亡共20043例，24小时内新增确诊病例3658例，新增死亡病例565例。（总台记者 魏帆）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7jb5H5vQH6WcnlH7pGgN200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587206975000",
-            "title": "中国驻墨尔本总领事馆高度关注留学生遭袭事件",
-            "summary": "4 月 18 日，中国驻墨尔本总领事馆对外表示：两名墨尔本大学亚裔女留学生在墨尔本市中心遭遇种族歧视语言侮辱和袭击并受轻伤。获悉情况后，总领事馆第一时间向校方和警方核实情况。校方称受害亚裔留学生并非中国籍，已发布声明强烈谴责袭击者言行，并向学生提供必要协助。警方正全力调查案件并缉拿袭击者。中国驻墨尔本总领事馆要求校方和警方进一步重视近期针对亚裔人群歧视言行增多的情况，维护好中国留学生安全。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihnoYOt3700BWMdjoorTD200418&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
