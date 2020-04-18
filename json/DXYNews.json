@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587220171000",
+            "title": "美国多州宣布延长学校关闭时间至2019—2020学年结束",
+            "summary": "自新冠肺炎疫情在美国暴发以来，美国各州政府纷纷要求关闭学校至三月底或四月初，同时对学生进行线上授课。但随着新冠疫情日益严峻，已经有25个州及华盛顿特区宣布学校关闭时间将延长至2019—2020学年结束。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH43ouoXvxYdgBqy5c3Nc200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587217328000",
+            "title": "约旦：因疫情影响 将对公务员及军人减薪",
+            "summary": "当地时间4月18日，约旦总理事务大臣萨米.达乌德表示，因新冠疫情影响，约旦政府将降低该国公务员和军人2020年度的薪资，但退休军人和退休公务员将不包括在降薪人员之列。他表示，此举顺应约旦民众的要求，将为政府节省3.6亿约旦第纳尔（约合36亿人民币）的开支。（总台记者 朱云翔）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3lFjZLXLGB0CUUBiBjuD200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587215904000",
             "title": "阿联酋迪拜首座临时医院正式启用 由迪拜世贸中心改造而成",
             "summary": "当地时间18日，阿联酋迪拜首座临时医院（field hospital）正式启用。该医院是由迪拜重要的会展中心——迪拜世界贸易中心经过改造而成的，能够提供3000张床位，其中800张可用于进行重症监护。迪拜卫生局（DHA）总干事胡迈德·库塔米（Humaid Al Qutami）近期表示，作为新冠肺炎疫情的预防措施，迪拜将建造或改造至少两座临时医院，进而提升收治新冠肺炎确诊患者的能力。",
@@ -69,24 +87,6 @@
             "summary": "4 月 18  日上午，应马来西亚政府邀请，中国政府赴马来西亚抗疫医疗专家组从广州启程，赴马协助开展疫情防控工作。此次由国家卫生健康委组建、广东省卫生健康委选派的专家组成员共 8 人，专业包括临床医学、中医、心理卫生和公共卫生等。专家组将在驻马使馆领导下与马方交流分享经验，团结协作、攻坚克难，为马来西亚疫情防控工作贡献力量。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC3GcL1be025OmZVhtkPc200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587208567000",
-            "title": "中国驻菲律宾大使高度赞赏中国抗疫医疗专家组为菲方抗疫所做贡献",
-            "summary": "4月18日，中国驻菲律宾大使黄溪连在使馆与中国援菲抗疫医疗专家组举行送别会。黄大使代表使馆向专家组致以衷心感谢和崇高敬意。黄大使表示，14天以来，专家组不负重托、不辱使命，以优异表现圆满完成协助菲律宾应对疫情的光荣使命。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQeFBVli32NHnPzafHVW200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587207514000",
-            "title": "西班牙新增 3658 例新冠肺炎确诊病例，死亡共 20043 例",
-            "summary": "当地时间18日，根据西班牙卫生部官方数据，西班牙全国新冠肺炎确诊病例达191726例，死亡共20043例，24小时内新增确诊病例3658例，新增死亡病例565例。（总台记者 魏帆）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7jb5H5vQH6WcnlH7pGgN200418&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
