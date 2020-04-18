@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587171930000",
+            "title": "美国新冠肺炎确诊病例超70万",
+            "summary": "美国新冠肺炎确诊病例为700282例，死亡36822例。 特朗普：预计新冠肺炎死亡人数控制在6万人\n",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4494987226387341",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587171890000",
             "title": "美国新冠肺炎确诊超70万",
             "summary": "据约翰斯·霍普金斯大学数据，截至美东时间17日20：38，美国新冠肺炎确诊病例为700282例，死亡36822例。 \n",
@@ -78,15 +87,6 @@
             "summary": "据印度《经济时报》17日报道，印度医学研究理事会（ICMR）一位高级官员表示，目前，印度每24个检测中能确诊1例阳性病例。该官员表示，“与日本或意大利相比，新冠肺炎在印度的感染率不算高。”",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti01DJJLY4XCz0upK9cKIw200417&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587123931000",
-            "title": "伦敦市长呼吁市民必须佩戴口罩 英国封锁令延长至少三周",
-            "summary": "当地时间17日，伦敦市长萨迪克·汗表示已向英国政府提议，要求伦敦民众乘坐公交时必须佩戴口罩，以防止新冠肺炎病毒的传播。萨迪克·汗呼吁，民众在公交或超市等无法保持社交距离的场合必须佩戴非医用口罩，这与政府保持社交距离的规定并不冲突。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTM1giMJKZWajdGriUctY200417&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
