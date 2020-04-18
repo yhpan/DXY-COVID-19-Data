@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587212177000",
+            "title": "澳门连续10天无新增确诊病例 密切接触者及疑似病例均清零",
+            "summary": "澳门新型冠状病毒感染应变协调中心在18日举行的记者会上表示，自4月9日起，澳门已连续10天没有新增新冠肺炎确诊病例，维持累计45例确诊病例。此外，密切接触者和疑似病例均已清零。据介绍，在45例确诊病例中，有17例患者已康复出院，正接受治疗的患者有28人，包括１名重症病人，27名轻症患者。其中，重症患者的情况持续有改善，康复进展良好，不需再用氧气。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyx87cFSHISJ4p9J56sJP200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587208567000",
+            "title": "中国驻菲律宾大使高度赞赏中国抗疫医疗专家组为菲方抗疫所做贡献",
+            "summary": "4月18日，中国驻菲律宾大使黄溪连在使馆与中国援菲抗疫医疗专家组举行送别会。黄大使代表使馆向专家组致以衷心感谢和崇高敬意。黄大使表示，14天以来，专家组不负重托、不辱使命，以优异表现圆满完成协助菲律宾应对疫情的光荣使命。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQeFBVli32NHnPzafHVW200418&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587206975000",
             "title": "中国驻墨尔本总领事馆高度关注留学生遭袭事件",
             "summary": "4 月 18 日，中国驻墨尔本总领事馆对外表示：两名墨尔本大学亚裔女留学生在墨尔本市中心遭遇种族歧视语言侮辱和袭击并受轻伤。获悉情况后，总领事馆第一时间向校方和警方核实情况。校方称受害亚裔留学生并非中国籍，已发布声明强烈谴责袭击者言行，并向学生提供必要协助。警方正全力调查案件并缉拿袭击者。中国驻墨尔本总领事馆要求校方和警方进一步重视近期针对亚裔人群歧视言行增多的情况，维护好中国留学生安全。",
@@ -69,24 +87,6 @@
             "summary": "兰州市教育局发布通告，兰州市2020年中考文化课笔试时间定为7月16-19日‬。对因推迟开学延误的教学时间，统一采取调减周末、暑假和利用课后服务时间的方式予以补偿。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n2BuNJVjUwsTErCPCx4200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587171930000",
-            "title": "美国新冠肺炎确诊病例超70万",
-            "summary": "美国新冠肺炎确诊病例为700282例，死亡36822例。 特朗普：预计新冠肺炎死亡人数控制在6万人\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4494987226387341",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587171890000",
-            "title": "美国新冠肺炎确诊超70万",
-            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间17日20：38，美国新冠肺炎确诊病例为700282例，死亡36822例。 \n",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4494987058667223",
             "province": null,
             "provinceId": ""
         }
