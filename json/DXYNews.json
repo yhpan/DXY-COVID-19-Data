@@ -1,6 +1,60 @@
 {
     "results": [
         {
+            "pubDate": "1587252795000",
+            "title": "哥伦比亚累计确诊新冠肺炎3621例 疫情蔓延冲击医疗系统",
+            "summary": "哥伦比亚卫生部18日宣布新增182例新冠肺炎确诊病例，全国累计确诊3621例，死亡病例升至166例。持续蔓延的新冠肺炎疫情严重冲击哥伦比亚部分省份的医疗系统。在经济欠发达的乔科省，综合类医院数量有限，目前已报告至少5名医护人员感染新冠肺炎，部分医护人员作为密切接触者须隔离观察，造成医院人手紧缺。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2IaffmaRWnrKhpn87U0e200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587252547000",
+            "title": "美国得克萨斯州和佛蒙特州下周重新开放部分行业",
+            "summary": "美国总统特朗普4月18日在白宫记者会上称，得克萨斯州和佛蒙特州将于下周一开放部分行业。得克萨斯州州长艾伯特17日宣布，将允许部分商业设施提供外卖、打包等服务，而州立公园也将开放，不过游客需要戴口罩并保持社交距离。佛蒙特州州长斯科特宣布，像房地产经纪人、律师事务所等“低接触性”的服务业，每家公司也可以安排两名员工上班。蒙大拿州也将于下周五解除部分禁令。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqQmw1GZwCWtq6k9bH0qP200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587248920000",
+            "title": "毛里塔尼亚宣布所有新冠肺炎患者已全部治愈",
+            "summary": "毛里塔尼亚卫生部18日发布新冠肺炎疫情通报，称毛塔国内所有确诊患者已经全部治愈。自新冠疫情暴发以来，该国累计确诊7例新冠肺炎病例（4女3男），除1人死亡外，其余6人均被治愈。据悉，目前该国仍有752人被隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitGiHZlabfqyGERZUs6fj200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587248160000",
+            "title": "​美国累计新冠肺炎确诊病例726645例",
+            "summary": "据美国约翰斯·霍普金斯大学统计，截至美东时间4月18日16时30，美国新冠肺炎确诊病例已超过72万例，美国累计新冠确诊病例升至726645例，累计死亡37938例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikcRjD1ZfpfxchmEnF2Ra200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587242852000",
+            "title": "土耳其实施第二次周末“禁足令” 伊斯坦布尔：首日共执行了1405次行政处罚",
+            "summary": "当地时间4月18日，土耳其伊斯坦布尔省长耶尔利卡亚在社交账号上发文，第二次周末“禁足令”第一天，伊斯坦布尔大部分民众待在了家中，但也有人违反了禁令。伊斯坦布尔执法机构共执行了1405次行政处罚。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44QRAEi8aFC0ZeEYToge200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587241865000",
+            "title": "世卫组织：全球新冠肺炎累计达到2164111例 中国以外近208万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2164111例，死亡146198例，中国以外近208万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiESuamgXYjejvnnb7X81200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587227069000",
             "title": "德国至少 6711 名医务人员感染新冠病毒",
             "summary": "德国疾控机构罗伯特·科赫研究所日前公布数据显示，有临床信息可查的 104719 例通报病例中，德国新冠患者最常见的临床表现和概率是：咳嗽（51％）、发烧（42％）、流鼻涕（21％），在 3868 例死亡病例中，3347 例年龄都在70岁以上（占87%），死亡病例年龄中位数 82 岁。此外，至少有 6711 名医务人员感染，9 名医务人员死亡。",
@@ -33,60 +87,6 @@
             "summary": "当地时间4月18日下午，据卢森堡卫生部门最新通报，过去24小时其境内新增新冠肺炎确诊病例57例，累计确诊3537例。死亡病例累计72例。目前，卢森堡共有180人住院治疗，其中32人在重症监护。另据统计，自疫情暴发以来，卢森堡已进行了33252次新冠病毒检测。（总台记者 江华）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifgbjpTVkaeWyOgAfe4xY200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587223879000",
-            "title": "印度封锁期间 铁路、民航部门全力保障物资运输",
-            "summary": "印度政府新闻局4月18日发布数据显示，自3月25日印度全国封锁开始到现在，印度铁路部门共计向全国运输了420万吨粮食，而去年同期这一数据为231万吨。此外，印度民航局数据显示，为应对新冠肺炎疫情，由印度航空、联盟航空以及印度空军等执飞的“生命线”特殊航班共计飞行274架次，负责在印度全境运送医疗物资等急需物品，累计飞行里程27.3万公里。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie6OUFQzHhn07UDCiCXQA200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587222183000",
-            "title": "应对疫情伊斯坦布尔新建两座医院 土耳其卫生部长：正在加速建设",
-            "summary": "当地时间4月18日，土耳其卫生部长科贾在伊斯坦布尔视察了两座正在兴建的流行病医院。为应对新冠肺炎疫情，土耳其目前正在不断扩充医疗基础设施。当地时间4月6日，土耳其总统埃尔多安宣布将在伊斯坦布尔的阿塔图尔克机场和桑贾克泰佩区建成两座各1000个床位的传染病医院，预计在45天内建成。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaKRbQ4tBuz9gh8tuktou200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587220171000",
-            "title": "美国多州宣布延长学校关闭时间至2019—2020学年结束",
-            "summary": "自新冠肺炎疫情在美国暴发以来，美国各州政府纷纷要求关闭学校至三月底或四月初，同时对学生进行线上授课。但随着新冠疫情日益严峻，已经有25个州及华盛顿特区宣布学校关闭时间将延长至2019—2020学年结束。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH43ouoXvxYdgBqy5c3Nc200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587217328000",
-            "title": "约旦：因疫情影响 将对公务员及军人减薪",
-            "summary": "当地时间4月18日，约旦总理事务大臣萨米.达乌德表示，因新冠疫情影响，约旦政府将降低该国公务员和军人2020年度的薪资，但退休军人和退休公务员将不包括在降薪人员之列。他表示，此举顺应约旦民众的要求，将为政府节省3.6亿约旦第纳尔（约合36亿人民币）的开支。（总台记者 朱云翔）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3lFjZLXLGB0CUUBiBjuD200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587215904000",
-            "title": "阿联酋迪拜首座临时医院正式启用 由迪拜世贸中心改造而成",
-            "summary": "当地时间18日，阿联酋迪拜首座临时医院（field hospital）正式启用。该医院是由迪拜重要的会展中心——迪拜世界贸易中心经过改造而成的，能够提供3000张床位，其中800张可用于进行重症监护。迪拜卫生局（DHA）总干事胡迈德·库塔米（Humaid Al Qutami）近期表示，作为新冠肺炎疫情的预防措施，迪拜将建造或改造至少两座临时医院，进而提升收治新冠肺炎确诊患者的能力。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS99jnwQ5ngi8dnhJUMro200418&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587215655000",
-            "title": "比利时国王夫妇首次佩戴口罩出席公共活动",
-            "summary": "比利时国王菲利普夫妇当地时间 17 日前往比利时列日市一家医院访问，看望医护人员和病人。在整个活动期间，国王夫妇全程佩戴口罩。这是自新冠肺炎疫情暴发以来，比利时国王夫妇首次佩戴口罩出席公共活动，引发广泛关注。比利时是遭受新冠病毒影响最严重的欧洲国家之一，不过，尽管该国已有少数城市强制要求民众在公共场合佩戴口罩，但该国联邦政府给出的意见仍然是，口罩不具备防范病毒的功效，不建议普通民众佩戴口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinokvOwqAHsOHcPwlh8gc200418&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
