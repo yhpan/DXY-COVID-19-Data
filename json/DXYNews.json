@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1587299755000",
+            "title": "武汉今起发放5亿元消费券  释放消费潜力助力复工复产",
+            "summary": "从今天中午12点开始，武汉市人民政府陆续向全体在汉人员投放5亿元的“武汉消费券”，以活跃消费市场，释放消费潜力，帮助各类企业和商户复工复产、恢复经营。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2EA9kVMR250TsFyf244Q200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587297626000",
+            "title": "葡萄牙新增新冠肺炎确诊病例521例 累计20206例",
+            "summary": "根据葡萄牙卫生局4月19日公布的数据，截至当天12点，葡萄牙累计新冠肺炎确诊病例20206例，24小时增加521例。死亡714例，增加27例。住院接受治疗1243例，其中危重症224例。治愈出院610例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXEq4xMjolXlh5ixEbixs200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587297399000",
+            "title": "​世卫组织总干事：感谢“团结在家”慈善音乐会对抗疫一线的支持",
+            "summary": "当地时间19日，世卫组织总干事谭德塞在个人社交媒体上表示，感谢所有参与“同一世界：团结在家”慈善音乐会的艺术家，以及为“团结基金”捐款的个人，对抗疫一线人员的支持。据活动主办方，目前已收到共计1.279亿美元捐款。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ijzvESsP4ogqf0l5gIB200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587296345000",
+            "title": "俄高官：俄新冠肺炎疫情拐点或在下周出现",
+            "summary": "19日，俄罗斯总统新闻秘书佩斯科夫向媒体表示，目前俄罗斯全国已经执行了三个星期的居家隔离政策，有望在下周看到疫情平台期的到来。佩斯科夫表示，俄政府或在下周颁布抗击新冠肺炎疫情的新政策。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMSB1EafAkHrPiPE0jIs200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587295264000",
+            "title": "安徽开展口罩等防疫物资质量专项整治行动，违法或面临顶格处罚",
+            "summary": "近日，安徽省市场监管局联合药监局印发《关于开展口罩等防疫物资质量专项整治提升行动的通知》，要求即日起在全省防疫物资生产领域（含医用防疫物资生产企业），重点是在口罩等防疫物资生产企业中开展为期六个月的质量专项整治提升行动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitdXhz1AyJ9c7D1q80N9n200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587295201000",
             "title": "第二批30万只快检试剂盒从中国运抵印度 15分钟内可出结果",
             "summary": "印度驻中国大使唐勇胜（Vikram Misri)）18日在个人社交账户上发文称，第二批30万只快检试剂盒已经从中国广州起飞运往印度。这批试剂盒据称将被送往印度拉贾斯坦邦和泰米尔纳德邦。印度媒体称，这是本周早些时候来自中国的第一批65万只快检试剂盒的补充。",
@@ -42,51 +87,6 @@
             "summary": "4月19日下午，中国赴菲抗疫医疗专家组圆满完成任务，启程回国。中国驻菲律宾大使黄溪连、菲律宾外交部长洛钦、卫生部长杜凯等到机场送行。中国赴菲抗疫医疗专家组一行12人，于4月5日抵达菲律宾。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizvQMaCopbeVQe1SmZYN9200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587273094000",
-            "title": "​山东济南：复学后出现发热病例一律由120免费转运",
-            "summary": "根据济南市工作部署和要求，目前仍处于疫情防控期，在疫情防控期间，尤其4月15日济南高三学生正式复学返校后，所有发热病例均由120急救车就近转运至医院发热门诊就诊；120急救车转运的与疫情相关的发热病例一律免收费用。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyoAhDJo6gV1dFtQRMoDg200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587270522000",
-            "title": "日本共同社调查显示：日本8个都府县病床紧张 空床不足2成",
-            "summary": "据日本共同社18日的调查结果显示，能够应对新冠肺炎患者的病床几乎没有空余，东京都、大阪府、滋贺县、冲绳县等8个都府县的空床数量不足20%。47个都道府县确保的病床总计约10500张。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB2qujqYsloEy8xJiZE9w200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587266735000",
-            "title": "土耳其：“禁足令”之下 面包不断供",
-            "summary": "根据土耳其卫生部公布的数据，截至当地时间4月18日，土耳其新冠肺炎确诊病例超8万例，疫情形势不容乐观。本周末，土耳其31个省市继续实施48小时“禁足令”，所有民众如无特殊情况不得出门。部分公职工作人员、媒体从业人员等不受禁令限制。禁令之下，政府还允许土耳其的面包店正常营业，制作和配送面包，保障居民的基本生活需要。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinu3Q0QQ74HJRWEX31IHk200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587264104000",
-            "title": "美国俄亥俄州监狱1300多名在押人员感染新冠病毒",
-            "summary": "美国有线电视网18日报道，美国俄亥俄州的两所监狱和一所在押人员医疗中心发生集中感染，共有1300多名在押人员新冠病毒检测呈阳性，其中4死亡。此外，还有一百余名监狱工作人员确诊感染。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMsLHfmwpXsNx0GRxPZXg200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587263631000",
-            "title": "成都10家机构面向社会开放 可做新冠病毒核酸检测",
-            "summary": "为做好疫情防控，开展入院患者核酸检测，同时满足社会化新冠病毒核酸检测需求，成都市卫健委将可进行核酸检测样本采集及检测的医疗机构及第三方检测机构进行公告，有意愿进行核酸检测的组织机构或个人可前往相关医疗机构采样检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzVxeVeykSpJUfZvLqnS200419&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
