@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587313085000",
+            "title": "土耳其新增新冠肺炎确诊病例3977例 累计确诊86306例",
+            "summary": "当地时间4月19日晚，土耳其卫生部网站更新的数据显示，当天进行了35344次新冠病毒检测，其中3977人检测结果呈阳性。至此，土耳其累计确诊86306例。当天新增127例死亡病例，累计死亡2017例。当天治愈1523例，累计治愈11976例。土耳其总计进行了634277次检测，目前重症监护患者1922例，插管患者1031例。（总台记者 顾玉婷）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidfOmVowJrslbMqukfTW6200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587313042000",
+            "title": "日本新增新冠肺炎确诊病例374例 累计确诊10807例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间19日零点至晚上十一点半，日本单天新增感染者374例，日本累计新冠肺炎确诊病例达到10807例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCJUDj9wr3gBdH3TSIF2Z200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587310735000",
             "title": "澳门19日有3位患者康复出院 连续11天无新增确诊病例",
             "summary": "澳门新型冠状病毒感染应变协调中心19日表示，当天有3位患者康复出院，自4月9日起，澳门已连续11天没有新增新冠肺炎确诊病例。目前，澳门维持累计45例确诊病例，其中20例已康复出院，正在接受治疗的25位患者均为轻症，没有发热，无呼吸困难，情况良好。所有密切接触者均已解除隔离。（总台记者 肖中仁）",
@@ -69,24 +87,6 @@
             "summary": "根据葡萄牙卫生局4月19日公布的数据，截至当天12点，葡萄牙累计新冠肺炎确诊病例20206例，24小时增加521例。死亡714例，增加27例。住院接受治疗1243例，其中危重症224例。治愈出院610例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXEq4xMjolXlh5ixEbixs200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587297399000",
-            "title": "​世卫组织总干事：感谢“团结在家”慈善音乐会对抗疫一线的支持",
-            "summary": "当地时间19日，世卫组织总干事谭德塞在个人社交媒体上表示，感谢所有参与“同一世界：团结在家”慈善音乐会的艺术家，以及为“团结基金”捐款的个人，对抗疫一线人员的支持。据活动主办方，目前已收到共计1.279亿美元捐款。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2ijzvESsP4ogqf0l5gIB200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587296345000",
-            "title": "俄高官：俄新冠肺炎疫情拐点或在下周出现",
-            "summary": "19日，俄罗斯总统新闻秘书佩斯科夫向媒体表示，目前俄罗斯全国已经执行了三个星期的居家隔离政策，有望在下周看到疫情平台期的到来。佩斯科夫表示，俄政府或在下周颁布抗击新冠肺炎疫情的新政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMSB1EafAkHrPiPE0jIs200419&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
