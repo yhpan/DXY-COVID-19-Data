@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587255701000",
+            "title": "特朗普抨击媒体：所谓“消息人士称”就是编的 网友翻旧账“打脸”",
+            "summary": "美国总统特朗普18日继续在各种场合抨击美国媒体，他先是发布了一条推文称，“到目前为止，‘蹩脚’媒体最常用的话是‘据消息人士说’，或‘不愿透露姓名的官员’，这让假新闻媒体可以伪造一个压根儿不存在的人的话。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz02h63wT2fhZ89nx2rnj200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587255540000",
+            "title": "美国新冠肺炎确诊病例超过73万例",
+            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间18日18:40，美国新冠确诊病例为732197例，死亡38664例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVf1NJWJKhJzRSoHZ6V1A200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587252795000",
             "title": "哥伦比亚累计确诊新冠肺炎3621例 疫情蔓延冲击医疗系统",
             "summary": "哥伦比亚卫生部18日宣布新增182例新冠肺炎确诊病例，全国累计确诊3621例，死亡病例升至166例。持续蔓延的新冠肺炎疫情严重冲击哥伦比亚部分省份的医疗系统。在经济欠发达的乔科省，综合类医院数量有限，目前已报告至少5名医护人员感染新冠肺炎，部分医护人员作为密切接触者须隔离观察，造成医院人手紧缺。",
@@ -69,24 +87,6 @@
             "summary": "截至当地时间 18 日 18 时，意大利 24 小时新增新冠病毒感染病例 3491 例，累计感染 175925 例，死亡 23227 例，治愈 44927 例。当天病毒检测 61725 次，阳性结果比例 5.7%。重症监护病例 2733 例，连续15天下降。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQJEIg2jnvkTiFWA16tBe200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587226545000",
-            "title": "印度首都新德里再现新冠肺炎群体感染事件 一家族至少32人确诊",
-            "summary": "印度首都新德里市政部门18日晚间向媒体证实，位于该市北部的贾汗吉尔普里地区的一个大家族目前已至少有32名家庭成员确诊感染新冠肺炎。据该地区负责人迪博格介绍，该大家族集中居住在贾汗吉尔普里地区一个小区的不同房屋中，大约4月10日左右该家庭一名年迈的老人因感染新冠肺炎离世，此前家族多名成员前往探视。截至目前，累计有31名家族成员检测样本呈阳性，确诊感染新冠肺炎。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXlnO0aPneimDrJXb7PDG200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587225114000",
-            "title": "卢森堡新增新冠肺炎确诊病例57例 累计确诊3537例",
-            "summary": "当地时间4月18日下午，据卢森堡卫生部门最新通报，过去24小时其境内新增新冠肺炎确诊病例57例，累计确诊3537例。死亡病例累计72例。目前，卢森堡共有180人住院治疗，其中32人在重症监护。另据统计，自疫情暴发以来，卢森堡已进行了33252次新冠病毒检测。（总台记者 江华）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifgbjpTVkaeWyOgAfe4xY200418&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
