@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587273094000",
+            "title": "​山东济南：复学后出现发热病例一律由120免费转运",
+            "summary": "根据济南市工作部署和要求，目前仍处于疫情防控期，在疫情防控期间，尤其4月15日济南高三学生正式复学返校后，所有发热病例均由120急救车就近转运至医院发热门诊就诊；120急救车转运的与疫情相关的发热病例一律免收费用。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyoAhDJo6gV1dFtQRMoDg200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587270522000",
+            "title": "日本共同社调查显示：日本8个都府县病床紧张 空床不足2成",
+            "summary": "据日本共同社18日的调查结果显示，能够应对新冠肺炎患者的病床几乎没有空余，东京都、大阪府、滋贺县、冲绳县等8个都府县的空床数量不足20%。47个都道府县确保的病床总计约10500张。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB2qujqYsloEy8xJiZE9w200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587266735000",
             "title": "土耳其：“禁足令”之下 面包不断供",
             "summary": "根据土耳其卫生部公布的数据，截至当地时间4月18日，土耳其新冠肺炎确诊病例超8万例，疫情形势不容乐观。本周末，土耳其31个省市继续实施48小时“禁足令”，所有民众如无特殊情况不得出门。部分公职工作人员、媒体从业人员等不受禁令限制。禁令之下，政府还允许土耳其的面包店正常营业，制作和配送面包，保障居民的基本生活需要。",
@@ -69,24 +87,6 @@
             "summary": "4月18日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例16例，其中9例为境外输入病例，7例为本土病例（黑龙江6例，广东1例）；无新增死亡病例；新增疑似病例2例，其中1例为境外输入疑似病例，1例为本土疑似病例（内蒙古1例）。当日新增治愈出院病例33例，解除医学观察的密切接触者1073人，重症病例无变化。境外输入现有确诊病例847例（含重症病例47例），现有疑似病例44例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipW5uI2Q6uh3tg5j5adAp200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587257875000",
-            "title": "​哈佛大学公共卫生专家：重启经济前美国需将新冠病毒检测能力提至3倍",
-            "summary": "美国有线新闻网18日报道，哈佛大学的多位公共卫生专家认为，在重启经济之前，美国必须将现有新冠病毒检测能力提升至目前的3倍以上。美国目前每天进行约15万次新冠病毒检测，阳性比例高达20%。而世界卫生组织建议，大量检测并将阳性率压至3%至12%是复工复产的前提。研究认为，按这一标准，美国需将检测能力提升至每天50万次以上。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiERTrnwL2IFstwZB1mCni200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587255701000",
-            "title": "特朗普抨击媒体：所谓“消息人士称”就是编的 网友翻旧账“打脸”",
-            "summary": "美国总统特朗普18日继续在各种场合抨击美国媒体，他先是发布了一条推文称，“到目前为止，‘蹩脚’媒体最常用的话是‘据消息人士说’，或‘不愿透露姓名的官员’，这让假新闻媒体可以伪造一个压根儿不存在的人的话。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz02h63wT2fhZ89nx2rnj200419&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
