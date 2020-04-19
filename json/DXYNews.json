@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587295201000",
+            "title": "第二批30万只快检试剂盒从中国运抵印度 15分钟内可出结果",
+            "summary": "印度驻中国大使唐勇胜（Vikram Misri)）18日在个人社交账户上发文称，第二批30万只快检试剂盒已经从中国广州起飞运往印度。这批试剂盒据称将被送往印度拉贾斯坦邦和泰米尔纳德邦。印度媒体称，这是本周早些时候来自中国的第一批65万只快检试剂盒的补充。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiESgaCamqhjnUxMucHxWI200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587292790000",
+            "title": "中国医疗专家组完成在菲律宾援助任务返回厦门",
+            "summary": "4月19日，中国赴菲律宾抗疫医疗专家组圆满完成在菲律宾的援助任务，平安返回福建厦门。专家组一行12人受中国政府派遣，由国家卫生健康委组建、福建省卫生健康委选派。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisNaKo4Dgw4Oo0Mj7DPrI200419&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587285736000",
             "title": "香港新增2例新冠肺炎确诊病例 累计1025例",
             "summary": "来自香港特区政府的最新消息，截至4月19日16点30分，香港新增2例新冠肺炎确诊病例，其中1人有外出旅游记录。至此，香港累计确诊病例增至1025例。在过去24小时内有34人出院，累计康复出院的有601人。",
@@ -69,24 +87,6 @@
             "summary": "为做好疫情防控，开展入院患者核酸检测，同时满足社会化新冠病毒核酸检测需求，成都市卫健委将可进行核酸检测样本采集及检测的医疗机构及第三方检测机构进行公告，有意愿进行核酸检测的组织机构或个人可前往相关医疗机构采样检测。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWzVxeVeykSpJUfZvLqnS200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587261513000",
-            "title": "北美观察丨断资世卫？美专家说：没有世卫，也要造一个世卫！",
-            "summary": "自从美国总统特朗普14日表示要暂停对世卫组织的资助后，美国主流媒体连日来一直聚焦该事件，对特朗普自相矛盾的言论进行抨击，并指责他的决定是错误的、极不负责的，美国权威公共卫生专家劳伦斯·戈斯汀教授甚至表示“为之感到羞耻”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLltXkeGsfjNpxYyrHArs200419&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587261329000",
-            "title": "青岛严防疫情输入 海上检疫守国门",
-            "summary": "当前，全球新冠肺炎疫情还在扩散蔓延，外防输入成为我国防疫的重点。作为北方最大的外贸口岸，青岛港目前每天有超过20艘船舶入境。海关人员要登临船舶进行检疫，全力保障海上国门的安全。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIaQyUXpNrwMkK0Kvba2200419&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
