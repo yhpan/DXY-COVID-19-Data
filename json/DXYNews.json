@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587393962000",
+            "title": "印度最大贫民窟新增30例新冠肺炎确诊病例，累计168例",
+            "summary": "据印度媒体报道，当地时间20日，印度最大贫民窟——孟买塔拉维贫民窟新增30例新冠肺炎确诊病例，累计确诊病例升至168例，其中死亡11例。20日新增的30个病例中，至少17人为35岁以下，包括一名2岁的婴儿，另有2例年龄超过6岁。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir3szLXKvybcc9CbddlVP200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587393605000",
+            "title": "欧盟推出新冠病毒数据共享平台",
+            "summary": "20日，欧盟宣布推出新冠病毒数据共享平台。该平台将收集DNA序列数据，临床数据，各类论文等资源，方便研究人员开展对新冠病毒感染治疗和疫苗的研究。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKPsAgOyj2B5TtelVp23E200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587392221000",
+            "title": "中国、吉布提卫生专家举行视频交流会",
+            "summary": "当地时间4月19日，为帮助吉布提政府更好地抗击日益严峻的新冠肺炎疫情，在中国驻吉布提使馆的倡议和协助下，来自北大第一医院和北大人民医院的专家们同吉布提卫生部官员、新冠肺炎防疫委员会专家举行视频交流会，分享一线抗疫经验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisgpNzBakh0g1OpA9pZZj200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587390165000",
             "title": "阿联酋新增484例新冠肺炎确诊病例，累计超7000例",
             "summary": "据阿联酋卫生与预防部4月20日公布，阿联酋当天新增484例新冠肺炎确诊病例，再次刷新该国单日新增病例数的新高。阿联酋作为中东地区重要的交通枢纽，外来人口众多，新增感染者的国籍身份也相对复杂。目前这些新增病例身体状况稳定，正在接受必要的隔离和治疗。",
@@ -60,33 +87,6 @@
             "summary": "近日，为了帮助安哥拉当地受疫情影响的困难家庭渡过难关，安哥拉威拉省华人社区向卢班戈市捐赠了一批包括消毒液、肥皂、玉米粉、食用油、大米等在内的防疫和生活物资。卢班戈市副市长奥兰多·布拉兹代表卢班戈市政府和当地民众接收了这批物资，并对此次安哥拉威拉省华人社区的捐赠表达了由衷的谢意。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihHz8HoYnJkCtdT9Ns6bR200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587379590000",
-            "title": "“77国集团和中国”发表声明支持世界卫生组织",
-            "summary": "当地时间4月19日，“77国集团和中国”发表声明，赞赏世界卫生组织在抗击新冠肺炎疫情中发挥的领导作用。这是该集团4月3日就抗击新冠肺炎疫情发表声明后，再次专门发声支持世界卫生组织。声明对新冠肺炎疫情迅速蔓延深感关切，表示这是现代历史上最严重的公共卫生危机之一，当务之急是挽救生命。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaSBPMBfYL1BHiZeV7Lj200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587375144000",
-            "title": "西班牙累计确诊超20万例",
-            "summary": "当地时间20日，根据西班牙卫生部消息，西班牙全国新冠肺炎确诊人数达200210例，死亡共20852例。24小时新增病例4266例， 新增死亡399例。\n",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4495839567554167",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587374173000",
-            "title": "香港1-3月失业率攀升至4.2% 为九年来最高点",
-            "summary": "4月20日，香港特区政府的最新数据显示，香港失业率持续攀升，1至3月失业率升至4.2%，比上一季度上升了0.5个百分点，是九年以来的新高水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6rmsH0RKW9Tm8MiMPZs9200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
