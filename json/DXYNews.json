@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587396007000",
+            "title": "日本20日新增345例新冠肺炎确诊病例，累计确诊11152人",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间20日0时至23时，日本单日新增感染者345人，日本累计新冠肺炎确诊病例达到11152人。其中东京当日新增感染者102人，感染者人数累计达到3184人。目前日本国内感染新冠肺炎患者的死亡人数为261人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivwIEAwufnn6xNIoPrLIW200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587393962000",
             "title": "印度最大贫民窟新增30例新冠肺炎确诊病例，累计168例",
             "summary": "据印度媒体报道，当地时间20日，印度最大贫民窟——孟买塔拉维贫民窟新增30例新冠肺炎确诊病例，累计确诊病例升至168例，其中死亡11例。20日新增的30个病例中，至少17人为35岁以下，包括一名2岁的婴儿，另有2例年龄超过6岁。",
@@ -78,15 +87,6 @@
             "summary": "多国人士表示，中国以实际行动积极推动全球携手抗疫，展现了中国作为负责任大国的担当。19日下午，中国赴菲律宾抗疫医疗专家组圆满完成任务，启程回国。前往机场送行的菲律宾官员表示，中国专家的工作令菲方受益匪浅，希望未来两国可以开展更多合作，携手抗击疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNLMeJ5EyrtmsEOxjYRnK200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587381302000",
-            "title": "爱无国界！安哥拉威拉省华人社区向当地民众捐赠防疫和生活物资",
-            "summary": "近日，为了帮助安哥拉当地受疫情影响的困难家庭渡过难关，安哥拉威拉省华人社区向卢班戈市捐赠了一批包括消毒液、肥皂、玉米粉、食用油、大米等在内的防疫和生活物资。卢班戈市副市长奥兰多·布拉兹代表卢班戈市政府和当地民众接收了这批物资，并对此次安哥拉威拉省华人社区的捐赠表达了由衷的谢意。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihHz8HoYnJkCtdT9Ns6bR200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
