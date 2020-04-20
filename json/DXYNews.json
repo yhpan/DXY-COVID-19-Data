@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587368653000",
+            "title": "英国将尝试用康复人员血浆治疗新冠肺炎患者",
+            "summary": "英国国家医疗服务体系（NHS）中的血液和移植（NHSBT）部门近日表示，他们正在与新冠肺炎康复人员进行接触，希望利用他们的血浆来治疗新冠肺炎患者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSZX6VGDvCKMI0R1fAJFE200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587359540000",
             "title": "印度公务员未来一年每月缴一天工资汇入“总理关爱”抗疫基金",
             "summary": "印度财政部门近日下达通知，所有国家公务员未来一年每月工资中会扣除一天的薪水，汇集到“总理关爱”抗疫基金。该做法将执行到2021年3月。",
@@ -78,15 +87,6 @@
             "summary": "据彭博社报道，随着近期石油在亚洲市场交易扩大下跌，交易量创下近二十年来的最低点，此前最大的沙特与俄罗斯达成的石油减产协议几乎未能对新冠肺炎疫情造成的需求骤降产生积极影响，并且市场日益担心石油供货商很快将会无足够空间存储石油。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGACYLEhUFqbvnLbqo04D200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587336608000",
-            "title": "二十国集团卫生部长会议强调应重视疫情对最不发达国家的影响",
-            "summary": "国际社会应采取积极措施应对新型冠状病毒肺炎疫情对民众生命安全和社会经济带来的严峻挑战，强调应加强全球卫生安全合作，并重视疫情对发展中国家和最不发达国家所带来的风险。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixRqihRiwLnrYQjTv2xJU200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
