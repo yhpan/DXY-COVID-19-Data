@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587386101000",
+            "title": "卡塔尔新增567例新冠肺炎确诊病例，总确诊数超6000例",
+            "summary": "卡塔尔公共卫生部20日下午对外公布，在过去24小时内，卡塔尔全国共新增567例新冠肺炎确诊病例，总确诊病例达6015例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticRLmA2MVF9xErCyYCJjS200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587384585000",
+            "title": "二十国集团卫生部长会分享抗疫经验",
+            "summary": "二十国集团卫生部长会议19日以视频形式召开，与会各国卫生部长分享了各自国家的抗疫经验以及针对新冠疫情采取的预防措施。世卫组织总干事谭德塞说，当前世界正面临前所未有的卫生领域的挑战，二十国集团应齐心合力，针对疫情的发展，做好预判和规划，共同推进防疫物资的生产和分配。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL473XHpafsWTbAX83dA8200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587384214000",
+            "title": "国际社会：中国积极推动全球携手抗疫",
+            "summary": "多国人士表示，中国以实际行动积极推动全球携手抗疫，展现了中国作为负责任大国的担当。19日下午，中国赴菲律宾抗疫医疗专家组圆满完成任务，启程回国。前往机场送行的菲律宾官员表示，中国专家的工作令菲方受益匪浅，希望未来两国可以开展更多合作，携手抗击疫情。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNLMeJ5EyrtmsEOxjYRnK200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587381302000",
             "title": "爱无国界！安哥拉威拉省华人社区向当地民众捐赠防疫和生活物资",
             "summary": "近日，为了帮助安哥拉当地受疫情影响的困难家庭渡过难关，安哥拉威拉省华人社区向卢班戈市捐赠了一批包括消毒液、肥皂、玉米粉、食用油、大米等在内的防疫和生活物资。卢班戈市副市长奥兰多·布拉兹代表卢班戈市政府和当地民众接收了这批物资，并对此次安哥拉威拉省华人社区的捐赠表达了由衷的谢意。",
@@ -60,33 +87,6 @@
             "summary": "英国国家医疗服务体系（NHS）中的血液和移植（NHSBT）部门近日表示，他们正在与新冠肺炎康复人员进行接触，希望利用他们的血浆来治疗新冠肺炎患者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSZX6VGDvCKMI0R1fAJFE200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587359540000",
-            "title": "印度公务员未来一年每月缴一天工资汇入“总理关爱”抗疫基金",
-            "summary": "印度财政部门近日下达通知，所有国家公务员未来一年每月工资中会扣除一天的薪水，汇集到“总理关爱”抗疫基金。该做法将执行到2021年3月。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtEMAMW7JiB4gmXEbmdT200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587353626000",
-            "title": "​国家卫健委紧急调配救护车 ECMO等支援内蒙古满洲里",
-            "summary": "4日20日，由国家卫健委紧急调配、支援满洲里市的7台救护车（包括5台负压救护车）、两台DR、一台CRRT抵达满洲里铁路车站。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94yfr2qWpsN5z4jMdYov200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587352229000",
-            "title": "新冠肺炎疫情对洛杉矶经济打击将超过2008年经济危机",
-            "summary": "洛杉矶市市长贾西提在美国当地时间4月19日的疫情发布会上警告说，新冠肺炎疫情使洛杉矶面临的经济衰退，将比2008年的经济危机更为痛苦。接下来在削减众多政府投资计划的同时，数千名市政工作人员将被强制休假。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioZid5WQhTVRGHY4GUcX1200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
