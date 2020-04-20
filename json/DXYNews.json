@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587359540000",
+            "title": "印度公务员未来一年每月缴一天工资汇入“总理关爱”抗疫基金",
+            "summary": "印度财政部门近日下达通知，所有国家公务员未来一年每月工资中会扣除一天的薪水，汇集到“总理关爱”抗疫基金。该做法将执行到2021年3月。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigtEMAMW7JiB4gmXEbmdT200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587353626000",
+            "title": "​国家卫健委紧急调配救护车 ECMO等支援内蒙古满洲里",
+            "summary": "4日20日，由国家卫健委紧急调配、支援满洲里市的7台救护车（包括5台负压救护车）、两台DR、一台CRRT抵达满洲里铁路车站。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94yfr2qWpsN5z4jMdYov200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587352229000",
             "title": "新冠肺炎疫情对洛杉矶经济打击将超过2008年经济危机",
             "summary": "洛杉矶市市长贾西提在美国当地时间4月19日的疫情发布会上警告说，新冠肺炎疫情使洛杉矶面临的经济衰退，将比2008年的经济危机更为痛苦。接下来在削减众多政府投资计划的同时，数千名市政工作人员将被强制休假。",
@@ -69,24 +87,6 @@
             "summary": "国际社会应采取积极措施应对新型冠状病毒肺炎疫情对民众生命安全和社会经济带来的严峻挑战，强调应加强全球卫生安全合作，并重视疫情对发展中国家和最不发达国家所带来的风险。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixRqihRiwLnrYQjTv2xJU200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587329971000",
-            "title": "秘鲁新冠肺炎确诊病例超过1.5万人 卫生部长表示中国快检试剂安全有效",
-            "summary": "当地时间19日周日，秘鲁卫生部长萨莫拉表示从中国采购的新冠肺炎病毒快速检测试剂安全有效，符合该国及欧盟标准。目前，秘鲁新冠肺炎病毒累计检测量达143745人次。秘鲁总统比斯卡拉18日曾指出，由于新冠肺炎确诊病例持续增加，该国公共医疗系统的收治能力“已达到极限”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticqfuDDUno8n4N7NuW5GG200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587325802000",
-            "title": "世卫组织：全球新冠肺炎累计达到2245872例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2245872例，死亡152707例，中国以外超过216万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQjdHsCApNPWNlkZcjeFe200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
