@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587396756000",
+            "title": "英国新冠肺炎新增死亡病例449例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月20日上午9时，英国新冠肺炎确诊病例单日新增4676例，累计124743例。截至当地时间4月19日下午5时，医院死亡病例16509例，单日新增449例。由于数据不包括医院外感染病毒死亡人数，实际死亡病例高于该数据。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGiKT3TGNTgnIvVwljkst200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587396007000",
             "title": "日本20日新增345例新冠肺炎确诊病例，累计确诊11152人",
             "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间20日0时至23时，日本单日新增感染者345人，日本累计新冠肺炎确诊病例达到11152人。其中东京当日新增感染者102人，感染者人数累计达到3184人。目前日本国内感染新冠肺炎患者的死亡人数为261人。",
@@ -78,15 +87,6 @@
             "summary": "二十国集团卫生部长会议19日以视频形式召开，与会各国卫生部长分享了各自国家的抗疫经验以及针对新冠疫情采取的预防措施。世卫组织总干事谭德塞说，当前世界正面临前所未有的卫生领域的挑战，二十国集团应齐心合力，针对疫情的发展，做好预判和规划，共同推进防疫物资的生产和分配。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL473XHpafsWTbAX83dA8200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587384214000",
-            "title": "国际社会：中国积极推动全球携手抗疫",
-            "summary": "多国人士表示，中国以实际行动积极推动全球携手抗疫，展现了中国作为负责任大国的担当。19日下午，中国赴菲律宾抗疫医疗专家组圆满完成任务，启程回国。前往机场送行的菲律宾官员表示，中国专家的工作令菲方受益匪浅，希望未来两国可以开展更多合作，携手抗击疫情。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNLMeJ5EyrtmsEOxjYRnK200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
