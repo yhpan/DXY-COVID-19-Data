@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587381302000",
+            "title": "爱无国界！安哥拉威拉省华人社区向当地民众捐赠防疫和生活物资",
+            "summary": "近日，为了帮助安哥拉当地受疫情影响的困难家庭渡过难关，安哥拉威拉省华人社区向卢班戈市捐赠了一批包括消毒液、肥皂、玉米粉、食用油、大米等在内的防疫和生活物资。卢班戈市副市长奥兰多·布拉兹代表卢班戈市政府和当地民众接收了这批物资，并对此次安哥拉威拉省华人社区的捐赠表达了由衷的谢意。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihHz8HoYnJkCtdT9Ns6bR200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587379590000",
+            "title": "“77国集团和中国”发表声明支持世界卫生组织",
+            "summary": "当地时间4月19日，“77国集团和中国”发表声明，赞赏世界卫生组织在抗击新冠肺炎疫情中发挥的领导作用。这是该集团4月3日就抗击新冠肺炎疫情发表声明后，再次专门发声支持世界卫生组织。声明对新冠肺炎疫情迅速蔓延深感关切，表示这是现代历史上最严重的公共卫生危机之一，当务之急是挽救生命。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizaSBPMBfYL1BHiZeV7Lj200420&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587375144000",
+            "title": "西班牙累计确诊超20万例",
+            "summary": "当地时间20日，根据西班牙卫生部消息，西班牙全国新冠肺炎确诊人数达200210例，死亡共20852例。24小时新增病例4266例， 新增死亡399例。\n",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4495839567554167",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587374173000",
             "title": "香港1-3月失业率攀升至4.2% 为九年来最高点",
             "summary": "4月20日，香港特区政府的最新数据显示，香港失业率持续攀升，1至3月失业率升至4.2%，比上一季度上升了0.5个百分点，是九年以来的新高水平。",
@@ -60,33 +87,6 @@
             "summary": "洛杉矶市市长贾西提在美国当地时间4月19日的疫情发布会上警告说，新冠肺炎疫情使洛杉矶面临的经济衰退，将比2008年的经济危机更为痛苦。接下来在削减众多政府投资计划的同时，数千名市政工作人员将被强制休假。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioZid5WQhTVRGHY4GUcX1200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587348606000",
-            "title": "菲律宾驻瑞典名誉总领事因感染新冠肺炎去世",
-            "summary": "据菲律宾外交部消息，4月18日，菲律宾驻瑞典名誉总领事埃里克·贝尔弗雷奇因感染新冠肺炎在瑞典斯德哥尔摩去世。贝尔弗雷奇的妻子向瑞典当地媒体表示，74岁的贝尔弗雷奇在斯德哥尔摩圣戈兰医院进行了不到2周的隔离治疗，最后在该医院中死亡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigI5CrmQfzibGQShIyssq200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587346290000",
-            "title": "韩国新增确诊病例下降，放宽部分“社交距离”限制",
-            "summary": "根据韩国疾病管理本部发布的统计数据，当地时间18日零点到19日零点，韩国新增8例新冠肺炎确诊病例，是61天来韩国单日新增确诊病例首次降至个位数；累计确诊病例为10661例。韩国新增确诊病例数呈稳定下降趋势。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1nwJ5EAaWyRBWbdAequQ200420&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587346005000",
-            "title": "武汉市金银潭医院护士长吴静：坚守百日 用心看护每个生命",
-            "summary": "在抗击新冠肺炎疫情的一线，湖北武汉当地的医护人员接触患者最早、战斗时间最长。疫情刚暴发时，他们冒着风险、紧急应战；到现在，疫情初步得到控制，他们依然留守在自己的岗位上，完成最后的救治工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyOfzprg0Y6I6I4gXytnx200420&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
