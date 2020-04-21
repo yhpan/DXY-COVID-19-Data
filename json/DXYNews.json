@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587452795000",
+            "title": "乌克兰新增新冠肺炎确诊病例415例，累计6125例",
+            "summary": "当地时间4月21日，乌克兰卫生部发布消息称，截至当日上午9时，乌克兰 24小时内新增新冠肺炎确诊病例415例，累计确诊病例6125例，累计死亡病例161例，累计治愈病例367例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6rP8TdjoF0vsy9tVReo3200421&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587449100000",
             "title": "德国新增1785例新冠肺炎确诊病例 累计确诊143457例",
             "summary": "据德国疾控机构罗伯特·科赫研究所统计，截至当地时间21日零时，德国累计确诊143457例新冠肺炎感染者，其中死亡4598例，痊愈约95200例。较前一日新增确诊1785例，新增死亡194例。",
@@ -78,15 +87,6 @@
             "summary": "新加坡副总理兼财政部长王瑞杰 20 日表示新冠肺炎疫情对全球供应链及食品、生活必需品和其他物资的生产造成巨大压力，政府将加倍努力，协助企业增加本地食品产量，提高新加坡在粮食安全上的韧性。希望到 2030 年本地出产的农产品可以满足国人 30％ 的营养需求。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5YJ0PGtAkMX1fGjU1xmH200421&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587431403000",
-            "title": "黑龙江绥芬河 20 日新增 2 例境外输入确诊病例，均为中国籍从俄罗斯输入",
-            "summary": "4 月 20 日 0～24 时，绥芬河口岸输入确诊病例 2 例，均为中国籍，从俄罗斯输入。其中：黑龙江省 1 例、山东省 1 例；新增无症状感染者 2 例，新增疑似病例 0 例。自 4 月 7 日起，绥芬河-波格拉尼奇内口岸旅检通道已临时关闭，新增确诊病例、无症状感染者均为隔离人员。累计报告绥芬河口岸输入确诊病例 377 例，治愈出院 4 例，输入无症状感染者 27 例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyLKfL6YUm6c9OUnaedTi200421&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
