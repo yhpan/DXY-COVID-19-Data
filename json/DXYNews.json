@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587472154000",
+            "title": "中国援助摩尔多瓦防疫物资运抵摩首都基希讷乌",
+            "summary": "据中国驻摩尔多瓦大使馆和俄罗斯国防部消息，当地时间4月19日，中国援助摩尔多瓦防疫物资运抵摩首都基希讷乌。中国驻摩尔多瓦大使张迎红、摩总统多东出席物资交接仪式。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiav6S1h2dSHGz9XdpzdpN200421&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587466756000",
             "title": "菲律宾多家医疗机构发生集体感染",
             "summary": "4月21日，菲律宾卫生部召开记者会，证实有多家医疗机构发生集体感染。菲律宾卫生部发言人、副部长韦尔吉雷称，菲律宾最大的新冠肺炎病毒检测机构——热带医学研究所共有43名员工确诊感染新冠肺炎。",
@@ -78,15 +87,6 @@
             "summary": "4月20日0时至24时，广州市无新增新冠肺炎确诊病例。新增出院病例5例。截至4月20日24时，累计报告境外输入确诊病例125例、境外输入关联病例26例。累计出院125例，尚在院治疗26例（重型3例）。截至4月20日24时，累计报告境内确诊病例349例。累计出院345例，累计死亡1例，尚在院治疗3例（重型1例）。4月20日0时至24时，新增无症状感染者5例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC8nosJ8OYDUesKU1kJob200421&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587448520000",
-            "title": "世卫组织：放松管制不等于疫情结束",
-            "summary": "世界卫生组织20日重申，尽管一些国家已在计划放松新冠肺炎疫情期间的社会管制措施，但这并不意味着疫情已经结束。世卫组织总干事谭德塞当天在例行记者会上说，放松管制并不意味着任何国家疫情的结束。结束新冠大流行需要个人、社区和政府持续努力，继续压制和控制这一致命病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMoznaKbcaUuT1gkRe6t1200421&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
