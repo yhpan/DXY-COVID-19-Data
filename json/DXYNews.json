@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1587466756000",
+            "title": "菲律宾多家医疗机构发生集体感染",
+            "summary": "4月21日，菲律宾卫生部召开记者会，证实有多家医疗机构发生集体感染。菲律宾卫生部发言人、副部长韦尔吉雷称，菲律宾最大的新冠肺炎病毒检测机构——热带医学研究所共有43名员工确诊感染新冠肺炎。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAb7AvLc19O7sJOlPxRAp200421&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587463635000",
             "title": "“环球同凉热，四海共冬春” 在英华人积极参加抗疫",
             "summary": "近日，英国伦敦华埠商会、英国浙江联谊会暨商贸会、全英华人社团联合总会等联合倡议，为当地医院购置医用防护物资。截至19日，近100多个华人社团、中资企业和爱心人士踊跃响应，共捐赠总计400多万件医疗防护用品。近日3万件隔离衣已经到位。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti18vmtTQMD189FF0IFt49200421&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587463422000",
+            "title": "为防控疫情，新加坡将延长阻断措施至6月1日",
+            "summary": "当地时间4月21日，新加坡总理李显龙宣布，为了控制新冠肺炎疫情扩散，新加坡将延长正在执行的阻断措施至6月1日，并采取更加严厉的管控措施。新加坡政府4月3日宣布，从4月7日起实施阻断措施，关闭非必要工作场所和学校。这项措施原定将在5月4日结束。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigGsFeME8Lyj56C2PznZM200421&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "世界卫生组织20日重申，尽管一些国家已在计划放松新冠肺炎疫情期间的社会管制措施，但这并不意味着疫情已经结束。世卫组织总干事谭德塞当天在例行记者会上说，放松管制并不意味着任何国家疫情的结束。结束新冠大流行需要个人、社区和政府持续努力，继续压制和控制这一致命病毒。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMoznaKbcaUuT1gkRe6t1200421&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587441405000",
-            "title": "菲律宾女子监狱发生集体感染 共20人确诊",
-            "summary": "当地时间4月21日，菲律宾惩教署发布消息称，位于曼达卢永市的女子监狱发生集体感染。此前，该监狱的一名囚犯的新冠肺炎检测呈阳性，该监狱随后对其密切接触的51人进行了病毒检测，其中有18名囚犯和1名监狱工作人员的检测结果呈阳性。至此，该监狱共计有20人确诊感染新冠肺炎。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlKnDecW3GW1CDcGjiep200421&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587439617000",
-            "title": "湖北送小龙虾登机：不仅包机 还有专属登机牌",
-            "summary": "4月20日，武汉天河国际机场迎来了一场特殊的送机仪式。为了表达疫情期间全国对湖北的支持，湖北省副省长万勇特地来送小龙虾、藕带、脐橙们登机，还为它们送上了专属登机牌。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLbSGUDm768JOuM5NuSyC200421&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
