@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587482022000",
+            "title": "英国新增4301例新冠肺炎确诊病例，累计129044例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月21日上午9点，英国新冠肺炎确诊病例单日新增4301例，累计129044例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticAoCgM86cY4qxUpR1jG3200421&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587481488000",
             "title": "​世卫组织：全球新冠肺炎确诊病例升至近240万例",
             "summary": "根据世卫组织最新实时统计数据，目前全球新冠肺炎确诊病例升至2397216例，死亡162956例，中国以外超过231万例。",
@@ -78,15 +87,6 @@
             "summary": "香港特区政府卫生署及医院管理局今日（21日）下午就新冠肺炎疫情的最新情况举行简报会。简报会指出，截至21日16时30分，香港新增4例新冠肺炎确诊病例，均为输入病例。目前香港累计确诊1029例新冠肺炎确诊病例，并有1例疑似病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6iLJTaYK9THUm4ubMgh200421&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587460632000",
-            "title": "西班牙新冠肺炎确诊人数达204178例",
-            "summary": "当地时间21日，根据西班牙卫生部消息，西班牙全国新冠肺炎确诊人数达204178例，死亡共21282例。24小时新增病例3968例， 新增死亡430例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy082BixXAqNPjJGmn2DQ200421&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
