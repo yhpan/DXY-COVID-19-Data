@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587516673000",
+            "title": "国家卫健委：21日新增30例新冠肺炎确诊病例 其中7例为本土病例23例为境外输入病例",
+            "summary": "当日新增治愈出院病例28例，解除医学观察的密切接触者784人，重症病例减少4例。境外输入现有确诊病例811例（含重症病例41例），现有疑似病例30例。累计确诊病例1610例，累计治愈出院病例799例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67rCTILTxwdRdLZKLIW5200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587516642000",
             "title": "圭亚那新增新冠肺炎确诊病例1例  累计67例",
             "summary": "据圭亚那公共卫生部统计数据，截至当地时间21日，该国新增新冠肺炎确诊病例1例，累计确诊病例67例，累计死亡病例7例。全国已有348人接受了新冠病毒检测。尚有68人在医学观察中。",
@@ -78,15 +87,6 @@
             "summary": "加州州长纽森在美国当地时间4月21日表示，他不允许任何地方官员私自采取行动，解除加州所实施的居家令限制。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7B1IsUW6iFtIjWNAW3T200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587511091000",
-            "title": "土耳其内政部发布斋月防疫措施 不许人群聚集",
-            "summary": "当地时间4月21日夜间，土耳其内政部发布斋月期间的防疫措施。根据措施内容，为了防止新冠病毒的蔓延，斋月期间不允出现任何人群聚集的情况，特别是每天的开斋饭和封斋饭前后。斋月面包必须在开斋饭前两个小时结束生产。斋月期间去墓地祭拜的人，必须接受体温检查，保持社交距离和佩戴口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDCyg3ehIafj3CBXGOpUN200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
