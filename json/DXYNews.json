@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587534463000",
+            "title": "陕西对高校开展专项督查 整改不到位不得开学",
+            "summary": "陕西高校2020年春季学期将于4月27日起错时错峰开学。记者今天（22日）从陕西省教育厅了解到，为进一步督促高校切实做好开学校园安全，特别是疫情防控、食品安全、春季传染病防控等各项工作，确保高校安全稳定，陕西省委教育工委、省教育厅联合卫健委、市场监管局从4月21日起，对即将开学的高校进行安全专项督查。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMgQKNw4GCuW4lU09V52n200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587532272000",
+            "title": "​美国加州成为首个建议对无症状者进行新冠病毒检测的州",
+            "summary": "据美国媒体当地时间4月21日报道，加州公共卫生官员表示，加州已经在一定程度上改变该对何人进行新冠病毒检测的限制，首次建议将工作在养老院、监狱甚至一些高风险环境中的无症状人群定为优先考虑对象。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKuqSrTdYdyRHoGAVpaIe200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587531939000",
+            "title": "日本东京一幼儿院确认8名婴幼儿感染新冠病毒",
+            "summary": "据日本东京都的济生会中央医院当地时间22日消息，入住该医院附属幼儿院的8名婴幼儿确认感染了新冠病毒。据悉，16日该机构一名职员被确诊感染，目前该机构正在对所有婴幼儿进行检查。所谓“幼儿院”，在日本是指让幼儿（或者孤儿）住院接受养育，并在出院时为其提供援助等的儿童福利设施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifma85TcSPp4oiIERPbRJ200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587529864000",
             "title": "东京奥组委一名职员确认感染新冠病毒",
             "summary": "当地时间22日，东京奥运会残奥会组织委员会发布消息，在东京晴海的组织委员会事务局工作的一名30多岁男性职员确诊新冠肺炎。这是东京奥组委首次出现工作人员感染新冠病毒的情况。",
@@ -60,33 +87,6 @@
             "summary": "据印度卫生部数据，截至当地时间4月22日上午8时（北京时间上午10时30分），印度新冠肺炎累计确诊病例升至19984例。其中死亡640例。与15个小时前公布的数据相比，共新增确诊病例999例。印度西部的马哈拉施特拉邦累计确诊5218例，累计死亡251例，两项数据均居印度各邦首位，分别占印度确诊和死亡病例总数的26%和39%，为印度疫情最严重地区。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiED6UVsAjZKesGqsAHb9c200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587524792000",
-            "title": "菲律宾派军机军舰前往中国运回医疗物资",
-            "summary": "据菲律宾媒体消息，4月22日凌晨2时40分左右，菲律宾空军一架C130飞机抵达菲律宾克拉克空军基地。这架飞机此次的飞行任务是前往中国深圳运回新冠病毒实验室的设备，该设备价值250万美元，预计可在7到10天内安装完毕。投入使用后，每天可进行45000份新冠病毒检测，大幅度提高菲律宾的检测能力。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHGZCQ9TM7Hqcn8pey0qC200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587523813000",
-            "title": "世卫组织官员赞赏中国积极分享经验",
-            "summary": "在当天（21日）的会议上，葛西健称赞了中国向本地区其他国家派出医疗专家组的做法。他说，中国等抗疫经验丰富的国家分享经验能帮助其他国家强化应对疫情的能力，中国的做法是“值得鼓励和支持的”。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAgYEDjzYMDNbNDFsijLp200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587523164000",
-            "title": "哈尔滨市出台九条管控办法遏制疫情蔓延",
-            "summary": "根据当前的疫情形势，哈尔滨市出台《关于进一步强化新冠肺炎疫情防控措施的意见》，靶向实施防输入、守住门、管好人、禁聚集等九条管控办法，坚决遏制疫情蔓延扩散势头。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGfYIy6jO3CHrmRK7x0IV200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
