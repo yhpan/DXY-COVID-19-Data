@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587565427000",
+            "title": "英国卫生大臣：我们现在正处于疫情暴发高峰期",
+            "summary": "当地时间22日，英国卫生大臣马特·汉考克（Matt Hancock）在接受议会下院质询时表示，目前英国正处于新冠疫情暴发的高峰期，他还透露，目前已有15名护理人员因感染新冠肺炎病毒死亡，但他并未提供已接受新冠测试的人数。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiibJq10nuKpYjHNFFQNL2200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587563213000",
+            "title": "德国全境推行“口罩强制令”",
+            "summary": "当地时间22日，德国不莱梅州宣布将从27日起施行口罩义务。至此，德国所有16个联邦州已全部颁发口罩强制令，要求民众在乘坐公共交通时必须佩戴口罩。有部分联邦州规定，违反口罩令的人员不仅本地交通或出租车可以拒载，还需承担相应罚款。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9qkQ5QOE67l5wfathBp200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587559980000",
             "title": "沙特新增新冠肺炎确诊病例1141例 累计确诊12772例",
             "summary": "沙特卫生部当地时间22日下午公布的最新数字显示，沙特境内新增新冠肺炎确诊病例 1141例。至此沙特境内新冠肺炎确诊病例累计已达12772例，其中109名患者病重不治去世，1812名患者已治愈出院。",
@@ -69,24 +87,6 @@
             "summary": "中国上海市医疗救治专家组组长 张文宏：边防疫边发展经济是非常重要的，中国提出常态化防控，是因为全球的疫情没有完全结束，我们中国事实上也很难回到抗疫之前的那个状态。所以在很长一段时间内我们会不断的调整防疫策略，看世界开放到什么程度，我们防疫的策略就会调整到调整到什么程度。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY1YkhPlbeFYile6d02UB200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587548640000",
-            "title": "世卫组织：全球新冠肺炎累计确诊超过243万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎累计确诊2436743例，死亡165310例，中国以外超过235万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEqJCi5YPA9cVGiMeICye200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587546681000",
-            "title": "黑龙江绥芬河口岸输入确诊病例中2名重型、危重型患者治愈出院",
-            "summary": "4月21日16时，牡丹江医学院附属红旗医院（以下简称红旗医院）省级重症集中救治区域中心，绥芬河口岸输入确诊病例又有2名患者治愈出院。这2名患者分别是4月5日、8日转入红旗医院省级重症集中救治区域中心，均为境外输入患者，一例为重型、一例为危重型。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Ghad04XmPAjrt4V7Kzj200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
