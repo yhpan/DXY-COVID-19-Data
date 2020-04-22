@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587529864000",
+            "title": "东京奥组委一名职员确认感染新冠病毒",
+            "summary": "当地时间22日，东京奥运会残奥会组织委员会发布消息，在东京晴海的组织委员会事务局工作的一名30多岁男性职员确诊新冠肺炎。这是东京奥组委首次出现工作人员感染新冠病毒的情况。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti50zOJDc18aIYXwwTjSJb200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587529381000",
+            "title": "民主党谴责特朗普暂停接收移民决定：移民只是替罪羊",
+            "summary": "当地时间21日，美国总统特朗普宣布出于新冠肺炎疫情蔓延以及保护本土就业考虑，美国政府未来60天将停止接收移民。特朗普的这一决定立即招致一些民主党人士和美国民众的谴责反对，并表示这只是在转嫁责任，转移注意力。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiohlJamAg2LpuU9BaOs17200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587527895000",
+            "title": "民航局：20架次临时航班接回境外中国公民",
+            "summary": "3月份，民航共安排临时航班9架次，协助在伊朗和意大利的1466名中国公民回国，其中包括了前期援外的医疗专家组、联合工作组人员和留学生。4月份以来，截至4月20日，共执行了临时航班11架次，协助在英国、美国、意大利、西班牙等国的2009名我国公民回国，其中包括留学生1734人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFgyg80qlRSdwxbY5FUvv200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587527754000",
             "title": "印尼叫停“春运” 禁止开斋节返乡",
             "summary": "为防止新冠肺炎在一些危险地区扩散，印尼政府将于当地时间24日禁止开斋节返乡，但是不会完全封锁道路，以保证公共交通运行。21日，印尼海事和投资统筹部长卢胡特在一个视频会议上说，禁止返乡将从24日开始实施，但是对违规者的处罚将从5月7日开始。",
@@ -60,33 +87,6 @@
             "summary": "根据当前的疫情形势，哈尔滨市出台《关于进一步强化新冠肺炎疫情防控措施的意见》，靶向实施防输入、守住门、管好人、禁聚集等九条管控办法，坚决遏制疫情蔓延扩散势头。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGfYIy6jO3CHrmRK7x0IV200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587521017000",
-            "title": "俄罗斯首家传染病专门医院迎首批新冠肺炎患者",
-            "summary": "据俄罗斯防疫指挥部21日的消息，过去24小时新增确诊病例5642例，累计确诊病例5万2763例；新增死亡病例51例，累计死亡病例456例。历经1个月建设，俄罗斯首家专门收治新冠肺炎患者的传染病专门医院当天迎来首批20名患者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7O6K8GPO1U1AmFO9lWPZ200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587519862000",
-            "title": "停靠在长崎港的“歌诗达大西洋”号邮轮33名船员确诊感染新冠肺炎",
-            "summary": "据日本长崎县和长崎市消息，为进行修缮而在无乘客搭载情况下停靠在长崎港的意大利籍大型邮轮“歌诗达大西洋”（COSTA ATLANTICA）号20日因1名外国籍船员被确诊感染新冠肺炎，当地医疗机构又于21日对船员中的57名密切接触者进行了核酸检测，已有33人确诊。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDTxqBk7UgWux5KGED7Z3200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587517154000",
-            "title": "特朗普宣布暂停发放绿卡60天",
-            "summary": "美国总统特朗普当地时间21日在白宫发布会上宣布，为保护美国人的就业，将暂停发放绿卡，为期60天，之后将根据经济形势决定是否延期。特朗普表示，该举措不影响短期的工作签证，在农场工作的外来工人不会受到影响。相关行政令正在起草，可能于22日签署。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artihgc6Lap2L5fMmiPm1MGP200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
