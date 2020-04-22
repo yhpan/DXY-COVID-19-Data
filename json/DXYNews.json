@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587559980000",
+            "title": "沙特新增新冠肺炎确诊病例1141例 累计确诊12772例",
+            "summary": "沙特卫生部当地时间22日下午公布的最新数字显示，沙特境内新增新冠肺炎确诊病例 1141例。至此沙特境内新冠肺炎确诊病例累计已达12772例，其中109名患者病重不治去世，1812名患者已治愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisHhKy8p3KZE3bPJBKvn8200422&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587553587000",
             "title": "广州首批近20万名返校师生开始进行免费核酸检测",
             "summary": "广州全部的3740所学校将从4月27日起，陆续开始恢复上课，首批涉及初三和高三的师生有近20万人，这几天这批复课的师生将先行进行免费的核酸检测，确保首批学生的入学安全。",
@@ -78,15 +87,6 @@
             "summary": "4月21日16时，牡丹江医学院附属红旗医院（以下简称红旗医院）省级重症集中救治区域中心，绥芬河口岸输入确诊病例又有2名患者治愈出院。这2名患者分别是4月5日、8日转入红旗医院省级重症集中救治区域中心，均为境外输入患者，一例为重型、一例为危重型。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Ghad04XmPAjrt4V7Kzj200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587546305000",
-            "title": "香港将采用新型新冠病毒检测试剂 1小时内知结果",
-            "summary": "从4月22日起，香港医院管理局旗下10间急诊室将采用新型试剂，仅用1小时就能检测是否感染新型冠状病毒，比此前所需的4到6小时，极大地提速。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTXobDoD1L4GWbuVR9Fdy200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
