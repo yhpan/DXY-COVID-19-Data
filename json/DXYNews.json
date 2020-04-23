@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587606399000",
+            "title": "美国名校斯坦福大学前校长唐纳德·肯尼迪因新冠肺炎去世",
+            "summary": "据斯坦福大学网站在当地时间4月22日发布的消息称，美国名校斯坦福大学前校长唐纳德·肯尼迪（Donald Kennedy），因新冠肺炎引起的并发症在4月21日去世，享年88岁。唐纳德·肯尼迪生前曾担任斯坦福大学第八任校长、美国食品和药物管理局局长、《科学》（Science）杂志主编等。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLhcpgr82BgYBX8ePSiNl200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587604513000",
             "title": "浙江22日无新增新冠肺炎确诊病例 新增治愈出院2例",
             "summary": "4月22日0—24时，浙江无新增境外输入新冠肺炎确诊病例。新增出院病例2例。截至4月22日24时，累计报告境外输入确诊病例50例，累计出院37例。4月22日0—24时，浙江无新增无症状感染者。无当日转为确诊病例，无当日解除隔离者。截至4月22日24时，尚在医学观察无症状感染者55例（其中境外输入42例）。4月22日0—24时，浙江无新增本地确诊病例。",
@@ -78,15 +87,6 @@
             "summary": "截至发稿，秘鲁国会已有10名议员确诊感染新冠病毒，其中6人来自“秘鲁我们能”党。当地时间22日，秘鲁医学院向政府发出请求，称应将全国紧急状态再次延长至少两周。医学院方面强调，若4月26日取消强制性社会隔离政策，该国的确诊病例将急剧增加，全社会将付出巨大的代价。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticS1lVSCcdGberAMOAKuo200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587565427000",
-            "title": "英国卫生大臣：我们现在正处于疫情暴发高峰期",
-            "summary": "当地时间22日，英国卫生大臣马特·汉考克（Matt Hancock）在接受议会下院质询时表示，目前英国正处于新冠疫情暴发的高峰期，他还透露，目前已有15名护理人员因感染新冠肺炎病毒死亡，但他并未提供已接受新冠测试的人数。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiibJq10nuKpYjHNFFQNL2200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
