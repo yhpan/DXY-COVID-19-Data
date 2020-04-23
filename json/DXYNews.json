@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587604513000",
+            "title": "浙江22日无新增新冠肺炎确诊病例 新增治愈出院2例",
+            "summary": "4月22日0—24时，浙江无新增境外输入新冠肺炎确诊病例。新增出院病例2例。截至4月22日24时，累计报告境外输入确诊病例50例，累计出院37例。4月22日0—24时，浙江无新增无症状感染者。无当日转为确诊病例，无当日解除隔离者。截至4月22日24时，尚在医学观察无症状感染者55例（其中境外输入42例）。4月22日0—24时，浙江无新增本地确诊病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYJASTH5mn0Fxnyct97WR200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587602451000",
             "title": "国家卫健委：22日新增10例新冠肺炎确诊病例 其中6例境外4例本土",
             "summary": "4月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例10例，其中6例为境外输入病例，4例为本土病例（黑龙江3例，广东1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例56例，解除医学观察的密切接触者824人，重症病例减少15例。境外输入现有确诊病例793例（含重症病例37例），现有疑似病例16例。累计确诊病例1616例，累计治愈出院病例823例，无死亡病例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间22日，英国卫生大臣马特·汉考克（Matt Hancock）在接受议会下院质询时表示，目前英国正处于新冠疫情暴发的高峰期，他还透露，目前已有15名护理人员因感染新冠肺炎病毒死亡，但他并未提供已接受新冠测试的人数。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiibJq10nuKpYjHNFFQNL2200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587563213000",
-            "title": "德国全境推行“口罩强制令”",
-            "summary": "当地时间22日，德国不莱梅州宣布将从27日起施行口罩义务。至此，德国所有16个联邦州已全部颁发口罩强制令，要求民众在乘坐公共交通时必须佩戴口罩。有部分联邦州规定，违反口罩令的人员不仅本地交通或出租车可以拒载，还需承担相应罚款。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9qkQ5QOE67l5wfathBp200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
