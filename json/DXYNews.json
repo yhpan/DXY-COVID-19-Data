@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587622251000",
+            "title": "德国新增2352例新冠肺炎确诊病例 累计148046例",
+            "summary": "据德国疾控机构罗伯特·科赫研究所统计，截至23日零时，德国新增2352例新冠肺炎确诊病例，累计148046例，新增215例死亡病例，累计5094例，治愈病例约103300例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1JmxWnM8YDs7FGdwku0o200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587620735000",
             "title": "五一期间济南景区及场馆全面实名网上预约或现场扫码购票",
             "summary": "五一假期来临之际，山东济南为做好旅游景区疫情防控和安全有序开放，采取了多项措施。一是强化流量管理。景区及场馆全面执行实名网上预约购票或现场扫码购票，接待游客量不超过核定最大承载量的30%。二是防止人员聚集。景区及场馆在等候区设置1.5米线；并通过互联网、大数据等新技术实时监测流量。",
@@ -78,15 +87,6 @@
             "summary": "暴发新冠肺炎疫情的邮轮“红宝石公主”号获得澳大利亚边境部门许可，将于今天（23日）下午离开澳大利亚。“红宝石公主”号邮轮是澳大利亚最大的新冠肺炎单一感染源。3月19日，红宝石公主号停靠悉尼港，近2700名游客未经检疫被许可下船，最终导致超过600人感染新冠肺炎，21人死亡。昨天（22日），又有115名船上工作人员被允许下船，其中有21人新冠病毒检测呈阳性。目前船上还有数百名工作人员。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyWHKzxR33vXV6tK7aadK200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587598494000",
-            "title": "​中非共和国卫生部要求在过去14天入境中非的喀麦隆公民进行新冠肺炎检测",
-            "summary": "当地时间4月22日，中非共和国卫生部发布公告下达指令，强制性要求在过去14天入境中非共和国的喀麦隆公民尽快联系中非共和国卫生部进行新冠肺炎检测，并且所有看到这份公告的人也应该将公告内容转告相关的喀麦隆公民，拒绝配合者将受到有关部门的严惩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8pV7vFRU4d9IsEc89SGz200423&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
