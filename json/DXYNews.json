@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1587650715000",
+            "title": "英国新增4583例新冠肺炎确诊病例 累计确诊138078例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月23日上午9点，英国新冠肺炎确诊病例单日新增4583例，累计138078例。截至当地时间4月22日下午5点，医院死亡病例18738例，单日新增616例。由于数据不包括医院外感染病毒死亡人数，实际死亡病例高于该数据。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2oHNARNRnyKrxkYS5pCJ200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587649683000",
+            "title": "马来西亚将“行动管制令”延长至5月12日",
+            "summary": "23日晚，马来西亚总理穆希丁宣布，在全国范围实施的“行动管制令”将再次延长两星期，至5月12日。这也是马来西亚自3月18日实行行动管制令以来，第三次延长管制令。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXQhWIbVkBwTMi5Bo1fF200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587648744000",
+            "title": "中国援助哈萨克斯坦抗疫医疗专家组圆满完成任务回国",
+            "summary": "中国政府援助哈萨克斯坦抗疫医疗专家组一行10人圆满完成工作任务，于4月23日飞抵乌鲁木齐地窝堡国际机场。在过去14天时间里，医疗专家组深入一线，到访哈公共卫生中心紧急行动中心、国家科学心脏外科中心、定点隔离场所等地开展工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirHLtHbC4iWJvQZcwjkye200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587648300000",
+            "title": "​世卫组织：全球新冠肺炎累计超过254万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2544792例，死亡175694例，中国以外约246万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKcmTvtIrCOT4CwLcOpEr200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587646764000",
+            "title": "美国上周新增失业人数440万人",
+            "summary": "据美国劳工部数据，截至4月18日的一周中美国新增失业人数442.7万人，比此前一周降低80万左右。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW9OoUKYcoPuHhKrytY0L200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587644413000",
             "title": "沙特正式宣布申办2030年亚运会",
             "summary": "沙特奥委会当地时间23日下午发表声明，称已向亚奥理事会提交了沙特首都利雅得申办2030年亚运会的文件。",
@@ -42,51 +87,6 @@
             "summary": "沙特财政大臣穆罕默德·贾丹当地时间22日下午在财政部的会议上表示，在新型冠状肺炎病毒疫情全球蔓延的背景下，沙特具备足够外汇储备和财政能力应对疫情，但他同时表示，鉴于疫情有可能将持续至2020年年底，沙特非石油行业预计将会受到较大影响。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipDHAn6ql7DOovmFhak0g200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587639007000",
-            "title": "北京新一轮百万亩造林绿化完成过半 栽植各类苗木115万株",
-            "summary": "北京市造林绿化建设全面提速，春季植树造林达到2.6万亩，栽植各类苗木115万株。新一轮百万亩造林绿化任务目标完成过半。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib9QrrnWGFoUVPoOdz2WY200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587638874000",
-            "title": "商务部：将全力做好全年稳外资工作",
-            "summary": "在今天（23日）商务部举行的例行发布会上，商务部新闻发言人高峰表示：当前我国疫情防控向好态势进一步巩固，经济社会运行逐步趋于正常，企业复工复产正在逐步接近或达到正常水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYzfpWkcb58E3gyll5klb200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587638401000",
-            "title": "香港新增2例新冠肺炎确诊病例 累计1036例",
-            "summary": "根据香港特区政府卫生署公布的消息，截至4月23日18点，香港新增2例新冠肺炎确诊病例，均为输入病例。至此，香港累计新冠肺炎确诊病例增至1036例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJd1rFgbjHEMpiy1noT54200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587637145000",
-            "title": "联合国教科文组织：让书籍成为疫情期间瞭望世界的窗口",
-            "summary": "每年的4月23日被联合国教科文组织定为“世界读书日”。联合国教科文组织日前表示，受疫情及各国防控措施影响，本届读书日的公众聚集型庆祝活动多已取消，但是线上资源分享和阅读交流活动十分活跃。联合国教科文组织鼓励人们善用时间，从阅读中汲取力量，让书籍成为疫情期间瞭望世界的窗口。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizuAGBxNRseHo5tQbqOKV200423&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587631995000",
-            "title": "英国开始进行首次新冠病毒疫苗人体试验",
-            "summary": "当地时间23日，英国首个有关新冠病毒的疫苗开始进行人体试验，研发相关疫苗的牛津大学科学家们希望借此测试有关疫苗的安全性。近日，英国政府表示已向牛津大学的疫苗研发团队提供2000万英镑的经费，以便在今年夏季加快进行大规模的临床试验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivucSdgv29HHRb1AjenY1200423&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
