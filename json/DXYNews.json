@@ -1,6 +1,78 @@
 {
     "results": [
         {
+            "pubDate": "1587602451000",
+            "title": "国家卫健委：22日新增10例新冠肺炎确诊病例 其中6例境外4例本土",
+            "summary": "4月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例10例，其中6例为境外输入病例，4例为本土病例（黑龙江3例，广东1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例56例，解除医学观察的密切接触者824人，重症病例减少15例。境外输入现有确诊病例793例（含重症病例37例），现有疑似病例16例。累计确诊病例1616例，累计治愈出院病例823例，无死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZDUJ3NHktmHJzWT5kAjX200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587602305000",
+            "title": "德国批准首款新冠病毒疫苗进行临床试验",
+            "summary": "德国联邦疫苗和生物药物研究所当地时间22日批准首款新冠病毒疫苗进入临床试验。该研究所认为，今年内预计会有其他候选疫苗进入临床试验。不过该研究所所长克劳斯·奇楚泰克表示，在年底之前不太可能有面向民众的疫苗获批投入应用。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCQ0fIzuQsNQYZgBnkrd200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587600117000",
+            "title": "黑龙江22日新增3例本土新冠肺炎确诊病例 新增1例境外输入病例",
+            "summary": "2020年4月22日0—24时，黑龙江省省内新增确诊病例3例（哈尔滨3例，本土无症状感染者转为确诊病例2例），其中：新增1例为确诊病例陈某君（男，87岁）在哈医大一院住院期间同楼层同病区的住院患者陪护、转为确诊病例的2例分别为同期间住院患者的陪护和护工，这3例确诊病例都是已纳入集中医学观察的密接者。无新增无症状感染者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkerK5i0eKLVIp3gSkEi200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587598661000",
+            "title": "“红宝石公主”号邮轮将于23日离开澳大利亚",
+            "summary": "暴发新冠肺炎疫情的邮轮“红宝石公主”号获得澳大利亚边境部门许可，将于今天（23日）下午离开澳大利亚。“红宝石公主”号邮轮是澳大利亚最大的新冠肺炎单一感染源。3月19日，红宝石公主号停靠悉尼港，近2700名游客未经检疫被许可下船，最终导致超过600人感染新冠肺炎，21人死亡。昨天（22日），又有115名船上工作人员被允许下船，其中有21人新冠病毒检测呈阳性。目前船上还有数百名工作人员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyWHKzxR33vXV6tK7aadK200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587598494000",
+            "title": "​中非共和国卫生部要求在过去14天入境中非的喀麦隆公民进行新冠肺炎检测",
+            "summary": "当地时间4月22日，中非共和国卫生部发布公告下达指令，强制性要求在过去14天入境中非共和国的喀麦隆公民尽快联系中非共和国卫生部进行新冠肺炎检测，并且所有看到这份公告的人也应该将公告内容转告相关的喀麦隆公民，拒绝配合者将受到有关部门的严惩。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8pV7vFRU4d9IsEc89SGz200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587598306000",
+            "title": "美国加州旧金山：所有必需工作者都可以接受新冠病毒检测",
+            "summary": "美国当地时间4月22日，旧金山市长伦敦·布里德宣布，从当天起，旧金山所有必需工作者都可以接受新冠病毒检测，同时旧金山的检测范围也将扩大至之前有疑似症状但无法接受检测人群。这些必需工作者包括，所有超市、餐厅、运输和送货等必需行业的员工，如有发烧、咳嗽等新冠症状即可在市政府指定网站进行预约，预约成功后，可前往规定的的两个病毒检测站点进行检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLNNnYqxcTCXFiwQ7sdh3200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587597505000",
+            "title": "美国蒙大拿州：居家令限制将于4月26日结束",
+            "summary": "蒙大拿州州长史蒂夫·布洛克，于美国当地时间4月22日在社交媒体发布声明称，蒙大拿州的居家令限制将于本周日结束。声明概述了蒙州解除该限制第一阶段措施，其中包括，州内各院校可以决定从5月7日起复课、宗教活动将从4月26日起恢复，但必须保持安全社交距离、零售商店可以选择从4月27日起复工、餐厅和酒吧等可在5月4日起恢复部分餐厅内用餐服务。但电影院、健身中心等无法保持安全社交距离的场所将继续关闭。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePfN0HVcbDKchBNnVNy5200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587592390000",
+            "title": "秘鲁10名国会议员确诊新冠肺炎 医学院请求将隔离期延长至少两周",
+            "summary": "截至发稿，秘鲁国会已有10名议员确诊感染新冠病毒，其中6人来自“秘鲁我们能”党。当地时间22日，秘鲁医学院向政府发出请求，称应将全国紧急状态再次延长至少两周。医学院方面强调，若4月26日取消强制性社会隔离政策，该国的确诊病例将急剧增加，全社会将付出巨大的代价。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticS1lVSCcdGberAMOAKuo200423&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587565427000",
             "title": "英国卫生大臣：我们现在正处于疫情暴发高峰期",
             "summary": "当地时间22日，英国卫生大臣马特·汉考克（Matt Hancock）在接受议会下院质询时表示，目前英国正处于新冠疫情暴发的高峰期，他还透露，目前已有15名护理人员因感染新冠肺炎病毒死亡，但他并未提供已接受新冠测试的人数。",
@@ -15,78 +87,6 @@
             "summary": "当地时间22日，德国不莱梅州宣布将从27日起施行口罩义务。至此，德国所有16个联邦州已全部颁发口罩强制令，要求民众在乘坐公共交通时必须佩戴口罩。有部分联邦州规定，违反口罩令的人员不仅本地交通或出租车可以拒载，还需承担相应罚款。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ9qkQ5QOE67l5wfathBp200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587559980000",
-            "title": "沙特新增新冠肺炎确诊病例1141例 累计确诊12772例",
-            "summary": "沙特卫生部当地时间22日下午公布的最新数字显示，沙特境内新增新冠肺炎确诊病例 1141例。至此沙特境内新冠肺炎确诊病例累计已达12772例，其中109名患者病重不治去世，1812名患者已治愈出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisHhKy8p3KZE3bPJBKvn8200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587553587000",
-            "title": "广州首批近20万名返校师生开始进行免费核酸检测",
-            "summary": "广州全部的3740所学校将从4月27日起，陆续开始恢复上课，首批涉及初三和高三的师生有近20万人，这几天这批复课的师生将先行进行免费的核酸检测，确保首批学生的入学安全。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tqHD5BRnbw6aU199z8b200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587551466000",
-            "title": "俄罗斯总统新闻秘书：俄中两国合作良好 共抗疫情",
-            "summary": "当地时间22日俄罗斯总统新闻秘书佩斯科夫向媒体表示，疫情爆发以来俄中两国专家一直保持交流沟通，互通信息。目前中国专家正在积极开发新冠肺炎疫苗，俄方也在从多方面推动这一进程。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSZaNbVvMWJCWyjNofdVk200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587551018000",
-            "title": "菲律宾逾千名医护工作者感染新冠肺炎  其中26人死亡",
-            "summary": "当地时间4月22日，菲律宾卫生部举行新闻发布会。发布会上，菲卫生部副部长玛丽亚·罗萨里奥·韦尔吉雷（Maria Rosario Vergeire）称，菲律宾已有1062名医护工作人员确诊感染新冠肺炎，包括422名医生、386名护士及其他岗位工作人员。其中26人已死亡。 截至22日下午4点，菲律宾新冠肺炎确诊病例累计达6710例，死亡446例。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih86B9xsm3nEIJLmhcOTa200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587550405000",
-            "title": "杭州市取消2020年中小学春假",
-            "summary": "杭州市教育局发布通知，取消2020年中小学春假。具体通知如下：根据《杭州市教育局办公室关于做好2019学年第一学期结束和寒假有关工作的通知》（杭教办基〔2019〕198号）安排，2020年4月30日至5月6日（含“五一”劳动节假期）为我市中小学校春假时间。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I9wQ7nheKF72CxTUBSz200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587550283000",
-            "title": "紧急寻人！一无症状感染者曾乘坐火车途经山东菏泽、梁山、聊城3站",
-            "summary": "记者了解到，4月21日，湖北省麻城市新冠肺炎疫情防控指挥部发布《关于寻找无症状感染者密切接触人员的通告》，急寻乘坐K1620次列车3号车厢的乘客，据悉，K1620次列车在山东停靠菏泽、梁山、聊城3站。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivp8jaKFJaqS3NoimcClY200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587549361000",
-            "title": "泰国医学专家：中国抗疫经验值得各国学习",
-            "summary": "20日，在接受总台记者采访时曼努里表示，中国抗疫的成功经验值得各国学习。泰国呼吸道疾病专家 曼努里：如果泰国没有效仿中国的防疫措施，现在估计会有成千上万的人感染新冠病毒，其他国家应该学习中国的成功经验。中国医护人员团结协作、奉献牺牲的精神，也是中国病患人数逐渐下降的关键因素之一。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifG1x6QWvlPps5T0HthVO200422&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587549272000",
-            "title": "张文宏：边防疫边发展经济非常重要",
-            "summary": "中国上海市医疗救治专家组组长 张文宏：边防疫边发展经济是非常重要的，中国提出常态化防控，是因为全球的疫情没有完全结束，我们中国事实上也很难回到抗疫之前的那个状态。所以在很长一段时间内我们会不断的调整防疫策略，看世界开放到什么程度，我们防疫的策略就会调整到调整到什么程度。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY1YkhPlbeFYile6d02UB200422&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
