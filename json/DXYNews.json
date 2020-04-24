@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587712260000",
+            "title": "国家卫健委：武汉重症病例实现清零",
+            "summary": "在今天下午举行的国务院联防联控新闻发布会上，国家卫健委新闻发言人米锋介绍，随着最后一例重症患者新冠肺炎治愈，今天，武汉重症病例实现了清零。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHGtYyaO7wUv9LOSHB6OA200424&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587710822000",
             "title": "哈尔滨儿童医院采取“一室一患”的诊治方式 严防院内感染",
             "summary": "为防止院内感染事件再次发生，哈尔滨市卫健委出台规定，要求全市所有医院进一步加强疫情期间医院流程管理和感染防控工作。目前该医院门诊全部实行网上分时段预约挂号，患者在就诊前15分钟可进入门诊楼，看诊时采取“一室一患”的诊治方式，对符合入院指征的患者，先收入院前观察病房，并在此进行肺CT、血常规、核酸和血清抗体检测。",
@@ -78,15 +87,6 @@
             "summary": "4月23日0—24时，通过口岸联防联控机制，上海报告1例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自英国。病例为中国籍，在巴西生活，4月19日自巴西出发，经埃塞俄比亚转机后于4月21日抵达上海浦东国际机场，入关后即被隔离观察，期间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。该境外输入性确诊病例已转至定点医疗机构救治，已追踪同航班的密切接触者17人，均已落",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir05VLfm7AkFZMaq0DbgL200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587684362000",
-            "title": "美国加利福尼亚州州长：过去24小时是该州新冠肺炎疫情报告最严重一天",
-            "summary": "当地时间23日，美国加利福尼亚州州长纽索姆表示，过去24小时（23日）该州新冠肺炎死亡病例增加115例，也是自疫情在该州暴发以来，单日新增死亡病例数最高的一天，但伴随该州入院及接受重症治疗患者数量出现下降，该州疫情或许开始处于相对稳定的高峰阶段。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Dyg6clScpex2v3f9WPf200424&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
