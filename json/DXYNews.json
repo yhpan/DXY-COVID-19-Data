@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1587769362000",
+            "title": "非洲多国调整防疫举措 应对新冠肺炎疫情",
+            "summary": "当前，新冠肺炎疫情在非洲呈持续蔓延态势，非洲多国正采取多项措施积极应对，同时努力保持经济社会稳定。随着前一阶段政策的到期，一些非洲国家开始调整防疫举措。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4Uft47N1Y3KbI60WtWbv200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587769212000",
+            "title": "建议注射消毒液杀死新冠病毒？特朗普改口：我不是医生",
+            "summary": "美国总统特朗普23日在白宫发布会上暗示，也许可以注射消毒液来抵御新冠病毒，此言一出立刻引起美国舆论哗然。生产家用消毒剂的利洁时公司(Reckitt Benckiser) 和高乐氏公司（Clorox）24日相继发表声明，警告用户不要使用消毒剂作为治疗剂，称“漂白剂和其他消毒剂在任何情况下都不适合食用或注射”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizK98q6VNWIMpsLNRmVLt200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587768660000",
+            "title": "巴西新冠肺炎确诊病例达52995例 总统签署法令禁止出口医疗用品",
+            "summary": "截至当地时间4月24日17时，巴西全国共确诊新冠肺炎病例52995例，较前一日新增3503例；在过去24小时内新增死亡病例357例，全国累计死亡病例3670例；累计治愈病例27655例。 据当地媒体报道，目前巴西全国仍有23152份已送检的新冠病毒检测样本还未出结果，其中巴西东北部地区的样本就占到79%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Y9D0ffGxlIzUjohnrHM200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587766603000",
+            "title": "美国新冠肺炎确诊病例超89万例",
+            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间24日17:31，美国新冠肺炎确诊病例为890524例，死亡51017例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGgQpzqGszuTiPR4hJIz0200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587765840000",
+            "title": "英国卫生大臣：首相约翰逊仍在恢复 尚未确定返回唐宁街时间",
+            "summary": "针对有报道称约翰逊将于下周一，也就是27日返回唐宁街工作，英国卫生大臣汉考克24日表示，约翰逊的身体正在恢复，但是否回到工作岗位将由医生决定。唐宁街首相府发言人当天也表示，首相将遵守医生的建议，在目前假设他何时重返工作岗位没有帮助。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9PypLXe7VfSs4QwtnEn6200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587743371000",
             "title": "黑龙江东北虎林园发布暂停营业公告",
             "summary": "为落实新冠肺炎疫情防控工作，4月23日，黑龙江东北虎林园发布自2020年4月24日起暂停营业，告知已通过网上或其它渠道购票的游客，可通过原付款渠道退还票款，恢复营业时间将另行公告。",
@@ -42,51 +87,6 @@
             "summary": "据英国卫生与社会保障部消息，截至当地时间4月24日上午9点，英国新冠肺炎确诊病例单日新增5386例，累计143464例。截至当地时间4月23日下午5点，医院死亡病例19506例，单日新增684例。由于数据不包括医院外感染病毒死亡人数，实际死亡病例高于该数据。（总台记者  杨洪）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti35Aa3kd2tsVR2kxFXMbx200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587730641000",
-            "title": "西班牙单日治愈人数首超单日新增确诊人数",
-            "summary": "西班牙《先锋报》消息，与本周四相比，西班牙治愈人数增加3105人，总治愈人数达到92355人，占感染总人数的45％。这也是西班牙单日治愈人数首次超过了单日新增确诊人数。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti94zqlQsbTFK2lVjvoYZ5200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587727087000",
-            "title": "疫情之下 泰国政府出台救助底层民众措施",
-            "summary": "4月24日，泰国总理府发言人娜叻蒙Narumon Pinyosinwat透露，泰国总理兼国防部长巴育要求：泰国内政部、社会发展与人类安全部及相关部门一道，为社会底层民众提供帮助。其中包括为流浪者提供三餐，建立协助失业者返乡的数据库等。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVWOYW9ujaZltsvDL1w7Y200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587726715000",
-            "title": "中国驻西班牙大使吴海涛：安心居家 不移动是抗击疫情最安全的方式",
-            "summary": "今天（24日）下午，中国驻西班牙大使吴海涛做客央视新闻直播间，为广大在西班牙的华侨、留学生等在线答“疫”解惑。直播中，大使吴海涛表示，现在抗击疫情保护安全是首要的，也是最重要的，明确不移动是最稳妥的方式，我们要努力的打造一个安全健康的小环境，安心居家抗疫。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ8SX02n3TDyJBh2pDK0e200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587726419000",
-            "title": "日本东京都内新冠肺炎确诊患者中14%为医护人员",
-            "summary": "根据日本放送协会（NHK）的统计结果，截至4月21日，东京都至少有454名医生、护士等医护人员被确诊感染新冠肺炎，在东京都公布的确诊病例中约占14%。确诊病例最多的分别是位于台东区的永寿综合医院201例、中野区的中野江古田医院95例、墨田区的都立墨东医院40例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirFSv2xM0VJBws0yRHEp8200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587712260000",
-            "title": "国家卫健委：武汉重症病例实现清零",
-            "summary": "在今天下午举行的国务院联防联控新闻发布会上，国家卫健委新闻发言人米锋介绍，随着最后一例重症患者新冠肺炎治愈，今天，武汉重症病例实现了清零。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHGtYyaO7wUv9LOSHB6OA200424&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
