@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587739716000",
+            "title": "5月6日起，四川高校将分期分批错峰错时开学",
+            "summary": "4月24日，四川省教育厅对全省高等学校2020年春季学期开学作出安排部署。5月6日起，各高校可根据生源特点、学生规模、疫情防控条件等情况，安排学生分期分批、错时错峰返校开学。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ7n3RxYQC8QFZXq7GleH200424&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587738096000",
+            "title": "英国新增5386例新冠肺炎确诊病例，累计确诊143464例",
+            "summary": "英国卫生部24日发布的最新消息显示，英国单日新增5386例新冠肺炎确诊病例，累计确诊143464例；新增死亡病例684例，累计死亡病例升至19506例。\n",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4497361898676384",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587737925000",
+            "title": "英国新增新冠肺炎确诊病例 5386例 累计143464例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间4月24日上午9点，英国新冠肺炎确诊病例单日新增5386例，累计143464例。截至当地时间4月23日下午5点，医院死亡病例19506例，单日新增684例。由于数据不包括医院外感染病毒死亡人数，实际死亡病例高于该数据。（总台记者  杨洪）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti35Aa3kd2tsVR2kxFXMbx200424&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587730641000",
             "title": "西班牙单日治愈人数首超单日新增确诊人数",
             "summary": "西班牙《先锋报》消息，与本周四相比，西班牙治愈人数增加3105人，总治愈人数达到92355人，占感染总人数的45％。这也是西班牙单日治愈人数首次超过了单日新增确诊人数。",
@@ -60,33 +87,6 @@
             "summary": "据英国媒体报道，英国首相约翰逊最早将于下周一结束休养，返回首相府，恢复工作。有消息称，首相已经安排下周与内阁进行会议。此前，确诊感染新冠病毒的约翰逊4月5日晚入院，6日晚因病情恶化转入重症监护室治疗。当地时间4月12日，英国首相约翰逊出院，并前往首相官邸，继续休养，当天约翰逊还通过视频发文感谢医护人员。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4nNALAt0uJXLKA0dj7kg200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587699101000",
-            "title": "印度新冠肺炎确诊病例累计23077例",
-            "summary": "据印度卫生部4月24日上午发布的消息，截至当地时间上午8时(北京时间10时30分），印度新冠肺炎确诊病例达23077例，其中死亡病例718例，治愈出院4749例。确诊病例比前一晚增加了1377例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9TXED2lZhnu2Z2XhfHvU200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587696817000",
-            "title": "新西兰新增新冠肺炎确诊病例2例 累计1114例",
-            "summary": "根据新西兰卫生部门数据，截至当地时间4月24日上午，新西兰过去24小时内新增2例新冠肺炎确诊病例，全国累计确诊1114例。累计疑似病例342例，累计康复1095例。24日新增死亡病例1例，全国累计死亡17例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9GDlq6rGc5jtkr7fUEo200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587691147000",
-            "title": "韩国新增6例新冠肺炎确诊病例，累计10708例",
-            "summary": "韩国中央防疫对策本部24日通报，截至当天0时（4月23日0时至4月24日0时），韩国新增新冠肺炎确诊病例6例，连续六天单日新增确诊病例少于15例，且有四天呈个位数增长，目前累计确诊病例为10708例。此外，无新增死亡病例，累计死亡病例为240例。累计治愈并解除隔离8501例，较前一日新增90例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimVn965zrxlFSt6PuNw7D200424&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
