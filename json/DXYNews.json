@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587699101000",
+            "title": "印度新冠肺炎确诊病例累计23077例",
+            "summary": "据印度卫生部4月24日上午发布的消息，截至当地时间上午8时(北京时间10时30分），印度新冠肺炎确诊病例达23077例，其中死亡病例718例，治愈出院4749例。确诊病例比前一晚增加了1377例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9TXED2lZhnu2Z2XhfHvU200424&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587696817000",
+            "title": "新西兰新增新冠肺炎确诊病例2例 累计1114例",
+            "summary": "根据新西兰卫生部门数据，截至当地时间4月24日上午，新西兰过去24小时内新增2例新冠肺炎确诊病例，全国累计确诊1114例。累计疑似病例342例，累计康复1095例。24日新增死亡病例1例，全国累计死亡17例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio9GDlq6rGc5jtkr7fUEo200424&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587691147000",
             "title": "韩国新增6例新冠肺炎确诊病例，累计10708例",
             "summary": "韩国中央防疫对策本部24日通报，截至当天0时（4月23日0时至4月24日0时），韩国新增新冠肺炎确诊病例6例，连续六天单日新增确诊病例少于15例，且有四天呈个位数增长，目前累计确诊病例为10708例。此外，无新增死亡病例，累计死亡病例为240例。累计治愈并解除隔离8501例，较前一日新增90例。",
@@ -69,24 +87,6 @@
             "summary": "综合路透社、土耳其媒体TRT报道，土耳其卫生部长科贾（Fahrettin Koca）于当地时间23日表示，该国新增新冠肺炎确诊病例3116例，累计达到101790例；新增死亡病例115例，累计死亡2491例。",
             "infoSource": "人民日报海外网",
             "sourceUrl": "http://m.weibo.cn/3057540037/4497128221421534",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587679267000",
-            "title": "波兰新增新冠肺炎确诊病例342例 累计确诊10511例",
-            "summary": "当地时间4月23日，根据波兰卫生部公布的疫情数据，当天境内新增新冠肺炎确诊病例342例，累计确诊10511例；新增死亡病例28例，累计死亡454例；新增治愈病例227例，累计治愈1740例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ5msjRtt32kqbJCim09g200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587678801000",
-            "title": "美国苹果、谷歌联手打造针对新冠病毒的蓝牙预警系统",
-            "summary": "在与新冠病毒的斗争中，跟踪新冠肺炎感染者并将其与健康人群分离，阻断新冠病毒的传播，对于加州重新开放显得至关重要。目前，这项任务将由加州硅谷的两家技术公司共同研发，并提出解决方案。两家公司近日宣布，他们将使用蓝牙信号来提醒健康民众是否与测试该病毒呈阳性的人过于接近。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDBXJAgoS5Ic0YtZinAzb200424&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
