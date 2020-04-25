@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587772449000",
+            "title": "国家卫健委：24日新增12例新冠肺炎确诊病例 其中境外输入11例 本土1例",
+            "summary": "4月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例12例，其中11例为境外输入病例，1例为本土病例（黑龙江1例）；无新增死亡病例；新增疑似病例3例，其中2例为境外输入疑似病例，1例为本土疑似病例（北京1例）。当日新增治愈出院病例89例，解除医学观察的密切接触者566人，重症病例减少8例。境外输入现有确诊病例720例（含重症病例25例），现有疑似病例14例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIwkiF0UmZvW2zAW7IuR200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587772269000",
+            "title": "美国纽约州长：病毒从欧洲传入本地 而非中国",
+            "summary": "纽约州州长科莫24日在例行发布会上说，调查显示，就纽约州而言，新冠病毒是从欧洲传入的，而不是中国。纽约州州长 科莫：新冠病毒不是从中国，而是从欧洲传入纽约州的。科莫说，中国出现疫情后，美国发布针对中国的旅行禁令，可对欧洲却继续敞开大门，针对欧洲的旅行禁令直到3月中旬才出台，这相当于“关上了前门、却给病毒留下了后门”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioCuQ5NLZrcPU0eCE4iqp200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587771021000",
+            "title": "加拿大新冠肺炎确诊病例累计43889例 死亡2337例",
+            "summary": "根据加拿大各省当地时间24日陆续发布的新冠疫情统计数据显示，截至当地时间24日19:00，加拿大累计新冠肺炎确诊病例43889例，较前一日新增1782例；累计死亡2337例，较前一日新增190例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizDUOaMonEtfB3L2FAYB7200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587769362000",
             "title": "非洲多国调整防疫举措 应对新冠肺炎疫情",
             "summary": "当前，新冠肺炎疫情在非洲呈持续蔓延态势，非洲多国正采取多项措施积极应对，同时努力保持经济社会稳定。随着前一阶段政策的到期，一些非洲国家开始调整防疫举措。",
@@ -60,33 +87,6 @@
             "summary": "中国军队抗疫专家组24日搭乘空军运输机飞抵巴基斯坦首都伊斯兰堡，随机抵达的还有中方援助的一批核酸检测试剂盒、防护服等疫情防控物资。巴基斯坦参联会主席纳迪姆·拉扎和中国驻巴基斯坦大使姚敬到机场迎接。",
             "infoSource": "人民日报",
             "sourceUrl": "http://m.weibo.cn/2803301701/4497378700390018",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587739716000",
-            "title": "5月6日起，四川高校将分期分批错峰错时开学",
-            "summary": "4月24日，四川省教育厅对全省高等学校2020年春季学期开学作出安排部署。5月6日起，各高校可根据生源特点、学生规模、疫情防控条件等情况，安排学生分期分批、错时错峰返校开学。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ7n3RxYQC8QFZXq7GleH200424&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587738096000",
-            "title": "英国新增5386例新冠肺炎确诊病例，累计确诊143464例",
-            "summary": "英国卫生部24日发布的最新消息显示，英国单日新增5386例新冠肺炎确诊病例，累计确诊143464例；新增死亡病例684例，累计死亡病例升至19506例。\n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4497361898676384",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587737925000",
-            "title": "英国新增新冠肺炎确诊病例 5386例 累计143464例",
-            "summary": "据英国卫生与社会保障部消息，截至当地时间4月24日上午9点，英国新冠肺炎确诊病例单日新增5386例，累计143464例。截至当地时间4月23日下午5点，医院死亡病例19506例，单日新增684例。由于数据不包括医院外感染病毒死亡人数，实际死亡病例高于该数据。（总台记者  杨洪）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti35Aa3kd2tsVR2kxFXMbx200424&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
