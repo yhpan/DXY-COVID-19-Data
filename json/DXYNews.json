@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587818999000",
+            "title": "甘肃25日通报：当日无新增确诊病例 无新增已持续20天",
+            "summary": "4月24日20时至4月25日20时，甘肃省无新增新冠肺炎确诊病例、疑似病例、无症状感染者和密切接触者。截至4月25日20时，甘肃省连续20天无新增确诊病例报告，连续28天无疑似病例报告，连续2天无无症状感染者报告，连续2天无密切接触者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKpwARImyqZqa4PG6Tk8g200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587817204000",
+            "title": "美国新冠肺炎累计确诊病例突破 90 万例",
+            "summary": " 截至北京时间今天（25 日）15 点31 分，美国新冠肺炎累计确诊病例突破 90 万例。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "http://m.weibo.cn/3057540037/4497693700939007",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587816929000",
+            "title": "全球感染人数超 277 万例",
+            "summary": "截至北京时间 4 月 25 日 18 时，211 个国家和地区累计确诊新冠肺炎超 277 万例，美国超过 90 万例。\n",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4497692548120677",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587815551000",
             "title": "日本政府职员确诊，新冠肺炎对策担当大臣居家隔离",
             "summary": "据日本媒体 25 日报道，内阁官房新冠肺炎对策推进室的一名职员感染了新冠病毒。这名职员在出现发烧症状前两天，曾参与了日本内阁经济再生担当大臣兼新冠肺炎对策担当大臣西村康稔的视察工作。虽然西村康稔尚不属于密切接触者，但为了采取预防措施，25 日在家进行居家隔离。",
@@ -60,33 +87,6 @@
             "summary": "当地时间25日，中国赴马来西亚抗疫医疗专家组为在马中国公民举办网络视频防疫讲座和在线把脉答疑活动。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibxn07uGoAvihYTfpQNvs200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587808442000",
-            "title": "英国批准血浆治疗新冠肺炎患者临床试验",
-            "summary": "英国国家医疗服务体系（NHS）中的血液和移植（NHSBT）部门4月25日表示，他们已经获批使用新冠肺炎康复人员血浆，用来治疗新冠肺炎患者的临床试验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti73AydzDlJTTxbznJSXBn200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587802929000",
-            "title": "世卫组织：全球新冠肺炎超过268万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2686785例，死亡184681例，中国以外超过260万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijeqvG0n9Wpp6r0tzhUXG200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587800954000",
-            "title": "西班牙是医护人员感染新冠肺炎人数最多的国家",
-            "summary": "当地时间25日，根据西班牙《国家报》消息，西班牙是医护人员确诊感染新冠肺炎人数最多的国家。医护人员确诊数量占总确诊人数的20%。根据西班牙24日卫生部数据，西班牙全国共有219764人确诊新冠肺炎，是欧洲疫情最严重的国家。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artit2rsZ6nWltkpkQj4Fkhh200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
