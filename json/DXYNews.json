@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1587810915000",
+            "title": "美国新冠肺炎累计确诊病例突破90万例",
+            "summary": "美国约翰斯·霍普金斯大学实时统计数据显示，截至北京时间今天（25日）15点31分，美国新冠肺炎累计确诊病例突破90万例，达到905333例，死亡病例达到51949例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti89ChD2EXEkBjkay7d8f1200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587808975000",
             "title": "自疫情暴发以来，土耳其已撤侨4万多人",
             "summary": "当地时间4月25日，土耳其外交部发表声明称，自从全球新冠肺炎疫情暴发以来，土耳其已经从75个国家接回了超过4万名土耳其公民。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHeukJItfqdwQxlAuaH4200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587808909000",
+            "title": "中国医疗专家组为在马来西亚中国公民举办网络视频防疫讲座",
+            "summary": "当地时间25日，中国赴马来西亚抗疫医疗专家组为在马中国公民举办网络视频防疫讲座和在线把脉答疑活动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibxn07uGoAvihYTfpQNvs200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "4月25日，停泊在日本长崎港的“歌诗达大西洋”号邮轮又有57名船员确诊新冠肺炎。“歌诗达大西洋”号邮轮1月末到访长崎港内的三菱重工业长崎造船厂香烧工厂进行维修，邮轮上没有乘客，只有623名船员。该邮轮上出现了新冠肺炎聚集性疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMSrI3XVbnnPSaAKbAUJj200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587783237000",
-            "title": "日本开始对“康复者血浆治疗法”开展临床研究",
-            "summary": "日本国立医疗研究中心23日决定，将尝试使用康复者血液中的成分，开展针对新冠肺炎新治疗法的临床研究工作。鉴于中国用康复者血浆治疗新冠肺炎重症患者取得明显疗效，负责此项研究的医师认为，这可能是重症患者治疗的最终王牌。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDhCQ2pYBweY1dyoQV9Lm200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587781141000",
-            "title": "卫健委：疫情期间 儿童接种部分免疫规划疫苗可酌情推迟",
-            "summary": "今天（25日），是全国儿童预防接种日，今年儿童预防接种日的主题是及时接种疫苗，共筑健康屏障。\n而在疫情期间，儿童接种部分免疫规划疫苗可以酌情推迟。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCRlvdjxXKHGUDtiBiQa6200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
