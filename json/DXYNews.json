@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587796752000",
+            "title": "中国抗疫医疗专家组赴马来西亚分享抗疫经验",
+            "summary": "25日，中国赴马来西亚抗疫医疗专家组前往吉隆坡同善医院，就新冠肺炎的相关治疗经验与当地医生交流。同善医院主席邱财加表示，同善医院缺少治疗新冠肺炎的经验与技术，中国专家的交流和分享让该院受益匪浅。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVzP2ZgLkt7UcwJGB249W200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587793520000",
             "title": "欧洲多国疫情趋缓，西班牙称已渡过“最艰难的阶段”",
             "summary": "西班牙卫生部当地时间24日发布的数据显示，西班牙单日新增死亡病例367例，降至过去一个月的最低值。西班牙政府发言人蒙特罗表示，西班牙已经渡过了“最艰难的阶段”。西班牙卫生大臣伊利亚也表示，疫情曲线已经开始向下弯曲，不过政府同时提醒继续保持谨慎。",
@@ -78,15 +87,6 @@
             "summary": "在新冠肺炎疫情防控初期，合肥工业大学杨善林院士带领团队，研发出智能移动新冠肺炎防控远程交互服务系统，并被应用在火神山、雷神山等武汉地区大型医院的移动远程会诊中。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6echgZiKjtIyYe5aEgbV200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587774258000",
-            "title": "墨西哥累计确诊新冠肺炎12872例  死亡病例升至1221例",
-            "summary": "墨西哥当地时间4月24日，墨西哥卫生部宣布，截至墨西哥当地时间4月24日晚7时，墨西哥累计确诊新冠肺炎12872例病例，较前一天新增了1239例。同时，墨西哥全国确诊死亡病例较前一天新增152例，总数已经上升到1221例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqLfA7BcDBGfnF635q3ts200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
