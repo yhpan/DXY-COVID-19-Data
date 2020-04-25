@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1587808975000",
+            "title": "自疫情暴发以来，土耳其已撤侨4万多人",
+            "summary": "当地时间4月25日，土耳其外交部发表声明称，自从全球新冠肺炎疫情暴发以来，土耳其已经从75个国家接回了超过4万名土耳其公民。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHeukJItfqdwQxlAuaH4200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587808442000",
+            "title": "英国批准血浆治疗新冠肺炎患者临床试验",
+            "summary": "英国国家医疗服务体系（NHS）中的血液和移植（NHSBT）部门4月25日表示，他们已经获批使用新冠肺炎康复人员血浆，用来治疗新冠肺炎患者的临床试验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti73AydzDlJTTxbznJSXBn200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587802929000",
+            "title": "世卫组织：全球新冠肺炎超过268万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2686785例，死亡184681例，中国以外超过260万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijeqvG0n9Wpp6r0tzhUXG200425&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587800954000",
             "title": "西班牙是医护人员感染新冠肺炎人数最多的国家",
             "summary": "当地时间25日，根据西班牙《国家报》消息，西班牙是医护人员确诊感染新冠肺炎人数最多的国家。医护人员确诊数量占总确诊人数的20%。根据西班牙24日卫生部数据，西班牙全国共有219764人确诊新冠肺炎，是欧洲疫情最严重的国家。",
@@ -60,33 +87,6 @@
             "summary": "今天（25日），是全国儿童预防接种日，今年儿童预防接种日的主题是及时接种疫苗，共筑健康屏障。\n而在疫情期间，儿童接种部分免疫规划疫苗可以酌情推迟。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCRlvdjxXKHGUDtiBiQa6200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587780519000",
-            "title": "世卫启动“里程碑式”国际合作：加速疫苗、诊断工具和治疗工具的研发、生产和公平分配",
-            "summary": "疫情肆虐，全球应对。世界卫生组织总干事谭德塞24日宣布，正式启动“里程碑式”的国际合作倡议，以加速新冠肺炎相关疫苗、诊断工具和治疗工具的研发、生产和公平分配，最终实现让全球所有人都可以获得应对新冠肺炎的相关工具。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijlFYWthEsIIRfml9Gc2N200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587779763000",
-            "title": "文莱宣布取消所有开斋节活动",
-            "summary": "当地时间24日，文莱宣布取消所有开斋节活动。文莱苏丹哈桑纳尔在24日晚间发表全国斋戒月电视讲话时说，文莱和其他国家一样，新冠肺炎疫情使民众感到惶恐和不安。因此，今年将不允许开斋节的相互拜访等活动，他呼吁文莱民众更耐心地去面对现实状况。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIflzUHxouBQHM7cFAazZ200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587779692000",
-            "title": "新加坡将为经济重启做大规模新冠肺炎抗体检测",
-            "summary": "新加坡贸工部长陈振声4月24日接受彭博社采访时表示，新加坡计划能够在大约一个月的时间内“逐步重新开放”经济，为此将“对整个人口进行大规模测试，同时采取更多的安全隔离措施。”",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNCFDvGDb3ISfP1uwODCA200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
