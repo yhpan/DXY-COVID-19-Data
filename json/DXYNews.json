@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587900749000",
+            "title": "在院新冠肺炎患者清零，武汉真的好起来了！",
+            "summary": "国家卫健委刚刚通报，经过武汉和全国援鄂医务人员的共同努力，截至4月26日，武汉在院新冠肺炎患者清零。\n从武汉重症病例实现清零，到武汉在院新冠肺炎患者清零，不同的“零”，却传递出同样清晰而明亮的信号：武汉，真的好起来了！这座曾被疫情裹挟的城市，正在恢复生龙活虎的模样；而被新冠病毒侵袭的市民们，也在奋力摆脱疫情的阴影。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4qKS7ieTxesK942uv8hR200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587897144000",
             "title": "白俄罗斯新冠肺炎确诊病例累计超过1万例",
             "summary": "根据白俄罗斯卫生部发布的消息，在过去的24小时，该国新增873例新冠肺炎确诊病例，累计达到10463例。此外，累计死亡病例达到72例，累计治愈病例1695例。据悉，截至目前，白俄罗斯共进行了约14.7万次新冠病毒核酸检测。",
@@ -78,15 +87,6 @@
             "summary": "当地时间4月26日，据孟加拉国医生基金会（BDF）统计，截至目前，该国确诊感染新冠病毒的医生总数为345人，是4月14日确诊感染人数（54人）的6倍。这意味着在过去12天，平均每天约有25名医生被感染。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSbMUltxLGOt0g0PK4cxS200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587879743000",
-            "title": "辽宁发布具备新型冠状病毒核酸检测资质的医疗机构名单",
-            "summary": "4月26日，辽宁省卫生健康委发布辽宁省具备新型冠状病毒核酸检测资质的医疗机构名单（截至2020年4月25日24时）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizX3gmPtS4QIJX1NUvxPo200426&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
