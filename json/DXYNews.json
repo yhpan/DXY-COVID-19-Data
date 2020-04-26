@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587861416000",
+            "title": "山西4月26日通报：无新增境外输入确诊病例，新增治愈出院5例",
+            "summary": "2020年4月25日0—24时，山西省无新增境外输入确诊病例，新增治愈出院5例。累计报告境外输入性确诊病例64例，治愈出院21例，现有在院隔离治疗病例43例。现有疑似病例0例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieYltxhhpLgBcv6EMiXw9200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587861220000",
             "title": "广东25日新增确诊病例1例，为境外输入关联病例",
             "summary": "4月25日0-24时，全省无新增境外输入确诊病例。累计报告境外输入病例192例。新增境内确诊病例1例，为广州报告境外输入关联，通过社区排查发现，为无症状感染者转确诊病例。截至4月25日24时，全省累计报告新冠肺炎确诊病例1586例，累计出院1542例，累计死亡8例。新增出院8例。",
@@ -78,15 +87,6 @@
             "summary": "根据印尼旅游工业协会的统计数字，受新冠疫情影响，2 月份与中国中断通航后，游客下降了 18%；3 月份，受欧洲、英国和韩国限制飞机去巴厘岛的影响，游客下降了 42.32%；4 月份，游客下降了 93.24%。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieZpCHhz9TujomTk6GEPj200425&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587825545000",
-            "title": "意大利将对 15 万人免费展开血清抗体检测",
-            "summary": "当地时间 25 日，意大利新冠肺炎疫情应急委员会专员多梅尼科·阿尔库里表示，从 5 月 4 日起将在意大利全国范围内免费对 15 万人进行病毒血清抗体检测。此外，政府还将向医疗、公共服务保障、军警等特定人群发放足够的口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ8mlqA9Fzxn806udVzqT200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
