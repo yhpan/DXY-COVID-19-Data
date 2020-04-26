@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587866656000",
+            "title": "浙江省26日通报：无新增境外输入新冠肺炎确诊病例",
+            "summary": "4月25日0-24时，浙江省无新增境外输入新冠肺炎确诊病例。新增出院病例1例；新增无症状感染者3例（均为意大利输入）。无当日转为确诊病例，无当日解除隔离者。截至4月25日24时，尚在医学观察无症状感染者56例（其中境外输入44例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxACvx08mjF6VdjapYXs200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587862217000",
+            "title": "墨西哥全国确诊新冠肺炎病例13842例，死亡病例上升到1305例",
+            "summary": "墨西哥当地时间4月25日，墨西哥卫生部宣布，截止到4月25日晚上7时，墨西哥全国确诊13842例新冠肺炎病例，较前一天新增了970例。同时，墨西哥全国确诊死亡病例较前一天新增84例，总数已经上升到1305例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRQM2t2vixNykSk1BuQPw200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587861416000",
             "title": "山西4月26日通报：无新增境外输入确诊病例，新增治愈出院5例",
             "summary": "2020年4月25日0—24时，山西省无新增境外输入确诊病例，新增治愈出院5例。累计报告境外输入性确诊病例64例，治愈出院21例，现有在院隔离治疗病例43例。现有疑似病例0例。",
@@ -69,24 +87,6 @@
             "summary": "当地时间25日，美国密歇根州监狱管理局数据显示，该州莱克兰监狱的1400名囚犯中，有642名囚犯确诊新冠肺炎。目前，密歇根州共有1170多名囚犯病毒检测呈阳性，其中30人死于新冠肺炎并发症。目前，包括俄亥俄州、田纳西州、阿肯色州、密歇根州和北卡罗莱纳州在内的多个州正在积极地对囚犯进行核酸检测，本周全美囚犯群体的感染预估率翻了3倍，预计将进一步上涨。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKeGrFOV4bEicKZDbqQi200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587832014000",
-            "title": "意大利新增2357例新冠肺炎确诊病, 累计确诊195351万例",
-            "summary": "截至当地时间25日18时，意大利24小时内新增新冠肺炎确诊病例2357例，累计确诊195351例，死亡26384例，治愈63120例。现存确诊病例105847例。当天进行核酸检测65387次，阳性结果占比3.6%，为2月末疫情暴发以来最低值。重症监护病例2102例，连续22天下降。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti62wPupQqUQ7mgh6ZWFsz200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587826874000",
-            "title": "印尼巴厘岛旅游业遭灭顶之灾",
-            "summary": "根据印尼旅游工业协会的统计数字，受新冠疫情影响，2 月份与中国中断通航后，游客下降了 18%；3 月份，受欧洲、英国和韩国限制飞机去巴厘岛的影响，游客下降了 42.32%；4 月份，游客下降了 93.24%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieZpCHhz9TujomTk6GEPj200425&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
