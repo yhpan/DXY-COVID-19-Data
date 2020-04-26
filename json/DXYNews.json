@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587884693000",
+            "title": "新加坡新增931例新冠肺炎确诊病例 累计确诊13624例",
+            "summary": "4月26日，新加坡卫生部宣布，截至当天中午12点，新加坡新增931例新冠肺炎确诊病例，累计病例数达13624例。根据卫生部初步统计，新增病例多数是住在外籍劳工宿舍的工作准证持有者，15人是新加坡公民或永久居民。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBIKVF3EzuT9TlWjoBvwY200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587882395000",
             "title": "孟加拉国感染新冠肺炎医生总数接近350人",
             "summary": "当地时间4月26日，据孟加拉国医生基金会（BDF）统计，截至目前，该国确诊感染新冠病毒的医生总数为345人，是4月14日确诊感染人数（54人）的6倍。这意味着在过去12天，平均每天约有25名医生被感染。",
@@ -78,15 +87,6 @@
             "summary": "24日，“中关村创投 战疫投资行动”正式启动，中关村管委会联合首批30家创投机构，计划提供总规模约300亿元的投资额度，重点扶持科技型中小微企业，共战疫情，共渡难关。首批30家创投机构包括行业头部机构、政府引导基金合作机构、产业背景及专业领域投资机构等，选取的投资对象聚焦北京市和中关村示范区高精尖产业和新兴产业领域，将重点投资初创期、成长期的优质科技型中小微企业，对已获得投资、具有较大发展潜力的优质企业、以及孵化器在孵企业给予优先支持。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu5UlFToajshFvrHC0rox200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587851166000",
-            "title": "英国首相约翰逊将于下周一恢复工作",
-            "summary": "据英国媒体报道，英国首相约翰逊将于下周一结束休养，返回首相府，恢复工作。约翰逊因感染新冠病毒已经有将近一个月不能正常工作，他于3月27日确诊新冠肺炎，居家隔离一周后，5日因症状持续而住院， 6日晚因病情恶化转入重症监护室治疗。4月12日至今，约翰逊出院休养。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauHPZ31JptBd9UDPmWLk200426&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
