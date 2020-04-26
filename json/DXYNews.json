@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1587882395000",
+            "title": "孟加拉国感染新冠肺炎医生总数接近350人",
+            "summary": "当地时间4月26日，据孟加拉国医生基金会（BDF）统计，截至目前，该国确诊感染新冠病毒的医生总数为345人，是4月14日确诊感染人数（54人）的6倍。这意味着在过去12天，平均每天约有25名医生被感染。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSbMUltxLGOt0g0PK4cxS200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1587879743000",
+            "title": "辽宁发布具备新型冠状病毒核酸检测资质的医疗机构名单",
+            "summary": "4月26日，辽宁省卫生健康委发布辽宁省具备新型冠状病毒核酸检测资质的医疗机构名单（截至2020年4月25日24时）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizX3gmPtS4QIJX1NUvxPo200426&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587866656000",
             "title": "浙江省26日通报：无新增境外输入新冠肺炎确诊病例",
             "summary": "4月25日0-24时，浙江省无新增境外输入新冠肺炎确诊病例。新增出院病例1例；新增无症状感染者3例（均为意大利输入）。无当日转为确诊病例，无当日解除隔离者。截至4月25日24时，尚在医学观察无症状感染者56例（其中境外输入44例）。",
@@ -69,24 +87,6 @@
             "summary": "据英国媒体报道，英国首相约翰逊将于下周一结束休养，返回首相府，恢复工作。约翰逊因感染新冠病毒已经有将近一个月不能正常工作，他于3月27日确诊新冠肺炎，居家隔离一周后，5日因症状持续而住院， 6日晚因病情恶化转入重症监护室治疗。4月12日至今，约翰逊出院休养。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauHPZ31JptBd9UDPmWLk200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587844253000",
-            "title": "全球新冠肺炎日新增93716例，单日新增创下新高",
-            "summary": "根据世界卫生组织24日发布的每日疫情报告，欧洲中部夏令时4月24日10时至4月25日10时（北京时间4月24日16时至4月25日16时），全球确诊新冠肺炎病例新增93716例。这是自1月21日世卫组织开始发布新冠肺炎每日疫情报告以来，日新增病例的最高值。此前的最高值是4月11日报告的新增89657例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFKStunYrjmRS3BG4w5Z8200426&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587834974000",
-            "title": "美国密歇根州一监狱近650名囚犯确诊新冠肺炎",
-            "summary": "当地时间25日，美国密歇根州监狱管理局数据显示，该州莱克兰监狱的1400名囚犯中，有642名囚犯确诊新冠肺炎。目前，密歇根州共有1170多名囚犯病毒检测呈阳性，其中30人死于新冠肺炎并发症。目前，包括俄亥俄州、田纳西州、阿肯色州、密歇根州和北卡罗莱纳州在内的多个州正在积极地对囚犯进行核酸检测，本周全美囚犯群体的感染预估率翻了3倍，预计将进一步上涨。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibKeGrFOV4bEicKZDbqQi200426&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
