@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587976509000",
+            "title": "泰国面临新冠肺炎疫情和登革热双重压力",
+            "summary": "当地时间4月27日，泰国北部彭世洛府卫生局塔普密（Rattaphum Champhun）代理医师提醒民众，由于近期雨季将至，蚊虫孳生，在防控新冠肺炎疫情的同时也要当心感染登革热。从1月至今，泰国北部的彭世洛府已有110人感染登革热。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4dsTzJTei342BCmAFk2L200427&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587973443000",
             "title": "国家卫健委：全国现有本土病例降至100例以下",
             "summary": "国家卫健委新闻发言人米锋在27日召开的国务院联防联控机制新闻发布会上介绍，4月26日，湖北首次无现有确诊和疑似病例报告，全国现有本土确诊病例降至100例以下，境外输入病例治愈出院超过1000例，疫情防控取得重要阶段性成效。",
@@ -78,15 +87,6 @@
             "summary": "中国物流与采购联合会今天（27日）公布一季度物流运行数据。受新冠肺炎疫情影响，一季度社会物流总需求出现负增长。一季度，全国社会物流总额为56.0万亿元，同比下降7.5%，与1-2月相比，降幅收窄4.3个百分点。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3Kf65mSxf2yQjQ7WJpZ200427&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587957529000",
-            "title": "日本暴发新冠肺炎集体感染 大津市政厅关闭",
-            "summary": "由于发生新冠肺炎集体感染，日本大津市政厅到“黄金周”长假结束的5月6日为止的12天内，全面关闭。\n11名职员被确认集体感染新冠肺炎，约有1200名职员居家观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW8BVxHDAL1CIpJg9VyP7200427&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
