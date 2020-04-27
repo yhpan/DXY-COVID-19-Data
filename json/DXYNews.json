@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1587969194000",
+            "title": "疫情缓解，纽约州或于5月15日后启动复工",
+            "summary": "26日，美国纽约州疫情继续缓解。纽约州州长科莫当天表示，过去一天，纽约州新冠肺炎新增死亡病例数、住院人数、以及使用呼吸机的患者数都出现下降。如疫情持续缓解，纽约州或于5月15日后启动复工。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikhvqUDJ5npWbmiFFoITV200427&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1587966447000",
             "title": "又一批中国政府和企业援助巴基斯坦抗疫物资抵达伊斯兰堡",
             "summary": "当地时间4月26日8时，一架由北京出发并满载着大批医疗物资的飞机平稳降落在伊斯兰堡国际机场，又一批中国政府和企业援巴抗疫医疗物资抵达伊斯兰堡。这批先行抵达的医疗物资约70立方米，其中包括40余万个医用口罩、8000余套防护服，数千个防护面罩、医用帽子、鞋套等。",
@@ -78,15 +87,6 @@
             "summary": "截至美国当地时间26日下午5点半，全美新冠肺炎确诊病例963168例，死亡54614例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBMQ4NeudoZNbO25CTtzH200427&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1587938400000",
-            "title": "世卫组织：全球新冠肺炎确诊病例新增84900例，累计超281万",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2810325例，死亡193825例，中国以外超过272万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPbtWx1vseeSPFw94tm4N200427&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
