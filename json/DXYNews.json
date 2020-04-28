@@ -28,6 +28,24 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1588058071000",
+            "title": "国家卫健委：已连续13天无新增死亡病例",
+            "summary": "今日（28日）下午，国务院联防联控机制召开新闻发布会，会上国家卫健委新闻发言人米锋通报了最新疫情情况，他介绍，截至27日，我国已连续13天无新增死亡病例，当日治愈出院的境外输入病例为疫情发生以来最多。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitqaXyOwbCq8rxwWgS7no200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588051286000",
+            "title": "“五一”假期各地景区应安全有序开放",
+            "summary": "“五一”假期将至，昨天，中央宣传部、文化和旅游部召开2020年“五一”假期旅游景区开放管理工作电视电话会议，指出今年的“五一”假期是我国进入常态化疫情防控阶段后的首个旅游小长假。各地要切实做好旅游景区疫情防控和安全有序开放工作，更好地满足人民群众对假日旅游需求和景区管理工作的新期待。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXuzVp81eA4s7MD7ouC9Z200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588043606000",
             "title": "美国加工厂停工影响上游，养殖场或销毁多余猪只",
             "summary": "华尔街日报27日报道，猪肉加工厂停产已经影响到养殖场，美国的生猪饲养企业可能不得不对多余的猪只实施“安乐死”，然后销毁。美国目前每天屠宰约51万头生猪，但受疫情影响，多家大型肉类加工厂停工，已经减少了约五分之一的产能，因此，养殖场将面临“猪满为患”的处境，从而影响继续繁育。",
@@ -69,24 +87,6 @@
             "summary": "4月28日上午8点30分左右，北京小汤山定点医院最后一批共两名新冠肺炎治愈患者出院。至此，小汤山医院新冠肺炎患者全部“清零”，将于29日关闭备用。小汤山定点医院3月16日正式启用，4月28日患者清零。\n",
             "infoSource": "人民日报",
             "sourceUrl": "http://m.weibo.cn/2803301701/4498619169987892",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588034938000",
-            "title": "阿根廷新冠肺炎确诊病例超4000例 政府允许部分犯人在家中服刑",
-            "summary": "当地时间27日，阿根廷卫生部公布该国新冠肺炎新增病例111例，累计达4003例；新增死亡病例5例，累计达197例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir29SfemQgLsSnBoUZbYy200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588032358000",
-            "title": "武汉实现六个“零”疫情防控取得重要阶段性成效",
-            "summary": "4月26日，湖北省、武汉市实现了六个“零”：新增确诊病例、新增死亡病例、新增疑似病例、现有疑似病例、现有确诊病例、重症病例都是“零”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqfZMSTXu7Ie7crCslzDL200428&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
