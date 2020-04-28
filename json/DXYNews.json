@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1588079376000",
+            "title": "5月6日0时起恢复全国收费公路收费",
+            "summary": "据交通运输部：①自5月6日0时起，经依法批准的收费公路恢复收费（含收费桥梁和隧道）。②继续落实法定免费通行政策。③保障疫情防控应急运输车辆优先便捷通行。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4498793330527085",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588079056000",
+            "title": "5月6日零时起恢复全国收费公路收费",
+            "summary": "记者从交通运输部了解到，经国务院同意，恢复全国收费公路收费。现将有关事宜公告如下：一、恢复收费时间。自2020年5月6日零时起，经依法批准的收费公路恢复收费（含收费桥梁和隧道）。二、继续落实法定免费通行政策。符合《收费公路管理条例》及相关规定的军队车辆（含武警部队车辆），公安机关在辖区内收费公路上处理交通事故、执行正常巡逻任务和处置突发事件的统一标志的制式警车，悬挂应急救援专用号牌的国家综合性消防",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIEHjjg2FfDnc6SmFD43O200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588078291000",
+            "title": "甘肃连续23天无新增确诊病例，已全面恢复堂食",
+            "summary": "据甘肃省卫健委通报，截至4月28日20时，甘肃省连续23天无新增确诊病例报告，连续31天无疑似病例报告，连续5天无无症状感染者，连续5天无密切接触者。另外，甘肃省市场监管局也发布消息，在落实疫情防控的前提下，全面恢复堂食就餐，允许50人以下集体聚餐活动；对检查发现的问题现场指导整改，消除食品安全隐患，原则上不得随意责令停业。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNtKES9qiI0mZ4yAOg475200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588077302000",
+            "title": "印度新冠肺炎确诊病例升至29974例",
+            "summary": "据印度卫生部数据，截至当地时间4月28日17:00（北京时间19:30），印度新冠肺炎累计确诊病例升至29974例，其中死亡937例。过去24个小时内，共新增病例1594例，新增死亡病例51例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix6HHVneCVDtRekfuF4HB200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588074927000",
             "title": "日本专家证实：目前在日本流行的新冠病毒来自欧美",
             "summary": "据日本新闻网（JNN）28日报道，日本国立感染症研究所调查发现，从新冠病毒毒株变异情况来看，目前在日本蔓延中的新冠病毒从欧美传入的可能性较大。国立感染症研究所对世界各地流行的新冠病毒基因进行了调查，结果发现，在日本国内没有检测出以“钻石公主”号为疫情扩散起点的病毒毒株。而另一方面，从3月末开始在日本各地发现的第二波“传染路径不明”病例很可能是来自欧洲和美国的病毒，由游客及归国人员带入国内，几周内疫情迅速在全国范围内扩散。",
@@ -15,6 +51,15 @@
             "summary": "当地时间4月28日，泰国旅游局局长育塔萨表示，新冠肺炎疫情给泰国旅游业带来严重的冲击，近期泰国新冠肺炎疫情明显缓解，泰国旅游局预计5个月后，也就是在今年10月份，泰国的旅游业会逐渐复苏。中国游客是泰国最主要的游客群体，他说目前中国的一些航空公司已经在5月份开始着手申请恢复泰国的国际航班。泰国是否做好恢复接待游客的准备，还需要看疫情具体发展情况和泰国政府的具体防控措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXIgtZ3HZqVC8fEvBMJBj200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588071293000",
+            "title": "鲍里斯·约翰逊为英国在抗击新冠肺炎疫情中牺牲的医护人员默哀",
+            "summary": "当地时间 28 日上午 11 点，英国首相鲍里斯·约翰逊参加了为缅怀在抗击疫情过程中牺牲的 NHS 医护人员的全民默哀活动。活动结束后，他发推特表示国家将不会忘记那些牺牲的一线工作者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOaIn0861wUZN1b5qoK2F200428&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -42,51 +87,6 @@
             "summary": "4月28日下午，香港特区政府食物及卫生局举行记者会。会上，食物及卫生局局长陈肇始表示，自4月11日以来，香港新冠肺炎单日新增确诊案例始终维持个位数，其中出现5天零确诊。鉴于目前的防控情况，特区政府决定，香港针对入境人士为期14天的强制检疫措施，将暂定延长执行1个月，由5月7日延至6月7日。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIwyFAoG8D0XiONeOSNDo200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588060377000",
-            "title": "英国民众将为牺牲的医护人员默哀",
-            "summary": "据英国天空新闻消息，当地时间28日上午11点，英国将为在抗击新冠疫情而牺牲的医护人员默哀，以此来表达对NHS一线医护人员的敬意。有媒体称截至目前，至少有上百位医生护士倒在了一线。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijtqhK9QNAW9MbnZWtHYr200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588059147000",
-            "title": "东京奥组委主席：明年疫情无法结束 东京奥运会将中止",
-            "summary": "据日本媒体《日刊体育》消息，东京奥组委主席森喜朗在接受采访时表示，如果到2021年，在明年夏天之前，如果新冠肺炎疫情无法结束，东京奥运会将不会被再度推迟，如果出现这种情况，就会“中止”举办。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDlw9kqZUOgeEbktMf3JU200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588058071000",
-            "title": "国家卫健委：已连续13天无新增死亡病例",
-            "summary": "今日（28日）下午，国务院联防联控机制召开新闻发布会，会上国家卫健委新闻发言人米锋通报了最新疫情情况，他介绍，截至27日，我国已连续13天无新增死亡病例，当日治愈出院的境外输入病例为疫情发生以来最多。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitqaXyOwbCq8rxwWgS7no200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588051286000",
-            "title": "“五一”假期各地景区应安全有序开放",
-            "summary": "“五一”假期将至，昨天，中央宣传部、文化和旅游部召开2020年“五一”假期旅游景区开放管理工作电视电话会议，指出今年的“五一”假期是我国进入常态化疫情防控阶段后的首个旅游小长假。各地要切实做好旅游景区疫情防控和安全有序开放工作，更好地满足人民群众对假日旅游需求和景区管理工作的新期待。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXuzVp81eA4s7MD7ouC9Z200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588043606000",
-            "title": "美国加工厂停工影响上游，养殖场或销毁多余猪只",
-            "summary": "华尔街日报27日报道，猪肉加工厂停产已经影响到养殖场，美国的生猪饲养企业可能不得不对多余的猪只实施“安乐死”，然后销毁。美国目前每天屠宰约51万头生猪，但受疫情影响，多家大型肉类加工厂停工，已经减少了约五分之一的产能，因此，养殖场将面临“猪满为患”的处境，从而影响继续繁育。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti07ZNXyWKzbFErov4QPe5200428&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
