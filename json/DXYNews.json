@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588034938000",
+            "title": "阿根廷新冠肺炎确诊病例超4000例 政府允许部分犯人在家中服刑",
+            "summary": "当地时间27日，阿根廷卫生部公布该国新冠肺炎新增病例111例，累计达4003例；新增死亡病例5例，累计达197例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir29SfemQgLsSnBoUZbYy200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588032358000",
+            "title": "武汉实现六个“零”疫情防控取得重要阶段性成效",
+            "summary": "4月26日，湖北省、武汉市实现了六个“零”：新增确诊病例、新增死亡病例、新增疑似病例、现有疑似病例、现有确诊病例、重症病例都是“零”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqfZMSTXu7Ie7crCslzDL200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588028297000",
             "title": "哥伦比亚累计确诊新冠肺炎5597例，国内多项活动宣布推迟",
             "summary": "哥伦比亚卫生部27日宣布，新增218例新冠肺炎确诊病例，全国累计5597例，死亡病例升至253例，截至目前，累计样本检测量已超过9万例。为遏止新冠肺炎疫情扩散，哥伦比亚年内或将无法恢复任何职业足球赛事，以防止人员聚集加速疫情扩散。",
@@ -15,6 +33,15 @@
             "summary": "截至当地时间4月27日16时，巴西全国共有新冠肺炎确诊病例66501例，比前一日新增4613例，死亡病例4543例，治愈10294例。随着确诊病人和重症病人数量的增加，巴西各州的医疗系统都在承担越来越大的压力，多个州的重症监护床位更是所剩无几。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBuBDjg0m6Eha2gTTdvZP200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588023079000",
+            "title": "世卫组织：全球新冠肺炎确诊超288万例 死亡近20万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎2883603例，死亡198842例，中国以外近280万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2BxoxWOhDo7WkROWCcoD200428&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -60,33 +87,6 @@
             "summary": "当地时间4月27日，美国纽约州州长科莫表示，目前纽约州新冠肺炎各项指标仍然呈平稳下降趋势，有17303人因新冠肺炎去世。他表示目前纽约州抗体测试已经从此前3000人扩大到了7500人，从结果来看，抗体阳性比例从此前13.9%上升至14.9%。科莫表示，上升1%在误差范围内，暂时没有数据上的实际意义。此外，科莫宣布本周还将对1000名警察、4000名医护、1000名公交员工进行抗体测试，以了解感染率。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiimEz3sT9fXBxfBW5l5B3200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588006618000",
-            "title": "美国新冠肺炎确诊病例超过97万 死亡病例近5.5万",
-            "summary": "根据美国约翰斯·霍普金斯大学的统计数据显示，截至美国东部时间27日11:30时（北京时间27号23:30时），美国新冠肺炎确诊病例已经超过97万，达到972969例，死亡病例近5.5万，达到54938例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOE32YtRq3pJVkLybD3Jq200428&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588000526000",
-            "title": "合肥设立16个核酸检测点，市民可自愿检测",
-            "summary": "今天（27日），合肥在全市范围内设立16个自愿核酸检测受理点，合肥市民可按自愿、自费原则，在受理点预约检测。检测费用为220元/人次。核酸检测受理点无特殊情况，对自愿、自费检测的单位和个人，不得拒接、拒检。对于检测为阳性的人员，要及时送样至市疾控中心进行复核，同时，规范做好信息报送和各项处置工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwmCrDslrQf6H5LvZCqM200427&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588000312000",
-            "title": "印度最大贫民窟新增13例新冠肺炎确诊病例，累计288例",
-            "summary": "据印度媒体报道，4月27日，位于孟买的塔拉维贫民窟新增13例新冠肺炎确诊病例，累计确诊病例达288例，其中累计死亡14例。塔拉维贫民窟是印度最大的贫民窟，也是亚洲最大的贫民窟之一。自4月1日出现首例新冠肺炎确诊病例后，确诊人数不断攀升。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSikfBvPsdTWzyZBwlHMN200427&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
