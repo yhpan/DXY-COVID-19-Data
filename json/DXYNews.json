@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1588142548000",
+            "title": "​海南：“五一”期间 景区须持“绿码”预约入园",
+            "summary": "海南省旅游主管部门日前发出通知要求景区要严格落实预约入园制度，引导游客间隔入园、错峰旅游，只开放室外区域，室内场所暂不开放，接待游客量不得超过核定最大承载量的30%。要严格落实测温扫码入园措施，健康码为“绿码”的人员方可进入景区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0u3FpepwC3qA9L4dg4OB200428&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588142141000",
+            "title": "日本医师会：如无疫苗东京奥运恐难举行",
+            "summary": "昨天（28日），日本医师会会长横仓义武在新闻发布会上表示，如果明年全世界无法找到对抗新冠病毒的疫苗，东京奥运会将很难如期举行。对此，东京奥组委发言人随后强调，他们的使命就是在新的日期举办奥运会和残奥会，而东京奥组委一直在与世界卫生组织和日本国内的卫生机构密切合作，研究对付疫情的措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6sJnfsJvjA9QGbsX2u0q200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588132913000",
+            "title": "复工复产：全国长度排名第二的长江隧道——江阴第二过江通道正式开工",
+            "summary": "全国长度排名第二的长江隧道——江阴第二过江通道4月28日正式开工，项目总投资约141.48亿元。江阴第二过江通道位于江阴大桥和泰州大桥之间，距泰州大桥约54公里，北起靖江公新公路与城西大道交叉口，南至江阴芙蓉大道，线路全长约11.825公里，其中过江隧道长约6408米。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirD9WPPBVaXzTSXGEt69w200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588131526000",
             "title": "香港“口罩工场”全自动生产线正式投产，将免费派发给有需要的民众",
             "summary": "新冠肺炎疫情下，口罩成为香港市民防疫生活的必需品。本着“自己口罩自己做”的精神，4月28日，随着升级后的全自动生产线正式启动，香港工联会职业发展服务处“口罩工场”的生产进入一个新阶段。香港工联会在今年2月中旬，实现“口罩工场”第一阶段半自动生产线运营，而这次升级后的全自动生产线，可将产量进一步提高，每日可生产5万个口罩，随着生产逐步走上轨道，预计产量还可继续提升。",
@@ -60,33 +87,6 @@
             "summary": "当地时间4月28日，美国新冠肺炎确诊病例超过100万，美国总统特朗普当天接受记者提问时称，“病例最终将降到零。”他认为，病例数量大是因为“我们的检测数量比别的国家高得多”。据约翰斯·霍普金斯大学数据，截至美东时间28日17时31分，美国新冠肺炎确诊病例为1010717例，死亡58365例。《纽约时报》称，美国的实际感染人数可能要高得多。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1sHdRidKLVDhOVEQzF8N200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588118900000",
-            "title": "巴西新冠肺炎确诊病例破7万，多地开始强制佩戴口罩",
-            "summary": "截至当地时间4月28日18时，巴西全国共有新冠肺炎确诊病例71886例，比前一日新增5385例，死亡病例5017例，比前一天增长10.4%，康复人数为32544人。根据巴西国家通讯社报道，巴西多个州市强制所有和公众接触的工作人员必须佩戴口罩，多地要求居民在公共场所佩戴口罩，有些地区还会对违规者处以罚款。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiArysc7Z3MVstn5f5g2vT200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588115581000",
-            "title": "美国百日内确诊人数超100万",
-            "summary": "1月21日，美国境内出现首例新冠肺炎确诊病例，一个多月后病例数过万。此后，确诊人数从1万到2万只用了两天。3月27日，美国确诊病例超10万例，5天后超20万……截至美国东部时间28日，美国新冠肺炎累计确诊超100万，距其出现首例确诊病例不到一百天。",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4498945185494340",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588114051000",
-            "title": "意大利累计确诊新冠肺炎超20万例",
-            "summary": "根据意大利民事保护部门公布的最近数据，截至当地时间4月28日18时，意大利现有新冠肺炎确诊病例105205例，死亡27359例，治愈68941例，累计确诊病例201505例，较4月27日18时新增确诊2091例，新增382例死亡病例。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4498938768389035",
             "province": null,
             "provinceId": ""
         }
