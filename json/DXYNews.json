@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588175093000",
+            "title": "受新冠肺炎疫情影响，波音公司将裁员10%",
+            "summary": "当地时间4月29日，据美国当地媒体报道，由于新冠肺炎疫情导致旅行需求大幅下降，美国最大的飞机制造商——波音公司将裁员约10%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitlabPFIJ4vMQPdys5gy4200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588172340000",
+            "title": "江苏发布“五一”期间旅游通知：景区游客量不得超过最大承载量的30%",
+            "summary": "“五一”前夕，江苏省委宣传部、江苏省文化和旅游厅联合下发《关于切实做好2020年劳动节假期文化和旅游市场管理工作的通知》，对文化和旅游市场管理特别是旅游景区限量、有序、安全、文明开放作出具体部署，强调要坚持防控为先、有序开放。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinDgeGeleLwGIIxNew0iN200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588169404000",
             "title": "巴西疫情得不到遏制，里约市长宣布限制令将延长至5月底",
             "summary": "为防控新冠肺炎疫情的蔓延，巴西里约热内卢曾颁发限制令，但将于4月30日到期。29日，里约市长马塞罗·克里维拉宣布，鉴于疫情蔓延并未出现减缓趋势，而当地在建的多座方舱医院尚未竣工投入使用，因此限制令将至少延长至5月底。",
@@ -69,24 +87,6 @@
             "summary": "当地时间4月29日，土耳其教育部部长塞尔丘克发表声明称，全国小学、初高中学生远程教育时间将持续到5月31日。他还表示，下周内阁会议将讨论中考时间，届时总统埃尔多安会发表相关声明。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZmNDBuV7QaPqB1Z4i2BS200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588153649000",
-            "title": "在泰国的中国留学生无一人感染",
-            "summary": "当地时间4月29日，中国驻泰国大使馆向留学生发放第二批“健康包”，健康包里有医用和N95口罩、连花清瘟胶囊、消毒纸巾和预防新冠肺炎防护宣传手册等抗疫必需品。据中国驻泰国大使馆透露，在泰国中国留学生总人数达到36000多人，疫情暴发后，目前留在泰国的中国学生大约6000人左右，无一人感染。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL1XrAyudrGBcpdPzjyj6200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588151640000",
-            "title": "全球新冠肺炎确诊病例近300万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎病例达2995758例，死亡204987例，中国以外超过291万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWYBumGVLpiJbRGOTYWd200429&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
