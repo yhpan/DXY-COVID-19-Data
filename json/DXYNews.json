@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588169404000",
+            "title": "巴西疫情得不到遏制，里约市长宣布限制令将延长至5月底",
+            "summary": "为防控新冠肺炎疫情的蔓延，巴西里约热内卢曾颁发限制令，但将于4月30日到期。29日，里约市长马塞罗·克里维拉宣布，鉴于疫情蔓延并未出现减缓趋势，而当地在建的多座方舱医院尚未竣工投入使用，因此限制令将至少延长至5月底。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieJwfZx2ymazXAC8br6g4200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588168468000",
             "title": "中国国家博物馆将于5月1日起错峰限流预约开放",
             "summary": "记者从国家博物馆处获悉，国家博物馆决定自5月1日起错峰限流预约开放。具体通知如下：\n国家博物馆有序开放公告\n根据中央关于做好常态化疫情防控工作的指示精神，按照北京市疫情防控工作统一部署，结合中国国家博物馆工作实际，决定2020年5月1日起错峰限流预约开放。现将有关事项公告如下：1.开放时间为每天9:00-17:00 (16时停止入馆)，周一例行闭馆(节假日除外)，夜间场次暂时取消。2.每日限流30",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎病例达2995758例，死亡204987例，中国以外超过291万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWYBumGVLpiJbRGOTYWd200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588146003000",
-            "title": "北京小汤山医院今日关闭备用",
-            "summary": "4月28号上午，北京小汤山定点医院最后两名新冠肺炎患者治愈出院，实现“清零”，今天起关闭备用。小汤山定点医院从3月16号起运行，主要用于境外来（返）京人员中需筛查人员、疑似病例及轻型、普通型确诊患者的筛查和治疗。 \n",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4499072784609655",
             "province": null,
             "provinceId": ""
         }
