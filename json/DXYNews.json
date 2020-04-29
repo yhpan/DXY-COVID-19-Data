@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588151640000",
+            "title": "全球新冠肺炎确诊病例近300万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎病例达2995758例，死亡204987例，中国以外超过291万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTWYBumGVLpiJbRGOTYWd200429&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588146003000",
             "title": "北京小汤山医院今日关闭备用",
             "summary": "4月28号上午，北京小汤山定点医院最后两名新冠肺炎患者治愈出院，实现“清零”，今天起关闭备用。小汤山定点医院从3月16号起运行，主要用于境外来（返）京人员中需筛查人员、疑似病例及轻型、普通型确诊患者的筛查和治疗。 \n",
@@ -78,15 +87,6 @@
             "summary": "韩国中央防疫对策本部当地时间29日通报，截至当天（29日）零时（4月28日零时至4月29日零时），韩国新增新冠肺炎确诊病例9例，累计确诊病例升至10761例；新增死亡病例2例，累计死亡病例升至246例；累计治愈并解除隔离8922例，较前一日增加68例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0wWQ7QAKgu0bSseX5bmd200429&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588121929000",
-            "title": "英驻华大使：感谢中方给予的抗疫支持",
-            "summary": "当地时间28日，英国驻华大使吴百纳在接受总台记者远程视频采访时表示，英国近期从中国运回的大量个人防护用品和呼吸机帮助了新冠肺炎疫情下的英国医院，这一切都离不开中英两国长期紧密的经贸关系。在运往英国抗击新冠肺炎疫情的物资当中，既包括英国政府的商业采购，也有来自中国地方政府与企业的捐赠，中国民航局也批准英国使用客运航线运输货物。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy2RUObnJmXzmw9e4BwA3200429&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
