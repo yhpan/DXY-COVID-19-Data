@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588222448000",
+            "title": "​黑龙江首台方舱CT启用 最大程度避免医院内发生交叉感染",
+            "summary": "4月30日，黑龙江省首台方舱CT在黑龙江省医院启用。方舱CT是集设备间、扫描间、CT机及消毒装置于一体的箱体式CT，可对于发热、疑似等患者实行独立影像设备检查，最大程度避免医院内发生交叉感染。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirfKSptdStAqx73lU1CfG200430&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588219815000",
+            "title": "日本“紧急事态宣言”或将延长一个月",
+            "summary": "日本政府发布的“紧急事态宣言”将于5月6日到期，鉴于目前日本国内新冠肺炎疫情的形势，日本政府或将把“紧急事态宣言”对象地区定为全国，并延长一个月左右。日本首相安倍晋三将于30日傍晚左右与日本政府咨询委员会会长进行会谈，着手具体讨论。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPEroQXZ4YBNuTDKnjn6X200430&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588219373000",
             "title": "美国新冠肺炎确诊病例累计升至1039909例",
             "summary": "据美国约翰斯·霍普金斯大学实时统计数据显示，截至北京时间10时32分，美国累计新冠肺炎确诊病例升至1039909例，死亡病例达60967例。",
@@ -69,24 +87,6 @@
             "summary": "美国南加州圣地亚哥县公共卫生局官员威尔玛·伍腾，在当地时间4月29日的新闻发布会上表示，圣地亚哥县将无限期延长于4月30日到期的“居家令”禁令。伍滕表示，加州任何司法管辖区的开放都将取决于加利福尼亚州州长的指导和指示，在未得到任何指示之前，圣地亚哥地区将无法开放，所以该地区将无限期延长居家令的限制。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu48fqB6pce33mAG7C2BD200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588208955000",
-            "title": "西班牙卫生部：50%以上确诊患者已康复 疫情高峰阶段已结束",
-            "summary": "西班牙是欧洲新冠肺炎确诊病例数最多的国家，截至当地时间4月29日中午，西班牙累计新冠肺炎确诊病例达到212917例，累计死亡24275例，新增确诊2144例，新增死亡病例325例。西班牙卫生部门表示，新增治愈病例达到6399例，远远超过单日新增确诊病例2144例，西班牙的疫情高峰阶段已经结束。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAJWozJ0kZyllmPabFbV6200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588208117000",
-            "title": "700亿5G基站采购落地 中国5G网络建设进入加速跑",
-            "summary": "中国电信和中国联通日前公布“2020年5G新建工程无线主设备联合集中采购”中标结果，加上此前已揭晓的中国移动5G设备集中采购，总额超过700亿元的三大运营商5G基站采购招标全部完成。这意味着，中国5G网络建设正式进入加速跑。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti04vlrU2O9aRkqVQRMAwr200430&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
