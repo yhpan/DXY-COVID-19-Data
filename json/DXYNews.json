@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588219373000",
+            "title": "美国新冠肺炎确诊病例累计升至1039909例",
+            "summary": "据美国约翰斯·霍普金斯大学实时统计数据显示，截至北京时间10时32分，美国累计新冠肺炎确诊病例升至1039909例，死亡病例达60967例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSMqlFglGbuo7lV1glXO6200430&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588216288000",
             "title": "​津巴布韦新增8例新冠肺炎确诊病例 累计40例",
             "summary": "当地时间4月30日凌晨，津巴布韦卫生部发布公告，宣布29日津巴布韦境内新增8例新冠肺炎确诊病例，截至目前该国累计确诊已达40例，其中死亡4例，康复5例。公告称，新增的这8例确诊患者中，6例来自首都哈拉雷，2例来自该国西南部城市布拉瓦约。这也是津巴布韦出现新冠肺炎疫情以来，单日新增确诊病例数量最多的一天。（总台记者 何绪）",
@@ -78,15 +87,6 @@
             "summary": "中国电信和中国联通日前公布“2020年5G新建工程无线主设备联合集中采购”中标结果，加上此前已揭晓的中国移动5G设备集中采购，总额超过700亿元的三大运营商5G基站采购招标全部完成。这意味着，中国5G网络建设正式进入加速跑。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti04vlrU2O9aRkqVQRMAwr200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588205611000",
-            "title": "国家卫健委：29日新增4例境外输入确诊病例",
-            "summary": "4月29日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为境外输入病例；无新增死亡病例；新增疑似病例3例，均为境外输入疑似病例（均在上海）。当日新增治愈出院病例32例，解除医学观察的密切接触者708人，重症病例减少9例。境外输入现有确诊病例525例（含重症病例13例），现有疑似病例7例。累计确诊病例1664例，累计治愈出院病例1139例，无死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirtRDCIZ4t2MG7piLGzd6200430&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
