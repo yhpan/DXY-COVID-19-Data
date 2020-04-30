@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588255759000",
+            "title": "福建公布首批核酸检测机构名单，还可网上预约、查报告！",
+            "summary": "为了做好新冠肺炎疫情防控常态化工作，支持企事业单位和学校复工复产复学，福建确定了可开展新型冠状病毒核酸检测的机构。另外，福州市民还可以通过「e 福州」App，完成线上预约、检测报告查看等，还可替他人进行相应预约。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3oT40m4u3sWlLL46gSIP200430&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588252363000",
+            "title": "世卫组织召开突发事件委员会会议",
+            "summary": "当地时间 30 日，世卫组织召开突发事件委员会会议，讨论新冠肺炎疫情形势并更新应对建议。根据《国际卫生条例》，突发事件委员会必须在上次会议后的三个月内再次召开会议，评估相关建议。今天突发事件委员会通过电话会议进行讨论，将于 5 月 1 日向总干事提供建议，相关声明也将于 5 月 1 日对外公布。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC3On1ycLulekbx4oPfRR200430&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588250543000",
             "title": "印度新冠肺炎确诊病例已达33160例",
             "summary": "印度卫生部官网最新数据显示，截至当地时间4月30日17时（北京时间19时30分），印度全境共报告新冠肺炎确诊病例33610例，其中治愈出院8373例，死亡1075例。数据显示，过去24小时内，共新增确诊病例1823例，新增死亡病例67例。马哈拉施特拉邦累计确诊病例升至9915例，是印度报告确诊病例最多的一个邦，其次是古吉拉特邦和德里地区，分别确诊4082例和3439例。（总台记者 李琳）",
@@ -69,24 +87,6 @@
             "summary": "4月30日下午，国务院联防联控机制举办新闻发布会。在发布会上，上海华山医院感染科主任、上海市医疗救治专家组组长张文宏表示，科普工作需要和老百姓有充分的沟通。张文宏：最好的方法就是防，所以在这次疫情当中，我们都知道中国到目前为止取得了阶段性的胜利，事实上跟防控（有关），一个是防，一个是控。所以我们现在看起来中国民众在这次疫情防控中被发动起来，当时我记得讲过一句话，就是闷在家里你也是战士。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMwDddLeDknRycrMCJKw200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588237029000",
-            "title": "特朗普称有方法惩罚中国 外交部：这种说法没有法律依据",
-            "summary": "4月30日，外交部例行记者会上，有记者就美国总统特朗普在接受采访时称美国有很多方式惩罚中国等相关言论提问。耿爽表示，新冠病毒完全是一场天灾，中国和美国一样都是病毒受害者。受害者同命相连，本应该团结协作共克时艰。美方应该清楚他们的敌人是病毒而不是中国，这个时候他们的当务之急是聚焦国内疫情防控，推动国际抗疫合作，而不是去攻击、抹黑中国，甩锅、推责给中国。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3iOnrrk7WhZOBch9b8vk200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588235982000",
-            "title": "英国养老院成疫情重灾区 老年患者未痊愈“被出院”引争议",
-            "summary": "据英国卫生与社会保障部消息，截至当地时间4月30日上午5时50分，英国新冠肺炎确诊病例累计165221例，病亡26097例。英国国家统计局28日公布的一份周统计数据显示，在截至4月17日的一周，英格兰和威尔士等地养老院死亡人数为7316人，约占总死亡人数的三分之一。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYwBxGuxJxVOY35zx8pwd200430&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
