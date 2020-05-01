@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588292544000",
+            "title": "国家卫健委：30日新增6例境外输入病例，新增6例本土病例",
+            "summary": "4月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例12例，其中6例为境外输入病例（上海5例，福建1例），6例为本土病例（黑龙江5例，内蒙古1例）；无新增死亡病例；新增疑似病例3例，均为境外输入疑似病例（均在上海）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTOfqXMrs2ldxJoF9Kjv200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588289851000",
             "title": "哥伦比亚新冠肺炎累计病例6507例 疫情持续在监狱蔓延",
             "summary": "哥伦比亚卫生部30日宣布，新增296例新冠肺炎确诊病例，累计6507例，死亡病例293例。卫生部同时对此前一天的确诊人数进行修订，新增4例北部边境省份瓜希拉上报的确诊病例。进入第三阶段全国隔离以来，哥伦比亚首都和周边地区人流出行明显增多。",
@@ -78,15 +87,6 @@
             "summary": "丹麦当地时间4月30日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，目前看来，同过去几周一样，欧洲的疫情仍然严重。在过去一周7天时间里，整个欧洲累计新冠肺炎病例增加了15%，到目前为止一共有1408266例。同期死亡人数上升了18%。欧洲地区占全球46%的病例和63%的死亡病例。欧洲仍然受到疫情的严重影响。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFvSZ0tdZjQZrlRdf4WA200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588238769000",
-            "title": "湖北省试剂盒产能达到每日50万人份 试剂条每日10万条",
-            "summary": "湖北省新冠肺炎疫情防控工作指挥部今天（4月30日）召开第89场新闻发布会，湖北省科学技术厅副厅长 吴麟章：目前湖北省已获批检测试剂、试剂盒合计产能达到每天50万人份，试剂条达到每天10万条。还支持了多家生物公司的九个检测产品获得了欧盟CE准入，多家生物公司的两个检测产品获得了美国FDA紧急使用预授权。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti965N9ySfdZ0MXHDSUUYt200430&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
