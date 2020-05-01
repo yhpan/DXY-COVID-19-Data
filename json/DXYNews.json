@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588297769000",
+            "title": "武汉网约车业务重启 司机：复工代表希望 未来会更好",
+            "summary": "根据武汉市交通运输局的部署，受疫情影响暂停服务近100天的多家网约车平台，昨天（4月30日）在武汉重启运营。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitjSiCeopqiPOIVERmMDS200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588296084000",
+            "title": "新加坡抗疫措施或抑制流感传播 1-2月流感比例同比降7成",
+            "summary": "新加坡卫生部和新加坡国立大学苏瑞福公共卫生学院的研究团队，日前分析了今年首两个月的流感样症状（influenza-like illness）数据。对比过去三年的数据发现，新冠肺炎防疫措施实施以来，流感病例也显著减少76%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnT4xurkcc6IMbXkDYQF200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588292544000",
             "title": "国家卫健委：30日新增6例境外输入病例，新增6例本土病例",
             "summary": "4月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例12例，其中6例为境外输入病例（上海5例，福建1例），6例为本土病例（黑龙江5例，内蒙古1例）；无新增死亡病例；新增疑似病例3例，均为境外输入疑似病例（均在上海）。",
@@ -69,24 +87,6 @@
             "summary": "国务院新闻办公室今日下午召开发布会，就如何做到安全健康出游，邀请文化和旅游部部长雒树刚和有关专家介绍相关提示和防疫知识。中国工程院副院长 中国医学科学院院长 王辰：一是口罩还要戴上，目前情况下，可能还有遇到一些有传染性的情况。二是洗手，用肥皂、洗衣液洗手是比较彻底的办法。三是保持距离，距离是很重要的。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwET5rF76DOYrHgxA3sgw200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588241340000",
-            "title": "​世卫组织：全球新冠肺炎确诊病例近306万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎3059642例，死亡211028例，中国以外超过297万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikNEIHb0HmvdBCKhnoWwB200430&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588240615000",
-            "title": "世界卫生组织欧洲办事处称欧洲的新冠肺炎疫情仍然严重",
-            "summary": "丹麦当地时间4月30日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，目前看来，同过去几周一样，欧洲的疫情仍然严重。在过去一周7天时间里，整个欧洲累计新冠肺炎病例增加了15%，到目前为止一共有1408266例。同期死亡人数上升了18%。欧洲地区占全球46%的病例和63%的死亡病例。欧洲仍然受到疫情的严重影响。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitFvSZ0tdZjQZrlRdf4WA200430&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
