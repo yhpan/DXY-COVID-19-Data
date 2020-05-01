@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1588311723000",
+            "title": "新加坡将建筑业工作准证持有者居家隔离规定延长至5月18日",
+            "summary": "5月1日，新加坡人力部、新加坡建设局宣布，住在外籍工人宿舍区外的建筑业工作许可证持有者确诊新冠肺炎病例两周来有增无减。为了加强防疫，根据卫生部的评估，决定将所有建筑业工作许可证持有者和他们家属的居家隔离规定从5月4日延长两周到5月18日。政府将进一步对受影响企业，特别是中小企业提供经济资助。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4A45tnXDiTfXzn06cTK200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588310158000",
+            "title": "日本政府专家会议认为紧急事态宣言应延长1个月",
+            "summary": "据日本共同社报道，当地时间5月1日中午，日本政府专家会议开会分析了当前的疫情，探讨了日本目前采取的新冠肺炎防控措施的效果。据专家会议成员透露，会议达成一致意见，认为原定到5月6日为止的紧急事态宣言有必要以全国为对象再延长1个月，时间到5月底。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifdj8DZEqN5SoPHvQ52Bm200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588307759000",
+            "title": "海南扩大核酸检测范围 重点人群“应检尽检”",
+            "summary": "海南省新冠肺炎疫情防控工作指挥部4月30日发布消息：根据海南省疫情实际和工作需要，各市县要对重点人群“应检尽检”，对重点行业和重点场所人员进行“适时抽检”，对其他人群实行“愿检尽检”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAA7G4sWl4CJQF8MWRBn9200501&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588306860000",
             "title": "疫情趋稳定 马来西亚宣布5月4日起全面恢复餐饮业正常运作",
             "summary": "当地时间5月1日上午，马来西亚总理毛希丁宣布，全国餐饮业者可以从下周一（5月4日）起重启餐饮服务。\n毛希丁强调，从业者必须先保洁餐馆内部和所有餐具，桌椅至少保持2米的距离，让员工和顾客可以拥有较大空间。“付费时也必须确保顾客间保持1米距离、要准备洗手液。”",
@@ -60,33 +87,6 @@
             "summary": "新加坡卫生部和新加坡国立大学苏瑞福公共卫生学院的研究团队，日前分析了今年首两个月的流感样症状（influenza-like illness）数据。对比过去三年的数据发现，新冠肺炎防疫措施实施以来，流感病例也显著减少76%。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPnT4xurkcc6IMbXkDYQF200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588292544000",
-            "title": "国家卫健委：30日新增6例境外输入病例，新增6例本土病例",
-            "summary": "4月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例12例，其中6例为境外输入病例（上海5例，福建1例），6例为本土病例（黑龙江5例，内蒙古1例）；无新增死亡病例；新增疑似病例3例，均为境外输入疑似病例（均在上海）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMTOfqXMrs2ldxJoF9Kjv200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588289851000",
-            "title": "哥伦比亚新冠肺炎累计病例6507例 疫情持续在监狱蔓延",
-            "summary": "哥伦比亚卫生部30日宣布，新增296例新冠肺炎确诊病例，累计6507例，死亡病例293例。卫生部同时对此前一天的确诊人数进行修订，新增4例北部边境省份瓜希拉上报的确诊病例。进入第三阶段全国隔离以来，哥伦比亚首都和周边地区人流出行明显增多。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOFY5cuyiNuyTysCRE6d1200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588289457000",
-            "title": "英国首相宣布疫情高峰已过",
-            "summary": "4月30日，英国首相#约翰逊主持复工后首场记者会#，他表示，英国疫情已度过高峰期，政府正在计划逐步放松管制措施。在检测量方面，目前英国每日新冠病毒检测量为8万多例，还未实现此前政府承诺的日均10万例的目标。",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4499674478545120",
             "province": null,
             "provinceId": ""
         }
