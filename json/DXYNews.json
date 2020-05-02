@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1588374900000",
+            "title": "世卫组织：确信新冠肺炎病毒来自自然界 欧洲死亡病例超过14万例",
+            "summary": "当地时间1日下午，北京时间昨天深夜，世界卫生组织召开新冠肺炎疫情例行发布会。世卫组织总干事谭德塞宣布，新冠肺炎疫情大流行仍然构成“国际关注的突发公共卫生事件”。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ8tfKFlpCQQkyKpLDMvO200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588369922000",
+            "title": "世卫组织：全球新冠肺炎确诊超过318万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎3181642例，死亡224301例，中国以外超过309万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYirHKO4UZXNhmPxA6kP1200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588362164000",
+            "title": "美国佛罗里达州开始每天消毒医用N95口罩以供重复利用",
+            "summary": "美国佛罗里达州州长德桑蒂斯1日表示，该州将开始使用一套从联邦政府获得的医用口罩消毒系统，对收集来的医院医护人员使用过的N95口罩进行消毒去污以供再次利用，该系统将使用过氧化氢对口罩进行超过20次的消毒清洗，可以每天最多完成80000个N95的消毒。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikYUFVJWFHBYHvAS61BF7200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588358611000",
             "title": "​欧洲新冠肺炎死亡病例超过14万例",
             "summary": "法新社根据各国官方数据统计的结果显示，截至当地时间1日晚8点，新冠肺炎疫情已经在欧洲造成了超过14万人死亡。其中四分之三在意大利、英国、西班牙和法国这四个国家。欧洲也成为受新冠肺炎疫情影响最严重的地区。",
@@ -60,33 +87,6 @@
             "summary": "五一假期第一天，全国假日旅游市场总体运行平稳，A 级旅游景区开放 8498 家，约占总数的 70%。严格落实游客流量不超过最大承载量 30% 的要求。据测算，假期首日，全国接待国内游客总人数 2319.7 万人次，实现国内旅游收入约 97.7 亿元。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizpL7mQRzWE4wi3o8rnwf200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588334051000",
-            "title": "《柳叶刀》总编：全球应共同合作防控疫情",
-            "summary": "全球顶级医学期刊《柳叶刀》总编理查德·霍顿日前接受央视主持人白岩松的专访，他积极评价中国及时果断的抗疫措施和在分享抗疫经验等方面的努力。他认为方舱医院是中国成功应对疫情的一个重要创新举措，也是其它国家可以学习的重要经验。应对新冠肺炎疫情，全球合作非常重要。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGiVOUmH7bbRnMAjI3APQ200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588331759000",
-            "title": "全国铁路五一预计发送旅客 720 万人次，让旅客安全健康出行",
-            "summary": "记者从中国国家铁路集团有限公司获悉，今天是五一小长假第一天，全国铁路客流迎来新的增长，预计发送旅客 720 万人次，创春节后单日旅客发送量新高。铁路部门调整运力投放，加开旅客列车 309 列，做好疫情防控工作，服务旅客安全健康出行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifc2Y5mJffM5bgR8k07Vb200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588329468000",
-            "title": "黑龙江18例绥芬河口岸境外输入病例治愈出院",
-            "summary": "5月1日15时，牡丹江医学院附属红旗医院（以下简称红旗医院）又有18名境外输入新冠肺炎患者治愈出院。其中红旗医院省级重症集中救治区域中心出院6名重型、危重型患者；红旗医院境外输入新冠肺炎重型危重型救治基地出院患者12名普通型、轻型患者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisuiAfWJQeDClNRSLwqkk200501&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
