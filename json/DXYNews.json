@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1588384483000",
+            "title": "纽约股市三大股指 5 月 1 日显著下跌",
+            "summary": "由于经济指标继续走低等因素影响，纽约股市三大股指 5 月 1 日显著下跌。截至当天收盘，道琼斯工业平均指数下跌 622.03 点，跌幅为 2.55%。标准普尔 500 种股票指数下跌 81.72 点，跌幅为 2.81%。纳斯达克综合指数下跌 284.60 点，跌幅为 3.20%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB6aWqcMppg9P1TC7VENq200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588382246000",
             "title": "​英国《卫报》：科学界表示没有证据表明该病毒是基因改造而成",
             "summary": "当地时间5月1日，英国《卫报》发表了一篇文章称，科学界对于“没有证据表明该病毒是基因改造而成”的共识是一致的。在三月份写给《自然》的一封信中，由微生物学教授克里斯蒂安·安德森（Kristian Andersen）领导的加州研究小组说：“遗传数据无可辩驳地表明，新冠病毒并非源自以前使用的任何病毒，这种病毒更有可能源于自然，并通过自然选择变得更强。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilLvE9fpTUWQOKuiI6r89200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588382138000",
+            "title": "​新加坡将两邮轮作为宿舍安置新冠肺炎痊愈外籍工人",
+            "summary": "新加坡旅游局 5 月 1 日透露，两艘邮轮已经通过评估，开始安置接受已经痊愈的新冠肺炎痊愈外籍工人。两艘邮轮可容纳 2000 人。截至到 5 月 1 日中午 12 时，新加坡新冠肺炎确诊病例 17101 例，近 9 成是外籍工人。为了降低居住密度，新加坡已征用军营、海上浮动宿舍、空置居民房以及多层停车场等安置外籍工人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirfGnQlVoLHw8M8XbZiQl200502&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "当地时间5月1日，世卫组织召开新冠肺炎例行发布会，针对关于新冠肺炎病毒是否来自武汉病毒研究所的质疑，世卫组织卫生紧急项目负责人迈克尔·瑞安表示，已有许多科学家研究了新冠肺炎病毒基因序列，确信新冠肺炎病毒来自自然界。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9ffi1OKi8ZxOZAof3FoA200502&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588347758000",
-            "title": "欧洲中央银行：疫情对经济影响或将持续至 2022 年",
-            "summary": "当地时间 5 月 1 日，总部位于德国法兰克福的欧洲中央银行表示，受新冠肺炎疫情影响，欧元区经济将继续衰退严重。最坏情况下，欧元区第二季度本地生产总值的跌幅或将达到 15%，甚至一直到 2022 年年底仍然无法完全恢复到之前的产出水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiprdEQPCtI4sa6wgtf0id200501&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588347366000",
-            "title": "世卫组织：新冠肺炎疫情仍然构成「国际关注的突发公共卫生事件」",
-            "summary": "当地时间 5 月 1 日，世卫组织总干事宣布，新冠肺炎疫情仍然构成「国际关注的突发公共卫生事件」。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDTQHsSpevAEWKUm8ccY0200501&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
