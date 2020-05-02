@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588402917000",
+            "title": "联合国秘书长古特雷斯：应尊重老年人生命和健康权",
+            "summary": "联合国秘书长古特雷斯5月1日表示，肆虐全球的新冠肺炎疫情给老年群体造成重大冲击，人类社会应高度重视和尊重老年人在疫情中的生命权和健康权。\n古特雷斯在当天发布的《新冠肺炎疫情对老年人影响》政策简报视频中说，老年人感染新冠病毒后的病死率更高，疫情给老年群体造成了“难以言表的恐惧和折磨”。他表示，老年人与年轻人享有同等的生命权和健康权，疫情之下“谁也不能被牺牲、被抛弃”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYCU1jZnqsMoDSIPRYRWA200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588400114000",
             "title": "乌兹别克斯坦新增48例新冠肺炎确诊病例 累计确诊2094例",
             "summary": "2日，乌兹别克斯坦卫生部发布通报称，截至2日10时，乌兹别克斯坦新增48例新冠肺炎确诊病例，累计确诊2094例，新增治愈79例，累计治愈1212例，死亡9例。目前有873名确诊患者在医院接受治疗，超过85000名密切接触者接受集中和居家隔离。（总台记者 曹胜济）",
@@ -78,15 +87,6 @@
             "summary": "来自国家卫健委的消息，随着疫情防控形势持续好转，各地医疗机构加快恢复正常医疗秩序。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijHthqJE7qPhfL9Ffj0FA200502&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588379173000",
-            "title": "美国纽约市养老院被指少报死亡人数",
-            "summary": "纽约媒体当地时间5月1日报道称，当地立法者要求对曼哈顿的一家养老院进行调查。当天有新闻报道称，该养老院大幅瞒报了其与新冠肺炎相关的死亡人数。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7fufd9xVkdP62wEmsjtE200502&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
