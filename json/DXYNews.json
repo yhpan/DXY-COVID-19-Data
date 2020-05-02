@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588395710000",
+            "title": "商务部：一季度服务贸易规模下降 但结构有所改善",
+            "summary": "记者从商务部服贸司获悉， 一季度，受新冠肺炎疫情等因素影响，我国服务贸易规模下降，但贸易逆差延续了去年以来的缩小势头，结构有所改善。一季度服务进出口总额11523.0亿元（人民币，下同），同比下降10.8％。其中，出口4442.8亿元，下降4.1％；进口7080.2亿元，下降14.5％。主要呈现以下特点:服务贸易逆差大幅减少。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8rh2CuhctEbnKCf6YlvY200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588395096000",
+            "title": "“致命纳瓦罗”正在致命美国？",
+            "summary": "最近，一位美国政客热度达到了近五年的顶峰，他是美国白宫贸易顾问纳瓦罗。\n不过细看纳瓦罗疫情期间的新闻，这种热度更像是蹭来的——蹭中国。踩中国，对纳瓦罗来说，可谓驾轻就熟。靠着鼓吹“中国威胁”，纳瓦罗步入政坛，也靠着大肆污蔑中国，制造了自己为数不多的“高光”时刻。协调人协调了什么？ 纳瓦罗原本的职务是白宫贸易顾问，疫情之下，他被任命为《国防生产法》政策协调人，负责疫情期间物资的生产和调配。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQzukFk9fK1itGXItGb3z200502&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588389988000",
             "title": "哈尔滨烧烤火锅等餐饮服务暂停堂食",
             "summary": "据黑龙江省哈尔滨市应对新冠肺炎疫情工作指挥部办公室发布的紧急通知，5 月 2 日零时起，哈尔滨市经营烧烤、涮串、涮火锅、铁锅炖等餐饮服务单位暂停堂食，重新开业时间视疫情变化另行通知。",
@@ -69,24 +87,6 @@
             "summary": "当地时间1日下午，北京时间昨天深夜，世界卫生组织召开新冠肺炎疫情例行发布会。世卫组织总干事谭德塞宣布，新冠肺炎疫情大流行仍然构成“国际关注的突发公共卫生事件”。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ8tfKFlpCQQkyKpLDMvO200502&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588369922000",
-            "title": "世卫组织：全球新冠肺炎确诊超过318万例",
-            "summary": "根据世卫组织最新实时统计数据，目前全球确诊新冠肺炎3181642例，死亡224301例，中国以外超过309万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYirHKO4UZXNhmPxA6kP1200502&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588362164000",
-            "title": "美国佛罗里达州开始每天消毒医用N95口罩以供重复利用",
-            "summary": "美国佛罗里达州州长德桑蒂斯1日表示，该州将开始使用一套从联邦政府获得的医用口罩消毒系统，对收集来的医院医护人员使用过的N95口罩进行消毒去污以供再次利用，该系统将使用过氧化氢对口罩进行超过20次的消毒清洗，可以每天最多完成80000个N95的消毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikYUFVJWFHBYHvAS61BF7200502&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
