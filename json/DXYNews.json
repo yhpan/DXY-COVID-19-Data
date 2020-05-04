@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588591626000",
+            "title": "世卫组织最新数据：全球新冠肺炎超过340万例",
+            "summary": "根据世卫组织最新实时统计数据，目前全球累计新冠肺炎确诊病例达3407747例，中国以外超过332万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPA3BP5hrDVZksCvJULb4200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588589114000",
+            "title": "即将进入解封期，英国办公场所抗疫面临挑战",
+            "summary": "英国首相鲍里斯·约翰逊将在 5 月 7 日对目前的社交隔离措施进行审查，之后将于 5 月 10 日发布带完整细节的解封方案，可能包括减少办公室共享工位、错开工作时间以避开早晚高峰等措施。如何在解封时期保护员工成为英国雇主面临的挑战。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifUGrP3HEoCQwwx24sqox200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588582406000",
             "title": "武汉将实行「两个延长一个缩短」弥补课时不足等问题",
             "summary": "5 月 4 日下午，湖北省新型冠状病毒肺炎疫情防控工作指挥部召开第 91 场新闻发布会，介绍武汉复课准备工作情况。会上，武汉市教育局副局长夏春胤表示，酌情对教学时间进行「两个延长一个缩短」的调整，即适当延长复学后每周教学时间，每周增加一天；适当延长每天教学时间，每天增加一课时，适当缩短暑假时间。",
@@ -69,24 +87,6 @@
             "summary": "疫情期间黄山景区客流上限为15000人。相比假期首日，黄山景区5月2日游客数已翻近3倍。景区启动大交通联动联控机制控制客流，门票提前分时预约，游客分时入场。",
             "infoSource": "人民日报",
             "sourceUrl": "http://m.weibo.cn/2803301701/4500815807512998",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588560003000",
-            "title": "美药管局前局长：美国防控未达预期效果，疫情可能再度暴发",
-            "summary": "美国食品和药物管理局（FDA）前局长斯科特·戈特利布（Scott Gottlieb）周日警告说，如果各州允许学校、企业和其他公共场所放松警惕，那么美国的新冠肺炎疫情可能会再度迎来“新的流行”或“大规模的暴发”。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4500809226581719",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588553479000",
-            "title": "“五一”假期前三天 国内旅游收入约350亿元",
-            "summary": "这个五一假期，全国不少旅游景区开始逐步恢复人气。文化和旅游部官网昨天就发布消息，“五一”假期前三天，全国接待国内游客总人数近8500万人次，实现国内旅游收入约350亿元。 “五一”假期前三天，景区开放总体平稳有序。不过疫情反弹甚至扩散的风险依然存在，要始终保持高度警惕。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3Ic8jboSuu0Arn5GBIF200504&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
