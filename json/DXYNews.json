@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1588600727000",
+            "title": "法国总理：马约特省将推迟解封",
+            "summary": "当地时间4日，法国总理菲利普在参议院陈述政府的解封措施时对外表示，法国的海外大区马约特省由于新冠病毒密集传播，将推迟原定于5月11日的解封。这也是法国第一个推迟解封的省。目前法国将于5月7日全面评估法国新冠肺炎病毒传播情况和医院承压程度，从而决定哪些省份可以在5月11日正常解封。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMlJNCnUhJbnqXnksxxEY200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588599117000",
+            "title": "钟南山：没有任何证据表明新冠病毒会通过蚊虫传播",
+            "summary": "钟南山表示，病毒在高温下的存活率以及活动率较差，但没有任何证据表明新冠病毒能够通过蚊虫传播。中国工程院院士 钟南山：一般来说，病毒在高温下的存活率以及活动率比较差，所以随着夏季的到来，病毒的活动会下降，疫情一般也会下降。紫外线虽然没强到紫外光消毒那么强，但是温度高对病毒的活动是不利的，对病毒的传播是不利的",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVRbyvIbRbb6PZz6tFcQ8200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588598451000",
+            "title": "钟南山：我不赞成群体免疫 这要牺牲很多人",
+            "summary": "5月4日晚，在青年节到来之际中国工程院院士钟南山和在海外的留学生连线，根据眼下国际抗疫的局势，给各国留学生们提出科学有效的防疫建议。对于群体免疫这个说法，钟南山院士表示他不赞成这个办法，因为要牺牲很多人才能得到群体免疫，且现在疫情高发国家的感染人数离可以群体免疫还差很远。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1SotH672qpLPzcYRQaFz200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588595979000",
             "title": "国际泳联：福冈游泳世锦赛延期至2022年5月",
             "summary": "国际泳联4日宣布，原计划于2021年7月在日本福冈举行的世界游泳锦标赛，延期至2022年5月13日至29日举行。",
@@ -60,33 +87,6 @@
             "summary": "5 月 4 日下午，湖北省新型冠状病毒肺炎疫情防控工作指挥部召开第 91 场新闻发布会，介绍武汉复课准备工作情况。会上，武汉市教育局副局长夏春胤表示，酌情对教学时间进行「两个延长一个缩短」的调整，即适当延长复学后每周教学时间，每周增加一天；适当延长每天教学时间，每天增加一课时，适当缩短暑假时间。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1gVfFwCG7CNCZweCWi3V200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588582082000",
-            "title": "​牡丹江 55 名境外输入病例临床治愈出院，1 名无症状感染者解除医学观察",
-            "summary": "5 月 4 日 13 时，黑龙江省牡丹江医学院附属红旗医院（以下简称红旗医院）又有 55 名境外输入病例临床治愈出院，1 名无症状感染者解除医学观察。截至目前，红旗医院共有 114 名新冠肺炎确诊病例临床治愈出院，4 名无症状感染者解除医学观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimN3gfDqMoyXq1FhfHJAc200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588580871000",
-            "title": "湖北省连续 30 天无新增新冠肺炎确诊病例",
-            "summary": "5 月 4 日下午，湖北省疾病预防控制中心副主任李阳通报湖北省新冠肺炎疫情最新情况，截至 5 月 3 日 24 时，全省已连续 30 日无新增确诊病例，除武汉市以外的地区，已连续 60 日无新增确诊病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilVlbWoUE9k3OsDF1WWrN200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588579299000",
-            "title": "俄罗斯新增 10581 例新冠肺炎确诊病例，累计 145268 例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间 5 月 4 日 10 时 55 分，过去 24 小时内，俄罗斯新增新冠肺炎确诊病例 10581 例，累计 145268 例。新增死亡病例 76 例，累计死亡 1356 例，治愈 18095 例。目前俄境内已进行了超过 430 万次新冠病毒检测，连续两天单日新增破万。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFH6AW3CqcXENl9jHCHag200504&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
