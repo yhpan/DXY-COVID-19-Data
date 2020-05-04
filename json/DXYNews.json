@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1588582406000",
+            "title": "武汉将实行「两个延长一个缩短」弥补课时不足等问题",
+            "summary": "5 月 4 日下午，湖北省新型冠状病毒肺炎疫情防控工作指挥部召开第 91 场新闻发布会，介绍武汉复课准备工作情况。会上，武汉市教育局副局长夏春胤表示，酌情对教学时间进行「两个延长一个缩短」的调整，即适当延长复学后每周教学时间，每周增加一天；适当延长每天教学时间，每天增加一课时，适当缩短暑假时间。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1gVfFwCG7CNCZweCWi3V200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588582082000",
+            "title": "​牡丹江 55 名境外输入病例临床治愈出院，1 名无症状感染者解除医学观察",
+            "summary": "5 月 4 日 13 时，黑龙江省牡丹江医学院附属红旗医院（以下简称红旗医院）又有 55 名境外输入病例临床治愈出院，1 名无症状感染者解除医学观察。截至目前，红旗医院共有 114 名新冠肺炎确诊病例临床治愈出院，4 名无症状感染者解除医学观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimN3gfDqMoyXq1FhfHJAc200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588580871000",
+            "title": "湖北省连续 30 天无新增新冠肺炎确诊病例",
+            "summary": "5 月 4 日下午，湖北省疾病预防控制中心副主任李阳通报湖北省新冠肺炎疫情最新情况，截至 5 月 3 日 24 时，全省已连续 30 日无新增确诊病例，除武汉市以外的地区，已连续 60 日无新增确诊病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilVlbWoUE9k3OsDF1WWrN200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588579299000",
+            "title": "俄罗斯新增 10581 例新冠肺炎确诊病例，累计 145268 例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间 5 月 4 日 10 时 55 分，过去 24 小时内，俄罗斯新增新冠肺炎确诊病例 10581 例，累计 145268 例。新增死亡病例 76 例，累计死亡 1356 例，治愈 18095 例。目前俄境内已进行了超过 430 万次新冠病毒检测，连续两天单日新增破万。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFH6AW3CqcXENl9jHCHag200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588577823000",
+            "title": "韩国中小学校本月 13 日起分批线下开学",
+            "summary": "鉴于韩国国内新冠肺炎疫情防控形势好转，韩国教育部当地时间 4 日下午宣布，中小学校将从本月 13 日起分批线下开学，其中，高三年级学生将于 5 月 13 日正式返校，其余年级将从 20 日后陆续返校。此外，原计划于 11 月 19 日举行的韩国高考，已确定推迟两周至 12 月 3 日举行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1uVxUBdlgx9lc9kW2ZUQ200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588573735000",
             "title": "被问多少人感染新冠肺炎，安倍首相无法作答",
             "summary": "近日，日本上议院预算委员会答辩现场，国会议员森裕子质询安倍时提问：「现在日本到底有多少人感染了新冠肺炎？」现场一度沉默，1 分钟之后，安倍站起来结结巴巴称：「这个问题今天的资料里没写，所以我无法回答。」",
@@ -42,51 +87,6 @@
             "summary": "这个五一假期，全国不少旅游景区开始逐步恢复人气。文化和旅游部官网昨天就发布消息，“五一”假期前三天，全国接待国内游客总人数近8500万人次，实现国内旅游收入约350亿元。 “五一”假期前三天，景区开放总体平稳有序。不过疫情反弹甚至扩散的风险依然存在，要始终保持高度警惕。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3Ic8jboSuu0Arn5GBIF200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588552527000",
-            "title": "昨日新增境外输入3例",
-            "summary": "5月3日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为境外输入病例（上海2例，山东1例）；无新增死亡病例；新增疑似病例1例，为境外输入疑似病例（在上海）。  ",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4500777869464215",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588551990000",
-            "title": "加拿大新冠肺炎快速检测盒被发现检测结果不可靠",
-            "summary": "加拿大卫生部当地时间3日宣布，限制使用一款名为“斯巴达”的新冠肺炎快速检测盒。因为，加拿大国家生物实验室认定这款产品的检测结果不可靠，因此，在获得足够的临床数据证明其检测结果准确之前，这款产品只能用于研究。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiblNX24gndPHKRUK6HPXu200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588549611000",
-            "title": "美国新冠病毒确诊超115万",
-            "summary": "截至美国东部时间5月3日晚6时，全美共报告新冠肺炎确诊1154621例，死亡67451例，共检测7051448例。在过去24小时，美国新增确诊28102例，新增死亡1400例。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4500765639050406",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588508001000",
-            "title": "葡萄牙结束国家紧急状态 3日进入“灾害状态”",
-            "summary": "葡萄牙总理科斯塔此前宣布，国家紧急状态于5月2日结束后，政府将把疫情应对级别降为“灾害状态”，并分三步重启经济社会活动。\n鉴于为防控新冠肺炎疫情采取的限制措施收效显著，疫情发展趋缓，政府决定把疫情应对级别降为“灾害状态”，并自5月3日起实行。科斯塔表示将分三步重启经济社会活动：5月4日起，所有200平方米以内的商铺和街边店，包括书店、理发店、鞋店和服装店等重新营业，公共服务系统恢复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YuQfmjpTo4l6yBpIwX2200503&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588501215000",
-            "title": "欧洲之星列车：5 月 4 日起乘客必须佩戴口罩",
-            "summary": "当地时间 5 月 2 日，连接欧洲大陆与英国的欧洲之星列车运营方发表重要公告称，为符合法国及比利时政府的相关规定，从 5 月 4 日起所有乘客在其沿线火车站和列车上均须佩戴口罩。公告表示，只要能够有效地遮住口鼻，所有类型的口罩均可接受；但如果没有任何相应防护，乘客可能会被拒绝上车。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivrCt13SzT3mpKZq7uNPQ200503&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
