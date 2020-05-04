@@ -10,6 +10,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1588590912000",
+            "title": "假期第四天 全国接待国内游客总人数1931.3万人次",
+            "summary": "据文化和旅游部的消息，5月4日，全国接待国内游客总人数1931.3万人次，实现国内旅游收入约81.8亿元。5月1日-4日，全国接待国内游客总人数1.04亿人次，实现国内旅游收入约432.3亿元。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLZKC5Askj2NJJe20KDT200504&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588589114000",
             "title": "即将进入解封期，英国办公场所抗疫面临挑战",
             "summary": "英国首相鲍里斯·约翰逊将在 5 月 7 日对目前的社交隔离措施进行审查，之后将于 5 月 10 日发布带完整细节的解封方案，可能包括减少办公室共享工位、错开工作时间以避开早晚高峰等措施。如何在解封时期保护员工成为英国雇主面临的挑战。",
@@ -78,15 +87,6 @@
             "summary": "据当地媒体报道，新西兰总理阿德恩将于 5 月 5 日参加澳大利亚内阁会议，与澳大利亚总理、各部长共同商议恢复两国间航线的计划。据悉航线最快可能会在今年下半年重开。两国之间的航班从 3 月开始因疫情严峻基本停飞。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiKlQ1OtSrs2H9Yt8PS58200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588561571000",
-            "title": "黄山杜鹃花开，游客分时预约入场",
-            "summary": "疫情期间黄山景区客流上限为15000人。相比假期首日，黄山景区5月2日游客数已翻近3倍。景区启动大交通联动联控机制控制客流，门票提前分时预约，游客分时入场。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4500815807512998",
             "province": null,
             "provinceId": ""
         }
