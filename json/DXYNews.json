@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588690207000",
+            "title": "受新冠肺炎疫情影响，多家航空公司宣布裁员",
+            "summary": "当地时间5月5日，阿联酋阿拉比亚航空公司（Air Arabia）发言人向外界表示，由于新冠肺炎疫情导致的停航，使该航空公司不得不实行裁员措施，目前已经裁减了57名员工。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiby2JLFSLrINknzHqb0y200505&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588688198000",
             "title": "黑龙江省排查农贸市场  严防扎堆、拥挤、聚集！",
             "summary": "记者从黑龙江省市场监管局获悉，黑龙江省开展严禁农贸市场聚集查漏洞补短板大排查，严防农贸市场扎堆拥挤聚集性疫情风险。",
@@ -78,15 +87,6 @@
             "summary": "美国斯坦福大学医学教授接受CGTN专访",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAHZxdNF2O97HE7UzoBT8200505&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588653963000",
-            "title": "武汉：最美劳动者 8万余名医护人员假期坚守岗位",
-            "summary": "“五一”小长假临近尾声，这个“五一”，是武汉解封后的首个假期。但这个假期里，武汉市的大批医务工作者却并没有选择休息，他们依然坚守在岗位上，守护大家的身体健康。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4VEMpx72gnxzWRIddyrk200505&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
