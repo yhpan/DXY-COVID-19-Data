@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1588696610000",
+            "title": "“群体免疫论”提出者反思英国疫情应对举措：早期若能快速提高检测能力将是有益的",
+            "summary": "当地时间5月5日，瓦兰斯爵士在英国广播公司的新闻节目中被问到，回头看英国政府的抗疫措施是否可以做得更好，他回答，“我们不认为我们当时还能有不一样的选择。”但是他也承认，“也许在早期阶段，如果我们能快速提高测试能力，会是有益的。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPqF1Kkacd6ToEh6xDoLY200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588690207000",
             "title": "受新冠肺炎疫情影响，多家航空公司宣布裁员",
             "summary": "当地时间5月5日，阿联酋阿拉比亚航空公司（Air Arabia）发言人向外界表示，由于新冠肺炎疫情导致的停航，使该航空公司不得不实行裁员措施，目前已经裁减了57名员工。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiby2JLFSLrINknzHqb0y200505&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588689119000",
+            "title": "法国总统马克龙：将限制法国人的夏季国际旅行",
+            "summary": "当地时间5日，法国总统马克龙在谈到夏季法国人能不能休假时表示，法国政府将会限制国际旅行，甚至在欧盟内部也可能受到影响，这一切都要等到6月初法国政府对疫情作出评估后再作出决定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMij1YeNBvPOwYjllRg2200505&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "根据国家有关法律法规及相关要求，结合当前新冠肺炎疫情形势，经山东省人民政府研究决定，自2020年5月6日零时起，将山东省新冠肺炎疫情防控响应级别由重大突发公共卫生事件省级Ⅱ级响应调整为Ⅲ级响应。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEOhUTNacaqwvCI8pWraO200505&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588662540000",
-            "title": "国家卫健委：全国连续两天无新增本土确诊及疑似病例",
-            "summary": "今天下午，国务院联防联控机制召开新闻发布会，会上，国家卫健委新闻发言人米锋通报了最新疫情情况。他介绍说，截至5月4日24时，全国已连续两天无新增本土确诊和疑似病例，今天是五一小长假最后一天，在返程中应做好个人防护，保持适当距离，减少人员聚集。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiquscPo0yyfWk3OYLh4ZI200505&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588655700000",
-            "title": "斯坦福最新研究：美国实际病例远高于已公布数字 1月中上旬或已出现感染",
-            "summary": "美国斯坦福大学医学教授接受CGTN专访",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAHZxdNF2O97HE7UzoBT8200505&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
