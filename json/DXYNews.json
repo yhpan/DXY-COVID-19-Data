@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588640995000",
+            "title": "意大利研发新冠疫苗动物实验产生有效抗体",
+            "summary": "当地时间4日，意大利国家传染病研究所宣布，一款由意大利生物技术企业Takis研发的新冠病毒疫苗在小鼠体内产生的抗体被证实有效。这是目前意大利境内研发的候选疫苗中，进展最快的一个。据悉，该疫苗属于从病毒的遗传物质片段中获取的DNA病毒疫苗，也是欧洲首个进入动物实验的新冠病毒疫苗。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6EZZzsscGqOy3loqWLSH200505&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588635073000",
             "title": "波兰进入“解封”第二阶段 购物中心重新对公众开放",
             "summary": "根据波兰政府日前公布的四个阶段放宽疫情管控计划，从5月4日起，波兰进入了“解封”的第二个阶段。从这天起，购物中心重新对公众开放，但购物中心内部的游乐场、电影院、健身房等设施依然保持关闭状态，餐饮区域也仅提供外卖服务。酒店、民宿等短期住宿场所，文化活动场所如博物馆、美术馆、图书馆等也都可以有条件地恢复营业。此外，康复理疗中心、五金店、家具店等也将从即日起开门迎客。为防止社会经济活动放开后疫情形势的恶",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，目前全球累计新冠肺炎确诊病例达3407747例，中国以外超过332万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPA3BP5hrDVZksCvJULb4200504&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588590912000",
-            "title": "假期第四天 全国接待国内游客总人数1931.3万人次",
-            "summary": "据文化和旅游部的消息，5月4日，全国接待国内游客总人数1931.3万人次，实现国内旅游收入约81.8亿元。5月1日-4日，全国接待国内游客总人数1.04亿人次，实现国内旅游收入约432.3亿元。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLZKC5Askj2NJJe20KDT200504&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
