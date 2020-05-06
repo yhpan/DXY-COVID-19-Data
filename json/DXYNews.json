@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588766808000",
+            "title": "澳门将实施新冠肺炎常规核酸检测计划，首次检测免费",
+            "summary": "澳门新型冠状病毒感染应变协调中心6日下午表示，7日起将实施新冠肺炎常规核酸检测计划，以巩固疫情防控成效，保障出入境人员安全流动，加快恢复社会经济活动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilvre4eJtavOqxpFkssdi200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588765754000",
+            "title": "国际社会积极评价中国推动抗疫合作",
+            "summary": "多国人士认为，中国抗疫举措取得积极成效，同各方分享防控和治疗经验，向有需要的国家提供医疗物资和检测设备，通过实际行动同其它国家展开抗疫合作，中国的做法令人赞赏。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrbHUKcEJ4dxeyDaSW35200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588764210000",
             "title": "海南海口市符合条件托管托餐机构可申请开放经营",
             "summary": "海南省海口市相关部门日前发出通知，明确符合开放条件的托管托餐机构向属地指挥部提出复工开放申请，评估验收小组评估达标后可以有序开放。",
@@ -69,24 +87,6 @@
             "summary": "自3月初新冠疫情在美国暴发以来，人们对生活必需品和防疫物资的需求量大大增加。由于政府没有及时出台相关政策来应对疫情期间民众对物资的需求，导致商品供不应求，物价上涨。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigV0gh8lAg84bb3ycqceZ200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588732011000",
-            "title": "英国成欧洲新冠肺炎死亡病例最多国家",
-            "summary": "根据英国卫生和社会保障部公布的最新数据显示，截至5日，英国新冠肺炎确诊病例新增4406例，累计达194990例。累计死亡29427例，新增693例。至此英国已经超过意大利，成为欧洲地区新冠肺炎死亡病例最多的国家。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7InnqNgNA9t1lttrwSVr200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588731938000",
-            "title": "CNN：新的基因分析显示新冠病毒去年底已开始在全球传播",
-            "summary": "CNN5日报道，英国研究人员对全球7600名患者身上提取的新冠病毒进行基因分析表明，该病毒从去年晚些时候就已经开始在世界范围内传播，并且一定是在首例感染后快速地扩散。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSbbwit6FpBdNNHUblM1C200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
