@@ -19,6 +19,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1588739976000",
+            "title": "受疫情冲击，泰国四月登记失业人员增长45.82%",
+            "summary": "根据泰国就业厅公布的最新数据，今年四月在就业厅登记失业的人数为26.74万人，比三月份登记失业的人数上涨了45.82%，今年三月登记失业的人数约为14.49万人。在泰国，登记失业人员将能领取相关失业补贴。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVNW3Pirk9YNMkoVBlTt200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588737881000",
             "title": "美国物价全面上涨，投诉激增，法官忙坏",
             "summary": "自3月初新冠疫情在美国暴发以来，人们对生活必需品和防疫物资的需求量大大增加。由于政府没有及时出台相关政策来应对疫情期间民众对物资的需求，导致商品供不应求，物价上涨。",
@@ -78,15 +87,6 @@
             "summary": "5月6日零时开始，黑龙江绥芬河防疫风险等级下调为低风险，全力推动复工复产、复市复商，全力恢复正常生产生活秩序。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip5LLblx3VeIyPx1Yvt7t200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588720983000",
-            "title": "交通运输部：收费公路6日零时起恢复收取通行费",
-            "summary": "记者从交通运输部了解到，今天（6日）零时起，经依法批准的收费公路恢复收取通行费。恢复收费后，符合《收费公路管理条例》及相关规定的车辆继续依法享受免收车辆通行费政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioUYeSzNeyuQMFZPc70XF200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
