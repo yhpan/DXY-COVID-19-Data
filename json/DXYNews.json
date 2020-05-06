@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588778680000",
+            "title": "世卫组织：全球确诊新冠肺炎病例累计超过358万例",
+            "summary": "据世卫组织最新实时统计数据，目前全球累计确诊新冠肺炎3588773例，死亡247503例，中国以外超过350万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiovA8AEKE5wN032WKwZ5Q200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588777561000",
+            "title": "中国援科特迪瓦医疗专家组考察科新冠肺炎患者定点收治医院",
+            "summary": "2020年5月5日，中国援科特迪瓦医疗专家组深入抗疫一线，考察经济首都阿比让新冠肺炎患者定点收治医院、确诊患者密切接触人员集中隔离点和新冠病毒检测机构，并与当地医生就诊疗方案、集中隔离点管理、检测方法等深入交流。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPrZAkaha9jUf4Db2NgV200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588773790000",
             "title": "优步美国裁员3700人，占员工总数14%",
             "summary": "当地时间5月6日，网约车服务公司优步（Uber）在一份提交给美国证券交易委员会（SEC）的报告中表示，将从客户支持和招聘团队中裁员3700人，占2.69万名员工的14%。根据文件显示，优步CEO达拉·科斯罗萨希也将放弃今年剩余时间的底薪。",
@@ -69,24 +87,6 @@
             "summary": "5月6日下午，黑龙江省牡丹江医学院附属红旗医院有25名境外输入新冠肺炎确诊病例临床治愈出院，1名无症状感染者解除医学隔离观察。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikHGaHSZsHBA5knLb3cuA200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588744847000",
-            "title": "湖北首例新冠肺炎终末期肺移植患者康复顺利",
-            "summary": "4月20日，在武汉大学人民医院，一位使用了62天ECMO人工肺的新冠肺炎终末期患者，接受了双肺移植手术。这是湖北武汉开展的首例新冠肺炎终末期肺移植手术，这位患者也是目前世界上实施肺移植手术前使用ECMO人工肺时间最长的器官移植受者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioccY1ntFYFU1a3eUPIg1200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588742269000",
-            "title": "西班牙养老院受疫情冲击严重",
-            "summary": "西班牙拥有大量老年人口，老年人受疫情冲击最为严重，而老年人聚集的养老院更是首当其冲。养老院院长玛丽亚告诉记者，这家名为“我们的家”的养老院位于巴塞罗那，。面对疫情来袭，尽管他们已经采取了一些防疫措施，但是在四十多位老人中还是有近四分之一的老人因疫情相继离世，另外还有多人正在接受救治或隔离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj9oFvdIRPlkt2FFBIEN200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
