@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588756906000",
+            "title": "受疫情影响，澳门宣布取消今年澳门国际烟花比赛汇演",
+            "summary": "澳门特区政府旅游局6日下午宣布，因全球新冠肺炎疫情影响，经审慎评估及考虑后，决定取消原定于今年9至10月举行的第31届澳门国际烟花比赛汇演，以及学生绘画比赛、摄影比赛和火树银花嘉年华等相关配套活动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOhDw9iwr5worIOEcN8ST200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588752420000",
             "title": "黑龙江牡丹江25名境外输入病例临床治愈出院",
             "summary": "5月6日下午，黑龙江省牡丹江医学院附属红旗医院有25名境外输入新冠肺炎确诊病例临床治愈出院，1名无症状感染者解除医学隔离观察。",
@@ -78,15 +87,6 @@
             "summary": "5月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2例，均为境外输入病例（在陕西）；无新增死亡病例；新增疑似病例3例，均为境外输入病例（在上海）。当日新增治愈出院病例58例，解除医学观察的密切接触者517人，重症病例减少3例。境外输入现有确诊病例278例（含重症病例5例），现有疑似病例5例。累计确诊病例1678例，累计治愈出院病例1400例，无死亡病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYo2KNVFQLcwbNzU5TmP5200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588726692000",
-            "title": "阿根廷新冠肺炎确诊病例数超5000 政府将针对贫民区展开检测行动",
-            "summary": "当地时间5月5日，阿根廷卫生部公布该国新增新冠肺炎确诊病例134例，累计达5020例；新增死亡病例4例，累计达264例。阿根廷卫生部长在接受采访时表示，未来隔离政策将会做出一定的调整，不会继续放任经济停摆。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViZnJj6BSfYa9IfG7ZrB200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
