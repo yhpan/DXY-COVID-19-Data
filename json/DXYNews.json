@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588752420000",
+            "title": "黑龙江牡丹江25名境外输入病例临床治愈出院",
+            "summary": "5月6日下午，黑龙江省牡丹江医学院附属红旗医院有25名境外输入新冠肺炎确诊病例临床治愈出院，1名无症状感染者解除医学隔离观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikHGaHSZsHBA5knLb3cuA200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588744847000",
             "title": "湖北首例新冠肺炎终末期肺移植患者康复顺利",
             "summary": "4月20日，在武汉大学人民医院，一位使用了62天ECMO人工肺的新冠肺炎终末期患者，接受了双肺移植手术。这是湖北武汉开展的首例新冠肺炎终末期肺移植手术，这位患者也是目前世界上实施肺移植手术前使用ECMO人工肺时间最长的器官移植受者。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月5日，阿根廷卫生部公布该国新增新冠肺炎确诊病例134例，累计达5020例；新增死亡病例4例，累计达264例。阿根廷卫生部长在接受采访时表示，未来隔离政策将会做出一定的调整，不会继续放任经济停摆。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiViZnJj6BSfYa9IfG7ZrB200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588725759000",
-            "title": "黑龙江绥芬河防疫风险等级下调为低风险",
-            "summary": "5月6日零时开始，黑龙江绥芬河防疫风险等级下调为低风险，全力推动复工复产、复市复商，全力恢复正常生产生活秩序。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip5LLblx3VeIyPx1Yvt7t200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
