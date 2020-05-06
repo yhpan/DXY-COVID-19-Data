@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588764210000",
+            "title": "海南海口市符合条件托管托餐机构可申请开放经营",
+            "summary": "海南省海口市相关部门日前发出通知，明确符合开放条件的托管托餐机构向属地指挥部提出复工开放申请，评估验收小组评估达标后可以有序开放。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinxGXRLJFR8QAgFVKfw7q200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588762090000",
+            "title": "泰国新冠肺炎治愈率已达92.37%",
+            "summary": "5月6日，在泰国卫生部新冠肺炎疫情管理中心新闻发布会上，新闻发言人塔威辛透露，在过去的24小时内，有14名新冠病毒感染者康复出院，还有173名患者留在医院，共2989人确诊，55人死亡。目前，泰国新冠肺炎治愈率已达92.37%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijGQF4mHFH0uNaAQaLll5200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588756906000",
             "title": "受疫情影响，澳门宣布取消今年澳门国际烟花比赛汇演",
             "summary": "澳门特区政府旅游局6日下午宣布，因全球新冠肺炎疫情影响，经审慎评估及考虑后，决定取消原定于今年9至10月举行的第31届澳门国际烟花比赛汇演，以及学生绘画比赛、摄影比赛和火树银花嘉年华等相关配套活动。",
@@ -69,24 +87,6 @@
             "summary": "CNN5日报道，英国研究人员对全球7600名患者身上提取的新冠病毒进行基因分析表明，该病毒从去年晚些时候就已经开始在世界范围内传播，并且一定是在首例感染后快速地扩散。\n",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSbbwit6FpBdNNHUblM1C200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588729200000",
-            "title": "新加坡 3 名医护人员感染新冠肺炎",
-            "summary": "新加坡卫生部5日晚上公布的信息显示，建在新加坡博览中心的方舱医院当天确诊1名20岁的男护士感染新冠肺炎，他是这家方舱医院里确诊的第3名医护人员，他的具体感染源正在追查中。此前这里有1名52岁女医师志愿者及1名34岁女护士确诊。   ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifzMYVmZbdKRF9Y9BbVwZ200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588726717000",
-            "title": "国家卫健委：5日新增新冠肺炎确诊病例2例 均为境外输入病例",
-            "summary": "5月5日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2例，均为境外输入病例（在陕西）；无新增死亡病例；新增疑似病例3例，均为境外输入病例（在上海）。当日新增治愈出院病例58例，解除医学观察的密切接触者517人，重症病例减少3例。境外输入现有确诊病例278例（含重症病例5例），现有疑似病例5例。累计确诊病例1678例，累计治愈出院病例1400例，无死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYo2KNVFQLcwbNzU5TmP5200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
