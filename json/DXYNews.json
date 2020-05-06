@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588773790000",
+            "title": "优步美国裁员3700人，占员工总数14%",
+            "summary": "当地时间5月6日，网约车服务公司优步（Uber）在一份提交给美国证券交易委员会（SEC）的报告中表示，将从客户支持和招聘团队中裁员3700人，占2.69万名员工的14%。根据文件显示，优步CEO达拉·科斯罗萨希也将放弃今年剩余时间的底薪。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig1YvIHrspMyfQi6KzoVJ200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588770300000",
+            "title": "因病缺席6周 ,英国首相鲍里斯·约翰逊今日重返议会",
+            "summary": "从3月25日起，英国首相鲍里斯因病缺席议会的“首相问答”环节以来已6周，今日（6日）他重返议会。在这6周中，英国的死亡人数从不到500上升至现在的超过30000。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7NXjvF2bNOXLVRGcnNgg200506&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588766808000",
             "title": "澳门将实施新冠肺炎常规核酸检测计划，首次检测免费",
             "summary": "澳门新型冠状病毒感染应变协调中心6日下午表示，7日起将实施新冠肺炎常规核酸检测计划，以巩固疫情防控成效，保障出入境人员安全流动，加快恢复社会经济活动。",
@@ -69,24 +87,6 @@
             "summary": "西班牙拥有大量老年人口，老年人受疫情冲击最为严重，而老年人聚集的养老院更是首当其冲。养老院院长玛丽亚告诉记者，这家名为“我们的家”的养老院位于巴塞罗那，。面对疫情来袭，尽管他们已经采取了一些防疫措施，但是在四十多位老人中还是有近四分之一的老人因疫情相继离世，另外还有多人正在接受救治或隔离。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj9oFvdIRPlkt2FFBIEN200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588739976000",
-            "title": "受疫情冲击，泰国四月登记失业人员增长45.82%",
-            "summary": "根据泰国就业厅公布的最新数据，今年四月在就业厅登记失业的人数为26.74万人，比三月份登记失业的人数上涨了45.82%，今年三月登记失业的人数约为14.49万人。在泰国，登记失业人员将能领取相关失业补贴。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyVNW3Pirk9YNMkoVBlTt200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588737881000",
-            "title": "美国物价全面上涨，投诉激增，法官忙坏",
-            "summary": "自3月初新冠疫情在美国暴发以来，人们对生活必需品和防疫物资的需求量大大增加。由于政府没有及时出台相关政策来应对疫情期间民众对物资的需求，导致商品供不应求，物价上涨。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigV0gh8lAg84bb3ycqceZ200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
