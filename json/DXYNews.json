@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1588849493000",
+            "title": "澳门宣布终止考虑征收旅客税，将重点扶持旅游业复苏",
+            "summary": "记者7日从澳门旅游局获悉，澳门特区政府综合“征收旅客税可行性研究”结果、澳门旅游业的特性及现状变化作分析，决定终止考虑征收旅客税。由于近期访澳旅客大幅减少，旅游相关行业均受到不同程度影响，澳门现阶段将重点扶持业界复苏。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5M0tHc3EhRoZnZ12GeY7200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588847803000",
             "title": "莫斯科市市长：市民乘坐公共交通工具将采取强制性口罩和手套佩戴规定",
             "summary": "当地时间5月6日，俄罗斯莫斯科市市长索比亚宁表示，市民在乘坐公共交通工具时，将必须佩戴口罩和手套。索比亚宁说，在取消对工业和建筑企业因新冠肺炎疫情采取的限制性措施后，预计会有近50万莫斯科市民恢复工作。这将增加市民公共交通的通勤量与人群集聚的程度，因此必须采取强制性的口罩和手套佩戴规定。",
@@ -78,15 +87,6 @@
             "summary": "英国国家统计署5月7日发布的数据显示，黑人男性死于新冠肺炎的可能性是白人男性的4.2倍，黑人女性比白人男性和女性高4.3倍。孟加拉国、巴基斯坦、印度和其他少数族裔男性的新冠肺炎死亡风险是白人男性的1.8倍；女性则是1.6倍。而华裔群体中，华裔男性的死亡风险比白人略有增加，女性则差别并不大。数据显示，各族裔群体之间的新冠肺炎死亡率确实存在明显差异，部分原因是社会经济差异。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidCg8WK20mJK230TCL7uV200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588838700000",
-            "title": "蓬佩奥改口称不确定病毒来源于武汉实验室 网友：他终于承认说谎了",
-            "summary": "在有关“病毒源自武汉实验室”的说法上，美国务卿蓬佩奥改口了。之前，蓬佩奥称“有大量证据”表明新冠病毒“来自武汉实验室”，而在6日举行的发布会上，蓬佩奥称，美国并不确定新冠病毒源自中国武汉的实验室。他还狡辩说，这与他之前的说法并不矛盾。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif4ZBySVhAg9luB1xKs04200507&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
