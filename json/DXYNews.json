@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588838700000",
+            "title": "蓬佩奥改口称不确定病毒来源于武汉实验室 网友：他终于承认说谎了",
+            "summary": "在有关“病毒源自武汉实验室”的说法上，美国务卿蓬佩奥改口了。之前，蓬佩奥称“有大量证据”表明新冠病毒“来自武汉实验室”，而在6日举行的发布会上，蓬佩奥称，美国并不确定新冠病毒源自中国武汉的实验室。他还狡辩说，这与他之前的说法并不矛盾。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif4ZBySVhAg9luB1xKs04200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588837960000",
+            "title": "俄罗斯新增新冠肺炎确诊病例11231例 累计177160例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间5月7日10时45分，在过去24小时内，全俄新增新冠肺炎病例11231例，累计确诊177160例。其中莫斯科市新增6703例，累计确诊92676例；全俄新增治愈出院病例2476例，累计治愈病例23803例；累计死亡病例1625例。目前全俄已进行超过480万次新冠病毒检测，共有约23.1万人因疑似感染在进行医学观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihyjAvlYVqf8sL8NXdq5y200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588830886000",
             "title": "日本战“疫”丨东京奥运会延期后 日本社会的“变”与“不变”",
             "summary": "为防控疫情，日本首相安倍晋三于5月4日宣布将“紧急事态宣言”时效延长至5月31日。疫情发生以来，日本的抗“疫”效果如何？央视新闻推出系列报道——《日本战“疫”》，从经济、民生、媒体等多角度呈现日本各地如何抗疫。受新冠肺炎疫情影响，东京奥运会圣火展览被紧急叫停，火炬接力被取消，比赛被迫延迟一年，日本将为此承担巨大损失。",
@@ -69,24 +87,6 @@
             "summary": "美国自动数据处理公司6日公布的数据显示，由于疫情冲击美国经济和企业，4月份美国私营部门大幅削减了约2023.6万个就业岗位。其中，服务行业削减1600.7万个就业岗位，商品制造行业削减422.9万个就业岗位。\n按企业规模来看，员工规模在500人以上的大型企业受冲击最严重，当月削减896.3万个就业岗位。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ79wy2pSMETv8AlGLsvk200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588819729000",
-            "title": "美国纽约州调查显示：大部分新冠患者未曾外出工作或旅行",
-            "summary": "目前纽约州的新冠肺炎确诊病例累计突破32万例，死亡人数超过2.5万。纽约州州长科莫6日证实，纽约州在过去三天调查了113间医院因感染新冠病毒而入院的1269名患者。结果发现，大部分患者都没有前往工作场所或外出旅行，感染时主要待在家中。科莫表示，调查显示在所有人员中，66%的入院患者均为受“居家令”限制的人员，主要是除了医护人员等非必要工作的人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinLi6VdyrbQoUWkPn0xZl200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588819615000",
-            "title": "日本将修改新冠肺炎就诊大致标准",
-            "summary": "据日本共同社报道，日本厚生劳动大臣加藤胜信6日表示，将修改疑似感染新冠病毒的人士经由咨询中心到专科门诊就诊的大致标准。目前的大致标准规定，如果有感冒症状或者37.5度以上的发热持续4天以上，可以经由咨询中心到专科门诊就诊。如果医生认为有必要，则成为PCR检测的对象。重症化可能性高的老年人和有基础疾病者则是持续2天左右可以咨询。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI7BiW87j8h07zOaMK5MO200507&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
