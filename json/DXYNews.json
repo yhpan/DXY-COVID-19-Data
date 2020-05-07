@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588868021000",
+            "title": "新冠肺炎疫情重创洛杉矶旅游业",
+            "summary": "洛杉矶曾经是世界上最受欢迎的旅游目的地之一。据美国媒体当地时间5月7日报道，由于新冠疫情的暴发，预计洛杉矶今年将减少大约2200万游客，并损失超过130亿美元的旅游收入。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNn7FWVHsdKux9tiiIbdN200508&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588864990000",
+            "title": "​世卫组织：全球新冠肺炎确诊病例超367万例",
+            "summary": "根据世卫组织最新实时统计数据显示，截至欧洲中部夏令时间5月7日14时27分（北京时间20时27分），全球累计新冠肺炎确诊病例3672238例，死亡254045例，中国以外超过358万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFMd4OLtZj2hOFnXcOwm200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588862337000",
             "title": "印度专家称印度新冠肺炎的高峰期可能在6、7月",
             "summary": "全印医学科学研究所主任兰迪普·古勒里亚警告说，印度新冠肺炎确诊病例数还没有达到高峰。根据建模数据和确诊病例的增加方式，高峰期可能在6月或7月。目前疫情的发展变化有很多变量，还要看具体情况，才能知道疫情的影响程度以及扩大封锁产生的效果。",
@@ -69,24 +87,6 @@
             "summary": "据莫斯科斯巴达克足球俱乐部新闻处消息，莫斯科斯巴达克足球俱乐部主席列昂尼德·费顿确诊感染新冠病毒。列昂尼德·费顿现年64岁，同时也是俄罗斯最大的私人石油公司卢克石油公司副总裁。2020年，列昂尼德·费顿及家族以63亿美元财富位列福布斯全球亿万富豪榜第241位。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdO9bsqD4KagrmxsaA32200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588847021000",
-            "title": "世界卫生组织欧洲办事处称欧洲新冠肺炎疫情开始缓解",
-            "summary": "丹麦当地时间5月7日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，整个欧洲的数据显示，从4月12日开始，每天确诊新冠肺炎的病例数开始减少，虽然很慢，但是我们确定，我们看见了这样一个积极的信号，新冠肺炎疫情开始缓解。欧洲地区到目前为止累计确诊约160万例，占全球病例的45%；死亡约有15万例，占全球死亡病例的60%。欧洲仍然受到疫情的严重影响。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifHZjRg34zmhF8BdIey8F200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588846365000",
-            "title": "英国央行提出一种预测场景：英国GDP可能出现1706年以来最大下滑",
-            "summary": "英国央行提出一种预测情景，受新冠肺炎疫情影响，今年英国GDP会下降14%，创下300多年来最严重的年度低迷，失业率触及8%。这是英国央行首次发布疫情封城影响可能性报告，报告称这一数字已经把英国央行和政府现在为企业提供的一系列空前的救助计划纳入考虑，目前英国政府支持企业的支出已升至80亿英镑。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti139XWBB0KIfMcOOZrIwA200507&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
