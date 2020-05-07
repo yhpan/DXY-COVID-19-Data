@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588812040000",
+            "title": "​墨西哥新增新冠肺炎确诊病例1609例 累计确诊27634例",
+            "summary": "墨西哥当地时间5月6日，墨西哥卫生部宣布，截至墨西哥当地时间5月6日晚上7点，墨西哥全国确诊27634例新冠肺炎病例，较前一天新增了1609例。同时，墨西哥全国确诊死亡病例较前一天新增197例，总数已经上升到2704例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTbGAxYtAxwbAzharM88X200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588811014000",
+            "title": "31省区市现有确诊病例降至300例以下",
+            "summary": "截至5月6日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例295例（其中重症病例23例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic6540dZ5fOS3aS7toSRO200507&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588810740000",
             "title": "周知！今起全国中高风险区域“清零”",
             "summary": "据黑龙江省发布的通知，自5月7日0时起，牡丹江市林口县风险等级由中风险调整至低风险。此前，从6日起，哈尔滨市南岗区、绥芬河市的风险等级，也由中风险地区调整至低风险地区。这意味着，从今天开始，全国的中高风险区域全部“清零”。",
@@ -69,24 +87,6 @@
             "summary": "截至非洲东部时间5月6日上午9时，非洲疾控中心最新数据显示：非洲目前有53个国家报告了新冠肺炎确诊病例49352例，死亡1959例，16315人康复。为了应对新冠肺炎疫情，非洲的一些国家陆续调整防疫举措，还有一些非洲国家出台刺激经济的计划。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVvNisqevPxGeVuhG0F8200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588778680000",
-            "title": "世卫组织：全球确诊新冠肺炎病例累计超过358万例",
-            "summary": "据世卫组织最新实时统计数据，目前全球累计确诊新冠肺炎3588773例，死亡247503例，中国以外超过350万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiovA8AEKE5wN032WKwZ5Q200506&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588777561000",
-            "title": "中国援科特迪瓦医疗专家组考察科新冠肺炎患者定点收治医院",
-            "summary": "2020年5月5日，中国援科特迪瓦医疗专家组深入抗疫一线，考察经济首都阿比让新冠肺炎患者定点收治医院、确诊患者密切接触人员集中隔离点和新冠病毒检测机构，并与当地医生就诊疗方案、集中隔离点管理、检测方法等深入交流。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinPrZAkaha9jUf4Db2NgV200506&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
