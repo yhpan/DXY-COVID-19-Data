@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1588892172000",
+            "title": "西班牙已有近五万人参与血清抗体测试项目",
+            "summary": "西班牙卫生部7日发布的数据显示，截至当地时间6日晚9时，通过聚合酶链式反应检测确诊的新冠肺炎病例数为221447例，新增确诊754例——如果再加上35408名抗体检测结果呈阳性者，西班牙全国累计感染人数达到256855人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaqoNtE850nwxPDB0muZ9200508&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1588880454000",
+            "title": "​世卫组织：全球新冠肺炎确诊病例近368万例",
+            "summary": "据世卫组织于欧洲中部夏令时间5月7日18时32分（北京时间5月8日0时32分）更新的统计数据，全球确诊新冠肺炎病例累计3679499例，死亡254199例，中国以外近360万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqxRYTVf7mD8wD2QW1zOj200508&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1588868021000",
             "title": "新冠肺炎疫情重创洛杉矶旅游业",
             "summary": "洛杉矶曾经是世界上最受欢迎的旅游目的地之一。据美国媒体当地时间5月7日报道，由于新冠疫情的暴发，预计洛杉矶今年将减少大约2200万游客，并损失超过130亿美元的旅游收入。",
@@ -69,24 +87,6 @@
             "summary": "记者7日从澳门旅游局获悉，澳门特区政府综合“征收旅客税可行性研究”结果、澳门旅游业的特性及现状变化作分析，决定终止考虑征收旅客税。由于近期访澳旅客大幅减少，旅游相关行业均受到不同程度影响，澳门现阶段将重点扶持业界复苏。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5M0tHc3EhRoZnZ12GeY7200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588847803000",
-            "title": "莫斯科市市长：市民乘坐公共交通工具将采取强制性口罩和手套佩戴规定",
-            "summary": "当地时间5月6日，俄罗斯莫斯科市市长索比亚宁表示，市民在乘坐公共交通工具时，将必须佩戴口罩和手套。索比亚宁说，在取消对工业和建筑企业因新冠肺炎疫情采取的限制性措施后，预计会有近50万莫斯科市民恢复工作。这将增加市民公共交通的通勤量与人群集聚的程度，因此必须采取强制性的口罩和手套佩戴规定。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDz4MUQntNDfBt3lU5MS200507&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588847526000",
-            "title": "​莫斯科斯巴达克足球俱乐部主席列昂尼德·费顿确诊感染新冠病毒",
-            "summary": "据莫斯科斯巴达克足球俱乐部新闻处消息，莫斯科斯巴达克足球俱乐部主席列昂尼德·费顿确诊感染新冠病毒。列昂尼德·费顿现年64岁，同时也是俄罗斯最大的私人石油公司卢克石油公司副总裁。2020年，列昂尼德·费顿及家族以63亿美元财富位列福布斯全球亿万富豪榜第241位。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdO9bsqD4KagrmxsaA32200507&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
