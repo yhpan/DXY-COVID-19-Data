@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589025506000",
+            "title": "科特迪瓦卫生部长：衷心感谢中国抗疫医疗专家组",
+            "summary": "据中国驻科特迪瓦大使馆消息，2020年5月8日，中国援科特迪瓦抗疫医疗专家组在科国家公共卫生研究院向科政府作工作总结汇报。专家组组长、天津市人民医院副院长刘筠代表专家组作工作总结汇报。刘筠介绍了专家组在科交流考察总体情况，分析了科疫情形势和未来走向，指出了科方在疫情防控、病毒实验检测、新冠肺炎诊疗、院感防控等方面可进一步完善之处，并有针对性地分享了中方在上述领域经验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0jMyjAalQMPD7dlnk30I200509&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589022043000",
             "title": "法国再现群体感染",
             "summary": "根据法国媒体报道，法国多尔多涅省发生群体感染事件，目前多尔多涅省公共卫生署已经确定8人感染。感染的起因是4月末，约20人共同参加了一场葬礼。目前，该省公共卫生署已经排查了103位密切接触者，发现8人感染，感染者各自在家隔离。多尔多涅卫生署表示，排查依然还在继续，不排除感染人数再次上升。 （总台记者 江华）",
@@ -78,15 +87,6 @@
             "summary": "当地时间8日，马来西亚国防部高级部长依斯迈沙比里表示，自4月3日起至今，共有30315名马来西亚人从国外返回家园时接受了为期14天的强制医学隔离观察。此后，共有19873名被隔离的人被准许回家。他说：“目前仍有16820人正在接受强制隔离医学观察，有245个集中隔离中心仍正在运营。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuEtlcr5KYMajq2g5YNWA200509&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1588993822000",
-            "title": "美国4月份的失业率达到了14.7%",
-            "summary": "当地时间5月8日，美国劳工部公布的最新失业数据显示，美国4月份的失业率达到了14.7%，为上世纪30年代经济大萧条以来的最高值。数据显示，美国已经有累计超过3350万人失去收入，可见经济萎缩之严重，这也是为什么正处在连任竞选关键期的特朗普一直着急推进美国重启。然而，美联社5月7日报道，其实美国疾控中心（CDC）曾专门制定针对重启的“防疫指导手册”，对重启进程作了非常详细的科学规划与指导。但是，急于",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizT3Uhh83LyeZyFGevrcn200509&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
