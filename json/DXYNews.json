@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589070586000",
+            "title": "医保报销！黑龙江省新型冠状病毒核酸检测项目纳入医保",
+            "summary": "记者从黑龙江省医疗保障局获悉，黑龙江省已将新型冠状病毒核酸检测项目纳入医保诊疗项目目录，按乙类项目管理，所有参保人员因医疗需要都享受医保报销待遇。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif2wa7ZczuFPqYX0tk0OW200510&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589067468000",
             "title": "​巴西新冠肺炎累计死亡人数过万 调查显示疫情在小城市增长快速",
             "summary": "根据巴西卫生部9日公布的数据，该国单日新增新冠肺炎确诊病例10611例，累计确诊155939例，累计死亡10627人。据当地媒体报道，由里约马拉卡纳体育场改造的方舱医院已于9日正式开始接收新冠肺炎患者。",
@@ -78,15 +87,6 @@
             "summary": "今年是世界反法西斯战争胜利75周年，也是卫国战争胜利75周年。尽管由于疫情原因，俄罗斯今年纪念卫国战争胜利75周年的重头戏——红场阅兵被迫推迟，但今天（9日）俄罗斯还是举行了包括空中阅兵在内的一系列活动来进行庆祝。莫斯科时间上午10点，也就是北京时间今天下午15点，俄罗斯总统普京向位于红场西北侧，克里姆林宫红墙外的无名烈士墓献花，并在“长明火”前向民众致辞。 \n普京首先向卫国战争老兵及其家人表示祝",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4nVanlSZvj15D6BDA1ut200509&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589012137000",
-            "title": "舒兰市全面加强疫情防控实行严格管控措施的通告",
-            "summary": "5月9日，吉林省新冠肺炎疫情防控工作领导小组将舒兰市风险等级由低风险调整为中风险。根据疫情防控形势需要以及省、市相关要求，经舒兰市新冠肺炎疫情防控工作领导小组研究决定，自2020年5月9日起，在全市实施严格管控措施。现就有关事项通告如下:一、城区以居民小区为单位，各小区原则上要封闭管控，每个小区仅保留一个出入通道（确保消防、救护等特种车辆通行），外来人员及车辆一律禁止进入。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS1jJlRkGaaeAUAcP4tRc200509&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
