@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589088532000",
+            "title": "非洲部分国家放松管控后确诊病例迅速增长 部分国家出现粮食短缺",
+            "summary": "近期非洲新冠肺炎疫情发展迅速，4天内新增近万例确诊病例。根据非洲疾控中心统计数据，截至东部非洲时间5月9日21点，北京时间今天（10日）凌晨2点，非洲各国累计确诊病例数已近6万例。面对经济生产的困境，部分非洲国家决定放松管制措施，这成为当地疫情反弹的原因之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwyHilgXJbDGnVpNwaxLr200510&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589086404000",
+            "title": "北京昨日无新增报告新冠肺炎确诊病例，出院3例 ",
+            "summary": "5月8日0时至24时，无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者，治愈出院病例3例。截至5月8日24时，累计报告境外输入确诊病例174例，累计出院156例，在院18例。5月8日0时至24时，无新增报告本地确诊病例、疑似病例和无症状感染者。截至5月8日24时，累计报告本地确诊病例419例，累计出院407例，在院3例，累计死亡9例。",
+            "infoSource": "北京卫健委",
+            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202005/t20200509_1892609.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589080941000",
             "title": "福州各大医院再出新规，入院须做新冠病毒核酸检测",
             "summary": "5月8日，福建中医药大学附属人民医院发布“开展患者入院前新冠病毒核酸检测致患者及家属告知书”，表示目前全国新冠肺炎疫情防控已进入常态化防控阶段，为了最大限度降低院内交叉感染发生风险，确保人们在院期间安全接受诊疗，根据国家、省疫情常态化防控总体部署要求，自2020年5月11日起将新冠病毒核酸检测纳入入院筛查项目。",
@@ -69,24 +87,6 @@
             "summary": "5月9日，在经历了与病魔94天抗争后，一名66岁的女性新冠核酸转阴的患者从西安交大一附院康复出院。这名患者曾在3月4日新冠病毒核酸检测成功转为阴性，但因为身体其他疾病在医院继续治疗。为了抢救她的生命，ECMO运转使用了49天，她也是我国目前康复出院的新冠肺炎患者中使用ECMO时间最长的患者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYTgKfpZeWMKXPCU86Ltu200509&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589025506000",
-            "title": "科特迪瓦卫生部长：衷心感谢中国抗疫医疗专家组",
-            "summary": "据中国驻科特迪瓦大使馆消息，2020年5月8日，中国援科特迪瓦抗疫医疗专家组在科国家公共卫生研究院向科政府作工作总结汇报。专家组组长、天津市人民医院副院长刘筠代表专家组作工作总结汇报。刘筠介绍了专家组在科交流考察总体情况，分析了科疫情形势和未来走向，指出了科方在疫情防控、病毒实验检测、新冠肺炎诊疗、院感防控等方面可进一步完善之处，并有针对性地分享了中方在上述领域经验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0jMyjAalQMPD7dlnk30I200509&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589022043000",
-            "title": "法国再现群体感染",
-            "summary": "根据法国媒体报道，法国多尔多涅省发生群体感染事件，目前多尔多涅省公共卫生署已经确定8人感染。感染的起因是4月末，约20人共同参加了一场葬礼。目前，该省公共卫生署已经排查了103位密切接触者，发现8人感染，感染者各自在家隔离。多尔多涅卫生署表示，排查依然还在继续，不排除感染人数再次上升。 （总台记者 江华）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCmIq4Z6jNZhrEDzEFo2200509&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
