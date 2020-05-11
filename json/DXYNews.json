@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589151937000",
+            "title": "社区康复+心理指导，助力武汉5.7万新冠肺炎治愈患者回归正常生活",
+            "summary": "湖北在抓好新冠肺炎患者救治的同时，全省卫生健康系统建立了出院患者的追踪、随访、健康管理和康复机制。帮助新冠肺炎治愈患者早日融入社区，回归社会。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixclYN32KJIUacXqXLceE200511&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589144509000",
             "title": "​解封前夕法国再次出现聚集性疫情",
             "summary": "据法国媒体 10 日报道，在法国多尔多涅省和维埃纳省先后出现聚集性疫情之后，上塞纳省也发生一起聚集性疫情。目前已经接受检测的 28 人中，有 8 人确诊新冠肺炎，还有 15 名密切接触者将接受检测。距离 5 月 11 日法国逐步解封还有几个小时，法国总统发文所配图片上的标语，不再是实施限行令期间常用的待在家里，而是换成了「挽救生命，保持谨慎」。",
@@ -78,15 +87,6 @@
             "summary": "新冠肺炎疫情严重冲击航空业。数据显示，与2019 年同期相比，全球航空运输量下降 63%，全年航空公司客运收入可能将暴跌 3140 亿美元。而停放和维护成本对航空公司来说无疑是雪上加霜，而这也将进一步对飞机制造业产生不利影响。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix2HC82OR1Upuz6KdVjGw200510&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589106360000",
-            "title": "吉林舒兰市对所有社区、村（屯）实行封闭管理",
-            "summary": "5 月 7 日，舒兰市确诊 1 例新冠肺炎本土病例。5 月 9 日，新增新冠肺炎本土确诊病例 11 例。5 月 10 日，按照国家新冠肺炎疫情分区分级标准，吉林省将舒兰市风险等级由中风险调整为高风险。建立「五位一体」包保责任制，落实网格化管理，对所有社区、村（屯）实行封闭管理。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGvNfSdDKT5kIbNR0Os7i200510&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
