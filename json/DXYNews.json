@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1589208682000",
+            "title": "美国新冠肺炎死亡人数接近 8 万",
+            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间 11 日 10 时 11 分，美国累计新冠肺炎确诊病例1329885例，死亡病例79531例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5mJij5IugSEqyXTRhAYQ200511&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589207466000",
+            "title": "韩国1人确诊关联5500多人",
+            "summary": "5 月 6 日，韩国京畿道一名 29 岁男性确诊新冠肺炎。此前他频繁在外活动，1 日晚曾前往首尔梨泰院，一连去了 3 家夜店、2 家酒吧，均未佩戴口罩。目前，与梨泰院相关的新冠肺炎确诊病例数已升至 86 例，紧急核查涉及 5500 多人。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "http://m.weibo.cn/2656274875/4503524882910987",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589204545000",
+            "title": "上海迪士尼乐园全球率先重启",
+            "summary": "5 月 11 日一早，在停业3个多月后，上海迪士尼乐园重新对公众开放。这也是全球第一家恢复开园的迪士尼乐园。在恢复运营初期，乐园门票将实行每日限量发售。目前，每天入园人数不超最大承载量的 20%。园区游客并不多，未见排队情况。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAfU4ee0qLw846I72Bg54200511&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589200133000",
             "title": "中国驻埃及大使馆发布重要领事提醒 疫情期间保护中国公民安全",
             "summary": "截至当地时间5月10日22时，根据埃官方公布数据，埃境内新冠肺炎累计确诊病例9400例，死亡525例，疫情呈快速增长趋势。中国驻埃及使馆特此提醒在埃中国公民注意：一、埃及近期疫情蔓延加剧，官方与媒体认为与斋月期间民众聚集增多有较大关系，请务必慎重考虑出席有关节日聚集活动。二、克服麻痹、松懈思想和侥幸心理，继续一丝不苟做好自我防护。减少非必要外出，尽量避免乘坐公共交通工具，不去人群密集场所。",
@@ -60,33 +87,6 @@
             "summary": "今天（11日）下午，国务院联防联控机制召开新闻发布会，介绍北京市疫情防控相关工作。会上，北京市卫生健康委党委书记、主任雷海潮说，北京目前共发现和报告了593例新冠肺炎病例，其中主要以输入病例为主，有377例，占总病例数的64%。其中国内输入199例，境外输入174例，这和北京作为首都与全国其他省份和全球其他国家的密切联系有关。\n北京市卫生健康委党委书记 主任 雷海潮：从北京的病例来看，主要是输入的",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkLIZsKK8VPGSR87222K200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589176949000",
-            "title": "白宫接连出现新冠肺炎确诊者 特朗普经济顾问：去白宫很可怕",
-            "summary": "继美国总统特朗普的贴身侍从和副总统彭斯的新闻发言人凯蒂·米勒确诊病毒阳性后，白宫首席传染病专家安东尼•福奇博士、FDA局长斯蒂芬·哈恩和CDC主任罗伯特·雷德菲尔德，都因接触新冠肺炎确诊者，而相继开始自我隔离。当地时间5月10日，白宫经济顾问委员会主席哈西特称：在白宫工作是有风险的，去上班很可怕。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articy5H8OW8hqqsHpe9tFHs200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589172712000",
-            "title": "吉林舒兰市疫情已排查2005人 追踪到密接者290人",
-            "summary": "11日中午，吉林省召开疫情防控新闻发布会，通报吉林舒兰市疫情防控工作情况。会上，吉林省疫情防控工作领导小组执行副组长、省政府副秘书长高材林介绍说，吉林省目前已开展摸底排查，截至目前排查到2005人，追踪到确诊病例和无症状感染者密切接触者290人，均已按照要求采取相应隔离医学观察。\n目前，吉林省已组织吉林市、舒兰市组成7个流调小组开展流行病学调查，并着重查清传染源和疫情传播链条。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopaDNs6q8aM8E1jCgsKR200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589167177000",
-            "title": "​英国首相约翰逊：英格兰防疫等级下调",
-            "summary": "10日，英国新冠肺炎死亡病例新增269例，累计死亡31855例，新增确诊病例3923例，累计确诊219183例 。英国首相约翰逊当晚发表电话讲话，宣布英格兰的防疫等级从之前的最严重级别五级下调为四级，同时英格兰一地将使用“保持警惕”这一个新的防疫口号，来替代原有的居家令。苏格兰、威尔士、北爱尔兰继续实施居家令。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtincLmMRPZE5DnJ8MzsIwj200511&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
