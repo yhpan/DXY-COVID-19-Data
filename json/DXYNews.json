@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589172712000",
+            "title": "吉林舒兰市疫情已排查2005人 追踪到密接者290人",
+            "summary": "11日中午，吉林省召开疫情防控新闻发布会，通报吉林舒兰市疫情防控工作情况。会上，吉林省疫情防控工作领导小组执行副组长、省政府副秘书长高材林介绍说，吉林省目前已开展摸底排查，截至目前排查到2005人，追踪到确诊病例和无症状感染者密切接触者290人，均已按照要求采取相应隔离医学观察。\n目前，吉林省已组织吉林市、舒兰市组成7个流调小组开展流行病学调查，并着重查清传染源和疫情传播链条。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopaDNs6q8aM8E1jCgsKR200511&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589167177000",
             "title": "​英国首相约翰逊：英格兰防疫等级下调",
             "summary": "10日，英国新冠肺炎死亡病例新增269例，累计死亡31855例，新增确诊病例3923例，累计确诊219183例 。英国首相约翰逊当晚发表电话讲话，宣布英格兰的防疫等级从之前的最严重级别五级下调为四级，同时英格兰一地将使用“保持警惕”这一个新的防疫口号，来替代原有的居家令。苏格兰、威尔士、北爱尔兰继续实施居家令。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月10日，根据约翰斯·霍普金斯大学美东时间下午4点32分（北京时间11日凌晨4点32分）实时数据，美国新冠肺炎确诊人数已经达到了1323028例，新冠病毒感染死亡人数达79124例。（央视记者 徐德智）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyse7DceqQ4rhRxpc2cS5200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589139579000",
-            "title": "瑞士即将步入复工复产第二阶段",
-            "summary": "11日起，瑞士进入复工复产第二阶段。初中小学复课，商场市场重新开门。多个申根边境通行点，自11日起允许瑞士及欧盟、欧洲自贸区国家的家人来瑞团聚，瑞士恢复对外国人居留申请的审批工作。\n当地时间10日，瑞士央行行长接受媒体采访时表示，疫情严重拖累全球及瑞士经济，目前瑞士经济活动仅为正常水平的70%至80%，每月经济损失在110亿瑞郎至170亿瑞郎，面临1930年代大萧条及二战以来最严重的经济衰退。如果",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6IW5nXWGjoyI1x1R9gF200511&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
