@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589293107000",
+            "title": "国际劳工组织： 护士和前线工作者是疫情中的英雄",
+            "summary": "5月12日“国际护士节”之际，国际劳工组织总干事在其社交媒体上表示，护士和所有前线工作者是新冠肺炎疫情下的英雄。在2020国际护士节到来之际，我们需要感谢护士和助产士，他们当中90%是女性，感谢他们在最困难的时候坚定不移地作出承诺。他们对卫生系统的保护和投入功不可没。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589292258000",
+            "title": "加拿大与中国合作开发新冠疫苗并将在加拿大进行临床试验",
+            "summary": "加拿大媒体《环球邮报》当地时间12日报道，该媒体从加拿大国家研究委员会获悉，加拿大的研究人员正在与中国合作开发新冠疫苗，并将在加拿大进行相关的临床试验。这种被称为Ad5-nCoV的疫苗是由中国一家公司与加拿大军方合作开发的，这是全球开发的众多新冠疫苗当中的一种。中加双方已经达成协议，将在加拿大生产这种疫苗，用于进行临床试验和应急使用，并继续进行开发。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwFh2KiHejQJtZrMTTIXi200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589287027000",
             "title": "普京新闻秘书确诊新冠肺炎",
             "summary": "据俄新社报道，俄罗斯总统新闻秘书佩斯科夫确诊新冠肺炎，目前在医院治疗。\n",
@@ -69,24 +87,6 @@
             "summary": "熊杰，是武汉同济医院中法新城院区重症监护室的护士长，几个月来，她一直坚守在岗位上，年轻的护士们总是亲切地称呼她“熊妈”。从开始参加危重病人抢救的紧张担心到武汉解封的欢欣鼓舞，熊妈用日记记录了这几个月和同事们共同抗击疫情的历程。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifO5qGtdvBhli60D7vw3A200512&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589250524000",
-            "title": "超1亿学生复课开学",
-            "summary": "11日，教育部应对新冠肺炎疫情工作领导小组办公室主任王登峰表示，截至5月11日，已经复课的学生总数是10779.2万，超过了1个亿，占学生总数的近40%。#近四成学生现已复课开学#，其中，高校大学生是290.7万，包括26个省（区、市）和新疆生产建设兵团。目前高校还没有开学的四个省份是北京、河北、湖北和黑龙江。\n",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4503705481963835",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589247570000",
-            "title": "新加坡采用合并检测法 加大新冠肺炎检测 更正确诊病例总数",
-            "summary": "新加坡卫生部昨日（11日）对媒体表示，已和国家公共卫生实验室、护联中心合作，试行为养老院职员进行合并检测，可同时检测多人，显著提升效率。这种检测法是把五个拭子样本合并检测，若结果为阴性，所有样本就是阴性的，但如果是阳性，就对每个样本做进一步检测，它适用于检测感染率很低的群体。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOGF9zNj890LLRcC9jNAB200512&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
