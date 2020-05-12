@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1589235709000",
+            "title": "特朗普要求所有白宫人员佩戴口罩",
+            "summary": "美国总统特朗普5月11日在白宫记者会上表示，要求白宫人员戴口罩，而据现场记者观察，特朗普似乎是现场唯一未戴口罩的人，但他与其他人之间至少保持了六英尺（约1.8米）的距离。\n当天早些时候，白宫要求所有在白宫西翼办公区的工作人员佩戴口罩，要求办公人员严格保持社交距离，遵守访客限制。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ6VTB6KkKXB91fD8F5e4200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589235180000",
+            "title": "世卫组织：最坏情况下 新冠肺炎可能导致撒哈拉以南非洲增加50万人死于艾滋病相关疾病",
+            "summary": "当地时间11日，世卫组织总干事谭德塞表示，根据世卫组织和联合国艾滋病规划署发布的艾滋病新模型，在新冠肺炎大流行期间，需立即采取措施减少中断卫生服务和抗逆转录病毒药物的供应，否则在最坏情况下，若发生六个月的抗逆转录病毒治疗中断，可能导致撒哈拉以南非洲增加50万人死于艾滋病相关疾病，包括结核病。这可能使情况退回至十多年前的2008年，当时该地区监测到超过95万例艾滋病死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuDnsysY73ZQKdQo1wyeq200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589231432000",
+            "title": "法国宪法委员会批准延长卫生紧急状态法案",
+            "summary": "法国宪法委员会11日批准延长卫生紧急状态法案，但是取缔了与“隔离”及“追踪”接触者有关的部分内容。根据该法案，法国卫生紧急状态将延长至7月10日。宪法委员会对该法案中两项条例进行了部分取缔，以限制可以访问个人医疗数据的人员数目，并且允许自由与羁押法官在“患者每天超过12个小时不能离开隔离地点”的情况下可以进行审查。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8EvZkXiT1fRF2MYFXLsF200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589227859000",
+            "title": "世卫组织：大部分感染新冠肺炎的儿童症状轻微",
+            "summary": "当地时间11日，世卫组织召开新冠肺炎例行发布会，世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，部分研究显示新冠肺炎在儿童中的发病率较低，主要由成人向儿童传播，儿童向成人传播的情况要少得多，大部分感染新冠肺炎的儿童症状轻微，少部分较为严重甚至也有死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiejDcYOsPEcXSIpsWH0Ss200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589222636000",
+            "title": "世卫组织：“群体免疫“非常危险 负责任的国家会照顾所有人民",
+            "summary": "当地时间11日，针对“群体免疫”概念，世卫组织卫生紧急项目负责人迈克尔·瑞安表示，群体免疫在农牧业中用于考虑牲畜整体健康而不考虑单个动物的情况。但人类不是兽群，当使用群体免疫的术语时要非常小心，残酷的计算不考虑人民、生命以及所承受的痛苦。迈克尔·瑞安指出，应采取必要的公共卫生干预措施来保护弱势群体，如疗养院及难民营。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEVSNUk3LbHiSw1GWBNPK200512&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589208682000",
             "title": "美国新冠肺炎死亡人数接近 8 万",
             "summary": "据约翰斯·霍普金斯大学数据，截至美东时间 11 日 10 时 11 分，美国累计新冠肺炎确诊病例1329885例，死亡病例79531例。",
@@ -42,51 +87,6 @@
             "summary": "巴林卫生部当地时间11日下午发布通告，确认境内新增301例新冠肺炎确诊病例。至此，巴林境内累计发现5157例新冠肺炎确诊病例，其中2152名患者已经治愈出院，8名患者病重不治去世。2997名仍在医院接受治疗的患者中4人病情较重，其余患者情况较为稳定。（总台记者 李超）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzOM4V1BYPWmVwgqblWH200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589198791000",
-            "title": "湖北武汉 “云门诊”升级 可线上开检查单、入院证",
-            "summary": "疫情期间，为减少交叉感染，华中科技大学同济医学院附属同济医院开通“云门诊”，提供在线视频问诊、药品配送一站式服务。近日，“云门诊”服务功能升级，医生可线上开检查单、入院证，更加方便患者诊疗。\n5月10日上午，记者在华中科技大学同济医学院附属同济医院医生办公室看到，市民胡先生通过视频问诊，向医生咨询他母亲的下一步治疗方案。从预约挂号、看病问诊到开具检查单，仅需半个小时。\n患者家属 胡大伟：我们在家里",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHWUz56tWNbo7VjrPdLTo200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589192588000",
-            "title": "海南公布11日新增1例无症状感染者情况 为湖北武汉籍人",
-            "summary": "海南省卫健委5月11日下午发布消息：海南11日新增1例无症状感染者，基本情况如下： 闻某某，男，67岁，湖北武汉籍，常住海南定安县。1月23日至4月7日在武汉。4月8日从武汉返回定安，当时核酸检测结果为阴性。5月5日回武汉。5月10日乘坐航班CZ6537（座位号36A）从武汉飞往海口，上午11时抵达海口美兰机场，在绿地Q酒店集中观察，并采集咽拭子进行新冠病毒核酸检测。5月11日早上核酸检测结果为阳",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEIwyy3jICtLq8fbXS9BF200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589191033000",
-            "title": "热评丨直面舒兰疫情 紧张但不必恐慌",
-            "summary": "近日，吉林舒兰市新增13例本地新冠肺炎确诊病例，其中，仅9日当天就新增确诊病例11例。11日中午，吉林省召开疫情防控新闻发布会，通报舒兰市疫情防控工作情况。会上称，舒兰的疫情打破了吉林全省73天无本土新增病例的局面。下一步，按照高等级风险防控要求，全面进入战时状态，采取最严格的管控措施，全力以赴做好疫情防控工作。疫情防控期间，全市所有诊所、零售药店一律停止销售治疗发热类药品，诊所不接诊发热病人。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiartROat6fhDJj12mjgwT200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589185931000",
-            "title": "亚美尼亚新增79例新冠肺炎确诊病例 累计确诊3392例",
-            "summary": "当地时间11日，据亚美尼亚国家疫情防控中心发布的消息，亚美尼亚在过去24小时内共新增79例新冠肺炎确诊病例，共累计确诊3392例。其中已治愈出院1359例，死亡46例，正在治疗的患者为1970例。截至目前，亚美尼亚境内累计进行了32561次新冠肺炎病毒检测。至当地时间5月14日前，亚美尼亚全境实施紧急状态，但目前政府已经取消了部分限制措施，其中包括通行证制度，但是公共交通还处于暂停状态。（总台记者",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVn7dh1HXIOdwWU3GLDHb200511&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589182380000",
-            "title": "北京市卫健委：北京共报告593例新冠肺炎病例 输入病例超6成",
-            "summary": "今天（11日）下午，国务院联防联控机制召开新闻发布会，介绍北京市疫情防控相关工作。会上，北京市卫生健康委党委书记、主任雷海潮说，北京目前共发现和报告了593例新冠肺炎病例，其中主要以输入病例为主，有377例，占总病例数的64%。其中国内输入199例，境外输入174例，这和北京作为首都与全国其他省份和全球其他国家的密切联系有关。\n北京市卫生健康委党委书记 主任 雷海潮：从北京的病例来看，主要是输入的",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivkLIZsKK8VPGSR87222K200511&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
