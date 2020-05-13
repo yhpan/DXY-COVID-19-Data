@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589341064000",
+            "title": "世卫组织：研究表明吸烟者发展为新冠肺炎重症和出现死亡的风险更高",
+            "summary": "近日，世卫组织发布声明，表示吸烟者发展为重症和出现死亡的风险更高，而且目前没有足够的信息证实烟草或尼古丁对于预防或治疗2019冠状病毒病有任何关联。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZYWM1CFm4wlECgEOWAUB200513&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589330797000",
             "title": "吉林火车站暂停办理始发及经由乘车业务",
             "summary": "根据吉林省新型冠状病毒疫情防控工作要求，自2020年5月13日6时起至另有通知时止，暂时停办吉林站始发及经由旅客列车的旅客乘车业务。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月12日，英国卫生和社会保障部公布最新数据，过去24小时，英国新增新冠肺炎确诊患者3403例，累计确诊总数达到226463例。此外，英国单日新增死亡患者627例，目前累计死亡总数达到32692例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisqKsiRswGr1ARali2FF5200512&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589293107000",
-            "title": "国际劳工组织： 护士和前线工作者是疫情中的英雄",
-            "summary": "5月12日“国际护士节”之际，国际劳工组织总干事在其社交媒体上表示，护士和所有前线工作者是新冠肺炎疫情下的英雄。在2020国际护士节到来之际，我们需要感谢护士和助产士，他们当中90%是女性，感谢他们在最困难的时候坚定不移地作出承诺。他们对卫生系统的保护和投入功不可没。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OlMB8VkdYhSVyWjLPbL200512&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
