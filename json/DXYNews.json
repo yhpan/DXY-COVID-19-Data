@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589402426000",
+            "title": "世卫组织：解除封锁需谨慎 避免再次封锁",
+            "summary": "当地时间13日，世卫组织召开新冠肺炎例行发布会，世卫组织卫生紧急项目负责人迈克尔·瑞安表示，采取封锁措施后，若在新冠病毒高度传播时重新开放，病毒传播会加速，如果缺乏能发现异常的系统，会导致几天或几周后才发现情况不对，然后唯一能采取的应对措施就是再次封锁，而这将导致公共卫生灾难和经济灾难，陷入一个可怕的循环。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG0ZKinCIGaTjDXinnQR8200514&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589390951000",
+            "title": "加拿大卫生部批准首例新冠病毒抗体的血清学测试",
+            "summary": "加拿大总理特鲁多当地时间13日上午在例行讲话中宣布，加拿大卫生部已经在当地时间12日晚批准了该国第一例新冠病毒抗体的血清学测试。加拿大卫生部的声明说：“血清学测试将有助于更好地了解曾感染新冠病毒的人是否对该病毒具有免疫力。”",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAFiFDfrT0eNooeYArGz3200514&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589383687000",
             "title": "德国内政部：将逐步放宽边境管控",
             "summary": "据德国联邦内政部长泽霍费尔当地时间13日在内阁会议结束后透露，德国将从5月16日起逐步放宽边境管控措施，直至6月15日取消所有的边境管控，但前提是“邻国新冠肺炎疫情的发展处于可控状态”。他表示，届时将率先恢复德国与卢森堡的人员自由往来，因为当地的新增新冠肺炎病例数保持在较低水平。",
@@ -69,24 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间5月13日10时35分，在过去24小时内全俄新增新冠肺炎病例10028例，累计确诊242271例。新增治愈出院病例4491例，累计治愈病例48003例。累计死亡病例2212例。目前全俄已进行超过590万次新冠病毒检测，共有约25.9万人因疑似感染在进行医学观察。过去24小时内，共进行了17.7万次病毒检测。（总台记者 宋瑶）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9GZdQ8VssirGhDIz4vLH200513&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589355845000",
-            "title": "国家卫健委：吉林舒兰传染源调查仍在进行",
-            "summary": "5月13日，国务院联防联控机制就新冠肺炎疫情常态化防控工作情况举行发布会。国家卫健委新闻发言人、宣传司司长宋树立表示，5月12日，新增本土确诊病例6例，均与此前聚集性疫情相关。目前国内疫情形势总体稳定，但是散发病例引起聚集性疫情风险不容忽视。要绷紧疫情防控这根弦，落实常态化防控措施，坚持外防输入、内防反弹，坚决防止疫情新燃点。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiauzWVPOiakGWN2lFk4uK200513&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589351692000",
-            "title": "吉林市已经复学的年级一律转为网上授课",
-            "summary": "5月13日，吉林省吉林市教育系统发布通知，即日起，强化吉林市城区教育教学活动管控措施，禁止校内外所有聚集性教育教学、研学、集训、辅导、各类培训教学、补习、比赛、展示、评比、考试等活动，已经复学的年级一律转为网上授课。各相关学校必须科学规划，全面做好停课不停学线上教学组织工作，采取各种方式加强线上教学管理，确保教学质量。（总台央视记者 赵文彬 刘强）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYkddxBpvJj714JwdYmQi200513&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
