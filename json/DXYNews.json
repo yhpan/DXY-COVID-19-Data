@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589360213000",
+            "title": "外交部：中国赴非医疗组受到非方高度赞扬和肯定",
+            "summary": "中国外交部发言人赵立坚在今天（13日）的例行记者会上介绍，中国赴埃塞俄比亚和吉布提抗疫医疗专家组已于5月12日完成任务回国。在近一个月的时间里，专家组同世卫组织驻非机构非洲疾控中心、当地医疗机构及卫生官员分享抗疫经验，交流防控心得；实地走访了当地定点收治医院、隔离中心、检测中心等，同当地医护人员深入交流讨论，有针对性地提出防控和诊疗建议。专家组的敬业精神和专业水平受到非方高度赞扬和肯定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCF6KvMukELE02gXX7l4G200513&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589356861000",
             "title": "北京各年级返校复课时间",
             "summary": "5月13日，北京市委教育工委副书记、市教委新闻发言人李奕参加北京市新冠肺炎疫情防控工作新闻发布会，介绍初高三年级返校复课情况、部分考试时间安排及#北京各级各类学校返校复课工作安排#并回答媒体提问。",
@@ -78,15 +87,6 @@
             "summary": "在昨天（12日）发布会上，教育部就在学校是否需要佩戴口罩作了回答。目前不同学段不同地区要求不同。中小学生在校可以不戴口罩，但需具备三个前提条件。第一是在低风险地区；第二是我们要确保进入校园的每个人都是健康的；第三是校内疫情防控措施要做到位，比如说教室里要隔位就座。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589328315000",
-            "title": "中企援建尼日利亚的方舱医院完工并移交当地",
-            "summary": "位于尼日利亚首都阿布贾市中心的今日剧院，在中国企业的帮助下，历时一个多月的改造，建成了具备检测、留观及治疗等功能的方舱医院。当地时间5月12日，今日剧院方舱医院举行移交和启用仪式，尼日利亚应对疫情总统特别工作组多位部长级成员来到现场，对该方舱医院的迅速建成和设施先进表示赞赏。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiihxa1i1jZwhQ4Hm7XeFA200513&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
