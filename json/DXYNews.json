@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589372964000",
+            "title": "莱索托出现首例新冠肺炎确诊病例",
+            "summary": "当地时间5月13日，莱索托卫生部宣布该国出现第一例新冠肺炎确诊病例。此例病例出现前，莱索托是非洲最后一个没有新冠肺炎患者的国家。由于国土面积较小且是南非国中国，莱索托所有疑似病例都送往南非进行检测。当地时间5月11日，莱向南非移送80例样本进行检测，最终一人检测结果呈阳性。目前莱仍有301例样本在南非等待检测。（总台记者 周涛）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid9kOghGZyIQkesRUxTty200513&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589369916000",
+            "title": "津巴布韦副总统：中国抗疫医疗专家组赴津正逢其时 对于津方抗疫将起极大的积极作用",
+            "summary": "当地时间13日上午，津巴布韦副总统莫哈迪在首都哈拉雷出席其领导的津抗击新冠肺炎疫情部际联合工作组与中国抗疫医疗专家组的工作交流会议时发表讲话，高度评价中国抗疫专家组的到来。他说，值此津巴布韦抗击新冠肺炎疫情的关键时刻，中国专家组来到津巴布韦正逢其时，他相信双方共同制定的日程能够促进双方在疫情应对方面的交流与合作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihLBgNDkFGj6jSnppxjuT200513&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589360213000",
             "title": "外交部：中国赴非医疗组受到非方高度赞扬和肯定",
             "summary": "中国外交部发言人赵立坚在今天（13日）的例行记者会上介绍，中国赴埃塞俄比亚和吉布提抗疫医疗专家组已于5月12日完成任务回国。在近一个月的时间里，专家组同世卫组织驻非机构非洲疾控中心、当地医疗机构及卫生官员分享抗疫经验，交流防控心得；实地走访了当地定点收治医院、隔离中心、检测中心等，同当地医护人员深入交流讨论，有针对性地提出防控和诊疗建议。专家组的敬业精神和专业水平受到非方高度赞扬和肯定。",
@@ -69,24 +87,6 @@
             "summary": "根据吉林省新型冠状病毒疫情防控工作要求，自2020年5月13日6时起至另有通知时止，暂时停办吉林站始发及经由旅客列车的旅客乘车业务。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPHHTKJN64hfh0sm9nzuQ200513&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589330038000",
-            "title": "英国宣布延长“强制休假”四个月，雇主需承担“休假”雇员部分工资",
-            "summary": "当地时间12日，英国财政大臣里希·苏纳克表示，因新冠肺炎疫情而实施的雇员“强制休假”计划将延长至今年10月份。苏纳克表示，公司雇员因疫情而被迫停工休假，政府仍将支付每月80%的工资，最高不超过2500英镑。但从8月份开始，雇主也将开始为雇员支付因疫情而“强制休假”的部分工资。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPE0vAJc5fAbujcMVmWix200513&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589329917000",
-            "title": "教育部：满足三个条件 中小学生在校可以不戴口罩",
-            "summary": "在昨天（12日）发布会上，教育部就在学校是否需要佩戴口罩作了回答。目前不同学段不同地区要求不同。中小学生在校可以不戴口罩，但需具备三个前提条件。第一是在低风险地区；第二是我们要确保进入校园的每个人都是健康的；第三是校内疫情防控措施要做到位，比如说教室里要隔位就座。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq5ISwsuiRfKrxgN9e2Rg200513&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
