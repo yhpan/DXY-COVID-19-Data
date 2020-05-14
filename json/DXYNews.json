@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589456174000",
+            "title": "俄文化部部长战胜新冠肺炎 病愈后恢复工作",
+            "summary": "俄新社14日消息，此前确诊感染新冠肺炎的俄文化部部长柳比莫娃已经病愈并恢复工作。9天前，俄罗斯文化部部长奥尔加·柳比莫娃确认感染新冠肺炎。俄新社援引柳比莫娃新闻发言人的话说，柳比莫娃属于轻症患者。治疗期间，她一直都在远程办公。（总台记者 宋一平）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6oLTIKKj7x64XHJkWzSb200514&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589451958000",
             "title": "香港新增1例新冠肺炎确诊病例 累计确诊1051例",
             "summary": "根据香港特区政府卫生署卫生防护中心最新消息，截至14日16时30分，香港今日新增1例新冠肺炎确诊病例，为一名63岁男子，是昨天（13日）确诊的第1049号病例的丈夫。至此，香港累计确诊的新冠肺炎确诊病例增至1051例。（总台记者 刘志敏）",
@@ -78,15 +87,6 @@
             "summary": "下周的5月20日、5月21日，是准新人结婚登记的高峰。因受新冠肺炎疫情影响，为避免扎堆登记，今年“520”江苏省民政部门的婚姻登记处将普遍采取预约方式办理结婚登记。江苏省民政厅提醒，往年数据显示，5月20日、21日结婚登记人数较多，今年加之疫情防控要求，需至少提前2天预约。\n“江苏民政”微信公众号已提供预约服务，点击菜单栏“微服务”—“婚姻预约”，即可登录“江苏省婚姻登记网上预约系统”。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2DRtJVic3BM2HmLN9wUX200514&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589424635000",
-            "title": "澳大利亚4月就业人数达40年来最大降幅",
-            "summary": "根据澳大利亚国家统计局发布的最新数据，3月20日至4月20日期间，澳大利亚就业人数下降了59万多。这也是1978年以来就业人数下降幅度最大的一个月。澳大利亚总理莫里森在14日的发布会上表示，“今天对于澳大利亚是非常艰难的一天”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwamYsdDUI8fU4hS17YHH200514&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
