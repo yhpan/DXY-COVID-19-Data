@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589459719000",
+            "title": "俄产新冠病毒疫苗将于6月份进行临床试验 并有望9月注册",
+            "summary": "当地时间14日，位于俄罗斯新西伯利亚市的俄罗斯国家病毒学与生物技术研究中心（又称“矢量”研究中心）宣布，该中心研制的新冠病毒疫苗将于6月份在300名志愿者身上进行临床试验，9月份有望完成注册。俄总统普京要求做好相关的知识产权保护。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTivMV5vMo4rLWbBRs16B200514&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589456174000",
             "title": "俄文化部部长战胜新冠肺炎 病愈后恢复工作",
             "summary": "俄新社14日消息，此前确诊感染新冠肺炎的俄文化部部长柳比莫娃已经病愈并恢复工作。9天前，俄罗斯文化部部长奥尔加·柳比莫娃确认感染新冠肺炎。俄新社援引柳比莫娃新闻发言人的话说，柳比莫娃属于轻症患者。治疗期间，她一直都在远程办公。（总台记者 宋一平）",
@@ -78,15 +87,6 @@
             "summary": "羟氯喹，一种原本被用来治疗疟疾的药物，经美国总统特朗普最近在白宫新冠疫情发布会上推荐后，引发广泛讨论，坊间甚至用“神药”来称呼它。尽管医学界对羟氯喹是否能够用于治疗新冠肺炎尚无定论，世卫组织也强调目前没有足够的数据来评估这种药物在治疗新冠肺炎患者或预防冠状病毒感染方面的疗效，但人们对它的关注度依旧不减。在叙利亚中部城市霍姆斯的一间制药厂，药学专家和员工们正在加班加点地生产羟氯喹作为储备。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGLPXV2G9EhlCg6fEoBpE200514&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589427325000",
-            "title": "江苏省民政厅：因受新冠肺炎疫情影响，5月20日、21日结婚登记需至少提前2天预约",
-            "summary": "下周的5月20日、5月21日，是准新人结婚登记的高峰。因受新冠肺炎疫情影响，为避免扎堆登记，今年“520”江苏省民政部门的婚姻登记处将普遍采取预约方式办理结婚登记。江苏省民政厅提醒，往年数据显示，5月20日、21日结婚登记人数较多，今年加之疫情防控要求，需至少提前2天预约。\n“江苏民政”微信公众号已提供预约服务，点击菜单栏“微服务”—“婚姻预约”，即可登录“江苏省婚姻登记网上预约系统”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2DRtJVic3BM2HmLN9wUX200514&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
