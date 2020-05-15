@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1589539697000",
+            "title": "上海市培训机构可于5月18日起分批恢复线下培训服务",
+            "summary": "上海市教委今日（15日）发布通告称，根据当前疫情防控形势，经研究决定，上海市面向18周岁以上成年人开展的各类线下培训服务（密闭空间除外），在室外场所面向未成年人开展的各类培训服务，符合相应行业主管部门提出的疫情防控要求，并向行业主管部门备案承诺或经其检查合格后，可于5月18日起恢复线下服务（具体恢复时间由培训机构发布）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589539257000",
+            "title": "日本新冠肺炎累计确诊病例达16249例 新增46例",
+            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间15日零点至下午六点半，日本单天新增感染者46人，日本累计新冠肺炎确诊病例达到16249人。目前日本国内感染新冠肺炎患者的死亡人数为727人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589538019000",
+            "title": "英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠",
+            "summary": "英国统计局当地时间15日上午就新冠疫情发布的最新一份有关护理机构死者分析报告说，从今年3月2日到5月1日，英格兰和威尔士两个地区护理机构死亡的人中有27.29%涉及新冠病毒。统计数据显示，在这期间，共有45899人在护理机构死亡，其中12526人的死亡与新冠有关；这其中既包括新冠病毒为主要死亡原因者，也包括其死亡报告中提及新冠病毒者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589537687000",
+            "title": "世界银行再向印度提供10亿美元抗疫贷款",
+            "summary": "今天（15日），世界银行批准向印度提供了10亿美元贷款，用于加速印度的新冠肺炎社会保护应对计划，帮助那些在新冠肺炎疫情中，受到严重影响的贫困人口和家庭。上月世界银行曾向印度拨出10亿美元帮助印度建设抗疫卫生体系。世界银行累计向印度拨付新冠肺炎紧急贷款达20亿美元。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589535722000",
             "title": "西班牙新增新冠肺炎确诊病例549例 累计确诊230183例",
             "summary": "根据西班牙卫生部当地时间15日公布的数据，西班牙全国新冠肺炎患者累计确诊230183例，死亡共27459例，24小时新增确诊549例，新增死亡138例。",
@@ -51,42 +87,6 @@
             "summary": "今天（15日），“吉林市发布”发文《关于进一步强化吉林市城区疫情期间交通管控措施的公告》：\n针对近期新冠肺炎疫情防控工作面临的严峻形势，按照吉林市疫情防控工作领导小组《关于吉林市城区进一步强化疫情管控措施的公告》要求，吉林市城区比照高风险地区，进一步强化疫情期间交通管控措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589530392000",
-            "title": "泰国：将从17日起实施第二阶段“解封”措施",
-            "summary": "自5月以来，泰国新冠肺炎确诊病例数多日处于个位数增长，疫情趋缓。15日，泰国新冠肺炎防控中心宣布将从本月17日起实施第二阶段的“解封”措施，并将每日的夜间宵禁时间减少一个小时。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtialEKWgTNchbjx24wNDG2200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589529600000",
-            "title": "国家发改委、国台办等十部门联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》",
-            "summary": "国家发展改革委、国务院台办、工业和信息化部、财政部、人力资源社会保障部、自然资源部、商务部、人民银行、银保监会、证监会十部门15日联合印发《关于应对疫情统筹做好支持台资企业发展和推进台资项目有关工作的通知》。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti44bN5smFIGow1kfxuyE1200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589528400000",
-            "title": "俄罗斯新冠肺炎累计确诊病例达262843例 新增10598例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间5月15日10时35分，在过去24小时内全俄新增新冠肺炎病例10598例，累计确诊262843例。其中莫斯科市新增4748例，累计确诊135464例。全俄新增治愈出院病例4696例，累计治愈病例58226例。累计死亡病例2418例。目前全俄已进行超过640万次新冠病毒检测，共有约25.6万人因疑似感染在进行医学观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiex2OyUOv9U4z16iL1TBT200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589528346000",
-            "title": "韩日疫情总体趋缓 防疫措施仍要维持",
-            "summary": "韩日两国疫情总体趋缓，但是近日再度发生的聚集性感染事件敲响警钟，韩日政府方面也采取了应对措施，防止疫情出现反弹。据韩国中央防疫对策本部15日通报，截至当地时间15日0时，韩国24小时内新增27例新冠肺炎确诊病例，其中22例为本土传播病例。韩国累计确诊病例升至11018例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu64ljjqBsAHWJjcPeizW200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
