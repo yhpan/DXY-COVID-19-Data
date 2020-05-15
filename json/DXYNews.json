@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1589584257000",
+            "title": "美疾控中心：美国新冠死亡病例月底预计将超 10 万",
+            "summary": "美国疾控中心主任雷德菲尔德15日表示，根据12种不同模型的预测数据，美国新冠肺炎死亡病例在6月1日前将超过10万例。据约翰斯·霍普金斯大学数据，截至美国东部时间5月15日晚6时30分，美国确诊新冠肺炎超144万例，死亡病例超过8.7万。\n",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4505105258928201",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589582912000",
+            "title": "斯洛文尼亚宣布本国新冠疫情结束",
+            "summary": "当地时间5月15日，斯洛文尼亚政府宣布：新冠疫情大流行在本国已经结束，成为第一个宣布疫情结束的欧洲国家。国家公共卫生研究所表示，各项指标表明新冠病毒的传播速度减慢，过去14天中仅确诊了35例。斯洛文尼亚于3月4日确诊首例新冠肺炎感染者，3月12日宣布新冠病毒大流行。截止到5月15日累计确诊1465例，过去24小时新增1例，累计死亡103例，累计治愈270例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589568000000",
+            "title": "世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关",
+            "summary": "当地时间15日，世卫组织举行新冠肺炎例行发布会，世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，针对儿童多系统炎症综合征，世卫组织已与全球治疗新冠肺炎患者的医生以及儿科医生展开讨论，包括哪些国家及地区出现此类症状，频率如何以及实际症状。目前英国、美国、意大利等国出现了此类病例，较为罕见，但出现越来越多此类报告。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589562547000",
+            "title": "希腊新增40例新冠肺炎确诊病例 累计确诊2810例",
+            "summary": "据希腊卫生部5月15日发布的疫情通报称，在过去的24小时内，希腊新增40例新冠肺炎确诊病例，累计达2810例。在此期间，希腊新增4例死亡病例，累计达160例。（总台记者 王玉国）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti21jhz4xzvL4S389V2S5K200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589558158000",
             "title": "印度最大贫民窟新增84例新冠肺炎确诊病例 累计确诊1145例",
             "summary": "据印度媒体报道，5月15日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例84例，累计确诊病例升至1145例，累计死亡病例53例。塔拉维贫民窟是印度最大的贫民窟，也是亚洲最大的贫民窟之一。4月1日，塔拉维出现首例新冠肺炎确诊病例，随后确诊病例节节攀升。塔拉维所在的孟买，是印度疫情最严重的城市。截至15日晚，孟买确诊病例17512例，死亡655例，约占印度确诊和死亡病例总数的21%和25%。",
@@ -51,42 +87,6 @@
             "summary": "在经历了67天的治疗后，韩国新冠肺炎最年长患者、104岁高龄的崔某（女性）于当地时间15日成功治愈出院。\n崔奶奶自2012年起一直生活在位于大邱南部庆山市的一家长者护理中心，今年3月该护理中心出现新冠肺炎集体感染，崔奶奶于3月8日被确诊，并于10日被送往浦项医疗院进行治疗。治疗过程中，崔奶奶一度因肠炎病情危重，在医护人员的及时救治和悉心照料下，病情逐渐好转。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589539697000",
-            "title": "上海市培训机构可于5月18日起分批恢复线下培训服务",
-            "summary": "上海市教委今日（15日）发布通告称，根据当前疫情防控形势，经研究决定，上海市面向18周岁以上成年人开展的各类线下培训服务（密闭空间除外），在室外场所面向未成年人开展的各类培训服务，符合相应行业主管部门提出的疫情防控要求，并向行业主管部门备案承诺或经其检查合格后，可于5月18日起恢复线下服务（具体恢复时间由培训机构发布）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP72UnqAwe0kZbAjQ5ysF200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589539257000",
-            "title": "日本新冠肺炎累计确诊病例达16249例 新增46例",
-            "summary": "据日本放送协会消息，根据日本各地的地方自治团体和厚生劳动省通报的数据，当地时间15日零点至下午六点半，日本单天新增感染者46人，日本累计新冠肺炎确诊病例达到16249人。目前日本国内感染新冠肺炎患者的死亡人数为727人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ1HeXW7kPYWBPwVUKKPx200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589538019000",
-            "title": "英国英格兰、威尔士护理机构3、4月死者超四分之一涉及新冠",
-            "summary": "英国统计局当地时间15日上午就新冠疫情发布的最新一份有关护理机构死者分析报告说，从今年3月2日到5月1日，英格兰和威尔士两个地区护理机构死亡的人中有27.29%涉及新冠病毒。统计数据显示，在这期间，共有45899人在护理机构死亡，其中12526人的死亡与新冠有关；这其中既包括新冠病毒为主要死亡原因者，也包括其死亡报告中提及新冠病毒者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUZ1654jjLDPLvTUmL00k200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589537687000",
-            "title": "世界银行再向印度提供10亿美元抗疫贷款",
-            "summary": "今天（15日），世界银行批准向印度提供了10亿美元贷款，用于加速印度的新冠肺炎社会保护应对计划，帮助那些在新冠肺炎疫情中，受到严重影响的贫困人口和家庭。上月世界银行曾向印度拨出10亿美元帮助印度建设抗疫卫生体系。世界银行累计向印度拨付新冠肺炎紧急贷款达20亿美元。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
