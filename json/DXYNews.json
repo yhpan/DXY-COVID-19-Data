@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589558158000",
+            "title": "印度最大贫民窟新增84例新冠肺炎确诊病例 累计确诊1145例",
+            "summary": "据印度媒体报道，5月15日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例84例，累计确诊病例升至1145例，累计死亡病例53例。塔拉维贫民窟是印度最大的贫民窟，也是亚洲最大的贫民窟之一。4月1日，塔拉维出现首例新冠肺炎确诊病例，随后确诊病例节节攀升。塔拉维所在的孟买，是印度疫情最严重的城市。截至15日晚，孟买确诊病例17512例，死亡655例，约占印度确诊和死亡病例总数的21%和25%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ivrc8uiNjeupdMtAWVp200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589553900000",
             "title": "英国新增新冠肺炎确诊病例3560例 累计236711例",
             "summary": "据英国卫生部15日15点30分更新的数据显示，英国单日新增新冠肺炎确诊病例3560例，累计236711例。死亡病例单日新增384例，死亡累计33998例。",
@@ -78,15 +87,6 @@
             "summary": "今天（15日），世界银行批准向印度提供了10亿美元贷款，用于加速印度的新冠肺炎社会保护应对计划，帮助那些在新冠肺炎疫情中，受到严重影响的贫困人口和家庭。上月世界银行曾向印度拨出10亿美元帮助印度建设抗疫卫生体系。世界银行累计向印度拨付新冠肺炎紧急贷款达20亿美元。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVQKbpXy6eTXcMlehc4ts200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589535722000",
-            "title": "西班牙新增新冠肺炎确诊病例549例 累计确诊230183例",
-            "summary": "根据西班牙卫生部当地时间15日公布的数据，西班牙全国新冠肺炎患者累计确诊230183例，死亡共27459例，24小时新增确诊549例，新增死亡138例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisFzEPTWMmIbI3CZJwV4C200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
