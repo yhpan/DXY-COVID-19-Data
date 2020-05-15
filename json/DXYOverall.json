@@ -1,10 +1,10 @@
 {
     "results": [
         {
-            "currentConfirmedCount": 165,
-            "currentConfirmedIncr": -34,
-            "confirmedCount": 84469,
-            "confirmedIncr": 5,
+            "currentConfirmedCount": 166,
+            "currentConfirmedIncr": -33,
+            "confirmedCount": 84470,
+            "confirmedIncr": 6,
             "suspectedCount": 1692,
             "suspectedIncr": 0,
             "curedCount": 79660,
@@ -14,12 +14,12 @@
             "seriousCount": 619,
             "seriousIncr": -93,
             "globalStatistics": {
-                "currentConfirmedCount": 2554430,
-                "confirmedCount": 4423477,
+                "currentConfirmedCount": 2554431,
+                "confirmedCount": 4423478,
                 "curedCount": 1566467,
                 "deadCount": 302580,
-                "currentConfirmedIncr": 10892,
-                "confirmedIncr": 28060,
+                "currentConfirmedIncr": 10893,
+                "confirmedIncr": 28061,
                 "curedIncr": 16293,
                 "deadIncr": 875
             },
@@ -32,7 +32,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1589540823880
+            "updateTime": 1589544624395
         }
     ],
     "success": true

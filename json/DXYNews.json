@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589539839000",
+            "title": "韩国104岁新冠肺炎患者治愈出院",
+            "summary": "在经历了67天的治疗后，韩国新冠肺炎最年长患者、104岁高龄的崔某（女性）于当地时间15日成功治愈出院。\n崔奶奶自2012年起一直生活在位于大邱南部庆山市的一家长者护理中心，今年3月该护理中心出现新冠肺炎集体感染，崔奶奶于3月8日被确诊，并于10日被送往浦项医疗院进行治疗。治疗过程中，崔奶奶一度因肠炎病情危重，在医护人员的及时救治和悉心照料下，病情逐渐好转。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589539697000",
             "title": "上海市培训机构可于5月18日起分批恢复线下培训服务",
             "summary": "上海市教委今日（15日）发布通告称，根据当前疫情防控形势，经研究决定，上海市面向18周岁以上成年人开展的各类线下培训服务（密闭空间除外），在室外场所面向未成年人开展的各类培训服务，符合相应行业主管部门提出的疫情防控要求，并向行业主管部门备案承诺或经其检查合格后，可于5月18日起恢复线下服务（具体恢复时间由培训机构发布）。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月15日9时28分(北京时间5月15日15时28分)，全球确诊新冠肺炎4307287例，死亡295101例，中国以外超过422万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPJNZv4Efkdh4CUD95V3u200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589532060000",
-            "title": "吉林市：城区客运班线、旅游包车一律禁止出城",
-            "summary": "今天（15日），“吉林市发布”发文《关于进一步强化吉林市城区疫情期间交通管控措施的公告》：\n针对近期新冠肺炎疫情防控工作面临的严峻形势，按照吉林市疫情防控工作领导小组《关于吉林市城区进一步强化疫情管控措施的公告》要求，吉林市城区比照高风险地区，进一步强化疫情期间交通管控措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOJyuZgCIRcGNCwFLaVwm200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
