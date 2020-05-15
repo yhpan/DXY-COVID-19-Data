@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589546244000",
+            "title": "海南：1例境外输入无症状感染者转为新冠肺炎确诊病例",
+            "summary": "5月15日下午，海南省新型冠状病毒肺炎疫情防控工作指挥部召开新闻发布会。记者从会上获悉，当天，海南1例境外输入无症状感染者转为确诊病例。据通报，患者骆某某，女，38岁，甘肃省武威市凉州区人。5月13日从刚果（金）乘坐CA082（座位号33D）航班抵达三亚凤凰国际机场。入境时三亚市对所有航班人员现场采集鼻、咽拭子送检，之后转运至当地集中观察场所进行隔离医学观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589539839000",
             "title": "韩国104岁新冠肺炎患者治愈出院",
             "summary": "在经历了67天的治疗后，韩国新冠肺炎最年长患者、104岁高龄的崔某（女性）于当地时间15日成功治愈出院。\n崔奶奶自2012年起一直生活在位于大邱南部庆山市的一家长者护理中心，今年3月该护理中心出现新冠肺炎集体感染，崔奶奶于3月8日被确诊，并于10日被送往浦项医疗院进行治疗。治疗过程中，崔奶奶一度因肠炎病情危重，在医护人员的及时救治和悉心照料下，病情逐渐好转。",
@@ -78,15 +87,6 @@
             "summary": "据比利时媒体当地时间15日报道，比利时已经批准按照原定计划，即8月30日在斯帕赛道继续举办一级方程式大奖赛比利时站的比赛，但是该比赛为“闭门赛”，将不会有观众被允许前往现场观赛，具体要求和措施国际汽联和比利时方面还在商谈中。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC1kKrybmNaRRRoCtlob9200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589533800000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过430万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月15日9时28分(北京时间5月15日15时28分)，全球确诊新冠肺炎4307287例，死亡295101例，中国以外超过422万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPJNZv4Efkdh4CUD95V3u200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
