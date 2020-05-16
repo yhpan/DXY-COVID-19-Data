@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1589607473000",
+            "title": "上海有1例确诊病例今日出院，共计641例治愈出院",
+            "summary": "上海市卫生健康委员会今日（16日）通报：1例新型冠状病毒肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新型冠状病毒肺炎确诊病例出院标准，于今日出院。目前，上海已累计治愈出院641例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik1KIx1A8C0TsnA2rhY3y200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589603340000",
+            "title": "18日起 北京公共交通满载率上调15%",
+            "summary": "总台央视记者从北京市交通委获悉，经专家评估，5月18日（周一）起，本市将进一步调整公共交通满载率控制指标。其中，地面公交由75%上调至90%，轨道交通由65%上调至80%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiapYcsnZi381SjXSsXMlo200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589603110000",
+            "title": "5月13日吉林市通报的确诊病例4在长行程轨迹公布",
+            "summary": "5月13日吉林市通报的确诊病例4高某飞，吉林市丰满区人，系5月10日吉林市通报确诊病例9（在舒兰市工作）的密切接触者。其在长行程轨迹公布如下：5月6日20时，该病例一家四口自驾车从吉林市到长春市宽城区荣旺天下小区其妻子的表妹家。当晚除表妹带该病例女儿（吉林市公布无症状感染者）到小区门口蓝马超市购物外，未再外出。5月7日8时，该病例一家四口与表妹及其男友分别驾乘车于8时30分到达宽城区兰家镇雨润小区",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiX2pYgHh1n71TsZmWBiKk200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589599076000",
             "title": "西班牙、英国等欧洲多国疫情趋缓 管控措施放松",
             "summary": "西班牙卫生部15日发布的疫情数据显示，西班牙累计确诊病例数超过23万，24小时内新增确诊病例549例，单日增幅连续第四天呈轻微上升趋势。西班牙卫生部表示，目前西班牙疫情尚未出现反弹的迹象，但风险依然存在，并建议民众在无法保持安全距离的情况下使用卫生口罩。",
@@ -60,33 +87,6 @@
             "summary": "5月15日0时至24时，北京无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者，出院1例。截至5月15日24时，累计报告境外输入确诊病例174例，累计出院168例，在院6例。     5月15日0时至24时，无新增报告本地确诊病例、疑似病例和无症状感染者，出院1例。截至5月15日24时，累计报告本地确诊病例419例，累计出院408例，在院2例，累计死亡9例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589584257000",
-            "title": "美疾控中心：美国新冠死亡病例月底预计将超 10 万",
-            "summary": "美国疾控中心主任雷德菲尔德15日表示，根据12种不同模型的预测数据，美国新冠肺炎死亡病例在6月1日前将超过10万例。据约翰斯·霍普金斯大学数据，截至美国东部时间5月15日晚6时30分，美国确诊新冠肺炎超144万例，死亡病例超过8.7万。\n",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4505105258928201",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589582912000",
-            "title": "斯洛文尼亚宣布本国新冠疫情结束",
-            "summary": "当地时间5月15日，斯洛文尼亚政府宣布：新冠疫情大流行在本国已经结束，成为第一个宣布疫情结束的欧洲国家。国家公共卫生研究所表示，各项指标表明新冠病毒的传播速度减慢，过去14天中仅确诊了35例。斯洛文尼亚于3月4日确诊首例新冠肺炎感染者，3月12日宣布新冠病毒大流行。截止到5月15日累计确诊1465例，过去24小时新增1例，累计死亡103例，累计治愈270例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVrz8iX099W9lFF43EcIm200516&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589568000000",
-            "title": "世卫组织：还不能确定儿童多系统炎症综合征是否与新冠肺炎有关",
-            "summary": "当地时间15日，世卫组织举行新冠肺炎例行发布会，世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，针对儿童多系统炎症综合征，世卫组织已与全球治疗新冠肺炎患者的医生以及儿科医生展开讨论，包括哪些国家及地区出现此类症状，频率如何以及实际症状。目前英国、美国、意大利等国出现了此类病例，较为罕见，但出现越来越多此类报告。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0w2ummWDcKcrMaCAubuy200516&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
