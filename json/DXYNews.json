@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589590003000",
+            "title": "日本东京都公布取消限制措施标准",
+            "summary": "15日，日本东京都知事小池百合子在例行记者会上公布了旨在取消限制措施的标准。标准包括东京都单日新增确诊病例须低于20例，新增确诊病例一半以上为可追踪病例等。\n小池百合子表示，如果东京都未来符合这些条件，那么东京都政府将计划分阶段取消部分限制措施。在第一阶段，博物馆和图书馆等公共设施将重新开放。不过，如果未来东京都疫情态势在取消限制后恶化，将不得不再次对当地的社会和经济活动进行限制。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVsrxuUpQjXchb8jSZKYJ200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589589600000",
+            "title": "北京昨日无新增新冠肺炎确诊病例 出院2例",
+            "summary": "5月15日0时至24时，北京无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者，出院1例。截至5月15日24时，累计报告境外输入确诊病例174例，累计出院168例，在院6例。     5月15日0时至24时，无新增报告本地确诊病例、疑似病例和无症状感染者，出院1例。截至5月15日24时，累计报告本地确诊病例419例，累计出院408例，在院2例，累计死亡9例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti30zassJkoIGNTkk5S52f200516&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589584257000",
             "title": "美疾控中心：美国新冠死亡病例月底预计将超 10 万",
             "summary": "美国疾控中心主任雷德菲尔德15日表示，根据12种不同模型的预测数据，美国新冠肺炎死亡病例在6月1日前将超过10万例。据约翰斯·霍普金斯大学数据，截至美国东部时间5月15日晚6时30分，美国确诊新冠肺炎超144万例，死亡病例超过8.7万。\n",
@@ -69,24 +87,6 @@
             "summary": "近日，美国纽约州又有100名儿童感染不明疾病，其中三名儿童因高热、皮肤变色、皮疹、心脏动脉炎等不明病症死亡，与此同时，他们的新冠病毒检测均呈阳性，但尚不明确是否与新冠病毒有关。目前，在全美国范围至少11个州和哥伦比亚特区有超过130个报告病例。据韩媒报道，这种不明病症主要发生在10岁以下儿童身上，但亚洲地区尚未出现上述儿童不明病症。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiLhkq910ApbY6ZIt1GyJ200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589546244000",
-            "title": "海南：1例境外输入无症状感染者转为新冠肺炎确诊病例",
-            "summary": "5月15日下午，海南省新型冠状病毒肺炎疫情防控工作指挥部召开新闻发布会。记者从会上获悉，当天，海南1例境外输入无症状感染者转为确诊病例。据通报，患者骆某某，女，38岁，甘肃省武威市凉州区人。5月13日从刚果（金）乘坐CA082（座位号33D）航班抵达三亚凤凰国际机场。入境时三亚市对所有航班人员现场采集鼻、咽拭子送检，之后转运至当地集中观察场所进行隔离医学观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti993A1NJasVqQrbrXMwLn200515&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589539839000",
-            "title": "韩国104岁新冠肺炎患者治愈出院",
-            "summary": "在经历了67天的治疗后，韩国新冠肺炎最年长患者、104岁高龄的崔某（女性）于当地时间15日成功治愈出院。\n崔奶奶自2012年起一直生活在位于大邱南部庆山市的一家长者护理中心，今年3月该护理中心出现新冠肺炎集体感染，崔奶奶于3月8日被确诊，并于10日被送往浦项医疗院进行治疗。治疗过程中，崔奶奶一度因肠炎病情危重，在医护人员的及时救治和悉心照料下，病情逐渐好转。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqXkPd93nPmi4bbIKZ7tS200515&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
