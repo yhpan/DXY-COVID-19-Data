@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589725055000",
+            "title": "印度18日起将再实施两周全国封锁，铁路民航等仍停运",
+            "summary": "印度政府当地时间今天（17日）下午发布消息说，印度将继续实施两周的全国封锁。封锁期间，航空、铁路、公路和地铁都将关闭。餐厅、酒店仍然不能营业。各邦之间的客运交通是否通行由各邦之间协商决定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxF53NThhf67aHpLluX5200517&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589723624000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过452万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月17日14时33分(北京时间5月17日20时33分)，全球确诊新冠肺炎4525497例，死亡307395例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZjdzNe0CIyTcFSmuXlll200517&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589720051000",
             "title": "荷兰新增新冠肺炎确诊病例125例 累计确诊43995例",
             "summary": "当地时间5月17日下午，荷兰卫生部门最新通报，在过去24小时内，荷兰境内新增确诊新冠肺炎病例125例，累计确诊43995例；新增死亡病例10例，累计报告死亡病例5680例。自疫情发生以来，医院累计收治病人11552例。",
@@ -69,24 +87,6 @@
             "summary": "据韩国中央防疫对策本部当地时间17日通报，截至当天中午12时，与首尔梨泰院夜店相关的确诊病例增至168例，较前一天增加6例，单日新增确诊病例已经大幅减少。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589705760000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过449万例",
-            "summary": "世卫组织：全球新冠肺炎确诊病例超过449万例",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibjBF4L16xG0OVXrAvYD8200517&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589702301000",
-            "title": "国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大",
-            "summary": "国家卫健委：吉林舒兰的疫情提示当前防控工作还有一些薄弱环节，主要表现为个别地区存在着麻痹、松懈的思想，部分群众个人防护意识有所放松；集中隔离点的防护工作和防护能力还需要提高；同时舒兰的疫情也提示我们核酸检测的范围还需要进一步扩大，尤其是对重点人群还要做到应检尽检。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZBzTYo3fmfxOBU3Rj88200517&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
