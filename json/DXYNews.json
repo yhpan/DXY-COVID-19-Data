@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589706413000",
+            "title": "首尔梨泰院夜店新冠肺炎确诊病例增至168例，此波疫情已基本得到控制",
+            "summary": "据韩国中央防疫对策本部当地时间17日通报，截至当天中午12时，与首尔梨泰院夜店相关的确诊病例增至168例，较前一天增加6例，单日新增确诊病例已经大幅减少。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589702301000",
             "title": "国家卫健委：吉林舒兰疫情提示防控仍有薄弱环节，核酸检测范围需扩大",
             "summary": "国家卫健委：吉林舒兰的疫情提示当前防控工作还有一些薄弱环节，主要表现为个别地区存在着麻痹、松懈的思想，部分群众个人防护意识有所放松；集中隔离点的防护工作和防护能力还需要提高；同时舒兰的疫情也提示我们核酸检测的范围还需要进一步扩大，尤其是对重点人群还要做到应检尽检。",
@@ -78,15 +87,6 @@
             "summary": "5月16日早上7时50分，随着第一位患者张先生出示预约记录，通过现场扫码、测量体温后，走进武汉大学人民医院东院区门诊心血管内科余锂镭教授的诊室，该院区在历经110天抗击新冠肺炎疫情后正式全面恢复。这标志着武汉市医疗全面恢复正常秩序。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibkYQNAOwSpTlF1dBcPSe200517&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589674214000",
-            "title": "巴西新冠肺炎累计确诊病例破23万 确诊病例数超意大利跃升全球第5位",
-            "summary": "当地时间5月16日，巴西单日新增新冠肺炎确诊病例14919例，累计确诊233142例，新增死亡病例816例，累计死亡15633人。约翰斯·霍普金斯大学数据显示，巴西确诊人数已超越意大利，排在全球第5位，仅次于美国、俄罗斯、英国和西班牙。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiklsrmtSpP0j6YZP5LU8y200517&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
