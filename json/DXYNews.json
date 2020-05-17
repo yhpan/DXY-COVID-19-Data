@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589679960000",
+            "title": "吉林市新增3例本地确诊病例，丰满区风险等级由中风险调整为高风险​",
+            "summary": "2020年5月17日，吉林省公布吉林市丰满区新增3例本地新冠肺炎确诊病例。按照国家新冠肺炎疫情分区分级标准，将吉林市丰满区风险等级由中风险调整为高风险。吉林省将根据疫情发展态势，适时对各地分区分级做出调整。同时提醒广大群众，要提高防范意识，做好个人防护，保护好自己和家人的健康。如出现发热、咳嗽等急性呼吸道症状，要及时到当地定点医疗机构发热门诊就诊。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8eGvnuPdAb64IsyV1eyq200517&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589676057000",
             "title": "武汉市所有医院恢复日常医疗服务",
             "summary": "5月16日早上7时50分，随着第一位患者张先生出示预约记录，通过现场扫码、测量体温后，走进武汉大学人民医院东院区门诊心血管内科余锂镭教授的诊室，该院区在历经110天抗击新冠肺炎疫情后正式全面恢复。这标志着武汉市医疗全面恢复正常秩序。",
@@ -78,15 +87,6 @@
             "summary": "2020 年 5 月 16 日，吉林市免去了 5 名干部职务：免去刘世君同志吉林市卫生健康委员会副主任、党委常委职务。免去岳晓燕同志舒兰市卫生健康局局长、党委书记职务。免去耿建军同志舒兰市公安局党委副书记、政委职务。免去刘韩印同志舒兰市疾病预防控制中心主任职务。免去徐子彪同志吉林市丰满区疾病预防控制中心主任职务。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6MYlOFZuvFp6HvDmwrUM200516&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589632373000",
-            "title": "黑龙江从业人员健康证怎么办？核酸检测+抗体检测一个都不能少！",
-            "summary": "为有效做好疫情防控和复工复产，特殊时期各单位要求返岗人员进行健康检查，检查后由专业机构出具健康证明方可上岗。据了解，目前哈尔滨市市级从业人员健康体检已下放各区办理，各企业需持营业执照到所在区卫生机构，免费办理健康证。核酸+抗体检测费用自理，健康证检查免费。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmHulpM3x9hIPmm7bGG5200516&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
