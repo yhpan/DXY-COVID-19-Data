@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589732208000",
+            "title": "日本新增新冠肺炎确诊病例27例，累计16337例",
+            "summary": "据日本NHK电视台报道，当地时间5月17日0:00至23:30，日本国内新冠肺炎确诊病例新增27例，累计确诊病例达16337例。死亡新增8人，累计达756人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589725055000",
             "title": "印度18日起将再实施两周全国封锁，铁路民航等仍停运",
             "summary": "印度政府当地时间今天（17日）下午发布消息说，印度将继续实施两周的全国封锁。封锁期间，航空、铁路、公路和地铁都将关闭。餐厅、酒店仍然不能营业。各邦之间的客运交通是否通行由各邦之间协商决定。",
@@ -78,15 +87,6 @@
             "summary": "目前，北京全市能够进行核酸检测的机构增加到70所，日检验检测能力最高到达51000份，实际发生最高日检测需求29000份。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij14b0WsBNpZZBfKle3FD200517&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589706413000",
-            "title": "首尔梨泰院夜店新冠肺炎确诊病例增至168例，此波疫情已基本得到控制",
-            "summary": "据韩国中央防疫对策本部当地时间17日通报，截至当天中午12时，与首尔梨泰院夜店相关的确诊病例增至168例，较前一天增加6例，单日新增确诊病例已经大幅减少。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii7z24tu7qjMt2RwfGyiU200517&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
