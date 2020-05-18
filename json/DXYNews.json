@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589781038000",
+            "title": "舒兰市进一步加强疫情防控 实行最严格管控措施",
+            "summary": "今天（18日），吉林舒兰市发布进一步加强疫情防控实行最严格管控措施的通告。自5月18日12时起，在舒兰市进一步加强疫情防控工作，实施最严格管控措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589777504000",
             "title": "福建5月20日起下调新冠病毒检测临时项目价格 严禁扩大收费范围",
             "summary": "日前，福建省医疗保障局发布关于调整新冠病毒检测临时项目价格的通知。5月20日起，福建全省公立医疗机构新冠病毒核酸检测项目价格由200元调整为130元，新冠病毒抗体检测项目价格由80元调整为50元。\n通知明确新冠病毒核酸检测、新冠病毒抗体检测收费标准，包含相关耗材、诊断试剂、提取试剂等费用。",
@@ -78,15 +87,6 @@
             "summary": "当地时间17日周日，秘鲁总统比斯卡拉在卫生部长萨莫拉陪同下对该国南部塔克纳大区进行视察时表示，为进一步巩固新冠肺炎病毒防控成效，在本月24日全国紧急状态结束后，政府或将继续维持部分当前执行的限制性举措。比斯卡拉称，在没有完全消灭新冠肺炎病毒之前，人们必须努力适应这种新常态下的生活。目前，秘鲁全国实行宵禁政策，大部分地区的宵禁时间从每天20时开始，结束时间为次日凌晨4时。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589739946000",
-            "title": "土耳其或于5月底重启国内旅游业",
-            "summary": "据土耳其阿纳多卢通讯社17日报道，土耳其文旅部部长埃尔索伊表示，计划5月28日开始重启国内旅游业，6月中旬以后重启国际旅游业。埃尔索伊强调该计划会以土耳其疫情不会恶化以及人们遵守防疫规定为基础。他还表示，土耳其已经制定了重开酒店的详细计划。土耳其总统埃尔多安5月初表示，将于5月-7月间放宽限制，逐步恢复正常生活。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD3DkNLBgfRTvhLpJ21V200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
