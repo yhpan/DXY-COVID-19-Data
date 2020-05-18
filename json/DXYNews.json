@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1589808447000",
+            "title": "​俄罗斯达吉斯坦疫情恶化，普京下令紧急应对",
+            "summary": "5月18日，俄罗斯总统普京召开达吉斯坦疫情特别会议，目前达吉斯坦地区的疫情形势刻不容缓，必须采取紧急措施加以应对。他命令俄卫生部制定达吉斯坦抗疫计划。要求俄消费者权益保护与公益监督局对该地区疫情进行持续监控。下令俄紧急情况部立即组织针对达吉斯坦公共场所的大规模消毒工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0inTlcIQAZr4Dm4pAA8Q200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1589807105000",
+            "title": "携手抗疫，中国企业与埃塞俄比亚共战疫情",
+            "summary": "中国和埃塞一直都保持着紧密的伙伴关系，新冠肺炎疫情暴发以来，两国间相互支持，并肩作战。中国政府多次向埃塞俄比亚捐赠医疗设备和物资，从国内派出的首批赴非洲抗疫医疗专家组就是赴埃塞的专家组。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJZVX8alPj206F9eSoOTI200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589803761000",
             "title": "科威特新增新冠肺炎确诊病例841例 累计确诊15691例",
             "summary": "当地时间5月18日，科威特卫生部宣布，在过去24小时，该国新增841例新冠肺炎确诊病例，246例治愈病例和6例死亡病例。目前，科威特累计确诊病例15691例，累计治愈4339例，累计死亡118例。近期，科威特新冠肺炎确诊病例加速增长。为防控疫情蔓延，科威特5月10日至30日在全国范围内实施24小时禁足令。",
@@ -69,24 +87,6 @@
             "summary": "日前，福建省医疗保障局发布关于调整新冠病毒检测临时项目价格的通知。5月20日起，福建全省公立医疗机构新冠病毒核酸检测项目价格由200元调整为130元，新冠病毒抗体检测项目价格由80元调整为50元。\n通知明确新冠病毒核酸检测、新冠病毒抗体检测收费标准，包含相关耗材、诊断试剂、提取试剂等费用。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589771406000",
-            "title": "天津初高中非毕业班以及小学高年级复课",
-            "summary": "今天（18日）上午，天津初高中非毕业班以及小学四五六年级开始复课。各学校采取错峰入学、分班就餐、“一生一案”等措施，帮助学生循序渐进复课。早上7点30分左右，记者在天津南开区中心小学门口看到，1200余名学生已经开始分年级分班级错峰入校。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilhlsO28JpJdsTJPK5nQu200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589770133000",
-            "title": "回家！161名海外学子从加拿大乘包机抵达沈阳",
-            "summary": "5月16日16:48，一架从加拿大温哥华飞来的东航MU7054包机航班，搭载着161名海外学子安全抵达沈阳桃仙国际机场。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL97te32FZyianrSFpjIy200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
