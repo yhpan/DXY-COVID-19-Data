@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589796176000",
+            "title": "权威发布！上海市中小学放暑假时间定了！",
+            "summary": "经研究决定，上海市基础教育各学段2019学年第二学期暑假开始时间安排如下：小学本学期至2020年6月30日结束，7月1日起放暑假；初中本学期至2020年7月7日结束，7月8日起放暑假；高中本学期至2020年7月14日结束，7月15日起放暑假。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEwlPa7rNDEvPdSFgKkI4200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589788767000",
             "title": "阿联酋进一步放宽疫情限制措施 重开公园和海滩人行道",
             "summary": "据阿联酋官方通讯社报道称，阿联酋迪拜市政府称将从5月18日起重新开放迪拜70个公园，并宣布重新开放休闲胜地朱美拉海滩人行道。\n同时作为预防病毒传播的措施，在公园内的活动和聚会必须限于五人以下。当局敦促公民和居民遵守必要的预防措施来遏制新冠病毒的传播，去朱美拉海滩休闲的民众应戴口罩和手套，并保持安全的社交距离。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月17日，阿根廷卫生部公布数据，该国新增新冠肺炎确诊病例263例，累计达8068例；新增死亡病例10例，累计达373例。在确诊病例中，首都布宜诺斯艾利斯及周边地区的贫民区仍然是受影响最为严重的地区。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589759822000",
-            "title": "内蒙古18日最新通报：新增4例境外输入确诊病例",
-            "summary": "2020年5月17日7时至5月18日7时，内蒙古自治区报告无新增本土确诊病例、疑似病例，无新增境外输入疑似病例。新增境外输入确诊病例4例（均由首都机场国际航班分流至呼和浩特白塔国际机场，其中1例为之前的疑似病例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDvptnsWEnfWRQrn9al3U200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
