@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589777504000",
+            "title": "福建5月20日起下调新冠病毒检测临时项目价格 严禁扩大收费范围",
+            "summary": "日前，福建省医疗保障局发布关于调整新冠病毒检测临时项目价格的通知。5月20日起，福建全省公立医疗机构新冠病毒核酸检测项目价格由200元调整为130元，新冠病毒抗体检测项目价格由80元调整为50元。\n通知明确新冠病毒核酸检测、新冠病毒抗体检测收费标准，包含相关耗材、诊断试剂、提取试剂等费用。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiW6oke1kAzHy70iGJvpZA200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589771406000",
             "title": "天津初高中非毕业班以及小学高年级复课",
             "summary": "今天（18日）上午，天津初高中非毕业班以及小学四五六年级开始复课。各学校采取错峰入学、分班就餐、“一生一案”等措施，帮助学生循序渐进复课。早上7点30分左右，记者在天津南开区中心小学门口看到，1200余名学生已经开始分年级分班级错峰入校。",
@@ -78,15 +87,6 @@
             "summary": "据土耳其阿纳多卢通讯社17日报道，土耳其文旅部部长埃尔索伊表示，计划5月28日开始重启国内旅游业，6月中旬以后重启国际旅游业。埃尔索伊强调该计划会以土耳其疫情不会恶化以及人们遵守防疫规定为基础。他还表示，土耳其已经制定了重开酒店的详细计划。土耳其总统埃尔多安5月初表示，将于5月-7月间放宽限制，逐步恢复正常生活。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD3DkNLBgfRTvhLpJ21V200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589732208000",
-            "title": "日本新增新冠肺炎确诊病例27例，累计16337例",
-            "summary": "据日本NHK电视台报道，当地时间5月17日0:00至23:30，日本国内新冠肺炎确诊病例新增27例，累计确诊病例达16337例。死亡新增8人，累计达756人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiYhSh0iMIfWo8RcSAK6W200517&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
