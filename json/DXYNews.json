@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589784228000",
+            "title": "与21人密切接触！上海市卫健委公布昨日新增1例湖北来沪确诊病例行动轨迹",
+            "summary": "在今天（18日）下午举行的上海市疫情防控领导小组新闻发布会上，上海市卫健委介绍：5月17日0时至24时，新增1例湖北来沪新冠肺炎确诊病例。该确诊病例为湖北籍，常住湖北省潜江市，5月14日晚乘火车来沪求职，当晚乘地铁2号线至麦居宾馆，5月15日主动前往东方医院南院申请实验室检测，因血清学检测结果为阳性，当日即被医疗机构隔离留观，其后出现症状。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589781038000",
             "title": "舒兰市进一步加强疫情防控 实行最严格管控措施",
             "summary": "今天（18日），吉林舒兰市发布进一步加强疫情防控实行最严格管控措施的通告。自5月18日12时起，在舒兰市进一步加强疫情防控工作，实施最严格管控措施。",
@@ -78,15 +87,6 @@
             "summary": "从5月18日0时开始，捷克共和国因新冠肺炎疫情暴发于3月12日开始实施的国家紧急状态正式结束，紧急状态一共持续了66天。紧急状态结束后，部分疫情防控措施依然有效：民众需要在公共场所佩戴口罩并保持社交距离，5月25日之前餐厅或动物园的室内部分仍将保持关闭状态等等。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiywB0Lvup44zslKGfKc6b200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589752445000",
-            "title": "秘鲁新冠肺炎确诊病例累计超过9万例，紧急状态结束后或继续维持限制性举措",
-            "summary": "当地时间17日周日，秘鲁总统比斯卡拉在卫生部长萨莫拉陪同下对该国南部塔克纳大区进行视察时表示，为进一步巩固新冠肺炎病毒防控成效，在本月24日全国紧急状态结束后，政府或将继续维持部分当前执行的限制性举措。比斯卡拉称，在没有完全消灭新冠肺炎病毒之前，人们必须努力适应这种新常态下的生活。目前，秘鲁全国实行宵禁政策，大部分地区的宵禁时间从每天20时开始，结束时间为次日凌晨4时。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFnrZSTXIEYhq07h8mPUn200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
