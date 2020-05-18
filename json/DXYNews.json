@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589818004000",
+            "title": "世卫组织：全球新冠肺炎超过461万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月18日13时08分(北京时间5月18日19时08分)，全球确诊新冠肺炎4619477例，死亡311847例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyxeVKLz9p6wBv22YFloC200519&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589816339000",
             "title": "美国得克萨斯州养老院新冠肺炎死亡病例超过500例",
             "summary": "当地时间5月18日，据得克萨斯州卫生服务部最新数据显示，在该州的318家养老院中，新冠肺炎确诊病例数为3103例，其中509人死亡，占整个得克萨斯州新冠肺炎死亡病例人数的38%。",
@@ -78,15 +87,6 @@
             "summary": "在今天（18日）下午举行的上海市疫情防控领导小组新闻发布会上，上海市卫健委介绍：5月17日0时至24时，新增1例湖北来沪新冠肺炎确诊病例。该确诊病例为湖北籍，常住湖北省潜江市，5月14日晚乘火车来沪求职，当晚乘地铁2号线至麦居宾馆，5月15日主动前往东方医院南院申请实验室检测，因血清学检测结果为阳性，当日即被医疗机构隔离留观，其后出现症状。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3kRsBVD8fPJxq3V73m33200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589781038000",
-            "title": "舒兰市进一步加强疫情防控 实行最严格管控措施",
-            "summary": "今天（18日），吉林舒兰市发布进一步加强疫情防控实行最严格管控措施的通告。自5月18日12时起，在舒兰市进一步加强疫情防控工作，实施最严格管控措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihF0RBvSXTArdk9cxvmeg200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
