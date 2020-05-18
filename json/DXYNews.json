@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1589798042000",
+            "title": "第73届世界卫生大会今天开幕",
+            "summary": "当地时间5月18日，第73届世界卫生大会在日内瓦开幕。受全球新冠肺炎大流行影响，本次大会以网络远程会议形式举行，并缩短至两天。今年大会期间，会员国将主要针对应对新冠肺炎疫情发言，报告在抗击疫情方面取得的进展，分享疫情变化形势。此外，还会选举执行委员会部分成员。世卫组织表示，根据疫情发展，考虑于今年晚些时间重新召开世卫大会，讨论其他领域议题。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVUYWxWEQgRfRnZi7hNGi200518&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1589796176000",
             "title": "权威发布！上海市中小学放暑假时间定了！",
             "summary": "经研究决定，上海市基础教育各学段2019学年第二学期暑假开始时间安排如下：小学本学期至2020年6月30日结束，7月1日起放暑假；初中本学期至2020年7月7日结束，7月8日起放暑假；高中本学期至2020年7月14日结束，7月15日起放暑假。",
@@ -78,15 +87,6 @@
             "summary": "5月17日0一24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例7例，其中境外输入病例4例（内蒙古4例），本土病例3例（吉林2例，上海1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（上海1例）。当日新增治愈出院病例11例，解除医学观察的密切接触者246人，重症病例减少2例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibxViTSWXWyno2vl50Ang200518&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1589760576000",
-            "title": "阿根廷新冠肺炎确诊病例总数超过8000 将对贫民区进行全面筛查",
-            "summary": "当地时间5月17日，阿根廷卫生部公布数据，该国新增新冠肺炎确诊病例263例，累计达8068例；新增死亡病例10例，累计达373例。在确诊病例中，首都布宜诺斯艾利斯及周边地区的贫民区仍然是受影响最为严重的地区。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti59wbfx2pxopau8C56MkO200518&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
