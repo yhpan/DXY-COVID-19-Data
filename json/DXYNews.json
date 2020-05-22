@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590145263000",
+            "title": "美媒：美国总统曾暗示美国流感比新冠疫情严重",
+            "summary": "美国媒体报道称，在意大利和韩国开始积极应对疫情之后，美国政府却拒绝取消竞选集会，也没有让人们留在家中或避免聚集。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZIzYoUiXc3p8EmhBEy8200522&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590142030000",
             "title": "环印度洋联盟举办抗击疫情专题视频会议 多国呼吁合作抗疫",
             "summary": "5月21日，环印度洋联盟轮值主席国阿联酋外交部与联盟秘书处共同举办抗击疫情视频会议，南非、科摩罗、毛里求斯、印度、印度尼西亚、澳大利亚等17个成员国和中国、美国、法国、德国等8个对话伙伴国代表与会，就疫情形势及防控、疫苗研发、国际抗疫合作等议题交换意见。",
@@ -78,15 +87,6 @@
             "summary": "日本总务省22日公布的4月全国消费者物价指数（生鲜食品除外）为101.6，较上年同期下降0.2%。这是2016年12月以来的首次下降。新冠肺炎疫情导致原油价格暴跌和个人消费低迷，成为压低指数的主要原因。据共同社消息，许多市场人士预计该指数当前一段时间将持续同比下跌。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqyBuyaDYCNTVntgfvc4M200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590122941000",
-            "title": "澳大利亚新南威尔士州餐馆待客数量将上调至50人",
-            "summary": "根据澳大利亚新南威尔士州州长贝雷吉克利安22日表示，由于近期州内新冠疫情较稳，该州餐馆、酒吧、咖啡店等经营场所从6月1日起，将被准许可同时接待客人数量从10人的上限上调至50人，这是自上周五准许餐馆、酒吧恢复营业后再一次放松防控措施。人数上限尽管调整，但相关社交距离的限制仍不会放松。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir4z6gDHqQD2zKMeNXHn8200522&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
