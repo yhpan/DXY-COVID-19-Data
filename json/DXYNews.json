@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1590157620000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过499万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月22日15时34分(北京时间5月22日21时34分)，全球确诊新冠肺炎确诊病例4993470例，死亡327738例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590153589000",
+            "title": "英国新增3287例新冠肺炎确诊病例 ,累计254195例",
+            "summary": "据英国卫生与社会保障部消息，截至当地时间5月22日9时，英国新冠肺炎确诊病例单日新增病例3287例，累计确诊病例254195例；截至当地时间5月21日17时，单日新增死亡病例351例，累计死亡36393例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artik6EhskM798uWpugNFZdF200522&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590152956000",
+            "title": "西班牙首都马德里将于25日进入紧急状态降级的第一阶段",
+            "summary": "当地时间22日，西班牙卫生部批准了马德里大区于5月25日进入降级的第一阶段，同时进入降级第一阶段的还有巴塞罗那市以及卡斯蒂亚莱昂大区。根据西班牙官方公告规定，在降级的第一阶段，餐馆和酒吧可重新开放50%的室外座位，400平方米以下的小商铺恢复营业，民众允许举行10人以下的室内聚会，以及15人以下的室外聚会。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMmdQyGHvSvqw4rG3GFLT200522&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590150696000",
             "title": "国际移民组织：基于事实和科学 反对仇外、歧视和污名化",
             "summary": "当地时间22日，总部位于日内瓦的国际移民组织发表声明表示，新冠肺炎疫情大流行期间的恐惧和不确定性是可以理解的，但这种恐惧不应成为仇外和种族主义的理由。",
@@ -60,33 +87,6 @@
             "summary": "当地时间21日，美国总统特朗普视察密歇根州福特工厂，在接受记者采访时仍拒绝佩戴口罩，而此前，不管是福特公司还是该州官员都提出了希望他戴口罩的要求。当被记者问及为何不戴口罩，特朗普自称在镜头外曾戴口罩，“我不想让媒体看到我戴口罩而感到快乐”。福特工厂本周早些时候就告诉白宫方面，该工厂规定所有人必须佩戴口罩，不过“白宫有自己的政策，并将自行决定”。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqVaRQtnmHHoxVnwjasCn200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590136769000",
-            "title": "​德国新增460例新冠肺炎确诊病例 累计达177212例",
-            "summary": "德国疾控机构罗伯特·科赫研究所公布的数据显示，截至当地时间22日0时，德国新冠肺炎确诊病例累计达177212例，较前一日增加460例，累计死亡病例8174例，较前一日增加27例，累计治愈病例约159000例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibzclgrL4T4jKtUL4puZG200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590134340000",
-            "title": "国际货币基金组织将对约旦提供3.96亿美元紧急财政援助",
-            "summary": "当地时间5月22日，国际货币基金组织执行委员会通过约旦提出的紧急财政援助申请，将根据“快速融资机制”向该国提供3.96亿美元的经济援助。据约旦媒体报道称，该笔融资主要用于应对新冠肺炎疫情对该国造成的冲击，可满足约四分之一因疫情导致的相关融资需求。自疫情暴发以来，约旦采取多项措施，包括宵禁和扩大医疗卫生支出，并实施部分措施缓解当地企业和个人的财政压力。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwjFcjMQctPIkIGMCZAv3200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590125791000",
-            "title": "马来西亚再度严格禁止进行跨州移动 以防新冠肺炎疫情的蔓延",
-            "summary": "近日，马来西亚出现有人在跨州返乡后确诊新冠肺炎。因此，政府宣布即日（22日）起加强执法，不再接受跨州移动申请，也严禁人民“偷渡”到别州，一旦被发现将被处罚。马来西亚政府早前放宽行动管制令，允许民众跨州返回工作岗位，以及分处两地的夫妻跨州团聚，但禁止民众在即将来临的开斋节回乡过节。不过，一些民众却违反规定乘机偷偷返乡。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2eqJTb6pDsJLpupjoZWj200522&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
