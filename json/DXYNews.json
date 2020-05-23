@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590214351000",
+            "title": "缅甸连续超过五天无本地新增新冠肺炎确诊病例",
+            "summary": "缅甸自 5 月 18 日至今，连续超过五天无本地新增新冠肺炎确诊病例，本地传播基本得到控制。近日来，缅甸的新增新冠肺炎确诊病例都是在撤侨过程中产生的输入病例，在隔离观察中发现。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5FpmGzlESrMSmyJdstgI200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590204767000",
+            "title": "世卫组织：南美已经成为疫情的新震中",
+            "summary": "当地时间 5 月 22 日，世卫组织卫生紧急项目负责人迈克尔·瑞安表示，南美很多国家的新冠肺炎确诊数在不断增加，从某种意义上说，南美已成为新冠疫情新震中。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikmXjZflWxXmf0H4ShRgn200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590202527000",
             "title": "匈牙利前总理：中国疫情得到控制 经济将快速恢复",
             "summary": "2020年中国两会的召开受到全世界的广泛关注。5月22日，匈牙利前总理迈杰希在接受总台记者采访时表示，两会的召开是疫情得到控制的标志，他对中国经济的快速恢复充满信心。\n迈杰希对政府工作报告中关于疫情防控成果深表赞同，他表示，中国全国上下团结一心，采取果断措施防控疫情，展现出中国社会高效的运行管理能力。 ",
@@ -69,24 +87,6 @@
             "summary": "根据加拿大各省和地区当地时间22日公布的新冠肺炎疫情统计数据，截至22日19时00分，加拿大新增1138例新冠肺炎确诊病例，累计达82480例，新增98例死亡病例，累计达6250例。加拿大疫情总体上继续稳定，人口第一大省安大略省的新增病例连续数日持续少量增加。安大略省新增441例新冠确诊病例，累计确诊24628例，新增28例死亡病例，累计死亡2021例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590187832000",
-            "title": "智利累计确诊61857例新冠肺炎病例 将向困难家庭发放救助",
-            "summary": "当地时间5月22日，智利总统皮涅拉宣布正式启动“智利食品救助”计划，将向智利全国困难家庭发放250万个“食品与卫生用品篮子”。预计在本周末内，首都圣地亚哥大区内的困难家庭就会收到救助，国内其他地区的发放也会陆续展开。皮涅拉说，该计划是对数百万个急需帮助的智利家庭的支持和帮助，是国内多个部门和行业共同努力的结果。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590179374000",
-            "title": "世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童",
-            "summary": "当地时间5月22日，世卫组织、联合国儿童基金会与全球疫苗免疫联盟共同预警，受新冠肺炎疫情影响，三四月间，在129个国家中，53%出现中度到重度儿童常规疫苗服务中断或完全停滞，影响至少68个国家的约8000万1岁以下儿童，导致其面临白喉、麻疹等疾病危险。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
