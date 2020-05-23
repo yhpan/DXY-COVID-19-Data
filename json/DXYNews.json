@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590235965000",
+            "title": "荷兰新增新冠肺炎确诊病例176例，累计45064例",
+            "summary": "据荷兰公共卫生与环境研究院5月23日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例176例，累计确诊45064例。其中住院治疗病例新增10例，累计已收治11659例。死亡病例新增23例，累计死亡5811例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVvEV7UYhvh3ikpVYt9o8200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590232776000",
             "title": "《柳叶刀》刊文指出：美总统推荐药不安全",
             "summary": "针对新冠肺炎，美国总统特朗普曾表示，用于治疗疟疾的药物羟氯喹可以用来治疗新冠肺炎，并声称他自己正在使用这一药物以预防新冠肺炎。国际权威医学杂志《柳叶刀》日前刊登的一篇论文指出，研究没有发现羟氯喹对治疗新冠肺炎有益处，相反，使用羟氯喹会增加患者死亡的风险。",
@@ -78,15 +87,6 @@
             "summary": "2020年中国两会的召开受到全世界的广泛关注。5月22日，匈牙利前总理迈杰希在接受总台记者采访时表示，两会的召开是疫情得到控制的标志，他对中国经济的快速恢复充满信心。\n迈杰希对政府工作报告中关于疫情防控成果深表赞同，他表示，中国全国上下团结一心，采取果断措施防控疫情，展现出中国社会高效的运行管理能力。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfja4UCt5yfFDUsRH3lF200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590200807000",
-            "title": "霍乱、登革热、疟疾等多种传染病在也门同时暴发",
-            "summary": "也门在4月10日发现首例新冠肺炎确诊病例之后，疫情在也门全国扩散。截止到5月22日，也门全国感染新冠肺炎确诊人数达209例，死亡33例。在新冠肺炎疫情暴发的同时，霍乱、登革热、疟疾等传染病最近一段时间也在也门相继出现。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5USIRAIq2WGYurVFgj33200523&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
