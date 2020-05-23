@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590202527000",
+            "title": "匈牙利前总理：中国疫情得到控制 经济将快速恢复",
+            "summary": "2020年中国两会的召开受到全世界的广泛关注。5月22日，匈牙利前总理迈杰希在接受总台记者采访时表示，两会的召开是疫情得到控制的标志，他对中国经济的快速恢复充满信心。\n迈杰希对政府工作报告中关于疫情防控成果深表赞同，他表示，中国全国上下团结一心，采取果断措施防控疫情，展现出中国社会高效的运行管理能力。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfja4UCt5yfFDUsRH3lF200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590200807000",
+            "title": "霍乱、登革热、疟疾等多种传染病在也门同时暴发",
+            "summary": "也门在4月10日发现首例新冠肺炎确诊病例之后，疫情在也门全国扩散。截止到5月22日，也门全国感染新冠肺炎确诊人数达209例，死亡33例。在新冠肺炎疫情暴发的同时，霍乱、登革热、疟疾等传染病最近一段时间也在也门相继出现。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5USIRAIq2WGYurVFgj33200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590196339000",
             "title": "乌拉圭疫情控制良好 将分地区分阶段复课",
             "summary": "当地时间5月22日，根据乌拉圭卫生部发布的最新疫情数据，该国新冠肺炎确诊病例单日新增12例，累计确诊753例；现有病例130例，累计治愈603例，累计死亡20例。乌拉圭是南美洲疫情控制较好的国家之一。日前，乌拉圭总统拉卡列·波乌在新闻发布会上宣布，将从6月1日起，分阶段、分地区地恢复国内各级学校的线下上课，特别是对那些无法远程上课的学生开展教学，保证他们跟上教学进度，学生可自愿选择是否返校上课。",
@@ -69,24 +87,6 @@
             "summary": "当地时间5月22日，世卫组织、联合国儿童基金会与全球疫苗免疫联盟共同预警，受新冠肺炎疫情影响，三四月间，在129个国家中，53%出现中度到重度儿童常规疫苗服务中断或完全停滞，影响至少68个国家的约8000万1岁以下儿童，导致其面临白喉、麻疹等疾病危险。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590178282000",
-            "title": "美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加",
-            "summary": "美国的曼迪普·梅拉（Mandeep R. Mehra）等4名各国科学家22日在国际医学杂志《柳叶刀》上发表论文表示，对于全球多个国家9600多个因新冠病毒感染而入院治疗的患者的治疗分析发现，使用含有羟氯喹或氯喹（同时使用或未使用大环内酯）的治疗方案，对于新冠病毒感染患者的治疗无益处，相反，反而会增加室性心律失常和院内死亡的危险。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590160680000",
-            "title": "世卫组织总干事：全球新冠肺炎确诊病例超过500万例",
-            "summary": "当地时间5月22日，世卫组织总干事谭德塞在世卫组织新冠肺炎例行发布会上表示，全球新冠肺炎病例已超500万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
