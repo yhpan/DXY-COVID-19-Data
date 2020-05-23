@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590196339000",
+            "title": "乌拉圭疫情控制良好 将分地区分阶段复课",
+            "summary": "当地时间5月22日，根据乌拉圭卫生部发布的最新疫情数据，该国新冠肺炎确诊病例单日新增12例，累计确诊753例；现有病例130例，累计治愈603例，累计死亡20例。乌拉圭是南美洲疫情控制较好的国家之一。日前，乌拉圭总统拉卡列·波乌在新闻发布会上宣布，将从6月1日起，分阶段、分地区地恢复国内各级学校的线下上课，特别是对那些无法远程上课的学生开展教学，保证他们跟上教学进度，学生可自愿选择是否返校上课。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg3ldFHlTZO93E9gB37c200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590194418000",
             "title": "欧洲多国新冠肺炎疫情持续趋缓",
             "summary": "随着疫情防控措施的推进，5月22日，欧洲多国疫情持续趋缓。当地时间5月22日，西班牙新冠肺炎确诊病例累计达234824例，单日新增确诊病例446例，累计死亡病例达28628例，单日新增死亡病例56例，单日新增死亡病例连续6天在100例以下。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月22日，世卫组织总干事谭德塞在世卫组织新冠肺炎例行发布会上表示，全球新冠肺炎病例已超500万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti82htHsTtkvuRQHZ61XwQ200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590157620000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过499万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月22日15时34分(北京时间5月22日21时34分)，全球确诊新冠肺炎确诊病例4993470例，死亡327738例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artivu5MNxKcI86NPpCiIILU200522&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
