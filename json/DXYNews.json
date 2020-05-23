@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1590189558000",
+            "title": "加拿大新增1138例新冠肺炎确诊病例 累计82480例",
+            "summary": "根据加拿大各省和地区当地时间22日公布的新冠肺炎疫情统计数据，截至22日19时00分，加拿大新增1138例新冠肺炎确诊病例，累计达82480例，新增98例死亡病例，累计达6250例。加拿大疫情总体上继续稳定，人口第一大省安大略省的新增病例连续数日持续少量增加。安大略省新增441例新冠确诊病例，累计确诊24628例，新增28例死亡病例，累计死亡2021例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqY8Wo1kmWx5It0AVAiNH200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590187832000",
+            "title": "智利累计确诊61857例新冠肺炎病例 将向困难家庭发放救助",
+            "summary": "当地时间5月22日，智利总统皮涅拉宣布正式启动“智利食品救助”计划，将向智利全国困难家庭发放250万个“食品与卫生用品篮子”。预计在本周末内，首都圣地亚哥大区内的困难家庭就会收到救助，国内其他地区的发放也会陆续展开。皮涅拉说，该计划是对数百万个急需帮助的智利家庭的支持和帮助，是国内多个部门和行业共同努力的结果。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZW7P48OkSgvhlKO0yv21200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590179374000",
+            "title": "世卫组织：常规疫苗服务受阻影响8000万1岁以下儿童",
+            "summary": "当地时间5月22日，世卫组织、联合国儿童基金会与全球疫苗免疫联盟共同预警，受新冠肺炎疫情影响，三四月间，在129个国家中，53%出现中度到重度儿童常规疫苗服务中断或完全停滞，影响至少68个国家的约8000万1岁以下儿童，导致其面临白喉、麻疹等疾病危险。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIc81IRTxUjHX8HWecw3V200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590178282000",
+            "title": "美国等国科学家发表论文称羟氯喹治疗新冠会导致死亡增加",
+            "summary": "美国的曼迪普·梅拉（Mandeep R. Mehra）等4名各国科学家22日在国际医学杂志《柳叶刀》上发表论文表示，对于全球多个国家9600多个因新冠病毒感染而入院治疗的患者的治疗分析发现，使用含有羟氯喹或氯喹（同时使用或未使用大环内酯）的治疗方案，对于新冠病毒感染患者的治疗无益处，相反，反而会增加室性心律失常和院内死亡的危险。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizFnhWKf1iUQrxJOvs8iu200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590160680000",
             "title": "世卫组织总干事：全球新冠肺炎确诊病例超过500万例",
             "summary": "当地时间5月22日，世卫组织总干事谭德塞在世卫组织新冠肺炎例行发布会上表示，全球新冠肺炎病例已超500万例。",
@@ -51,42 +87,6 @@
             "summary": "美国媒体报道称，在意大利和韩国开始积极应对疫情之后，美国政府却拒绝取消竞选集会，也没有让人们留在家中或避免聚集。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMZIzYoUiXc3p8EmhBEy8200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590142030000",
-            "title": "环印度洋联盟举办抗击疫情专题视频会议 多国呼吁合作抗疫",
-            "summary": "5月21日，环印度洋联盟轮值主席国阿联酋外交部与联盟秘书处共同举办抗击疫情视频会议，南非、科摩罗、毛里求斯、印度、印度尼西亚、澳大利亚等17个成员国和中国、美国、法国、德国等8个对话伙伴国代表与会，就疫情形势及防控、疫苗研发、国际抗疫合作等议题交换意见。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHE9jk3qiJZyyohrPGIMY200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590141397000",
-            "title": "伊朗新增新冠肺炎确诊病例2311例 累计131652例",
-            "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2311例，新增死亡51例。截至当地时间22日中午，伊朗累计确诊新冠肺炎病例131652例，其中102276例康复，7300例死亡，2659例重症。截至22号，伊朗累计进行了763913次检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw28mLc7cWpTNvgZRMo4W200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590141000000",
-            "title": "世卫组织：全球新冠肺炎病例超过496万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月22日9时06分（北京时间5月22日15时06分），全球确诊新冠肺炎病例4962707例，死亡326459例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN4lm2XxeVd4cU8BgRknE200522&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590138459000",
-            "title": "​新加坡新增614例新冠肺炎确诊病例 累计达30426例",
-            "summary": "5月22日新加坡卫生部宣布，截至当天中午12时新加坡新增614例新冠肺炎确诊病例，累计达30426例。绝大多数新增病例来自外籍劳工宿舍区，有4例为新加坡公民和永久居民。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilytPDRwHbAx12AkBOQBy200522&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
