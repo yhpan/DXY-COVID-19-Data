@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590232776000",
+            "title": "《柳叶刀》刊文指出：美总统推荐药不安全",
+            "summary": "针对新冠肺炎，美国总统特朗普曾表示，用于治疗疟疾的药物羟氯喹可以用来治疗新冠肺炎，并声称他自己正在使用这一药物以预防新冠肺炎。国际权威医学杂志《柳叶刀》日前刊登的一篇论文指出，研究没有发现羟氯喹对治疗新冠肺炎有益处，相反，使用羟氯喹会增加患者死亡的风险。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9QMF72OmPUbBBaebCnKZ200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590231106000",
+            "title": "印度央行再度降息以缓解疫情冲击",
+            "summary": "印度央行当地时间5月22日召开紧急会议并宣布了今年的第二度降息，以应对新冠疫情带来的经济冲击。印度央行22日宣布将回购利率下调40个基点至4%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq4vejPHtYnWGpfTilFsc200523&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590223642000",
             "title": "专访陈静瑜：给新冠肺炎危重症患者做肺移植是「举全国之力」",
             "summary": "2020 年 5 月 22 日，十三届全国人大三次会议在北京开幕。本届全国人大代表中，有不少曾亲历武汉抗疫一线，其中就包括无锡市人民医院副院长陈静瑜。过去几个月，陈静瑜和他的团队在无锡和武汉两地，完成了 4 台新冠肺炎危重症患者的肺移植手术，为新冠肺炎危重症患者打开了又一道生命的希望之门。陈静瑜表示「我们真的是不计成本全力以赴地救助了每一个病人」。",
@@ -69,24 +87,6 @@
             "summary": "也门在4月10日发现首例新冠肺炎确诊病例之后，疫情在也门全国扩散。截止到5月22日，也门全国感染新冠肺炎确诊人数达209例，死亡33例。在新冠肺炎疫情暴发的同时，霍乱、登革热、疟疾等传染病最近一段时间也在也门相继出现。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5USIRAIq2WGYurVFgj33200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590196339000",
-            "title": "乌拉圭疫情控制良好 将分地区分阶段复课",
-            "summary": "当地时间5月22日，根据乌拉圭卫生部发布的最新疫情数据，该国新冠肺炎确诊病例单日新增12例，累计确诊753例；现有病例130例，累计治愈603例，累计死亡20例。乌拉圭是南美洲疫情控制较好的国家之一。日前，乌拉圭总统拉卡列·波乌在新闻发布会上宣布，将从6月1日起，分阶段、分地区地恢复国内各级学校的线下上课，特别是对那些无法远程上课的学生开展教学，保证他们跟上教学进度，学生可自愿选择是否返校上课。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPg3ldFHlTZO93E9gB37c200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590194418000",
-            "title": "欧洲多国新冠肺炎疫情持续趋缓",
-            "summary": "随着疫情防控措施的推进，5月22日，欧洲多国疫情持续趋缓。当地时间5月22日，西班牙新冠肺炎确诊病例累计达234824例，单日新增确诊病例446例，累计死亡病例达28628例，单日新增死亡病例56例，单日新增死亡病例连续6天在100例以下。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3pr2SeWbFwtC0drYBVpm200523&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
