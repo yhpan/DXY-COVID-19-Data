@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590310061000",
+            "title": "王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资",
+            "summary": "此次疫情期间，“一带一路”的许多基础设施和民生项目都为抗疫发挥了重要作用。在本地区大面积断航停航情况下，中欧班列1-4月开行数和发货量同比上升24%和27%，累计运送近8000吨抗疫物资，成为欧亚大陆之间名副其实的“生命之路”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590301551000",
+            "title": "阿联酋华人爱心社为1000名外籍劳工发放“爱心包”",
+            "summary": "当地时间5月23日，阿联酋华人爱心社在迪拜德拉娜莎广场为1000名外籍劳工发放了生活用品和防疫物资。这批物资包括大米、洗发水、肥皂等生活用品以及一次性防护口罩、洗手液等防护用品。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixaJWLD6hmKKJMSLUlyHE200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590296459000",
             "title": "缅甸新冠肺炎确诊病例中超过一半为无症状患者",
             "summary": "据缅甸卫生部提供的数据，在缅甸目前已经确诊的201名新冠肺炎确诊病例中，有121例为无症状患者，占总数的61%。",
@@ -69,24 +87,6 @@
             "summary": "当地时间5月23日，据赞比亚当地媒体报道，赞比亚信息与广播部长兼政府首席发言人多拉·西利亚女士新冠病毒检测呈阳性，目前她已经在家自主隔离，尚未出现新冠肺炎症状。多拉·西利亚已通知赞比亚卫生部她在过去10天的所有密切接触者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibXrGN05XdoK8HLklWVDM200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590259697000",
-            "title": "欧洲感染新冠病毒人数超200万 俄英西意法五国占比超2/3",
-            "summary": "根据法新社统计，截止到当地时间23日18点，北京时间24日0点，欧洲新冠病毒感染人数累计超过了200万人。法新社表示，该统计按照各国官方数字计算，其中三分之二的病例来自俄罗斯、英国、西班牙、意大利和法国五个国家。具体数字上，至少有2001995人感染，其中173133人死亡。欧洲也成为受新冠病毒影响最为严重的大洲。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis09KlxMuweCtIMUAbVO5200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590253718000",
-            "title": "巴西或将通过法案以减少原住民感染新冠肺炎的风险",
-            "summary": "该法案提议，禁止外部人士进入地处偏远的原始部落，尽量减少原住民感染新冠肺炎的风险，并提议保障为原住民治疗新冠肺炎的医疗队、药物和测试，以及在必要时将原住民送往重症监护室的方案。原始部落人员聚集、医疗条件差，原住民对于病毒几乎没有抵抗力。截至目前，至少有23名原住民死于新冠肺炎。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artikv6nqlMgfKahxsvlDQk1200523&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
