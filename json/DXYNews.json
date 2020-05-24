@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590357193000",
+            "title": "南非全国从6月1日起进入三级防控状态",
+            "summary": "当地时间5月24日晚，南非总统拉马福萨发表全国演说宣布南非全国从6月1日起进入三级防控状态。政府将监控开普敦、约翰内斯堡、比勒陀利亚等全国感染热点地区。这些地区疫情如果恶化，不排除将热点地区级别升回四级甚至五级。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYDxfWDGNBUMjCKMslUWT200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590343848000",
+            "title": "世卫组织：全球新冠肺炎累计确诊5206614例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月24日19时07分（北京时间5月25日1时07分），全球确诊新冠肺炎病例5206614例，死亡337736例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AnzHYqyMDnSADPVjGhE200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590334619000",
             "title": "白宫经济顾问：美国5月失业率将达20%，6月会更高",
             "summary": "当地时间5月24日，美国白宫经济顾问凯文·哈塞特表示，5月份的失业率或将达20%，预计6月份失业率将比5月份更高，但之后“应该会开始下降”。哈塞特在接受美国有线电视新闻网采访时指出，美国失业率在今年11月以前仍可能保持两位数，需要一段时间才能下降，且美国不可能在9月或10月前恢复到充分就业状态。但同时哈塞特也表示，“各地经济复苏迹象明显”，若有疫苗出现则可能情况会有所改善。",
@@ -69,24 +87,6 @@
             "summary": "疫情发生以来，中国外交部和驻外使领馆为了帮助解决海外中国同胞遇到的困难做了大量工作。王毅表示，外交部12308领保热线保持24小时运转，努力畅通海外中国公民求助的绿色通道。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590310061000",
-            "title": "王毅：中欧班列疫情期间开行提升24%，运送近8000吨防疫物资",
-            "summary": "此次疫情期间，“一带一路”的许多基础设施和民生项目都为抗疫发挥了重要作用。在本地区大面积断航停航情况下，中欧班列1-4月开行数和发货量同比上升24%和27%，累计运送近8000吨抗疫物资，成为欧亚大陆之间名副其实的“生命之路”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7teEMEYYVqm69HjWnGWW200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590301551000",
-            "title": "阿联酋华人爱心社为1000名外籍劳工发放“爱心包”",
-            "summary": "当地时间5月23日，阿联酋华人爱心社在迪拜德拉娜莎广场为1000名外籍劳工发放了生活用品和防疫物资。这批物资包括大米、洗发水、肥皂等生活用品以及一次性防护口罩、洗手液等防护用品。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixaJWLD6hmKKJMSLUlyHE200524&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
