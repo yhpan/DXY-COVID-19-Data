@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590296459000",
+            "title": "缅甸新冠肺炎确诊病例中超过一半为无症状患者",
+            "summary": "据缅甸卫生部提供的数据，在缅甸目前已经确诊的201名新冠肺炎确诊病例中，有121例为无症状患者，占总数的61%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifIpDUlsKp8tl1uXcB7BH200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590289500000",
             "title": "疫情形势好转之后能够出现报复性消费？国家发改委：恢复性消费是肯定的",
             "summary": "24日上午，国务院新闻办公室举行新闻发布会，国家发展改革委副主任宁吉喆在回答总台央视记者提问时表示，全国社会消费品零售总额4月同比下降7.5%，降幅比3月收窄8.3个百分点，这也说明随着经济持续恢复和复工复产的推进，我国消费规模扩大和结构升级的大趋势没有改变，相信5月的消费数据还会更好一些。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月23日14时42分(北京时间5月23日20时42分)，全球确诊新冠肺炎病例5103006例，死亡333401例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUJfXz1PnyxFyYrEn2tu1200523&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590243081000",
-            "title": "澳大利亚昆士兰州政府将集中精力应对新冠疫情，暂缓申办2032年奥运会",
-            "summary": "23日，昆士兰州州长安娜斯塔西娅·帕拉什丘克向媒体表示，昆士兰州政府将集中精力应对新冠疫情，有关布里斯班申办2032年奥运会的工作暂缓。帕拉什丘克州长同时向媒体解释说，“我们正在集中精力搞恢复经济，但这仅仅是暂缓，不要过多解读。”",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXfhaqwD7xvqIFdROGLrL200523&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
