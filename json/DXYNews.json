@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590320974000",
+            "title": "首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据",
+            "summary": "截至5月23日，新冠病毒在全球范围已造成超过510万人感染，33余万人死亡。面对这场来势凶猛的疫情，疫苗研发的进展备受世界关注。22日，中国研究团队在英国医学期刊《柳叶刀》发表了世界首个新冠病毒疫苗人体试验结果，I期临床试验结果显示这种疫苗是安全的，且能够诱导人体快速产生免疫应答。全国政协委员、中国科学院院士饶子和称，毫无疑问，我国科学家的研究工作为国际抗疫工作提供了重要的科学依据。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590318045000",
+            "title": "白俄罗斯新冠肺炎确诊病例累计超过36198例",
+            "summary": "5月24日，白俄罗斯卫生部发布消息，过去24小时，该国新增954例新冠肺炎确诊病例，累计确诊36198例。此外，该国当天新增5例死亡病例，累计达199例，新增627例治愈病例，累计达到14155例。截至目前，白俄罗斯共进行了超过45万次新冠病毒核酸检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590316017000",
             "title": "德国法兰克福出现聚集性疫情，超40人确诊",
             "summary": "据德国媒体当地时间23日报道，德国法兰克福市一所教堂两周前的一场活动，已经导致至少40人感染新冠病毒。当地卫生部门负责人称，目前感染者中已有6人住院。",
@@ -69,24 +87,6 @@
             "summary": "为帮助秘鲁应对新冠肺炎疫情，应秘鲁政府请求，并考虑到秘方当前抗疫实际需要，5月23日，中国政府派遣的抗疫医疗专家组抵达秘鲁首都利马。驻秘鲁大使梁宇、秘卫生部长萨莫拉、秘外交部抗疫国际合作工作组组长洛佩斯大使等到机场迎接。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS17lFDUM1DEAKHpo3gII200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590279789000",
-            "title": "国家卫健委：5月23日新增确诊病例3例",
-            "summary": "5月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，其中境外输入病例2例（上海1例，广东1例），本土病例1例（在吉林）；无新增死亡病例；新增疑似病例3例，均为境外输入病例（均在内蒙古）。当日新增治愈出院病例3例，解除医学观察的密切接触者280人，重症病例减少1例。　　",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4508022532121233",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590276611000",
-            "title": "毛里求斯总统：中国的支持彰显团结精神",
-            "summary": "当地时间5月22日，毛里求斯总统鲁蓬表示，当新冠肺炎疫情在毛里求斯暴发后，中国各部门对毛方抗疫提供了大力支持，如今疫情在毛得到有效控制，毛方感谢中国，特别感谢中国驻毛里求斯大使馆所做的大量协调工作。中国的善举彰显了团结精神。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMz8NT1LpJgxVqevoNxI0200524&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
