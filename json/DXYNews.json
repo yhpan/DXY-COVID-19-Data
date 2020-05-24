@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590334619000",
+            "title": "白宫经济顾问：美国5月失业率将达20%，6月会更高",
+            "summary": "当地时间5月24日，美国白宫经济顾问凯文·哈塞特表示，5月份的失业率或将达20%，预计6月份失业率将比5月份更高，但之后“应该会开始下降”。哈塞特在接受美国有线电视新闻网采访时指出，美国失业率在今年11月以前仍可能保持两位数，需要一段时间才能下降，且美国不可能在9月或10月前恢复到充分就业状态。但同时哈塞特也表示，“各地经济复苏迹象明显”，若有疫苗出现则可能情况会有所改善。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5mZhk1qRMUQXlRGncgc200524&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590333260000",
             "title": "日本新增42例新冠肺炎确诊病例，累计确诊16611例",
             "summary": "据日本NHK电视台报道，当地时间5月24日0:00至23:30，日本国内新冠肺炎确诊病例新增42例，累计确诊16611例。新增死亡14例，累计死亡839例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月23日，阿联酋华人爱心社在迪拜德拉娜莎广场为1000名外籍劳工发放了生活用品和防疫物资。这批物资包括大米、洗发水、肥皂等生活用品以及一次性防护口罩、洗手液等防护用品。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixaJWLD6hmKKJMSLUlyHE200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590296459000",
-            "title": "缅甸新冠肺炎确诊病例中超过一半为无症状患者",
-            "summary": "据缅甸卫生部提供的数据，在缅甸目前已经确诊的201名新冠肺炎确诊病例中，有121例为无症状患者，占总数的61%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifIpDUlsKp8tl1uXcB7BH200524&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
