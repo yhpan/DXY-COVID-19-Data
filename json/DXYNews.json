@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590368764000",
+            "title": "智利新冠肺炎确诊病例超6.9万，全国医疗资源几近极限",
+            "summary": "当地时间5月24日，智利新增新冠肺炎确诊病例3709例，累计确诊69102例；新增死亡45人，累计死亡718人；累计28148名患者治愈出院。目前，圣地亚哥首都区仍是智利疫情最严重的地区，集中了全国约80%的确诊病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ1RFIKehFu2xNxdASTDL200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590368257000",
+            "title": "截至5月24日24时新型冠状病毒肺炎疫情最新情况",
+            "summary": "5月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例11例，均为境外输入病例（内蒙古10例，四川1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例7例，解除医学观察的密切接触者461人，重症病例减少1例。",
+            "infoSource": "中国卫健委",
+            "sourceUrl": "http://www.nhc.gov.cn/xcs/yqtb/202005/6dfa144edbb743b6898ff5f6a6206b3a.shtml",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590365965000",
             "title": "阿根廷新冠肺炎确诊病例累计12076例 首都地区加强防控措施",
             "summary": "当地时间5月24日，根据阿根廷卫生部发布的最新数据，该国24小时内新冠肺炎确诊病例新增723例，其中494例来自首都布宜诺斯艾利斯市。截至目前，该国累计确诊12076例，累计死亡452例。该国84%的地区近14天内未报告新增病例。",
@@ -69,24 +87,6 @@
             "summary": "据荷兰公共卫生与环境研究院5月24日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例172例，累计确诊45236例。其中住院治疗病例新增13例，累计已收治11672例。死亡病例新增11例，累计死亡5822例。另据荷兰媒体报道，自疫情暴发以来，荷兰累计已有2853名病患进入重症监护室接受救治，目前重症监护室中还有227人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2geNv7OjFwKldDJNxSNV200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590320974000",
-            "title": "首个新冠病毒疫苗人体试验安全，中科院院士：中国科学家为国际抗疫提供重要科学依据",
-            "summary": "截至5月23日，新冠病毒在全球范围已造成超过510万人感染，33余万人死亡。面对这场来势凶猛的疫情，疫苗研发的进展备受世界关注。22日，中国研究团队在英国医学期刊《柳叶刀》发表了世界首个新冠病毒疫苗人体试验结果，I期临床试验结果显示这种疫苗是安全的，且能够诱导人体快速产生免疫应答。全国政协委员、中国科学院院士饶子和称，毫无疑问，我国科学家的研究工作为国际抗疫工作提供了重要的科学依据。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijLNWEQhxGSrXRGrnCxaT200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590318045000",
-            "title": "白俄罗斯新冠肺炎确诊病例累计超过36198例",
-            "summary": "5月24日，白俄罗斯卫生部发布消息，过去24小时，该国新增954例新冠肺炎确诊病例，累计确诊36198例。此外，该国当天新增5例死亡病例，累计达199例，新增627例治愈病例，累计达到14155例。截至目前，白俄罗斯共进行了超过45万次新冠病毒核酸检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
