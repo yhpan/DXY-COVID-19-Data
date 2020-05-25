@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590420521000",
+            "title": "俄罗斯将从6月1日起解除对境内游的限制性措施",
+            "summary": "当地时间25日，俄罗斯副总理德米特里·切尔尼申科就恢复境内旅游业召开特别会议。切尔尼申科在会上表示，俄罗斯境内旅游因新冠肺炎疫情已遭受了1.5亿卢布的损失，目前俄罗斯已经有23个联邦主体符合俄联邦消费者权益保障和公益监督局提出的第一阶段解除限制性措施的条件。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590419161000",
+            "title": "俄罗斯总统新闻秘书佩斯科夫康复出院",
+            "summary": "当地时间25日，此前感染新冠肺炎的俄罗斯总统佩斯科夫康复出院。本月12日，佩斯科夫及其夫人双双确诊感染新冠肺炎并住院接受治疗。22日其夫人已经康复出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590417664000",
             "title": "世卫组织：全球新冠肺炎确诊病例超过530万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月25日10时（北京时间5月25日16时），全球确诊新冠肺炎病例5304772例，死亡342029例。",
@@ -69,24 +87,6 @@
             "summary": "据荷兰公共卫生与环境研究院5月25日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例209例，累计确诊45445例。其中住院治疗病例新增8例，累计已收治11680例。死亡病例新增8例，累计死亡5830例。另据荷兰媒体报道，自疫情暴发以来，荷兰累计已有2853名病患进入重症监护室接受救治。目前重症监护室中还有223人，为3月17日以来的最低水平。（总台记者 邹合义）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1RwKhRqcMwyDZgdf4x0q200525&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590409097000",
-            "title": "外交部：新冠病毒疫苗研发不是中美之争 而是人类与病毒之争",
-            "summary": "据报道，美国总统国家安全事务助理奥布莱恩日前表示，美国将是全世界第一个有能力生产新冠病毒疫苗的国家。奥同时称中国正在“窃取”美国相关研究成果。对此，在今天（25日）举行的中国外交部例行记者会上，发言人赵立坚表示，美方的说法毫无根据。事实上，中方在研发新冠病毒疫苗方面取得了重大进展。中国支持各国就新冠肺炎疫情加强信息分享，交流防控有益经验和做法，开展疫苗药物研发等领域国际合作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq1U4IEOc9UUUIRt4eA7s200525&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590407785000",
-            "title": "卡塔尔新增1751例新冠肺炎确诊病例 累计确诊45465例",
-            "summary": "卡塔尔公共卫生部5月25日下午对外公布，在过去的24小时中，共进行了4314例新冠病毒肺炎测试，新增确诊1751例，累计确诊病例达45465例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6RnsKpE6h3HY8iP1X3Xr200525&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
