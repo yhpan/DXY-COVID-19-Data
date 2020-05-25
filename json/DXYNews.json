@@ -10,6 +10,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1590384130000",
+            "title": "湖北各高校毕业年级6月8日起按错时错峰、自愿原则返校",
+            "summary": "湖北省新型冠状病毒感染肺炎疫情防控指挥部5月24日发布通告：为统筹推进学校疫情防控和复学复课工作，根据湖北省疫情防控形势和国内外疫情走势，经省新型冠状病毒感染肺炎疫情防控指挥部研究决定，现就湖北省高校春季学期开学时间安排通告如下：6月8日起，各高校可以安排现居住境内毕业年级（含高职、本、硕、博）和有科研任务的学生按照错时错峰、自愿原则返校。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipkWv6oxVlORJWShIUCzS200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590382877000",
             "title": "疫情期间特事特办 司法部为常态化疫情防控新阶段提供有力法治保障",
             "summary": "5月24日，全国人大代表、司法部部长唐一军表示，司法行政部门将主动作为、尽心履职，更好地运用法治思维和法治方式，从立法、执法、普法各环节着力推进依法防控的相关工作。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月24日，根据阿根廷卫生部发布的最新数据，该国24小时内新冠肺炎确诊病例新增723例，其中494例来自首都布宜诺斯艾利斯市。截至目前，该国累计确诊12076例，累计死亡452例。该国84%的地区近14天内未报告新增病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590364980000",
-            "title": "内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例",
-            "summary": "2020年5月24日7时至5月25日7时，内蒙古自治区报告无新增输入本土确诊病例、疑似病例，无新增境外输入疑似病例。新增境外输入确诊病例10例、治愈出院2例（均由首都机场国际航班分流至呼和浩特白塔国际机场，其中2例确诊病例为之前的疑似病例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
