@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590365965000",
+            "title": "阿根廷新冠肺炎确诊病例累计12076例 首都地区加强防控措施",
+            "summary": "当地时间5月24日，根据阿根廷卫生部发布的最新数据，该国24小时内新冠肺炎确诊病例新增723例，其中494例来自首都布宜诺斯艾利斯市。截至目前，该国累计确诊12076例，累计死亡452例。该国84%的地区近14天内未报告新增病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqzL3fMveBvjPH8mK6p7W200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590364980000",
+            "title": "内蒙古5月25日通报：新增新冠肺炎境外输入确诊病例10例",
+            "summary": "2020年5月24日7时至5月25日7时，内蒙古自治区报告无新增输入本土确诊病例、疑似病例，无新增境外输入疑似病例。新增境外输入确诊病例10例、治愈出院2例（均由首都机场国际航班分流至呼和浩特白塔国际机场，其中2例确诊病例为之前的疑似病例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3Q9gYtObnr6Rt0Kf8AH2200525&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590357193000",
             "title": "南非全国从6月1日起进入三级防控状态",
             "summary": "当地时间5月24日晚，南非总统拉马福萨发表全国演说宣布南非全国从6月1日起进入三级防控状态。政府将监控开普敦、约翰内斯堡、比勒陀利亚等全国感染热点地区。这些地区疫情如果恶化，不排除将热点地区级别升回四级甚至五级。",
@@ -69,24 +87,6 @@
             "summary": "5月24日，白俄罗斯卫生部发布消息，过去24小时，该国新增954例新冠肺炎确诊病例，累计确诊36198例。此外，该国当天新增5例死亡病例，累计达199例，新增627例治愈病例，累计达到14155例。截至目前，白俄罗斯共进行了超过45万次新冠病毒核酸检测。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2zZb8NIVWqhnpSKH6HSu200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590316017000",
-            "title": "德国法兰克福出现聚集性疫情，超40人确诊",
-            "summary": "据德国媒体当地时间23日报道，德国法兰克福市一所教堂两周前的一场活动，已经导致至少40人感染新冠病毒。当地卫生部门负责人称，目前感染者中已有6人住院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticeqebVmfEQhfFWxAhXam200524&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590310742000",
-            "title": "海外中国公民求助绿色通道：外交部12308领保热线24小时运转",
-            "summary": "疫情发生以来，中国外交部和驻外使领馆为了帮助解决海外中国同胞遇到的困难做了大量工作。王毅表示，外交部12308领保热线保持24小时运转，努力畅通海外中国公民求助的绿色通道。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiApmzW7I97ulbCCJtcOgx200524&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
