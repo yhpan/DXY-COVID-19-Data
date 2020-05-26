@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590462763000",
+            "title": "香港特首强烈谴责针对香港维护国家安全立法的暴力行为",
+            "summary": "5月26日，香港特区行政长官林郑月娥举行记者会时指出，近日对于香港维护国家安全立法，香港各界高度关注，有很多市民对于中央要由国家层面进行在香港维护国家安全的立法工作表示充分支持与理解。对于5月24日发生的针对香港维护国家安全立法的暴力事件，林郑月娥代表特区政府予以强烈谴责，并向暴力事件里受伤的两名普通市民表示慰问。林郑月娥表示，“香港维护国家安全立法”的宪制和法律基础，是坚实稳固、不容置疑的，完全",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHvd4egNy7e7w7594CjNY200526&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590462559000",
+            "title": "香港国际机场将于6月1日恢复转机服务",
+            "summary": "5月26日，香港特区行政长官林郑月娥举行记者会时表示，根据疫情防控的最新进展，政府将进一步放宽限制措施。香港国际机场将于6月1日起，适度恢复转机服务。不过入境限制措施暂时仍维持不变。此前因“限聚令”被限制营业的卡拉OK、夜总会、洗浴场所等，可于5月29日重新营业。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiE6dqOZdvRHi67WYZ6usD200526&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590460108000",
             "title": "上海昨日无新增本地新冠肺炎确诊病例，新增境外输入1例，治愈出院4例",
             "summary": "5月25日0—24时，通过口岸联防联控机制，报告1例境外输入性新冠肺炎确诊病例。新增治愈出院4例，其中来自日本3例，来自英国1例。病例为中国籍，在英国留学，5月22日自英国出发，经斯里兰卡转机后于5月23日抵达上海浦东国际机场，入关后即被隔离观察，期间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。该境外输入性确诊病例已转至定点医疗机构救治，已追踪同航班的密切接触者44人，均已落实集中隔离观察。",
@@ -69,24 +87,6 @@
             "summary": "当地时间25日，俄罗斯副总理德米特里·切尔尼申科就恢复境内旅游业召开特别会议。切尔尼申科在会上表示，俄罗斯境内旅游因新冠肺炎疫情已遭受了1.5亿卢布的损失，目前俄罗斯已经有23个联邦主体符合俄联邦消费者权益保障和公益监督局提出的第一阶段解除限制性措施的条件。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590419161000",
-            "title": "俄罗斯总统新闻秘书佩斯科夫康复出院",
-            "summary": "当地时间25日，此前感染新冠肺炎的俄罗斯总统佩斯科夫康复出院。本月12日，佩斯科夫及其夫人双双确诊感染新冠肺炎并住院接受治疗。22日其夫人已经康复出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOAZuNfWKEXtoVOXTqyK200525&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590417664000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过530万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月25日10时（北京时间5月25日16时），全球确诊新冠肺炎病例5304772例，死亡342029例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPv3eOQIuUWNLijlNblkf200525&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
