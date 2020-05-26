@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590468364000",
+            "title": "泰国新增3例新冠肺炎确诊病例 累计确诊3045例",
+            "summary": "当地时间5月26日，泰国新冠肺炎防控中心通报了最新疫情数据。与上一日相比新增了3例新冠肺炎确诊病例。截止到当地时间5月26日上午，泰国累计确诊3045例，其中死亡病例累计57例，治愈2929例，59例留院治疗。（总台记者 骆魏）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMI6xguUXoHA38lJ2XuHM200526&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590462763000",
             "title": "香港特首强烈谴责针对香港维护国家安全立法的暴力行为",
             "summary": "5月26日，香港特区行政长官林郑月娥举行记者会时指出，近日对于香港维护国家安全立法，香港各界高度关注，有很多市民对于中央要由国家层面进行在香港维护国家安全的立法工作表示充分支持与理解。对于5月24日发生的针对香港维护国家安全立法的暴力事件，林郑月娥代表特区政府予以强烈谴责，并向暴力事件里受伤的两名普通市民表示慰问。林郑月娥表示，“香港维护国家安全立法”的宪制和法律基础，是坚实稳固、不容置疑的，完全",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月25日，英国首相鲍里斯·约翰逊在英国政府每日疫情新闻发布会上宣布了其重新开放零售业的计划，以便相关行业提前做好准备。约翰逊说，政府计划从6月1日起开放户外市场和汽车展示厅。他还补充说：“从6月15日起，我们（政府）打算允许所有其他非必需零售店重新开放。”",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590420521000",
-            "title": "俄罗斯将从6月1日起解除对境内游的限制性措施",
-            "summary": "当地时间25日，俄罗斯副总理德米特里·切尔尼申科就恢复境内旅游业召开特别会议。切尔尼申科在会上表示，俄罗斯境内旅游因新冠肺炎疫情已遭受了1.5亿卢布的损失，目前俄罗斯已经有23个联邦主体符合俄联邦消费者权益保障和公益监督局提出的第一阶段解除限制性措施的条件。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5gpQ1dLAoU5HlBpXx6Z2200525&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
