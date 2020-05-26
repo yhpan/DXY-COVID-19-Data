@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590475479000",
+            "title": "首尔梨泰院夜店疫情发生7次传播 相关确诊病例升至255例",
+            "summary": "韩国中央防疫对策本部5月26日通报，截至当地时间当天中午12时，与梨泰院夜店相关的新冠肺炎确诊患者在24小时内增加了18例，累计相关病例达到255例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8UoZ0wva8XzNI39WqZk200526&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590468364000",
             "title": "泰国新增3例新冠肺炎确诊病例 累计确诊3045例",
             "summary": "当地时间5月26日，泰国新冠肺炎防控中心通报了最新疫情数据。与上一日相比新增了3例新冠肺炎确诊病例。截止到当地时间5月26日上午，泰国累计确诊3045例，其中死亡病例累计57例，治愈2929例，59例留院治疗。（总台记者 骆魏）",
@@ -78,15 +87,6 @@
             "summary": "当地时间25日，叙利亚政府宣布取消宵禁并放松其他疫情管制。叙利亚政府表示，在对目前叙境内的疫情进行全面评估以及在维护公众健康安全和重启经济间进行权衡后，叙利亚政府决定从当地时间26日晚开始取消此前实行的宵禁，并允许民众跨省通行，店铺的营业时间也允许相应延长。但公共聚集性质的活动仍被禁止，公园、文化中心等公共场所仍将继续关闭。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9I33KPWKCDpjaW14fxki200526&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590432583000",
-            "title": "英国将从6月15日起重新开放非必需零售店",
-            "summary": "当地时间5月25日，英国首相鲍里斯·约翰逊在英国政府每日疫情新闻发布会上宣布了其重新开放零售业的计划，以便相关行业提前做好准备。约翰逊说，政府计划从6月1日起开放户外市场和汽车展示厅。他还补充说：“从6月15日起，我们（政府）打算允许所有其他非必需零售店重新开放。”",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivL6lHWaUTD4M5sVlUowy200526&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
