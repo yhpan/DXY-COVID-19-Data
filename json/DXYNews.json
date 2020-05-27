@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590573499000",
+            "title": "伊朗新增新冠肺炎确诊病例2080例 累计141591例",
+            "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2080例，新增死亡56例。截至当地时间27日中午，伊朗累计确诊新冠肺炎病例141591例，其中111176例康复，7564例死亡，2551例重症。截至27日，伊朗累计进行了856546次检测。(总台记者 李健南 倪紫慧)",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqtpQn1ulpT6dWtkui76y200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590570190000",
             "title": "印尼新增686例新冠肺炎确诊病例 累计23851例",
             "summary": "5月27日，印尼卫生部宣布新增686例新冠肺炎确诊病例，全国累计确诊病例23851例，新增55例死亡病例，累计1473例死亡病例。另有6057人被治愈。（总台记者 贾建京）",
@@ -78,15 +87,6 @@
             "summary": "5月26日，中国驻埃及大使馆发布了一则“涉疫情信息通报”。通报称，据四川省卫健委消息，5月22日开罗斋月十日城某中国员工搭乘四川航空从成都入境后接受隔离医学观察，确诊感染新冠肺炎。使馆再次提醒在埃中国公民近期务必减少不必要外出，严禁前往人员密集场所，自我排查一切可能被感染的路径和渠道，严格做好个人防护和居室消毒杀菌，并积极配合埃方针对特定场所的防疫举措。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590528216000",
-            "title": "土耳其四天“禁足令”结束，近4.8万人未遵守禁令",
-            "summary": "当地时间5月26日24时，土耳其全国为期四天的“禁足令”结束。当天晚上土耳其内政部表示，四天“禁足令”期间，一共有47831人因违反禁令遭到了相关处罚。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitEZmumb6RFm0tlYbr1GK200527&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
