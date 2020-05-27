@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590582802000",
+            "title": "​国际劳工组织：新冠肺炎疫情对年轻人的影响更为突出",
+            "summary": "当地时间27日，总部位于瑞士日内瓦的国际劳工组织发布第四版疫情和劳动世界监测报告。此份最新的报告显示，自出现新冠肺炎疫情以来，全球有六分之一的年轻人已经停止工作，而那些仍在工作的年轻人的工作时间也减少了23％。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8MdaZ9AeNtLe1YxBxAVu200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590579598000",
+            "title": "美国新冠肺炎死亡人数逼近10万 残酷现实冲击民众",
+            "summary": "目前，美国新冠肺炎死亡病例超过98000例，正逼近10万关口，占到了全球累计死亡病例的近30%。包括多家美国媒体在内的外媒就此进行关注和回顾，展现几个月来各阶层的美国人因为严重疫情受到的影响，以及对美国政府应对疫情工作的不满。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artinsub2hRrzRFj4CSV9Lps200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590573499000",
             "title": "伊朗新增新冠肺炎确诊病例2080例 累计141591例",
             "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2080例，新增死亡56例。截至当地时间27日中午，伊朗累计确诊新冠肺炎病例141591例，其中111176例康复，7564例死亡，2551例重症。截至27日，伊朗累计进行了856546次检测。(总台记者 李健南 倪紫慧)",
@@ -69,24 +87,6 @@
             "summary": "据俄罗斯防疫指挥部当地时间5月26日的消息，过去24小时，俄罗斯新增新冠肺炎确诊病例8915例，累计确诊362342例。不过，在过去24小时内，约有12000名患者治愈。俄罗斯总统普京当天与国防部长绍伊古举行视频时表示，他了解到的专家意见认为，俄罗斯疫情高峰已过去。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifkwTEVA79hOJAUScOng5200527&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590538196000",
-            "title": "秘鲁第二大城市恢复公共交通后出现多处人群聚集情况",
-            "summary": "据秘鲁媒体报道，自当地时间25日周一起全国进入新一阶段紧急状态后，该国第二大城市阿雷基帕随之恢复了已暂停22天的公共交通网络。但随后在车站、银行、农贸市场及购物中心等多个场所立刻出现大量人群聚集情况，许多民众未能保持社交距离，引发担忧。秘鲁总统比斯卡拉在周一发表讲话时强调，民众应照顾好自己，出行始终戴口罩，并在公交车和地铁上保持社交安全距离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590535015000",
-            "title": "中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出",
-            "summary": "5月26日，中国驻埃及大使馆发布了一则“涉疫情信息通报”。通报称，据四川省卫健委消息，5月22日开罗斋月十日城某中国员工搭乘四川航空从成都入境后接受隔离医学观察，确诊感染新冠肺炎。使馆再次提醒在埃中国公民近期务必减少不必要外出，严禁前往人员密集场所，自我排查一切可能被感染的路径和渠道，严格做好个人防护和居室消毒杀菌，并积极配合埃方针对特定场所的防疫举措。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
