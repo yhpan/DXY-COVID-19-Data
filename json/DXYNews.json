@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590538196000",
+            "title": "秘鲁第二大城市恢复公共交通后出现多处人群聚集情况",
+            "summary": "据秘鲁媒体报道，自当地时间25日周一起全国进入新一阶段紧急状态后，该国第二大城市阿雷基帕随之恢复了已暂停22天的公共交通网络。但随后在车站、银行、农贸市场及购物中心等多个场所立刻出现大量人群聚集情况，许多民众未能保持社交距离，引发担忧。秘鲁总统比斯卡拉在周一发表讲话时强调，民众应照顾好自己，出行始终戴口罩，并在公交车和地铁上保持社交安全距离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQKJpIRk7vCz48UwEljJT200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590535015000",
+            "title": "中国驻埃及大使馆：埃及回国人员确诊新冠，提醒在埃中国公民减少非必要外出",
+            "summary": "5月26日，中国驻埃及大使馆发布了一则“涉疫情信息通报”。通报称，据四川省卫健委消息，5月22日开罗斋月十日城某中国员工搭乘四川航空从成都入境后接受隔离医学观察，确诊感染新冠肺炎。使馆再次提醒在埃中国公民近期务必减少不必要外出，严禁前往人员密集场所，自我排查一切可能被感染的路径和渠道，严格做好个人防护和居室消毒杀菌，并积极配合埃方针对特定场所的防疫举措。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5Tonq2VWA3tFpLA3SALl200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590528216000",
             "title": "土耳其四天“禁足令”结束，近4.8万人未遵守禁令",
             "summary": "当地时间5月26日24时，土耳其全国为期四天的“禁足令”结束。当天晚上土耳其内政部表示，四天“禁足令”期间，一共有47831人因违反禁令遭到了相关处罚。",
@@ -69,24 +87,6 @@
             "summary": "5月25日是美国阵亡将士纪念日，这天美媒报道了一名年纪已有100岁的二战老兵，因为他刚刚战胜了新冠肺炎。据美国媒体WMUR9报道，这几个月对百岁老人劳埃德·福尔克来说并不轻松。他和他的妻子此前都感染了新冠肺炎，不幸的是他的妻子在几周前去世了。但最终，福尔克却坚强地战胜了病毒。\n",
             "infoSource": "人民日报海外版",
             "sourceUrl": "http://m.weibo.cn/3057540037/4508892493030283",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590482372000",
-            "title": "菲律宾新增新冠肺炎确诊病例350例  累计确诊14669例",
-            "summary": "5月26日，菲律宾卫生部发布公告称，截至26日16时，菲律宾当天新增350例新冠肺炎确诊病例，确诊病例累计达14669例。此外，新增死亡病例13例，累计死亡886例；累计治愈人数为3412人。（总台记者 陶家乐）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijAICxFL1rhRIbyx1RHg7200526&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590480572000",
-            "title": "广西援鄂医疗队员梁小霞逝世 此前在武汉协和医院工作时晕倒昏迷",
-            "summary": "据广西壮族自治区卫生健康委员会消息，广西第七批援湖北省抗疫医疗队员、南宁市第六人民医院护士梁小霞同志，因病情危重，经全力抢救无效，于2020年5月26日12点27分在南宁不幸逝世。广西壮族自治区卫生健康委员会对梁小霞同志的不幸逝世表示沉痛哀悼，对梁小霞同志的家人和亲属表示诚挚慰问。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRgesA0MrtC04NzXhAv94200526&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
