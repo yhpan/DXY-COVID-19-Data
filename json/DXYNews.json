@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590558277000",
+            "title": "美国加州州立监狱接连暴发新冠肺炎疫情 致9名服刑人员死亡",
+            "summary": "根据加利福尼亚州惩教局5月26日的统计数据显示，查卡瓦拉山谷加州州立监狱于5月13日发现三名服刑人员的新冠病毒检测呈阳性后，又有107人被感染，这使查卡瓦拉山谷州立监狱成为州立监狱系统中最近两周内被感染人数最多的监狱。而在5月13日前，在查卡瓦拉山谷州州立监狱监禁的2306名男性服刑人员中，没发生任何新冠病毒感染事件发生。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1fi6IAkRc5dk3pSwrLSC200527&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590549958000",
             "title": "首部解密国家紧急医学救援队的科教片《移动医院》看片会举行",
             "summary": "首部全景式解密国家紧急医学救援队的科教片《移动医院》看片会近日举行，这部同济大学附属东方医院和上海东影传媒有限公司（上影集团科教电影制片厂）联合摄制的影片，有望经打磨后进入院线，让广大观众走进由上海医护人员组成的国家紧急医学救援队，了解他们在历次灾难、疫情中的援救行动。",
@@ -78,15 +87,6 @@
             "summary": "据《福克斯》财经频道报道，当地时间 26 日，美国纽约证券交易所交易大厅在关闭两个月之后重新开放。为防止新冠病毒传播，纽交所交易大厅于 3 月 23 日起正式关闭。重新开放之后，有四分之一的交易员允许回到场内。这些交易员必须佩戴口罩，避免乘坐公共交通，并严格遵守社交距离规定，交易大厅内新设置的有机玻璃隔断将帮助他们保持距离。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWq4YVoy3rJ1nr6JxxEyR200526&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590500700000",
-            "title": "教育部考试中心：取消 6 月托福、雅思等海外考试",
-            "summary": "教育部考试中心 26 日发布《关于调整 2020 年 6 月海外考试的通知》。鉴于海外考试考点所在高校尚未对外开放，近期不具备组考条件，经研究并商相关国外考试主办机构，决定取消 2020 年 6 月所有托福、雅思考试，考试费将全额退还至考生个人报名账户。GRE、GMAT 等考试同时被取消。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiziM1I2AYYgeFN98xqAPf200526&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
