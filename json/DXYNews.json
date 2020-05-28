@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590667731000",
+            "title": "中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程",
+            "summary": "中国政府赴阿尔及利亚抗疫医疗专家组圆满结束在阿尔及利亚的行程，于28日乘包机离开阿尔及利亚，前往苏丹，继续他们的抗疫经验交流之旅。中国驻阿尔及利亚大使李连和及阿尔及利亚多名政府官员专程到机场为医疗专家组送行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLSvsRoeW8RsIRYyVtlqC200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590660793000",
             "title": "世界卫生组织欧洲办事处：没有人是安全的 直到每个人都安全",
             "summary": "丹麦当地时间5月28日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，从发现第一例在欧洲确诊的新冠肺炎病例到现在刚好已经过去4个月了，我们不会丢下任何一个人。新冠肺炎疫情的暴发更加验证了一个基本的事实：当我们中的一个人缺乏健康和医疗保护，我们都有风险，没有人是安全的，直到每个人都安全。",
@@ -78,15 +87,6 @@
             "summary": "自英国新冠肺炎疫情暴发以来，不少民众质疑英国政府采取的抗疫措施，特别是没能建立起行之有效的病毒检测和追踪体系。5月27日，英国首相鲍里斯·约翰逊宣布，英国政府将从28日起，在英格兰地区启动新冠病毒检测和追踪体系。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590627777000",
-            "title": "福建昨日新增境外输入确诊病例1例",
-            "summary": "5月27日0—24时，福建省报告新增境外输入确诊病例1例，为美国输入（厦门市报告）。当日报告新增境外输入疑似病例0例。当日报告新增境外输入无症状感染者0例。截至5月27日24时，福建省累计报告境外输入确诊病例62例（已治愈出院60例、目前住院2例，无死亡病例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
