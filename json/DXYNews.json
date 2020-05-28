@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590627777000",
+            "title": "福建昨日新增境外输入确诊病例1例",
+            "summary": "5月27日0—24时，福建省报告新增境外输入确诊病例1例，为美国输入（厦门市报告）。当日报告新增境外输入疑似病例0例。当日报告新增境外输入无症状感染者0例。截至5月27日24时，福建省累计报告境外输入确诊病例62例（已治愈出院60例、目前住院2例，无死亡病例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqURg56pEO1RC2uh2TgIu200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590625728000",
             "title": "根据丁香园数据，美国新冠死亡人数超 10 万",
             "summary": "截止至北京时间 5 月 28 日，美国新冠肺炎确诊人数逼近 170 万，因新冠肺炎死亡人数已正式超过 10 万。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月27日，芬兰广播公司（YLE）报道，当携带新冠病毒的人在货架之间咳嗽时，含病毒的颗粒或气溶胶可以扩散到四米之外。这个结果在芬兰进行了广泛的研究，该模型模拟了含有新冠肺炎病毒的颗粒在室内的运动。参与这项研究项目的赫尔辛基大学助理教授塔利亚·西罗宁（Tarja Sironen）表示：“这让我感到惊讶，该病毒在气溶胶中的传播程度如此之高。”",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590592982000",
-            "title": "俄罗斯多地部队恢复胜利日阅兵彩排",
-            "summary": "当地时间5月27日俄罗斯国防部向媒体表示，俄罗斯各地部队已开始恢复训练为即将到来的6月24日阅兵活动做准备。据介绍，俄罗斯部队从今年年初就已经开始为纪念卫国战争胜利75周年阅兵式做准备，除了莫斯科红场以外，俄罗斯还将在伏尔加格勒、新罗西斯克、顿河畔罗斯托夫等多地举行阅兵活动。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFUjLhtcOJmrogdOrvuGC200527&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
