@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590647469000",
+            "title": "拉美新冠肺炎确诊病例超84万例 多国延长隔离措施",
+            "summary": "截至当地时间27日，拉美地区新冠肺炎确诊病例超过84万例，其中巴西累计确诊病例超过41万。由于目前的疫情仍在持续加剧，包括秘鲁、智利等国的医疗系统面临极大的挑战。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIjuwIIWCsYD6BfpiGaf200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590638917000",
             "title": "印度新增新冠肺炎确诊病例6566例 累计158333例",
             "summary": "据印度卫生部消息，截至当地时间28日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至158333例。其中死亡4531例，治愈出院67692例。在过去24小时内，印度共新增6566例确诊病例，新增死亡病例194例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间27日，莫斯科市政府发布行政命令，宣布将市民防疫居家隔离制度延长至6月14日。命令称，从6月1日起，莫斯科全市将执行更为严格的强制佩戴口罩制度，居民外出必需佩戴口罩。当天早些时候莫斯科市市长索比亚宁宣布，6月1日起莫斯科市政府决定允许市内所有商店营业。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590594345000",
-            "title": "英国首相鲍里斯·约翰逊：英国新冠病毒警报系统将从四级降至三级",
-            "summary": "当地时间5月27日，英国首相鲍里斯·约翰逊在接受议会下院联络委员会质询时表示，英国政府的新冠病毒警报系统将“从第四级降至第三级”，他将在本周内宣布进一步的信息。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIA8yzXVsYZf0WjgKwHS200527&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
