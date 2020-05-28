@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590680321000",
+            "title": "世卫组织：全球新冠肺炎超过559万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月28日14时51分(北京时间5月28日20时51分)，全球确诊新冠肺炎5593631例，死亡353334例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590673516000",
+            "title": "巴西失业率达12.6%，新增失业人数490万",
+            "summary": "巴西经济部下属的地理与统计研究所当地时间28日公布的报告数据显示，从今年2月起的三个月里，巴西新增失业人数490万，截至4月底全国失业人数累计达1280万，失业率达12.6%，是从去年3月以来失业率的最高点。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590672852000",
             "title": "印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例",
             "summary": "当地时间5月28日，位于印度孟买的塔拉维贫民窟新增新冠肺炎确诊病例36例，累计确诊病例升至1675例，累计死亡病例61例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
@@ -69,24 +87,6 @@
             "summary": "当地时间5月27日，中国政府抗疫医疗专家组在赤道几内亚卫生与社会福利部同赤几新冠病毒应对与监测技术委员会和世界卫生组织驻赤几代表处成员进行工作交流。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590647469000",
-            "title": "拉美新冠肺炎确诊病例超84万例 多国延长隔离措施",
-            "summary": "截至当地时间27日，拉美地区新冠肺炎确诊病例超过84万例，其中巴西累计确诊病例超过41万。由于目前的疫情仍在持续加剧，包括秘鲁、智利等国的医疗系统面临极大的挑战。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRIjuwIIWCsYD6BfpiGaf200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590638917000",
-            "title": "印度新增新冠肺炎确诊病例6566例 累计158333例",
-            "summary": "据印度卫生部消息，截至当地时间28日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至158333例。其中死亡4531例，治愈出院67692例。在过去24小时内，印度共新增6566例确诊病例，新增死亡病例194例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
