@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590650896000",
+            "title": "中国抗疫专家组与赤道几内亚卫生部门进行工作交流",
+            "summary": "当地时间5月27日，中国政府抗疫医疗专家组在赤道几内亚卫生与社会福利部同赤几新冠病毒应对与监测技术委员会和世界卫生组织驻赤几代表处成员进行工作交流。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRwcncvEDTGtyJdTsYXW4200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590647469000",
             "title": "拉美新冠肺炎确诊病例超84万例 多国延长隔离措施",
             "summary": "截至当地时间27日，拉美地区新冠肺炎确诊病例超过84万例，其中巴西累计确诊病例超过41万。由于目前的疫情仍在持续加剧，包括秘鲁、智利等国的医疗系统面临极大的挑战。",
@@ -78,15 +87,6 @@
             "summary": "德国计划从6月15日起逐步解除此前发出的全球旅行警告。根据一份有关促进欧洲境内旅游业发展措施的内部文件草案，第一批放开的31个国家包括欧盟的其他26个伙伴国、英国以及属于申根区但并非欧盟国家的冰岛、挪威、瑞士、列支敦士登。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590600067000",
-            "title": "莫斯科市政府：延长居家隔离制度至6月14日",
-            "summary": "当地时间27日，莫斯科市政府发布行政命令，宣布将市民防疫居家隔离制度延长至6月14日。命令称，从6月1日起，莫斯科全市将执行更为严格的强制佩戴口罩制度，居民外出必需佩戴口罩。当天早些时候莫斯科市市长索比亚宁宣布，6月1日起莫斯科市政府决定允许市内所有商店营业。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5ylcIj3KrKMhHufdtHkj200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
