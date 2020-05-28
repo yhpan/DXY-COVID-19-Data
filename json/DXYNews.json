@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590632768000",
+            "title": "英格兰将启动新冠病毒检测和追踪体系",
+            "summary": "自英国新冠肺炎疫情暴发以来，不少民众质疑英国政府采取的抗疫措施，特别是没能建立起行之有效的病毒检测和追踪体系。5月27日，英国首相鲍里斯·约翰逊宣布，英国政府将从28日起，在英格兰地区启动新冠病毒检测和追踪体系。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590627777000",
             "title": "福建昨日新增境外输入确诊病例1例",
             "summary": "5月27日0—24时，福建省报告新增境外输入确诊病例1例，为美国输入（厦门市报告）。当日报告新增境外输入疑似病例0例。当日报告新增境外输入无症状感染者0例。截至5月27日24时，福建省累计报告境外输入确诊病例62例（已治愈出院60例、目前住院2例，无死亡病例）。",
@@ -78,15 +87,6 @@
             "summary": "当地时间27日，瑞士联邦召开新闻发布会，宣布解除3月16日起执行的“紧急状态”。瑞士联邦主席索玛鲁加表示，3月中下旬，瑞士每天新增新冠肺炎感染人数一度升至1000多人，如今每天约有10—20例，是大家共同遵守卫生习惯和保持社交距离的结果。6月19日，联邦将评估决定是否继续保持“特别状态”。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibCz8vNEDxjfgX4HvWntr200527&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590593089000",
-            "title": "芬兰相关研究：咳嗽可以将新冠肺炎病毒传播至四米远",
-            "summary": "当地时间5月27日，芬兰广播公司（YLE）报道，当携带新冠病毒的人在货架之间咳嗽时，含病毒的颗粒或气溶胶可以扩散到四米之外。这个结果在芬兰进行了广泛的研究，该模型模拟了含有新冠肺炎病毒的颗粒在室内的运动。参与这项研究项目的赫尔辛基大学助理教授塔利亚·西罗宁（Tarja Sironen）表示：“这让我感到惊讶，该病毒在气溶胶中的传播程度如此之高。”",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifZqbc55htUxVdcIx9Luu200527&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
