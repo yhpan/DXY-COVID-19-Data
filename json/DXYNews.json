@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590672852000",
+            "title": "印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例",
+            "summary": "当地时间5月28日，位于印度孟买的塔拉维贫民窟新增新冠肺炎确诊病例36例，累计确诊病例升至1675例，累计死亡病例61例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590671422000",
+            "title": "加强新冠肺炎疫情防控，中非共和国将进一步采取措施",
+            "summary": "中非共和国政府总理菲尔曼·恩格雷巴达宣布：1. 对违反政府制定的公共卫生条例的人处以1个月零1天至3个月不等的拘留，罚款金额从1000 至5000 中非法郎不等。2. 从下周开始，在公共场所必须佩戴口罩，一千万个口罩将在全国范围内逐步分发。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590667731000",
             "title": "中国政府赴阿尔及利亚抗疫医疗专家组结束在阿行程",
             "summary": "中国政府赴阿尔及利亚抗疫医疗专家组圆满结束在阿尔及利亚的行程，于28日乘包机离开阿尔及利亚，前往苏丹，继续他们的抗疫经验交流之旅。中国驻阿尔及利亚大使李连和及阿尔及利亚多名政府官员专程到机场为医疗专家组送行。",
@@ -69,24 +87,6 @@
             "summary": "据印度卫生部消息，截至当地时间28日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至158333例。其中死亡4531例，治愈出院67692例。在过去24小时内，印度共新增6566例确诊病例，新增死亡病例194例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB50VGBsE7F30ecGW4xbG200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590636069000",
-            "title": "美国：政策存矛盾 鼓励失业者重返岗位遇难题",
-            "summary": "受新冠肺炎疫情影响，美国近几个月的失业率居高不下。有专家称，美国5月份的失业率可能将超20%。\n当地时间26日，白宫经济顾问拉里·库德洛称，白宫正在计划用发所谓“复工奖金”的方式，试图刺激失业者重返工作岗位。据了解，白宫正在研究的计划其主要内容是，如果失业人员能够重新上班，除了工资以外，还可以在有限的时间内为他们提供额外的奖金。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikXOfRtaFdl5WNSczLLRY200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590632768000",
-            "title": "英格兰将启动新冠病毒检测和追踪体系",
-            "summary": "自英国新冠肺炎疫情暴发以来，不少民众质疑英国政府采取的抗疫措施，特别是没能建立起行之有效的病毒检测和追踪体系。5月27日，英国首相鲍里斯·约翰逊宣布，英国政府将从28日起，在英格兰地区启动新冠病毒检测和追踪体系。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWGxYFFp7v9DJf74gKcUu200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
