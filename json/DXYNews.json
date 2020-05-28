@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590653177000",
+            "title": "英国载客量最大航空公司计划削减近三分之一工作岗位",
+            "summary": "受新冠肺炎疫情危机影响，当地时间5月28日，易捷航空宣布计划削减多达4500个工作岗位并缩减机队，这一裁员计划占该公司15000名员工的近三分之一，达到30％。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidF6MFq5ZR9RyGvw6DqyQ200528&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590650896000",
             "title": "中国抗疫专家组与赤道几内亚卫生部门进行工作交流",
             "summary": "当地时间5月27日，中国政府抗疫医疗专家组在赤道几内亚卫生与社会福利部同赤几新冠病毒应对与监测技术委员会和世界卫生组织驻赤几代表处成员进行工作交流。",
@@ -78,15 +87,6 @@
             "summary": "埃及媒体当地时间5月27日报道，阿斯旺省政府当天发表了一份声明，宣布副省长加达·叶海亚·阿布扎伊德新冠病毒检测结果阳性。阿斯旺省省长阿什拉夫·阿提亚少将表示，阿布扎伊德目前身体状况稳定，希望她早日康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQqPTeRWPV42Nhgzg2eWg200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590605433000",
-            "title": "德国将逐步解除全球旅行警告",
-            "summary": "德国计划从6月15日起逐步解除此前发出的全球旅行警告。根据一份有关促进欧洲境内旅游业发展措施的内部文件草案，第一批放开的31个国家包括欧盟的其他26个伙伴国、英国以及属于申根区但并非欧盟国家的冰岛、挪威、瑞士、列支敦士登。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqeQaHWYDHR1WP7af3rHM200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
