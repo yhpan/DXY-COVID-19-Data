@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590745818000",
+            "title": "法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划",
+            "summary": "当地时间29日，法国总理菲利普宣布多项措施帮助法国各市镇恢复经济，包括将建立7.5亿欧元的财政补偿计划，惠及1.2万至1.4万个法国市镇。同时政府还将额外拨出10亿欧元，帮助法国市镇向绿色环保转型。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic91T9TI8FS8nQvOzD1Cg200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590742603000",
+            "title": "香港29日新增13例新冠肺炎确诊病例，均为巴基斯坦输入",
+            "summary": "来自香港特区政府的最新消息，截至5月29日16点40分，香港单日新增13例新冠肺炎确诊病例。至此，累计确诊病例增至1079例。据了解，所有新增患者均是从巴基斯坦抵达香港的输入型病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3welOzfUOT5brh2B58lN200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590737861000",
             "title": "直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点",
             "summary": "5月29日凌晨1时45分，厦航MF8767航班运载包括口罩、手套等防疫物资在内的8537公斤货物，从厦门起飞前往西班牙巴伦西亚，实现了中国民航直飞西班牙巴伦西亚航线“零”的突破。",
@@ -69,24 +87,6 @@
             "summary": "由于新冠肺炎疫情给经济造成的冲击，近期亚洲多国政府都出台了经济援助计划，以期降低疫情给经济造成的负面影响。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590709837000",
-            "title": "中国抗疫医疗专家组在秘活动",
-            "summary": "近日，中国政府派出的抗疫医疗专家组抵达秘鲁，走访秘鲁国家卫生研究院及多家医疗机构，并同秘卫生部门专家就新冠肺炎疫情的防控、诊疗、患者临床护理、实验室检测分析等开展多场经验交流。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim3mg0XfzugZsaN4cZFQJ200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590704476000",
-            "title": "巴西为应对疫情推出的紧急援助计划或将有所延长",
-            "summary": "目前，巴西政府为应对疫情所采取的紧急援助计划已开始第二阶段拨款。该紧急援助计划为每个未被正式雇佣的低收入劳动者提供每月600雷亚尔（约合793元人民币）的紧急补助金，计划为期三个月。最后的第三批援助金将在6月支付，目前政府正在讨论是否要延长该计划的期限。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
