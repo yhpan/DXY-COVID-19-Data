@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590747780000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过565万例",
+            "summary": "世卫组织：全球新冠肺炎确诊病例超过565万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHas3ASZJklYPDiBqekfI200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590745818000",
             "title": "法国政府多项措施救助市镇，包括7.5亿欧元财政补偿计划",
             "summary": "当地时间29日，法国总理菲利普宣布多项措施帮助法国各市镇恢复经济，包括将建立7.5亿欧元的财政补偿计划，惠及1.2万至1.4万个法国市镇。同时政府还将额外拨出10亿欧元，帮助法国市镇向绿色环保转型。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月28日下午3时许，“世界火炉”苏丹首都喀土穆烈日炎炎，骄阳似火，中国政府抗疫医疗专家组一行20人乘包机从阿尔及利亚抵达。专家组在地中海之滨经历了15天的抗疫斗争洗礼后转战青白尼罗河畔，展开抗疫之旅，受到苏丹政府高规格热烈欢迎。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590714697000",
-            "title": "受疫情冲击 亚洲多国政府出台经济援助计划",
-            "summary": "由于新冠肺炎疫情给经济造成的冲击，近期亚洲多国政府都出台了经济援助计划，以期降低疫情给经济造成的负面影响。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
