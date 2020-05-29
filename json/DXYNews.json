@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590737861000",
+            "title": "直飞西班牙第三大城市巴伦西亚，中国民航解锁新航点",
+            "summary": "5月29日凌晨1时45分，厦航MF8767航班运载包括口罩、手套等防疫物资在内的8537公斤货物，从厦门起飞前往西班牙巴伦西亚，实现了中国民航直飞西班牙巴伦西亚航线“零”的突破。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590733307000",
             "title": "宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施",
             "summary": "29日，泰国国家安全委员会秘书长颂萨在新冠疫情发布会上宣布，泰国将从6月1日起实施第三阶段解禁措施。每日夜间宵禁政策将再次减少1小时，宵禁时间更改为每晚11点至次日凌晨3点。从6月1日起开始执行。",
@@ -78,15 +87,6 @@
             "summary": "目前，巴西政府为应对疫情所采取的紧急援助计划已开始第二阶段拨款。该紧急援助计划为每个未被正式雇佣的低收入劳动者提供每月600雷亚尔（约合793元人民币）的紧急补助金，计划为期三个月。最后的第三批援助金将在6月支付，目前政府正在讨论是否要延长该计划的期限。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBZhe45802pzBKJwVu9F200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590698253000",
-            "title": "受疫情影响 美国波士顿马拉松赛124年来首次被取消",
-            "summary": "当地时间5月28日，美国波士顿市长马蒂·沃尔什在新闻发布会上宣布，将取消2020年波士顿马拉松赛。他表示，“让人们保持距离，就无法保持这种比赛的形式。这种赛事在9月14日或今年的任何时候举行都是不负责任或不现实的。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
