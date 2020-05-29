@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590716206000",
+            "title": "中国政府抗疫医疗专家组抵达苏丹",
+            "summary": "当地时间5月28日下午3时许，“世界火炉”苏丹首都喀土穆烈日炎炎，骄阳似火，中国政府抗疫医疗专家组一行20人乘包机从阿尔及利亚抵达。专家组在地中海之滨经历了15天的抗疫斗争洗礼后转战青白尼罗河畔，展开抗疫之旅，受到苏丹政府高规格热烈欢迎。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJ669hU50rGnR9zg4vCtO200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590714697000",
+            "title": "受疫情冲击 亚洲多国政府出台经济援助计划",
+            "summary": "由于新冠肺炎疫情给经济造成的冲击，近期亚洲多国政府都出台了经济援助计划，以期降低疫情给经济造成的负面影响。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirCIU2Ute2RQQwFEPwot9200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590709837000",
             "title": "中国抗疫医疗专家组在秘活动",
             "summary": "近日，中国政府派出的抗疫医疗专家组抵达秘鲁，走访秘鲁国家卫生研究院及多家医疗机构，并同秘卫生部门专家就新冠肺炎疫情的防控、诊疗、患者临床护理、实验室检测分析等开展多场经验交流。",
@@ -69,24 +87,6 @@
             "summary": "巴西经济部下属的地理与统计研究所当地时间28日公布的报告数据显示，从今年2月起的三个月里，巴西新增失业人数490万，截至4月底全国失业人数累计达1280万，失业率达12.6%，是从去年3月以来失业率的最高点。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590672852000",
-            "title": "印度最大贫民窟新增新冠肺炎确诊病例36例，累计1675例",
-            "summary": "当地时间5月28日，位于印度孟买的塔拉维贫民窟新增新冠肺炎确诊病例36例，累计确诊病例升至1675例，累计死亡病例61例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHIsbm5KYkradc4N1Ekjk200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590671422000",
-            "title": "加强新冠肺炎疫情防控，中非共和国将进一步采取措施",
-            "summary": "中非共和国政府总理菲尔曼·恩格雷巴达宣布：1. 对违反政府制定的公共卫生条例的人处以1个月零1天至3个月不等的拘留，罚款金额从1000 至5000 中非法郎不等。2. 从下周开始，在公共场所必须佩戴口罩，一千万个口罩将在全国范围内逐步分发。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0FWiRtZz4OH6LQqCXb7y200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
