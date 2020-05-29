@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1590732989000",
+            "title": "​今天起，广州学生在校园内可不戴口罩",
+            "summary": "广州市教育局返校复课协调会上，广州市教育局和卫健委相关负责人宣布可以按照国家标准佩戴口罩。今天（29日）早上，学生在校园内都可以不戴口罩，不过校园其他工作人员仍严格管理，需要佩戴口罩。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590731574000",
+            "title": "拉美新冠肺炎确诊病例超88万，多国或延长隔离措施",
+            "summary": "截至当地时间28日，拉美地区新冠肺炎确诊病例超过88万，其中巴西累计确诊病例超过43万。阿根廷、哥伦比亚等国正在考虑继续延长救助计划和隔离措施。巴西单日新增新冠肺炎确诊病例26417例，是自疫情在巴西暴发以来的单日最大增幅。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590724563000",
+            "title": "多国开始复工复产，政府推刺激计划提振经济",
+            "summary": "亚洲各国在新冠疫情期间都采取了严格的管控措施。疫情也给当地经济造成巨大冲击。为了缓解疫情影响，扶持企业和个人渡过难关，多国政府出台了经济援助计划，随着疫情趋缓，一些国家开始复工复产，逐步恢复正常生活。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu7ukQchV3lBv8z4fb6Q200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590721035000",
             "title": "​日本拟修改节假日法律 在奥运会开闭幕式期间创造连休假期",
             "summary": "随着东京奥运会的延期，日本政府在29日的内阁会议上，决定将在2021年举行开幕式的7月23日定为“体育之日”。为了避免因举办东京奥运会而造成交通拥挤，日本政府决定把明年举行开幕式的日子，通过法律程序改为公休日。",
@@ -60,33 +87,6 @@
             "summary": "截至非洲东部时间5月28日下午6点， 非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例124482例，死亡3696例，51095人康复。基于本国实际情况考虑，非洲多国调整防疫举措。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8wKZnu00HhEsgeCAmbi0200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590688372000",
-            "title": "世贸组织取消2020年公共论坛",
-            "summary": "当地时间28日，世贸组织宣布，受新冠肺炎不确定性影响，取消原定将于9月29日至10月2日举行的2020年公共论坛，世贸组织考虑或于年底前举办一场规模较小的活动。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUR3kREmgXdU7zKCPVCg9200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590683391000",
-            "title": "南苏丹副总统侯赛因感染新冠病毒",
-            "summary": "当地时间5月27日，南苏丹副总统侯赛因·阿卜杜勒巴吉确诊感染新冠病毒，侯赛因是南苏丹新冠肺炎高级别工作组的负责人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8ZdpKJxCfDMyJhlDj4DJ200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590680321000",
-            "title": "世卫组织：全球新冠肺炎超过559万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月28日14时51分(北京时间5月28日20时51分)，全球确诊新冠肺炎5593631例，死亡353334例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
