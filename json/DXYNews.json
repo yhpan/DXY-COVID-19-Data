@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590733307000",
+            "title": "宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施",
+            "summary": "29日，泰国国家安全委员会秘书长颂萨在新冠疫情发布会上宣布，泰国将从6月1日起实施第三阶段解禁措施。每日夜间宵禁政策将再次减少1小时，宵禁时间更改为每晚11点至次日凌晨3点。从6月1日起开始执行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590732989000",
             "title": "​今天起，广州学生在校园内可不戴口罩",
             "summary": "广州市教育局返校复课协调会上，广州市教育局和卫健委相关负责人宣布可以按照国家标准佩戴口罩。今天（29日）早上，学生在校园内都可以不戴口罩，不过校园其他工作人员仍严格管理，需要佩戴口罩。",
@@ -78,15 +87,6 @@
             "summary": "当地时间5月28日，美国波士顿市长马蒂·沃尔什在新闻发布会上宣布，将取消2020年波士顿马拉松赛。他表示，“让人们保持距离，就无法保持这种比赛的形式。这种赛事在9月14日或今年的任何时候举行都是不负责任或不现实的。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3avmBhqQ5n5gRW41AayE200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590694658000",
-            "title": "确诊病例超12万 非洲多国调整防疫措施",
-            "summary": "截至非洲东部时间5月28日下午6点， 非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例124482例，死亡3696例，51095人康复。基于本国实际情况考虑，非洲多国调整防疫举措。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8wKZnu00HhEsgeCAmbi0200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
