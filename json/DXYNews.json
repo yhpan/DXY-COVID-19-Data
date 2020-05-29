@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1590765630000",
+            "title": "​受疫情影响 巴西今年第一季度国内生产总值下降1.5％",
+            "summary": "巴西地理统计局29日公布的数据表明，与2019年第四季度相比，巴西今年第一季度国内生产总值下降1.5％，是自2015年第二季度以来的最大降幅。据巴西媒体报道，该结果反映了新冠肺炎疫情带来的最初影响，并使巴西面临新的经济衰退。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590762283000",
+            "title": "加拿大今年一季度经济表现为2009年以来最差",
+            "summary": "据加拿大统计局当地时间5月29日表示，受新冠疫情影响，今年第一季加拿大经济出现了2009年以来最差表现。这份统计报告认为，为阻止新冠疫情的快速扩散，工商业停业、限制人们出行、学校停课、失业人口大量增加等等，是造成经济下滑的主要原因。该机构还表示，2020年前三个月，加拿大国内生产总值年化率下降8.2%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590759627000",
+            "title": "圭亚那新冠肺炎确诊病例恐激增 养老院成感染集中地",
+            "summary": "据当地媒体29日消息，圭亚那一家公立养老院有近半数老人感染新冠病毒。该养老院位于圭首都乔治敦，共住有200位老人。目前圭公共卫生部已经对该地点采取专门的防控措施并将对其余人员进行新冠病毒检测。截至当地时间28日，圭亚那新冠肺炎确诊病例累计达150例、死亡病例11例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590753267000",
             "title": "印度人脸口罩亮相 这次手机能识别吗？",
             "summary": "印度一照相馆推出“人脸口罩”，每只口罩约合人民币5元。网友：这下手机能认出我了吗？",
@@ -60,33 +87,6 @@
             "summary": "5月29日凌晨1时45分，厦航MF8767航班运载包括口罩、手套等防疫物资在内的8537公斤货物，从厦门起飞前往西班牙巴伦西亚，实现了中国民航直飞西班牙巴伦西亚航线“零”的突破。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3rHO9tyR01cKMfLjaU4200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590733307000",
-            "title": "宵禁时间再次减少，泰国将从6月1日起实施第三阶段解禁措施",
-            "summary": "29日，泰国国家安全委员会秘书长颂萨在新冠疫情发布会上宣布，泰国将从6月1日起实施第三阶段解禁措施。每日夜间宵禁政策将再次减少1小时，宵禁时间更改为每晚11点至次日凌晨3点。从6月1日起开始执行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQo46jFr7jvXHB4S6pqo8200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590732989000",
-            "title": "​今天起，广州学生在校园内可不戴口罩",
-            "summary": "广州市教育局返校复课协调会上，广州市教育局和卫健委相关负责人宣布可以按照国家标准佩戴口罩。今天（29日）早上，学生在校园内都可以不戴口罩，不过校园其他工作人员仍严格管理，需要佩戴口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZ06bYEu3JEnWXtIFGbI200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590731574000",
-            "title": "拉美新冠肺炎确诊病例超88万，多国或延长隔离措施",
-            "summary": "截至当地时间28日，拉美地区新冠肺炎确诊病例超过88万，其中巴西累计确诊病例超过43万。阿根廷、哥伦比亚等国正在考虑继续延长救助计划和隔离措施。巴西单日新增新冠肺炎确诊病例26417例，是自疫情在巴西暴发以来的单日最大增幅。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHnDjufquPT9apvIlcyk1200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
