@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590721035000",
+            "title": "​日本拟修改节假日法律 在奥运会开闭幕式期间创造连休假期",
+            "summary": "随着东京奥运会的延期，日本政府在29日的内阁会议上，决定将在2021年举行开幕式的7月23日定为“体育之日”。为了避免因举办东京奥运会而造成交通拥挤，日本政府决定把明年举行开幕式的日子，通过法律程序改为公休日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie1synxtZWxKK8J7tcVNd200529&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590716206000",
             "title": "中国政府抗疫医疗专家组抵达苏丹",
             "summary": "当地时间5月28日下午3时许，“世界火炉”苏丹首都喀土穆烈日炎炎，骄阳似火，中国政府抗疫医疗专家组一行20人乘包机从阿尔及利亚抵达。专家组在地中海之滨经历了15天的抗疫斗争洗礼后转战青白尼罗河畔，展开抗疫之旅，受到苏丹政府高规格热烈欢迎。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间5月28日14时51分(北京时间5月28日20时51分)，全球确诊新冠肺炎5593631例，死亡353334例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijkOczSWY9tbDSaUmgiR4200528&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590673516000",
-            "title": "巴西失业率达12.6%，新增失业人数490万",
-            "summary": "巴西经济部下属的地理与统计研究所当地时间28日公布的报告数据显示，从今年2月起的三个月里，巴西新增失业人数490万，截至4月底全国失业人数累计达1280万，失业率达12.6%，是从去年3月以来失业率的最高点。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5rv4pHrCOrJNLj3NF4H200528&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
