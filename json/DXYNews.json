@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590832920000",
+            "title": "一名机组人员新冠病毒检测结果呈阳性 印度飞往莫斯科的撤侨飞机半路折返",
+            "summary": "《印度时报》报道，当地时间5月30日，印度航空一架从德里飞往莫斯科的撤侨飞机起飞后从半路折返，原因是地面工作人员发现该机上一名飞行员新冠病毒检测结果呈阳性。\n印度航空一高级官员称，这架A320飞机按计划前往莫斯科执行撤侨任务，接回海外滞留印度公民。当飞机飞行至乌兹别克斯坦上空时，地面工作人员通知机上有一名飞行员的新冠病毒检测结果呈阳性，于是要求飞机折返，并于当地时间12时30分在新德里降落。印度官",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDGXDUUhRks9bwnnu9bGG200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590820021000",
             "title": "因曝光医院防护不力被开除，美国医生对医院提起诉讼",
             "summary": "美国疫情暴发后，华盛顿州的急诊科医生 Ming Lin（音译林明）在社交媒体上公开指责自己所在的和平医疗圣约瑟夫医院针对新冠病毒的防护措施不到位，3 月底，林医生被医院解雇。近日，林医生对医院提起诉讼，要求重返工作岗位，并呼吁医护人员应有自由表达的权利。",
@@ -78,15 +87,6 @@
             "summary": "根据巴西卫生部29日公布的数据，截至当地时间19时，该国单日新增新冠肺炎确诊病例26928例，是自疫情在巴西暴发以来的单日最大增幅。新增死亡病例1124例，连续第四天超过千例。目前，巴西新冠肺炎累计确诊病例465166例，累计死亡27878例，共有189476例患者康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590793152000",
-            "title": "哥伦比亚累计确诊新冠肺炎确诊病例26688例 4月份失业率接近20%",
-            "summary": "哥伦比亚卫生部29日宣布新增1322例新冠肺炎确诊病例，全国累计确诊26688例，包括死亡病例853例，首都波哥大累计确诊病例9162例。新冠肺炎疫情暴发以来，哥伦比亚自3月下旬开始实行全国强制隔离令，哥国家统计署最新公布的数据显示，4月份哥全国失业率达19.8%，较去年同期上升9.5%。全国13个主要城镇地区失业率超过20%，达23.5%，同比上升12.4%，其中制造业就业受冲击较严重。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigliqwVliqV5YUPJpjNaN200530&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
