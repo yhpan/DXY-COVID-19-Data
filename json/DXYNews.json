@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590842981000",
+            "title": "联合国马里维和任务区2名维和官兵感染新冠肺炎病故",
+            "summary": "联合国驻马里多层面综合稳定特派团5月30日发布通告称，2名维和官兵分别于当地时间5月29日和30日死于新冠肺炎，这也是联合国全球维和任务区中首次出现因新冠肺炎死亡的人员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590841009000",
+            "title": "土耳其6月1日起复飞国内航班，所有省市解除旅行禁令",
+            "summary": "当地时间5月30日，土耳其交通与基础设施部长阿迪尔·卡拉伊斯梅洛卢表示，将于当地时间6月1日起复飞国内航班。复飞的第一架次飞机将于6月1日上午10点，从伊斯坦布尔机场飞往首都安卡拉的埃森博阿机场。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUCLLu5xAeZA2cuMw8aOc200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590835740000",
             "title": "布隆迪总统夫人感染新冠肺炎后乘机到肯尼亚治疗",
             "summary": "据当地报道，布隆迪第一夫人丹尼斯·布卡米·恩库伦齐扎在感染新冠肺炎后，于5月28日上午乘坐非洲医学和研究基金会的飞机到肯尼亚首都内罗毕，目前正在内罗毕阿可汗大学医院接受治疗，她的具体病情仍然未知。",
@@ -69,24 +87,6 @@
             "summary": "自5月以来，新冠肺炎疫情在南美国家巴西加速蔓延。巴西地理统计局(IBGE)当地时间29日公布的数据显示，受新冠肺炎疫情影响，巴西今年第一季度国内生产总值(GDP)比去年第四季度下降1.5%，创2015年第二季度下跌2.1%以来的最大降幅。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK95xfS1ThopqOxpfg72N200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590800745000",
-            "title": "国家大剧院6月2日起将对公众有序限流开放参观 医护人员免票",
-            "summary": "从6月2日起，国家大剧院将对公众有序限流开放参观，观众即日起可通过国家大剧院官方网站，使用二代身份证、护照、港澳通行证、台湾通行证等于参观前一天23：00前进行实名制预约。实行每人20元的统一票价，六岁或身高不足1米2的儿童在成年人陪伴下可免票。医护人员凭本人职业证书原件可免票。每日参观人数限定600人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590798602000",
-            "title": "5月29日广东新增新冠肺炎确诊病例1例 为境外输入",
-            "summary": "5月29日0-24时，广东全省新增境外输入确诊病例1例，广州报告，来自孟加拉国，在入境口岸发现，入境后即被隔离观察。新增出院1例。截至5月29日24时，全省累计报告新冠肺炎确诊病例1593例（境外输入198例）。目前仍在院2例。新增境外输入无症状感染者1例，广州报告，来自菲律宾，在入境口岸发现，入境后即被隔离观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
