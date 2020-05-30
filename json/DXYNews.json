@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1590797561000",
+            "title": "受抗议活动影响 美国白宫不许人员出入",
+            "summary": "据CNN报道，受华盛顿抗议活动影响，白宫已禁止出入，通往白宫新闻发布室的门已被上锁，特勤局人员也不允许任何人离开白宫。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimfNRq1dZbAwLIIV1mDm5200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590797484000",
+            "title": "秘鲁单日新增6506例新冠肺炎确诊病例 卫生部称有望研制国产核酸检测试剂",
+            "summary": "据秘鲁卫生部29日最新报告，过去24小时，该国新增病例6506例，达到148285例，新增死亡病例131例，累计达到4230例。秘鲁新冠肺炎疫情防控指挥部负责人马塞蒂表示，该国即将迎来“艰难的几周”，确诊患者将持续增加。秘鲁卫生部日前宣布，秘鲁国家卫生研究院正在加紧研制国产新冠病毒核酸检测试剂，有望在未来几周内完成研发，并在几个月后投入大规模使用。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9DHYSirppzekD7Jqw7iU200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590796481000",
+            "title": "​巴西新增新冠肺炎确诊病例26928例 累计确诊人数超46万例",
+            "summary": "根据巴西卫生部29日公布的数据，截至当地时间19时，该国单日新增新冠肺炎确诊病例26928例，是自疫情在巴西暴发以来的单日最大增幅。新增死亡病例1124例，连续第四天超过千例。目前，巴西新冠肺炎累计确诊病例465166例，累计死亡27878例，共有189476例患者康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3e7uleyztdI3i3mwhIbI200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590793152000",
             "title": "哥伦比亚累计确诊新冠肺炎确诊病例26688例 4月份失业率接近20%",
             "summary": "哥伦比亚卫生部29日宣布新增1322例新冠肺炎确诊病例，全国累计确诊26688例，包括死亡病例853例，首都波哥大累计确诊病例9162例。新冠肺炎疫情暴发以来，哥伦比亚自3月下旬开始实行全国强制隔离令，哥国家统计署最新公布的数据显示，4月份哥全国失业率达19.8%，较去年同期上升9.5%。全国13个主要城镇地区失业率超过20%，达23.5%，同比上升12.4%，其中制造业就业受冲击较严重。",
@@ -60,33 +87,6 @@
             "summary": "据加拿大统计局当地时间5月29日表示，受新冠疫情影响，今年第一季加拿大经济出现了2009年以来最差表现。这份统计报告认为，为阻止新冠疫情的快速扩散，工商业停业、限制人们出行、学校停课、失业人口大量增加等等，是造成经济下滑的主要原因。该机构还表示，2020年前三个月，加拿大国内生产总值年化率下降8.2%。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590759627000",
-            "title": "圭亚那新冠肺炎确诊病例恐激增 养老院成感染集中地",
-            "summary": "据当地媒体29日消息，圭亚那一家公立养老院有近半数老人感染新冠病毒。该养老院位于圭首都乔治敦，共住有200位老人。目前圭公共卫生部已经对该地点采取专门的防控措施并将对其余人员进行新冠病毒检测。截至当地时间28日，圭亚那新冠肺炎确诊病例累计达150例、死亡病例11例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic9tlOICwtXShbrTWoguG200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590753267000",
-            "title": "印度人脸口罩亮相 这次手机能识别吗？",
-            "summary": "印度一照相馆推出“人脸口罩”，每只口罩约合人民币5元。网友：这下手机能认出我了吗？",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN79x0X35oi6Gedd4mdBS200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590751656000",
-            "title": "日本北九州市疫情抬头 当地严阵以待",
-            "summary": "自从日本25日全面解除“紧急事态宣言”以来，福冈县北九州市的新增新冠肺炎感染者再度增长，为了应对可能发生的第二拨疫情，当地学校暂停全面重新开放，室内的公共设施也全部封闭，再度回到严阵以待的状态。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOQkjyaFuvwdHgV5llXrl200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
