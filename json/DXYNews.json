@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590800745000",
+            "title": "国家大剧院6月2日起将对公众有序限流开放参观 医护人员免票",
+            "summary": "从6月2日起，国家大剧院将对公众有序限流开放参观，观众即日起可通过国家大剧院官方网站，使用二代身份证、护照、港澳通行证、台湾通行证等于参观前一天23：00前进行实名制预约。实行每人20元的统一票价，六岁或身高不足1米2的儿童在成年人陪伴下可免票。医护人员凭本人职业证书原件可免票。每日参观人数限定600人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj1lgmQju4aqXlbdUrGU200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590798602000",
+            "title": "5月29日广东新增新冠肺炎确诊病例1例 为境外输入",
+            "summary": "5月29日0-24时，广东全省新增境外输入确诊病例1例，广州报告，来自孟加拉国，在入境口岸发现，入境后即被隔离观察。新增出院1例。截至5月29日24时，全省累计报告新冠肺炎确诊病例1593例（境外输入198例）。目前仍在院2例。新增境外输入无症状感染者1例，广州报告，来自菲律宾，在入境口岸发现，入境后即被隔离观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHBe9SH1JkTZwdmukFq7m200530&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590797561000",
             "title": "受抗议活动影响 美国白宫不许人员出入",
             "summary": "据CNN报道，受华盛顿抗议活动影响，白宫已禁止出入，通往白宫新闻发布室的门已被上锁，特勤局人员也不允许任何人离开白宫。",
@@ -69,24 +87,6 @@
             "summary": "截至非洲东部时间5月29日晚10时，非洲疾控中心数据显示：非洲地区54个国家累计报告新冠肺炎确诊病例129565例，死亡3790例，53414人康复。从确诊病例数量来看，非洲地区疫情较为严重的国家是南非、埃及、阿尔及利亚、尼日利亚和摩洛哥，五国累计新冠确诊病例数约占非洲地区总数的57%。基于本国实际情况考虑，非洲多国开始调整防疫举措。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0l33JxBv2JHd8S8zJB55200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590765630000",
-            "title": "​受疫情影响 巴西今年第一季度国内生产总值下降1.5％",
-            "summary": "巴西地理统计局29日公布的数据表明，与2019年第四季度相比，巴西今年第一季度国内生产总值下降1.5％，是自2015年第二季度以来的最大降幅。据巴西媒体报道，该结果反映了新冠肺炎疫情带来的最初影响，并使巴西面临新的经济衰退。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFrnCz3x2gwhA5wgm8Qiw200529&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590762283000",
-            "title": "加拿大今年一季度经济表现为2009年以来最差",
-            "summary": "据加拿大统计局当地时间5月29日表示，受新冠疫情影响，今年第一季加拿大经济出现了2009年以来最差表现。这份统计报告认为，为阻止新冠疫情的快速扩散，工商业停业、限制人们出行、学校停课、失业人口大量增加等等，是造成经济下滑的主要原因。该机构还表示，2020年前三个月，加拿大国内生产总值年化率下降8.2%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSCc801RX7bmAleGEd2f6200529&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
