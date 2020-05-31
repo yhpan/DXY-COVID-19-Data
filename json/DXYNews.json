@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590919401000",
+            "title": "以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例",
+            "summary": "继104名耶路撒冷Gymnasia Rehavia学校师生确诊感染新冠肺炎后，当地时间5月31日以色列卫生部发布的最新疫情报告，又有三所中学暴发新冠肺炎疫情。截至目前，已有19所学校关闭，这些学校的师生处于隔离状态。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590915180000",
             "title": "张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万",
             "summary": "张文宏指出，秋冬第二波疫情肯定会发生，而且已经发生，只是没有发生在中国。国际的疫情没有结束，美国、巴西、墨西哥、俄罗斯每日新增的数据还很多。5月30日全球新增确诊病例11万，是疫情发生以来新增最多的一天。",
@@ -78,15 +87,6 @@
             "summary": "5月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2例，均为境外输入病例（均在山东）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例2例，解除医学观察的密切接触者565人，重症病例与前一日持平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590879669000",
-            "title": "全球新冠肺炎确诊累计超600万",
-            "summary": "据美国约翰斯•霍普金斯大学实时统计数据：截至美国东部时间30日16时32分（北京时间31日4时32分），全球累计确诊病例达到6003762例，死亡病例为367356例。数据显示，美国是疫情最严重的国家，美国新冠病毒感染病例超176万。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4510538611090535",
             "province": null,
             "provinceId": ""
         }
