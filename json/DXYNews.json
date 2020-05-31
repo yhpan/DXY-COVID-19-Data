@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590899008000",
+            "title": "5月份中国非制造业商务活动指数为53.6%，回升力度有所增强",
+            "summary": "非制造业保持恢复性回升态势，并且回升力度较上月有所增强。 从行业来看，建筑业商务活动指数本月升至60%以上，特别是需求明显回升。道路运输业的商务活动指数也回升至60%以上，航空运输业商务活动指数较上月也有明显上升。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590896101000",
             "title": "上课啦！宁夏30.4万名1至3年级小学生返校复课",
             "summary": "5月31日，宁夏小学一、二、三年级30.4万名学生返校复课，各学校严格执行各项疫情防控措施，做好疫情防控和学校安全工作，确保学生有序返校。复课后，师生采取错时上学和放学。学生入校按规定路线进入避免聚集，路线把学生引导分流到相应的检测通道进行体温检测和核验身份，然后到洗手池洗手，洗完手再到教室，上课时窗户打开，保证空气流通，学生课桌尽可能保持最大距离。\n",
@@ -78,15 +87,6 @@
             "summary": "根据英国卫生与社会保健部消息，截至当地时间5月30日9时，英国新冠肺炎确诊病例达272826例，单日新增2445例；截至5月29日17时，死亡病例达38376例，单日新增215例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590855319000",
-            "title": "​英国政府允许从6月1日开始恢复封闭式竞技体育比赛",
-            "summary": "当地时间5月30日，在政府应对疫情的每日例行新闻发布会上，英国文化大臣奥利弗·道登（Oliver Dowden）表示，英国政府发布了最新指导意见，允许竞技运动从6月1日开始恢复封闭式比赛。此外，在遵守两米社交距离的情况下，来自不同家庭、最多六人可以一起在户外进行锻炼。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQePl2FZiY0x7cCYKEh60200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
