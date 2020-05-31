@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590883084000",
+            "title": "国家卫健委：5月30日新增2例新冠肺炎确诊病例",
+            "summary": "5月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2例，均为境外输入病例（均在山东）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例2例，解除医学观察的密切接触者565人，重症病例与前一日持平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590879669000",
+            "title": "全球新冠肺炎确诊累计超600万",
+            "summary": "据美国约翰斯•霍普金斯大学实时统计数据：截至美国东部时间30日16时32分（北京时间31日4时32分），全球累计确诊病例达到6003762例，死亡病例为367356例。数据显示，美国是疫情最严重的国家，美国新冠病毒感染病例超176万。",
+            "infoSource": "人民日报",
+            "sourceUrl": "http://m.weibo.cn/2803301701/4510538611090535",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590873871000",
             "title": "美国确诊病例超过176万例",
             "summary": "据约翰斯·霍普金斯大学数据，截至美东时间5月30日16时32分，美国累计确诊新冠肺炎1764671例，累计死亡103605例。29日15时32分至30日16时32分增加确诊病例28700例。",
@@ -69,24 +87,6 @@
             "summary": "当地时间5月29日上午，刚果（布）黑角省省长帕卡会见了中国驻刚果（布）使馆政务参赞钱小松和专家组一行。帕卡省长对远道而来的中方专家组表示热烈欢迎。他表示，中方向刚果（布）派遣医疗专家组，充分体现了中刚两国之间珍贵友好的情谊。自疫情暴发以来，中国政府为刚果（布）的抗疫工作给予了大力支持，刚果（布）政府和人民对此表示衷心的感谢。相信只要两国加强团结协作，必定能战胜疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCYm516PTzvclKtuGDW8C200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590846660000",
-            "title": "菲律宾两大航空公司6月起恢复部分航班运行",
-            "summary": "5月30日，菲律宾航空公司发布消息称，将从6月起选择性地恢复部分国际航班和国内航班。其中从马尼拉飞往中国厦门、香港、台北等地的国际航班将恢复。飞往厦门的航班将从6月17日起，每周三执飞一个往返班次。从6月8日起，部分菲律宾国内的航班也将恢复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSuslpf5YUHgrdDqoghth200530&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590842981000",
-            "title": "联合国马里维和任务区2名维和官兵感染新冠肺炎病故",
-            "summary": "联合国驻马里多层面综合稳定特派团5月30日发布通告称，2名维和官兵分别于当地时间5月29日和30日死于新冠肺炎，这也是联合国全球维和任务区中首次出现因新冠肺炎死亡的人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFHkJ5xNjulGlA7LAK46i200530&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
