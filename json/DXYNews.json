@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590923580000",
+            "title": "阿联酋新增661例新冠肺炎确诊病例 累计确诊34557例",
+            "summary": "当地时间5月31日，阿联酋卫生和预防部公布该国新增661例新冠肺炎确诊病例，同时新增386例治愈病例和2例死亡病例。至此，阿联酋境内新冠肺炎确诊病例累计达34557例，其中治愈病例17932例，死亡病例264例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artih0uM84JN1orKeAWjvO3Y200531&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590919401000",
             "title": "以色列学校成疫情暴发中心，新冠肺炎确诊病例累计达17024例",
             "summary": "继104名耶路撒冷Gymnasia Rehavia学校师生确诊感染新冠肺炎后，当地时间5月31日以色列卫生部发布的最新疫情报告，又有三所中学暴发新冠肺炎疫情。截至目前，已有19所学校关闭，这些学校的师生处于隔离状态。",
@@ -78,15 +87,6 @@
             "summary": "2020年5月30日0—24时，河北省无新增报告新型冠状病毒肺炎确诊病例，无新增死亡病例，无新增疑似病例。5月30日0—24时，河北省报告新增无症状感染者0例，尚在医学观察无症状感染者0例。截至5月30日24时，河北省现有确诊病例0例，累计治愈出院病例322例（含境外输入10例），累计死亡病例6例，累计报告本地确诊病例318例、境外输入病例10例，现有疑似病例0例。\n\n\n",
             "infoSource": "河北卫健委",
             "sourceUrl": "http://wsjkw.hebei.gov.cn/content/content_3714/408470.jhtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590883084000",
-            "title": "国家卫健委：5月30日新增2例新冠肺炎确诊病例",
-            "summary": "5月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例2例，均为境外输入病例（均在山东）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例2例，解除医学观察的密切接触者565人，重症病例与前一日持平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTVeXevkmitbFDnYKICj200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
