@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1590965026000",
+            "title": "北京40多万名学生今天返校复课",
+            "summary": "今天（6月1日），北京的高一高二、初一初二以及小学六年级40多万学生迎来本学期开学。如何做到防控教学相结合，此前，5月26日，北京市教委进行了一次现场演练，模拟学生返校复课的全流程，包括入校检查、体温筛查、上课等，其中特别安排了应急处置环节。6月8日，北京的小学四五年级也将迎来开学。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590951111000",
+            "title": "美食药局前局长：明尼苏达州新冠肺炎感染病例已经开始上升",
+            "summary": "当地时间5月31日，前美国食品药品监督管理局局长斯科特·戈特利布发出警告：美国新冠肺炎疫情仍未得到控制，愈演愈烈的示威活动将导致疫情的加速传播。其中，示威活动的震中明尼苏达州的新冠肺炎感染病例已经开始上升。同时戈特利布表示，新冠肺炎正在以不成比例的速度严重威胁着有色人种。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590938741000",
             "title": "阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例",
             "summary": "当地时间5月31日，据阿塞拜疆国家疫情防控指挥部消息，在过去24小时内，阿塞拜疆境内共新增248例新冠肺炎确诊病例，累计确诊5494例。其中已治愈出院3428例，63例死亡，2003例正在治疗中。累计共进行了超过29.8万次新冠病毒检测。阿塞拜疆将在6月1日后继续保持全国隔离状态，大型购物中心等场所可恢复工作。关闭边境口岸措施延期至6月15日，继续暂停通过陆路和空中交通方式出入境。",
@@ -69,24 +87,6 @@
             "summary": "截至当地时间5月31日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例9268例，累计确诊405842例。新增死亡病例138例，累计死亡4693例，新增治愈病例4414例，累计治愈171883例。首都莫斯科市新增确诊病例2595例，累计180791例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590901238000",
-            "title": "英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人",
-            "summary": "据英国卫生部门30日公布的统计数据，英国新冠肺炎确诊病例累计达272826例，单日新增2445例；死亡病例新增215例，累计达38376例。根据英国政府发布的最新指导意见，允许竞技运动从6月1日开始恢复“封闭式比赛”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590899008000",
-            "title": "5月份中国非制造业商务活动指数为53.6%，回升力度有所增强",
-            "summary": "非制造业保持恢复性回升态势，并且回升力度较上月有所增强。 从行业来看，建筑业商务活动指数本月升至60%以上，特别是需求明显回升。道路运输业的商务活动指数也回升至60%以上，航空运输业商务活动指数较上月也有明显上升。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim71kX4TiFxkwd0k3gusx200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
