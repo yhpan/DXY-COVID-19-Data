@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1590901238000",
+            "title": "英国允许6月1日起恢复“封闭式体育比赛”，户外锻炼最多不超六人",
+            "summary": "据英国卫生部门30日公布的统计数据，英国新冠肺炎确诊病例累计达272826例，单日新增2445例；死亡病例新增215例，累计达38376例。根据英国政府发布的最新指导意见，允许竞技运动从6月1日开始恢复“封闭式比赛”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZQ81cU9ow6NYycv3HrAy200531&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590899008000",
             "title": "5月份中国非制造业商务活动指数为53.6%，回升力度有所增强",
             "summary": "非制造业保持恢复性回升态势，并且回升力度较上月有所增强。 从行业来看，建筑业商务活动指数本月升至60%以上，特别是需求明显回升。道路运输业的商务活动指数也回升至60%以上，航空运输业商务活动指数较上月也有明显上升。",
@@ -78,15 +87,6 @@
             "summary": "据秘鲁卫生部30日最新报告，过去24小时，该国单日新增病例首次超过7000人，达到7386例，累计确诊病例超过15万人，达到155671例，新增死亡病例141例，累计达到4371例。秘鲁新冠肺炎防控中心发出警告称，该国最艰难的时刻即将来临，确诊病例数将会持续增加。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS7ImkrkHMIaIi5WnouuC200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590871795000",
-            "title": "英国新增新冠肺炎确诊病例2445例 累计确诊272826例",
-            "summary": "根据英国卫生与社会保健部消息，截至当地时间5月30日9时，英国新冠肺炎确诊病例达272826例，单日新增2445例；截至5月29日17时，死亡病例达38376例，单日新增215例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOvLoqstESzbGvqLo6VHd200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
