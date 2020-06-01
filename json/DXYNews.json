@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1591004100000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过601万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月1日9时28分(北京时间6月1日15时28分)，全球确诊新冠肺炎6016976例，死亡370153例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieEvvNZDb3EHZcJNpUgsQ200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591002866000",
+            "title": "香港新增3例新冠肺炎确诊病例，累计确诊1087例",
+            "summary": "香港特区政府卫生署卫生防护中心在1日下午举行简报会，公布当地新冠肺炎疫情最新情况。截至当日16时30分，香港6月1日新增3例新冠肺炎确诊病例。至此，香港新冠肺炎确诊病例累计增至1087例，另有1例疑似感染病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2H2gZD1pri63xK8YIoXq200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591001385000",
+            "title": "上海现有最后1例本地确诊病例治愈出院",
+            "summary": "上海市卫生健康委今日（1日）通报：3例新型冠状病毒肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新型冠状病毒肺炎确诊病例出院标准，于今日出院。目前，上海已累计治愈出院660例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHv7FSKfWrjVbiJ97OWn200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590990477000",
             "title": "截至5月31日24时新型冠状病毒肺炎疫情最新情况",
             "summary": "截至5月31日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例76例（其中重症病例3例），累计治愈出院病例78307例，累计死亡病例4634例，累计报告确诊病例83017例，现有疑似病例3例。累计追踪到密切接触者745147人，尚在医学观察的密切接触者4723人。",
@@ -60,33 +87,6 @@
             "summary": "当地时间5月31日，前美国食品药品监督管理局局长斯科特·戈特利布发出警告：美国新冠肺炎疫情仍未得到控制，愈演愈烈的示威活动将导致疫情的加速传播。其中，示威活动的震中明尼苏达州的新冠肺炎感染病例已经开始上升。同时戈特利布表示，新冠肺炎正在以不成比例的速度严重威胁着有色人种。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4fEhJAg7yJQYUpLr71Ih200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590938741000",
-            "title": "阿塞拜疆新增新冠肺炎确诊病例248例，累计确诊5494例",
-            "summary": "当地时间5月31日，据阿塞拜疆国家疫情防控指挥部消息，在过去24小时内，阿塞拜疆境内共新增248例新冠肺炎确诊病例，累计确诊5494例。其中已治愈出院3428例，63例死亡，2003例正在治疗中。累计共进行了超过29.8万次新冠病毒检测。阿塞拜疆将在6月1日后继续保持全国隔离状态，大型购物中心等场所可恢复工作。关闭边境口岸措施延期至6月15日，继续暂停通过陆路和空中交通方式出入境。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVFwFJhH5cQ4qj8dFsX2200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590933300000",
-            "title": "圭亚那养老院感染新冠病毒风险加大",
-            "summary": "据圭亚那公共卫生部最新统计，截至当地时间30日，圭亚那累计确诊新冠肺炎152例，死亡12例。据悉，第12位不幸去世的患者是一名78岁的老人，为公立养老院感染病例。该养老院位于圭首都乔治敦，共有200人入住。现有近半数的老人已感染。这是圭亚那目前报告的第2例养老院感染新冠肺炎死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFp180wu2JK10vrYxuKO0200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590929106000",
-            "title": "西班牙首相桑切斯将再次延长国家紧急状态",
-            "summary": "当地时间31日，西班牙首相桑切斯表示将再次延长国家紧急状态，至6月21日。桑切斯表示这次应该是最后一次延长国家紧急状态。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticUVw17LlWkyuyaWGEREY200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }

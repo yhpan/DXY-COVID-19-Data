@@ -1,26 +1,26 @@
 {
     "results": [
         {
-            "currentConfirmedCount": 132,
-            "currentConfirmedIncr": 13,
-            "confirmedCount": 84589,
-            "confirmedIncr": 19,
+            "currentConfirmedCount": 134,
+            "currentConfirmedIncr": 15,
+            "confirmedCount": 84592,
+            "confirmedIncr": 22,
             "suspectedCount": 1756,
             "suspectedIncr": 16,
-            "curedCount": 79812,
-            "curedIncr": 6,
+            "curedCount": 79813,
+            "curedIncr": 7,
             "deadCount": 4645,
             "deadIncr": 0,
             "seriousCount": 397,
             "seriousIncr": 8,
             "globalStatistics": {
-                "currentConfirmedCount": 3184999,
-                "confirmedCount": 6130368,
-                "curedCount": 2573575,
-                "deadCount": 371794,
-                "currentConfirmedIncr": 11336,
-                "confirmedIncr": 15791,
-                "curedIncr": 5887,
+                "currentConfirmedCount": 3190934,
+                "confirmedCount": 6145038,
+                "curedCount": 2581961,
+                "deadCount": 372143,
+                "currentConfirmedIncr": 17271,
+                "confirmedIncr": 30461,
+                "curedIncr": 14273,
                 "deadIncr": 0
             },
             "generalRemark": "1. 3 月 12 日国家卫健委确诊补订遗漏 12 例确诊病例（非 12 日新增），暂无具体省份信息。 2. 浙江省 12 例外省治愈暂无具体省份信息。",
@@ -32,7 +32,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1590994071375
+            "updateTime": 1591008053011
         }
     ],
     "success": true
