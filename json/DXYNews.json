@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591027061000",
+            "title": "华盛顿特区市长宣布开始为期两天宵禁",
+            "summary": "当地时间6月1日，美国首都华盛顿特区市长鲍泽（Muriel Bowser）宣布，从当天晚上7点开始实施为期两天的宵禁。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijniZuBiwtQ0GCKjOHiQn200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591019396000",
             "title": "巴西里约热内卢将继续维持限制令,时间至少一周",
             "summary": "巴西里约热内卢市原定6月1日起开始逐步放开商业活动的决定被延期执行。当天上午里约州州长维泽尔和里约市市长克里维拉将举行会商，研究开放商业活动的时间表和细则，在此期间，目前正在实施的限制隔离措施将维持执行至少一周时间。",
@@ -15,6 +24,15 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月1日13时55分(北京时间6月1日19时55分)，全球确诊新冠肺炎6057853例，死亡371166例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591016100000",
+            "title": "6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次",
+            "summary": "武汉地标、国家5A级景区黄鹤楼今天（6月1日）起恢复常态开放。恢复常态开放后，黄鹤楼景区将继续严格落实疫情防控措施。黄鹤楼主楼瞬时接待量将不超过300人次，公园日接待量不超过5400人次。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "截至5月31日24时，据31个省（自治区、直辖市）和新疆生产建设兵团报告，现有确诊病例76例（其中重症病例3例），累计治愈出院病例78307例，累计死亡病例4634例，累计报告确诊病例83017例，现有疑似病例3例。累计追踪到密切接触者745147人，尚在医学观察的密切接触者4723人。",
             "infoSource": "河北卫健委",
             "sourceUrl": "http://wsjkw.hebei.gov.cn/content/content_3714/408532.jhtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590984624000",
-            "title": "北京40多万中小学生重返课堂",
-            "summary": "继高三、初三复课后，今天（1日），北京45.1万中小学生返校复课，涉及高一、高二、初一、初二和小学六年级共五个年级。目前，北京中小学校继续实行晨午晚检，晚上在家测温、早上和中午在校测温都正常才能在班上上课。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPkO85YX6LOYAHMDj5V9H200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590980084000",
-            "title": "日本1至3月产业经常利益下降32% 为10年半以来最大跌幅",
-            "summary": "6月1日，日本财务省发表的2020年1-3月期间的法人企业统计数据显示，新冠肺炎疫情导致经济活动的停滞，除金融、保险业以外的所有产业的经常利益比上年同期减少32%，为151360亿日元（约合1万亿人民币），下跌幅度是10年半以来的最大跌幅。此外，销售额减少3.5%，为3595572亿日元（约合23.76万亿人民币）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
