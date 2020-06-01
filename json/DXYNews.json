@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1590968447000",
+            "title": "巴西新冠肺炎累计确诊人数超51万",
+            "summary": "根据巴西卫生部31日公布的数据，截至当地时间19时，该国单日新增新冠肺炎确诊病例16409例，累计确诊514849例，新增死亡病例480例，累计死亡29314人，共有206555名患者康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1590965026000",
             "title": "北京40多万名学生今天返校复课",
             "summary": "今天（6月1日），北京的高一高二、初一初二以及小学六年级40多万学生迎来本学期开学。如何做到防控教学相结合，此前，5月26日，北京市教委进行了一次现场演练，模拟学生返校复课的全流程，包括入校检查、体温筛查、上课等，其中特别安排了应急处置环节。6月8日，北京的小学四五年级也将迎来开学。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1590960364000",
+            "title": "南非6月1日起实行全国3级防控，并加大力度从中国采购物资",
+            "summary": "当地时间5月31日，南非总统拉马福萨在南非国家编辑论坛讲话时称南非6月1日起全国实行3级防控制度，并将加大力度从中国采购防疫物资。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti37mgEguZFlzR46qQkaLl200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "继104名耶路撒冷Gymnasia Rehavia学校师生确诊感染新冠肺炎后，当地时间5月31日以色列卫生部发布的最新疫情报告，又有三所中学暴发新冠肺炎疫情。截至目前，已有19所学校关闭，这些学校的师生处于隔离状态。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihfPpd6y7sqIfXLkAqreq200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590915180000",
-            "title": "张文宏：若疫情1个月内得不到控制，全球确诊病例或可超千万",
-            "summary": "张文宏指出，秋冬第二波疫情肯定会发生，而且已经发生，只是没有发生在中国。国际的疫情没有结束，美国、巴西、墨西哥、俄罗斯每日新增的数据还很多。5月30日全球新增确诊病例11万，是疫情发生以来新增最多的一天。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRPgEwNMOS9bPvhPjCXMF200531&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590910866000",
-            "title": "俄罗斯新冠肺炎确诊病例超过40万例",
-            "summary": "截至当地时间5月31日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例9268例，累计确诊405842例。新增死亡病例138例，累计死亡4693例，新增治愈病例4414例，累计治愈171883例。首都莫斯科市新增确诊病例2595例，累计180791例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwSMe0iuLaMkE3AZ0TjFX200531&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
