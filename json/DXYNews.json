@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591019396000",
+            "title": "巴西里约热内卢将继续维持限制令,时间至少一周",
+            "summary": "巴西里约热内卢市原定6月1日起开始逐步放开商业活动的决定被延期执行。当天上午里约州州长维泽尔和里约市市长克里维拉将举行会商，研究开放商业活动的时间表和细则，在此期间，目前正在实施的限制隔离措施将维持执行至少一周时间。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591018957000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过605万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月1日13时55分(北京时间6月1日19时55分)，全球确诊新冠肺炎6057853例，死亡371166例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591016079000",
             "title": "沙特新增1881例新冠肺炎确诊病例，累计确诊87142例",
             "summary": "沙特卫生部当地时间1日下午公布的最新数字显示，境内过去24小时新增新冠肺炎确诊病例 1881例，单日新增病例数继续回升，当天同时新增22例死亡病例。至此沙特境内新冠肺炎确诊病例数累计已达87142例，其中525名患者病重不治去世，64306名患者已经治愈。",
@@ -69,24 +87,6 @@
             "summary": "6月1日，日本财务省发表的2020年1-3月期间的法人企业统计数据显示，新冠肺炎疫情导致经济活动的停滞，除金融、保险业以外的所有产业的经常利益比上年同期减少32%，为151360亿日元（约合1万亿人民币），下跌幅度是10年半以来的最大跌幅。此外，销售额减少3.5%，为3595572亿日元（约合23.76万亿人民币）。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiedda1ItkB84mBK1IYUJ1200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590968447000",
-            "title": "巴西新冠肺炎累计确诊人数超51万",
-            "summary": "根据巴西卫生部31日公布的数据，截至当地时间19时，该国单日新增新冠肺炎确诊病例16409例，累计确诊514849例，新增死亡病例480例，累计死亡29314人，共有206555名患者康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVwcZ2jz8mAfi4c9ygRDc200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1590965026000",
-            "title": "北京40多万名学生今天返校复课",
-            "summary": "今天（6月1日），北京的高一高二、初一初二以及小学六年级40多万学生迎来本学期开学。如何做到防控教学相结合，此前，5月26日，北京市教委进行了一次现场演练，模拟学生返校复课的全流程，包括入校检查、体温筛查、上课等，其中特别安排了应急处置环节。6月8日，北京的小学四五年级也将迎来开学。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirDSggWNu5IiLpRFigEjY200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
