@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591057904000",
+            "title": "四川新增2例新冠肺炎确诊病例 原为境外输入无症状感染者",
+            "summary": "6月1日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（均为境外输入，为5月31日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591053433000",
             "title": "巴西新冠病毒感染病例超52万例",
             "summary": "根据巴西卫生部当地时间1日晚公布的最新数据，该国单日新增新冠肺炎确诊病例11598例，累计确诊526447例；新增死亡病例623例，累计死亡病例29937例。目前巴西新冠肺炎病例确诊总数居全球第二位，仅次于美国。",
@@ -15,6 +24,15 @@
             "summary": "据美国约翰斯·霍普金斯大学发布的疫情数据显示，截至北京时间6月2日6时30分左右，美国累计确诊1804206例，累计死亡104799例。与前一日6时30分数据相比，美国新增确诊病例18176例，新增死亡病例567例。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "http://m.weibo.cn/3057540037/4511257749096046",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591050268000",
+            "title": "巴西情报机构强调社会隔离重要性 各地仍准备逐步放开隔离",
+            "summary": "当地时间6月1日，巴西疫情病例最集中的圣保罗市开始接受企业、商店等机构恢复商业活动的申请，尽管该市目前仅符合世界卫生组织提出的6项可复工复产标准中的2项。与圣保罗类似，巴西各地也逐步准备放开实行两个多月的隔离措施。与此同时，巴西情报机构则多次通过书面报告的形式，向政府高层强调社会隔离的重要性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "武汉地标、国家5A级景区黄鹤楼今天（6月1日）起恢复常态开放。恢复常态开放后，黄鹤楼景区将继续严格落实疫情防控措施。黄鹤楼主楼瞬时接待量将不超过300人次，公园日接待量不超过5400人次。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591016079000",
-            "title": "沙特新增1881例新冠肺炎确诊病例，累计确诊87142例",
-            "summary": "沙特卫生部当地时间1日下午公布的最新数字显示，境内过去24小时新增新冠肺炎确诊病例 1881例，单日新增病例数继续回升，当天同时新增22例死亡病例。至此沙特境内新冠肺炎确诊病例数累计已达87142例，其中525名患者病重不治去世，64306名患者已经治愈。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRb7wJhkYSAaeYW1kqEhr200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591013867000",
-            "title": "中国抗疫医疗专家组总结与刚果（布）合作抗疫成果",
-            "summary": "中国援刚果（布）抗疫医疗专家组即将结束在刚果（布）的工作，前往圣多美和普林西比，支援当地抗击新冠疫情的工作。专家组组长王俊辉接受了总台记者的采访，对这8天的支援工作和合作抗疫的成果进行了总结。在刚果（布）期间，专家组与卫生部和世卫组织非洲区域办事处对该国疫情特点进行了充分交流，认为该国的轻症患者占绝大多数，重症较少，而无症状感染者在增加。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15JDYSeRzfi3xhipyo5x200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
