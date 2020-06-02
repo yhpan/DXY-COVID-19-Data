@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591067260000",
+            "title": "举报防疫措施不当 日本东京报警电话增多",
+            "summary": "当地时间2日，日本警视厅透露，自从5月25日“紧急事态宣言”解除之后，有关新冠肺炎疫情的110报警电话，东京都警方每天平均会收到近30通。专家指出，这反映了宣言过早解除给人们造成的不安和压力。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKb8p2YSYxT36feJ6bOgL200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591065120000",
+            "title": "武汉中心医院感染新冠肺炎医生胡卫峰今晨去世",
+            "summary": "记者从武汉市相关部门获悉，武汉中心医院医生胡卫锋于今晨5点45分抢救无效不幸离世。胡卫峰生前因感染新冠肺炎并引发基础性疾病，进行了长达四个多月的治疗。曾因药物治疗导致“面容变黑”，胡卫峰的病情进展一直备受公众的关注和关心。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591057904000",
             "title": "四川新增2例新冠肺炎确诊病例 原为境外输入无症状感染者",
             "summary": "6月1日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（均为境外输入，为5月31日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
@@ -69,24 +87,6 @@
             "summary": "巴西里约热内卢市原定6月1日起开始逐步放开商业活动的决定被延期执行。当天上午里约州州长维泽尔和里约市市长克里维拉将举行会商，研究开放商业活动的时间表和细则，在此期间，目前正在实施的限制隔离措施将维持执行至少一周时间。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSFXEDrdkBj3DSIUn6lbB200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591018957000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过605万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月1日13时55分(北京时间6月1日19时55分)，全球确诊新冠肺炎6057853例，死亡371166例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihoOlg1JDo5ymRxjzWXBH200601&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591016100000",
-            "title": "6月1日起湖北武汉黄鹤楼景区恢复常态开放，日接待量不超5400人次",
-            "summary": "武汉地标、国家5A级景区黄鹤楼今天（6月1日）起恢复常态开放。恢复常态开放后，黄鹤楼景区将继续严格落实疫情防控措施。黄鹤楼主楼瞬时接待量将不超过300人次，公园日接待量不超过5400人次。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYgKseTsPU1Pa48Aad1bF200601&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
