@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1591088971000",
+            "title": "香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入",
+            "summary": "香港特区政府卫生署卫生防护中心在2日下午的记者会上公布，截至当日16时30分，香港6月2日新增6例新冠肺炎确诊病例，其中4例为本地确诊病例，2例为境外输入病例。至此，香港新冠肺炎确诊病例累计增至1093例，另有1例疑似病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591088742000",
+            "title": "为防控疫情 阿联酋首都将实施人员流动限制禁令",
+            "summary": "据阿联酋《海湾时报》报道称，当地时间6月2日起，为加强新冠疫情的防控，阿联酋首都阿布扎比根据此前紧急情况和危机管理局委员会的决定，将正式开始实施为期一周的人员流动限制禁令（即禁止人员进入或离开阿布扎比酋长国及其管辖区域）。阿布扎比警局当天宣布，在禁令实施期间， 居民需要提前在阿布扎比警察网站上获得通行许可证才能进出该市。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591087912000",
+            "title": "尼日利亚新冠肺炎确诊病例累计达10578例，尼进入放宽限制第二阶段",
+            "summary": "据尼日利亚疾控中心统计，当地时间6月1日，尼日利亚新增416例新冠肺炎确诊病例，累计10578例，当天尼新增治愈115例，累计治愈3122例，新增死亡12例，累计死亡299例，现存病例共7157例。6月1日，尼日利亚放宽措施第一阶段结束，当天尼日利亚应对疫情总统特别工作组宣布自6月2日起至6月29日，尼日利亚进入共为期四周的放宽限制第二阶段。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNDuttYIzyPN3pZs8unbO200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591083612000",
             "title": "俄罗斯新增新冠肺炎确诊病例8863例 累计超42万例",
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月2日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8863例，累计确诊423741例。新增死亡病例182例，累计死亡病例5037例，新增治愈病例11108例，累计治愈病例186985例。首都莫斯科市新增确诊病例2286例，累计达185374例。",
@@ -60,33 +87,6 @@
             "summary": "6月1日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（均为境外输入，为5月31日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591053433000",
-            "title": "巴西新冠病毒感染病例超52万例",
-            "summary": "根据巴西卫生部当地时间1日晚公布的最新数据，该国单日新增新冠肺炎确诊病例11598例，累计确诊526447例；新增死亡病例623例，累计死亡病例29937例。目前巴西新冠肺炎病例确诊总数居全球第二位，仅次于美国。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4511267430083447",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591051125000",
-            "title": "美国新冠病毒感染病例超180万例",
-            "summary": "据美国约翰斯·霍普金斯大学发布的疫情数据显示，截至北京时间6月2日6时30分左右，美国累计确诊1804206例，累计死亡104799例。与前一日6时30分数据相比，美国新增确诊病例18176例，新增死亡病例567例。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "http://m.weibo.cn/3057540037/4511257749096046",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591050268000",
-            "title": "巴西情报机构强调社会隔离重要性 各地仍准备逐步放开隔离",
-            "summary": "当地时间6月1日，巴西疫情病例最集中的圣保罗市开始接受企业、商店等机构恢复商业活动的申请，尽管该市目前仅符合世界卫生组织提出的6项可复工复产标准中的2项。与圣保罗类似，巴西各地也逐步准备放开实行两个多月的隔离措施。与此同时，巴西情报机构则多次通过书面报告的形式，向政府高层强调社会隔离的重要性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7lcOpWEvCCaLQnogV74r200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
