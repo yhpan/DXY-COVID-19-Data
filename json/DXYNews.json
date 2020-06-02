@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591097383000",
+            "title": "​印度最大贫民窟新增新冠肺炎确诊病例25例  累计达1830例",
+            "summary": "据印度媒体报道，当地时间6月2日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例25例，累计确诊病例达1830例，无新增死亡病例，累计死亡病例71例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。4月1日，塔拉维出现首例新冠肺炎确诊病例，随后确诊病例数量节节攀升。由于人口密度大、卫生条件差，塔拉维疫情引起人们担忧。塔拉维所在的孟买是印度疫情最严重的城市。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591088971000",
             "title": "香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入",
             "summary": "香港特区政府卫生署卫生防护中心在2日下午的记者会上公布，截至当日16时30分，香港6月2日新增6例新冠肺炎确诊病例，其中4例为本地确诊病例，2例为境外输入病例。至此，香港新冠肺炎确诊病例累计增至1093例，另有1例疑似病例。",
@@ -78,15 +87,6 @@
             "summary": "记者从武汉市相关部门获悉，武汉中心医院医生胡卫锋于今晨5点45分抢救无效不幸离世。胡卫峰生前因感染新冠肺炎并引发基础性疾病，进行了长达四个多月的治疗。曾因药物治疗导致“面容变黑”，胡卫峰的病情进展一直备受公众的关注和关心。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy9bMytrk1mlgzJ9Qnuqc200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591057904000",
-            "title": "四川新增2例新冠肺炎确诊病例 原为境外输入无症状感染者",
-            "summary": "6月1日0-24时，四川新增新型冠状病毒肺炎确诊病例2例（均为境外输入，为5月31日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixEXFvSZLp51T1qBGaMik200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
