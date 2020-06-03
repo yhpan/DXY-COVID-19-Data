@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591148191000",
+            "title": "特朗普称共和党大会将更换地点召开",
+            "summary": "美国总统特朗普当地时间2日称，由于北卡罗来纳州坚持防疫的社交疏离政策，原定8月份在该州召开的共和党全国大会被迫改在别州召开。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591141250000",
             "title": "非洲观察丨新冠肺炎疫情对中非关系有何影响",
             "summary": "为支持非洲国家抗击新冠肺炎疫情，应有关国家邀请，中方已向非洲11个国家派出148人次的抗疫医疗专家组。中方医疗专家组与非洲国家有关部门和医务人员深入交流，分享抗疫经验，对话社区民众，考察定点医院和实验室，指导中国援地区国家医疗队在当地开展抗疫工作，受到有关国家高度赞誉和广泛好评。",
@@ -78,15 +87,6 @@
             "summary": "香港特区政府卫生署卫生防护中心在2日下午的记者会上公布，截至当日16时30分，香港6月2日新增6例新冠肺炎确诊病例，其中4例为本地确诊病例，2例为境外输入病例。至此，香港新冠肺炎确诊病例累计增至1093例，另有1例疑似病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591088742000",
-            "title": "为防控疫情 阿联酋首都将实施人员流动限制禁令",
-            "summary": "据阿联酋《海湾时报》报道称，当地时间6月2日起，为加强新冠疫情的防控，阿联酋首都阿布扎比根据此前紧急情况和危机管理局委员会的决定，将正式开始实施为期一周的人员流动限制禁令（即禁止人员进入或离开阿布扎比酋长国及其管辖区域）。阿布扎比警局当天宣布，在禁令实施期间， 居民需要提前在阿布扎比警察网站上获得通行许可证才能进出该市。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimEvfRo2MtG2YYKApZDPs200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
