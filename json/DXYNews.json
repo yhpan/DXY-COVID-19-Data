@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591159865000",
+            "title": "印度新增新冠肺炎确诊病例8909例 累计确诊超20万例",
+            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间6月3日上午8时（北京时间10时30分），印度境内累计新冠肺炎确诊病例超20万例，达207615例，累计死亡病例达5815例，累计治愈出院达100302例。统计数据显示，在过去24小时内，印度新增确诊病例8909例，为印度疫情暴发以来单日新增历史最高水平，新增死亡病例217例。\n△图片来源：网络\n数据显示，目前马哈拉施特拉邦疫情最为严重，累计确诊病",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSipAR8ncHyTyKUuXy4rw200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591152114000",
             "title": "世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%",
             "summary": "根据世界银行预测，印尼全国范围内持续了四个月的大规模社会隔离政策将可能导致经济下滑3.5%，目前印尼政府正在紧急恢复社会经济。根据这一基准数据，世界银行印尼资深经济学家拉尔佛当地时间2日表示，印尼经济增长将由去年的5.02%下降到0%。",
@@ -78,15 +87,6 @@
             "summary": "6月2日俄罗斯总理米舒斯京向俄总统普京提交疫情经济复苏计划。俄政府计划在两年内花费5万亿卢布（约合730亿美元）实施该计划。计划将于今年7月初开始执行。据俄总理米舒斯京介绍，经济复苏计划将分三个阶段实施：到2020年底实现全国经济局势的稳定，2021年第二季度前完成经济复苏任务，2021年第四季度实现增长。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVanTPjIT9Eh19T1wGNhK200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591101772000",
-            "title": "联合国人权事务高级专员：新冠肺炎疫情暴露了长期被忽视的不平等",
-            "summary": "当地时间2日，联合国人权事务高级专员米歇尔·巴切莱特在日内瓦表示，新冠肺炎疫情对社区的影响，体现在日益扩大的差距和包括非洲裔在内的种族和少数民族等方面，这些都暴露了社会内部令人震惊的不平等现象。她指出，类似的不平等现象也助长了美国数百个城市大规模的抗议活动。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOwu8pb9PnfrfwCaObm3K200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
