@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591167206000",
+            "title": "韩国中小学返校复课率超七成 防疫形势依旧紧张",
+            "summary": "6月3日，根据韩国教育部的安排，韩国高中一年级、初中二年级和小学三、四年级学生共约178万人开始返校上课。此前在5月20日已经先有高三学生返校，随后5月27日高中二年级、初中三年级以及小学一、二年级和幼儿园开始返校上课。根据韩国教育部门的统计，截至目前，韩国459万中小学生中已有77%的学生回到学校上课。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3gh2LePjQl6m7hTdF1m8200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591165055000",
             "title": "美明尼苏达州国民警卫队一人新冠病毒检测呈阳性 全员将检测",
             "summary": "美国明尼苏达州国民警卫队2日发表声明说，在一名国民警卫队队员新冠病毒检测呈阳性后，该州为应对抗议活动派出的全部约7000名国民警卫队队员将全部接受检测。声明说，除了确诊的一名国民警卫队队员外，还有9人出现了相关症状。声明并没有指出这名队员具体在几号确诊，目前也不清楚确诊人员与其他队员和民众有何种接触。",
@@ -78,15 +87,6 @@
             "summary": "据6月1日捷克内阁会议决定，卫生部长沃伊捷赫宣布，将进一步放松今年3月以来陆续实施的一系列疫情管控措施。从6月8日起，群体活动的人数上限将从目前的300人放宽至500 人，取消剧院、电影院、音乐厅等场所的社交距离限制。此外，从6月8日起，动物园、植物园的人数限制将从目前的每公顷不超过150人，提高到每公顷不超过250人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591105225000",
-            "title": "巴西里约州州长：该州限制令将延期至6月5日",
-            "summary": "巴西里约热内卢州州长威尔逊·维泽尔2日宣布，里约州目前执行的限制隔离措施将延期至6月5日。这是维泽尔在此前一天与卫生专家及各界会商后的结果。在随后几天，里约州政府将根据新冠肺炎疫情的发展趋势，确定该州逐步开放商业活动的时间表。维泽尔透露，6月5日后根据州政府最新法令，只有基础服务行业达到有关社交距离和环境卫生的指标下才能经营。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipYfy2AfSKwfKbLQ7PpTb200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
