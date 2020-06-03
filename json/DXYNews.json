@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591188073000",
+            "title": "沙特新增2171例新冠肺炎确诊病例 累计确诊病例突破九万",
+            "summary": "沙特卫生部当地时间3日下午公布的最新数字显示，沙特境内过去24小时新增新冠肺炎确诊病例 2171例，单日新增病例数相较前一日有较大回升，当天同时新增30例死亡病例。至此沙特境内新冠肺炎确诊病例数累计已达91182例，其中579名患者病重不治去世，68159名患者已经治愈。（总台记者 李超）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuj6uw3LgVtIBuaztkkX4200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591185357000",
             "title": "国务院联防联控机制联络组推动武汉市继续做好核酸检测和治愈患者康复相关工作",
             "summary": "国务院联防联控机制联络组今天和武汉市共同研究继续推动保持对重点人群、重点地区核酸检测的力度和强度，加快治愈患者康复管理工作进度。",
@@ -78,15 +87,6 @@
             "summary": "由于圭亚那境内新冠肺炎疫情暴发，当地时间2日政府宣布防控紧急措施再次延长，延长至17日。其中包括每晚6时至次日早6时全国宵禁，关闭非必要的服务以及暂停所有国际航班。该项规定4月起开始生效，原计划于6月3日截止。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591148191000",
-            "title": "特朗普称共和党大会将更换地点召开",
-            "summary": "美国总统特朗普当地时间2日称，由于北卡罗来纳州坚持防疫的社交疏离政策，原定8月份在该州召开的共和党全国大会被迫改在别州召开。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZWCZbCpXNB2XWMCbaVw9200603&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
