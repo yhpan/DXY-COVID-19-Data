@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591152114000",
+            "title": "世界银行预测：持续了四个月的大规模隔离政策使得印尼经济缩水3.5%",
+            "summary": "根据世界银行预测，印尼全国范围内持续了四个月的大规模社会隔离政策将可能导致经济下滑3.5%，目前印尼政府正在紧急恢复社会经济。根据这一基准数据，世界银行印尼资深经济学家拉尔佛当地时间2日表示，印尼经济增长将由去年的5.02%下降到0%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1DLK4EsoTvATrjfSKk95200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591149143000",
+            "title": "受新冠肺炎疫情影响，圭亚那再次延长防控疫情紧急措施实施时间",
+            "summary": "由于圭亚那境内新冠肺炎疫情暴发，当地时间2日政府宣布防控紧急措施再次延长，延长至17日。其中包括每晚6时至次日早6时全国宵禁，关闭非必要的服务以及暂停所有国际航班。该项规定4月起开始生效，原计划于6月3日截止。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijJP9VaSvc8WxTvWgDaO0200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591148191000",
             "title": "特朗普称共和党大会将更换地点召开",
             "summary": "美国总统特朗普当地时间2日称，由于北卡罗来纳州坚持防疫的社交疏离政策，原定8月份在该州召开的共和党全国大会被迫改在别州召开。",
@@ -69,24 +87,6 @@
             "summary": "当地时间2日，联合国人权事务高级专员米歇尔·巴切莱特在日内瓦表示，新冠肺炎疫情对社区的影响，体现在日益扩大的差距和包括非洲裔在内的种族和少数民族等方面，这些都暴露了社会内部令人震惊的不平等现象。她指出，类似的不平等现象也助长了美国数百个城市大规模的抗议活动。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOwu8pb9PnfrfwCaObm3K200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591097383000",
-            "title": "​印度最大贫民窟新增新冠肺炎确诊病例25例  累计达1830例",
-            "summary": "据印度媒体报道，当地时间6月2日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例25例，累计确诊病例达1830例，无新增死亡病例，累计死亡病例71例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。4月1日，塔拉维出现首例新冠肺炎确诊病例，随后确诊病例数量节节攀升。由于人口密度大、卫生条件差，塔拉维疫情引起人们担忧。塔拉维所在的孟买是印度疫情最严重的城市。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSA0x22X7YTMXWTjEOWhT200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591088971000",
-            "title": "香港新增6例新冠肺炎确诊病例，4例本地确诊2例境外输入",
-            "summary": "香港特区政府卫生署卫生防护中心在2日下午的记者会上公布，截至当日16时30分，香港6月2日新增6例新冠肺炎确诊病例，其中4例为本地确诊病例，2例为境外输入病例。至此，香港新冠肺炎确诊病例累计增至1093例，另有1例疑似病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artin4QohHbmIahMNjgTIYcf200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
