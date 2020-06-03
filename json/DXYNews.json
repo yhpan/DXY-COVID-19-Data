@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591169894000",
+            "title": "俄罗斯新增8536例新冠肺炎确诊病例 累计超43万例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月3日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8536例，累计确诊432277例。新增死亡病例178例，累计死亡病例5215例，新增治愈病例8972例，累计治愈病例195957例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNEcYkxz4SxXJXv8mggtR200603&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591167206000",
             "title": "韩国中小学返校复课率超七成 防疫形势依旧紧张",
             "summary": "6月3日，根据韩国教育部的安排，韩国高中一年级、初中二年级和小学三、四年级学生共约178万人开始返校上课。此前在5月20日已经先有高三学生返校，随后5月27日高中二年级、初中三年级以及小学一、二年级和幼儿园开始返校上课。根据韩国教育部门的统计，截至目前，韩国459万中小学生中已有77%的学生回到学校上课。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月2日，纽约市市长德布拉西奥宣布，将纽约市的宵禁时间延长至周日晚。6月1日晚，纽约市自1943年以来首次实施宵禁，宵禁时间从23点到第二天凌晨5点。宵禁期间，除必要工作者外禁止外出。但1日晚的宵禁对于纽约过去数日的混乱场面几乎未能起到阻止作用，入夜后示威抗议活动变得暴力，曼哈顿中城及第五大道有多家店铺遭到侵入。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtingzDz6RdYDmwNJtRH2pT200602&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591107315000",
-            "title": "捷克自6月8日起进一步“解封”将允许举办不超过500人的群体活动",
-            "summary": "据6月1日捷克内阁会议决定，卫生部长沃伊捷赫宣布，将进一步放松今年3月以来陆续实施的一系列疫情管控措施。从6月8日起，群体活动的人数上限将从目前的300人放宽至500 人，取消剧院、电影院、音乐厅等场所的社交距离限制。此外，从6月8日起，动物园、植物园的人数限制将从目前的每公顷不超过150人，提高到每公顷不超过250人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihwbRk2zJ7yySMkiXA5gk200602&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
