@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591252493000",
+            "title": "​朝鲜中小学开学复课 复课学生均已佩戴口罩",
+            "summary": "据朝鲜外宣媒体“回声”4日报道，朝鲜全国中小学3日已经全部开学复课。开学典礼以线上视频的方式进行，尽量避免人员接触。报道图片显示，复课的全体学生均佩戴了口罩。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilwfGT5YWC3pwDLrtscI3200604&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591237300000",
             "title": "巴西新冠肺炎确诊病例超58万 总统任命临时卫生部长",
             "summary": "截至当地时间6月3日，巴西全国新增新冠肺炎确诊病例28633例，累计达584016例，单日新增死亡病例1349例，累计达32548例，另共有238617名患者康复。巴西总统博索纳罗于3日正式任命军人出身的爱德华多·帕祖洛担任巴西卫生部临时部长。",
@@ -78,15 +87,6 @@
             "summary": "近期，中东各国陆续放松防控举措，加速生产生活正常化。但各地疫情防控仍面临多重挑战。土耳其虽然连日来新增病例持续回落，但全面复工复产为后续疫情防控带来风险。伊朗单日新增病例再超3000例，有专家认为，伊朗已迎来疫情的第二高峰。沙特单日新增病例较前一日有较大回升；卡塔尔确诊病例数持续保持高增长；阿联酋经济活动逐步重启，但消费恢复尚需时日。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijktG27CHGIjtZrZUsf5m200604&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591197833000",
-            "title": "比利时公布解禁第三阶段相关措施 允许民众每周接触家庭成员外10人",
-            "summary": "当地时间6月3日，比利时国家安全委员会经过7个小时的会议，最终对外公布要求本国民众继续遵守公共卫生要求和社交距离。相比第二阶段解禁，第三阶段放松了接触范围，每位比利时民众每周允许接触家庭成员外的10个人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
