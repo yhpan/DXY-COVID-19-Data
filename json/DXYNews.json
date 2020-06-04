@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591237300000",
+            "title": "巴西新冠肺炎确诊病例超58万 总统任命临时卫生部长",
+            "summary": "截至当地时间6月3日，巴西全国新增新冠肺炎确诊病例28633例，累计达584016例，单日新增死亡病例1349例，累计达32548例，另共有238617名患者康复。巴西总统博索纳罗于3日正式任命军人出身的爱德华多·帕祖洛担任巴西卫生部临时部长。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2vg7hkJQzp3cLPqDg3ro200604&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591234714000",
             "title": "​美国加州3日新增新冠肺炎确诊病例近2000例 累计近12万例",
             "summary": "美国当地时间6月3日，洛杉矶地区新增新冠肺炎确诊病例1039例，累计达17590例。新增死亡病例41例，累计达522例。加州整体新增新冠肺炎确诊病例1855例，与前日相比数量减少，累计确诊病例近12万例，达119347例，同时累计死亡病例4374例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月3日，比利时国家安全委员会经过7个小时的会议，最终对外公布要求本国民众继续遵守公共卫生要求和社交距离。相比第二阶段解禁，第三阶段放松了接触范围，每位比利时民众每周允许接触家庭成员外的10个人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieBQ3iF1CHF8HIGhCXa4V200603&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591191927000",
-            "title": "马耳他卫生部官员谈“抗疫”成功经验：很早与中国建立联系对话",
-            "summary": "近期，南欧国家马耳他的新冠疫情进一步稳定。6月3日，该国仅有2例新增新冠肺炎确诊病例，基本传染数降至0.5以下。马耳他卫生部公共卫生主管高奇称，已赢得对抗新冠肺炎的战争，4日起管控措施将进一步放松。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
