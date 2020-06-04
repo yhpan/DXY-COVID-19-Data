@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591234714000",
+            "title": "​美国加州3日新增新冠肺炎确诊病例近2000例 累计近12万例",
+            "summary": "美国当地时间6月3日，洛杉矶地区新增新冠肺炎确诊病例1039例，累计达17590例。新增死亡病例41例，累计达522例。加州整体新增新冠肺炎确诊病例1855例，与前日相比数量减少，累计确诊病例近12万例，达119347例，同时累计死亡病例4374例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQQ3cgqKiBa3MGQdfLjAL200604&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591232959000",
             "title": "​墨西哥新增3912例新冠肺炎确诊病例 累计达101238例",
             "summary": "当地时间6月3日，墨西哥卫生部宣布，截止到6月3日晚上7时，墨西哥全国累计新冠肺炎确诊病例101238例，较前一天新增了3912例。墨西哥死亡病例较前一天新增1092例，累计达11729例。",
@@ -78,15 +87,6 @@
             "summary": "近期，南欧国家马耳他的新冠疫情进一步稳定。6月3日，该国仅有2例新增新冠肺炎确诊病例，基本传染数降至0.5以下。马耳他卫生部公共卫生主管高奇称，已赢得对抗新冠肺炎的战争，4日起管控措施将进一步放松。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMf5uoCT39ntOu3VVwset200603&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591188073000",
-            "title": "沙特新增2171例新冠肺炎确诊病例 累计确诊病例突破九万",
-            "summary": "沙特卫生部当地时间3日下午公布的最新数字显示，沙特境内过去24小时新增新冠肺炎确诊病例 2171例，单日新增病例数相较前一日有较大回升，当天同时新增30例死亡病例。至此沙特境内新冠肺炎确诊病例数累计已达91182例，其中579名患者病重不治去世，68159名患者已经治愈。（总台记者 李超）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuj6uw3LgVtIBuaztkkX4200603&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
