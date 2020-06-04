@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591263945000",
+            "title": "​法国2020年国庆日传统阅兵仪式取消",
+            "summary": "法国总统府爱丽舍宫当地时间4日发布消息称，受新冠肺炎疫情的影响，原定于7月14日法国国庆日当天在巴黎香榭丽舍大街举行的传统国庆阅兵仪式今年将取消，取而代之的将会是在巴黎协和广场举行的一场庆典仪式，仪式上将会有向医护人员致敬的环节。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOxdsWqU3m5wnHQHLeFiH200604&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591261606000",
             "title": "印尼新增585例新冠肺炎确诊病例 累计达28818例",
             "summary": "当地时间4日，印尼卫生部宣布新增585例新冠肺炎确诊病例，全国累计达28818例，新增23例死亡病例，累计达1721例。另有8892人被治愈。（总台记者 贾建京）\n（编辑 程程）",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月3日，墨西哥卫生部宣布，截止到6月3日晚上7时，墨西哥全国累计新冠肺炎确诊病例101238例，较前一天新增了3912例。墨西哥死亡病例较前一天新增1092例，累计达11729例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyyFWGoyqdy5MFlO6nP4200604&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591232510000",
-            "title": "苏里南新冠肺炎疫情传播加速 将启动全国封锁隔离令",
-            "summary": "苏里南副总统阿德欣（Ashwin ADHIN）于当地时间3日宣布，该国全境从4日18点至12日6点实施封锁隔离。\n具体措施包括：1、所有人须留在家中；2、车辆最多只能搭载2个人；3、非必要服务的营业均关闭；4、超市、药店等服务仅在早8点和晚5点期间开放；阿德欣在发言中表示，两天内苏里南新冠肺炎确诊病例已成倍增加。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artids2EhwwM7c9W72SMMVdi200604&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
