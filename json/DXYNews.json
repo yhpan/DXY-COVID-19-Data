@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591350840000",
+            "title": "伊朗新增新冠肺炎确诊病例2886例 累计确诊167156例",
+            "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2886例，新增死亡63例。截至当地时间5日中午，伊朗累计确诊新冠肺炎病例167156例，其中129741例治愈，8134例死亡，2573例重症。截至5号，伊朗累计进行了1040289次检测。（总台记者 雷湘平）\n（编辑 韩咏慧）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591349467000",
+            "title": "中国人民解放军向20国军队提供防疫物资援助",
+            "summary": "经中央军委批准，中国人民解放军于6月2日至5日通过空军飞机等方式分别向埃塞俄比亚、莫桑比克、突尼斯、安哥拉、埃及、摩洛哥、坦桑尼亚、刚果（布）、刚果（金）、赤道几内亚、塞拉利昂、津巴布韦、赞比亚、喀麦隆、卢旺达、阿根廷、老挝、柬埔寨、沙特和孟加拉国等20国军队提供防护服、医用口罩等防疫物资。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591343603000",
             "title": "法国科学委员会：法国新冠肺炎疫情已得到控制",
             "summary": "当地时间6月5日，法国应对新冠肺炎科学委员会主席、免疫学专家德尔福雷西在早间广播访谈节目中表示，虽然新冠病毒继续在法国境内传播，尤其在大巴黎地区等部分区域更为明显，但整体传播速度大为减缓，疫情可以说已经得到控制。",
@@ -69,24 +87,6 @@
             "summary": "2020年6月4日0—24时，湖北省新增新冠肺炎确诊病例0例，新增疑似病例0例，新增出院病例3例，新增死亡病例0例，无境外输入病例。截至2020年6月4日24时，湖北省现有确诊病例0例，现有疑似病例0例。湖北省累计报告新冠肺炎确诊病例68135例，累计治愈出院63623例，累计病亡4512例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwigytBajnEwCcBXxKy24200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591318560000",
-            "title": "四川省4日新增1例境外输入新冠肺炎确诊病例",
-            "summary": "6月4日0-24时，四川新增新型冠状病毒肺炎确诊病例1例（为境外输入，5月24日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。截至6月5日0时，四川省累计报告新型冠状病毒肺炎确诊病例578例(其中境外输入38例），累计治愈出院558例，死亡3例，目前在院隔离治疗17例，307人尚在接受医学观察。 6月4日0-24时，四川省无新增无症状感染者，当日转为确诊病例1例，当日",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidnroDXNMvSOpPVUqFFWl200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591317489000",
-            "title": "四川省新型冠状病毒肺炎疫情最新情况（6月5日发布）",
-            "summary": "四川新增新型冠状病毒肺炎确诊病例1例（为境外输入，5月24日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
-            "infoSource": "四川卫健委",
-            "sourceUrl": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml",
             "province": null,
             "provinceId": ""
         }
