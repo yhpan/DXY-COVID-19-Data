@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591355369000",
+            "title": "卢旺达对与刚果（金）接壤的部分地区实行“封城”举措",
+            "summary": "根据卢旺达卫生部，该国6月4日新增新冠肺炎病例13例，累计确诊410例，累计死亡2例，累计治愈280例，现存病例128例，累计检测72510例。卫生部发布通告时同时表示，新增病例与Rusizi地区聚集性感染有关，卫生部门正在对密切接触者进行追踪。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591354259000",
             "title": "6月5日6时至13时 天津新增2例境外输入无症状感染者 全程实施闭环管理",
             "summary": "6月5日6时至13时，我市新增2例境外输入无症状感染者（均为中国籍）。累计报告17例（境外输入16例），其中解除在院医学观察7例、转为确诊病例2例、尚在医学观察8例。第16例境外输入无症状感染者，女，21岁，学生，中国籍，居住地法国巴黎。\n",
@@ -78,15 +87,6 @@
             "summary": "日本媒体5日报道，7月23日是推迟后的奥运会开幕倒计时一周年纪念日，但东京奥组委不会举行任何的纪念活动。共同社援引内部人士的话说，由于奥运会因为新冠疫情推迟一年，再次庆祝倒计时一周年很“不合适”。这位人士透露，组委会尽管不组织大规模的庆祝活动，但可能会通过媒体推出一些海报，这也符合东京市政府和组委会提出的“精简奥运”的想法。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwH4C8Oet4gCLiTv9GibP200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591322272000",
-            "title": "英国新冠肺炎确诊病例超28万",
-            "summary": "根据英国卫生部门的最新消息，截至当地时间6月4日上午9时，英国累计新冠肺炎确诊281661例，新增确诊病例达1805例。英国交通大臣格兰特·沙普斯当天宣布，从6月15日起，英格兰民众在乘坐公共交通时必须配戴面部遮挡物，如违反规则乘务员有权拒绝该乘客乘车，甚至进行罚款。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuhwmOGQUw2VLhAtCGJTP200605&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
