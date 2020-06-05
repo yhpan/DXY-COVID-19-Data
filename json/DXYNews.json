@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591343603000",
+            "title": "法国科学委员会：法国新冠肺炎疫情已得到控制",
+            "summary": "当地时间6月5日，法国应对新冠肺炎科学委员会主席、免疫学专家德尔福雷西在早间广播访谈节目中表示，虽然新冠病毒继续在法国境内传播，尤其在大巴黎地区等部分区域更为明显，但整体传播速度大为减缓，疫情可以说已经得到控制。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591340172000",
+            "title": "德国新增507例新冠肺炎确诊病例 累计确诊183271例",
+            "summary": "德国疾控机构罗伯特·科赫研究所公布的数据显示，截至当地时间6月5日0时，德国新冠肺炎确诊病例累计达183271例，较前一日增加507例；累计死亡8613例，较前一日增加32例；累计治愈约168500例。（总台记者 余鹏）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591333801000",
             "title": "武汉全面推行“分餐制” 将命名100家“卫生文明酒店”",
             "summary": "昨天（4日），武汉市多部门联合举办推行“分餐制”启动仪式，倡导在全市大力开展文明餐桌光盘行动，全面推行分餐制，倡导节俭用餐、卫生用餐、健康用餐、文明用餐新风尚。",
@@ -69,24 +87,6 @@
             "summary": "四川新增新型冠状病毒肺炎确诊病例1例（为境外输入，5月24日的无症状感染者转确诊），无新增治愈出院病例，无新增疑似病例，无新增死亡病例。",
             "infoSource": "四川卫健委",
             "sourceUrl": "http://wsjkw.sc.gov.cn/scwsjkw/gzbd01/2020/6/5/8f68345aa9f846af8916190cbcb6b0ec.shtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591314060000",
-            "title": "国家卫健委：4日新增新冠肺炎确诊病例5例 均为境外输入",
-            "summary": "6月4日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例5例，均为境外输入病例（上海4例，四川1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例8例，解除医学观察的密切接触者508人，重症病例减少1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXRJN9Jc3n7cqy6XnoXBS200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591311834000",
-            "title": "埃及一议员确诊感染新冠病毒",
-            "summary": "埃及媒体当地时间6月5日凌晨报道，埃及人民议会总秘书处宣布，盖卢比尤省卡里尤布区议员侯赛因·阿什玛维在感觉呼吸系统出现不适后，进行了病毒检测，检测结果呈阳性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTrASzhlIg0mlgNlalQf0200605&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
