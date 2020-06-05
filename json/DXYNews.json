@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591326764000",
+            "title": "牡丹江扩大核酸检测范围 已完成690421人采样",
+            "summary": "据黑龙江省卫健委通报，2020年5月25日，牡丹江市通过筛查检测发现2例新冠肺炎无症状感染者，这是继5月21日黑龙江省无症状感染者“清零”后，黑龙江再次发现无症状感染者。根据黑龙江省卫生健康委员会通报，截至2020年6月4日，黑龙江现有无症状感染者15例，均来自牡丹江。出现多例无症状感染者之后，5月31日，牡丹江开始扩大了核酸检测范围，对城区常驻居民和暂住居民进行核酸检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQCeyz5nULrxz51oAZmEz200605&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591323088000",
             "title": "西班牙7月将重开与法葡陆地边境",
             "summary": "根据西班牙卫生部发布的最新消息，截至当地时间4日，西班牙累计新冠肺炎确诊病例达到24万0660例，累计死亡病例2万7133例。西班牙政府当天宣布，将从7月1日起解除与法国和葡萄牙之间的陆地边境限制。西班牙全国范围内的国家博物馆将于6月9日重新开放，并将免费开放至7月31日。此外，西班牙政府计划制定一项法令以确保西班牙在6月21日有序结束国家紧急状态。",
@@ -78,15 +87,6 @@
             "summary": "根据加拿大各省公布的新冠肺炎疫情数据统计，截至加拿大东部时间4日18时，加拿大新增641例新冠肺炎确诊病例，累计确诊93726例。新增139例死亡病例，累计死亡7637例。这是加拿大自3月27日以后连续第二天单日新增确诊病例在700例以下。（总台记者 张森）\n（编辑 杨瑾）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOQMlNf9iGJGwWjERYlC200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591280818000",
-            "title": "专访钟南山院士：中国没有瞒报疫情 我们用事实说话",
-            "summary": "近日，中国工程院院士、广州医科大学呼吸内科教授钟南山在接受总台央视记者专访时表示，国外一些政客和媒体指责“中国刻意瞒报疫情”是毫无依据的，我国用事实证明疫情相关信息的公布是及时、公开、透明的。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7EFDYt2rPhYANqOongch200604&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
