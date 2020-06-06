@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591414074000",
+            "title": "日本北九州市疫情反弹 感染路径不明者占约4成",
+            "summary": "在日本北九州市，5月23日以来新冠肺炎疫情反弹，到6月5日为止，确认感染135例，4例死亡，在医疗机构等6个设施发生了集体感染，密切接触者达1026人。截至5日，尚未结束核酸检测的接触者达75人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591411411000",
             "title": "民航单日运输旅客量回升破百万 恢复至疫情前六成",
             "summary": "6月5日，民航单日运输旅客量达103.67万人次，恢复至去年同期的61.5%，这是自1月28日以来，民航单日运输旅客量首次回升破百万，单日保障航班11333架次，再创2月以来单日航班量新高。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月5日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎确诊病例新增118526例，死亡新增4288例。美洲区域确诊病例最多，达到3084517例（新增61693例），死亡172276例（新增3723例）。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591384286000",
-            "title": "巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体",
-            "summary": "截至当地时间6月5日，一项针对巴西疫情重灾区圣保罗市的警察队伍及其家属的大规模新冠病毒抗体检测结果显示，在被检测的3万名警察和4万名警察家属中，20%已携带有新冠病毒抗体。该结果意味着他们正在或曾经感染了新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
