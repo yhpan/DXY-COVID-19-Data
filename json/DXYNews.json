@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591485351000",
+            "title": "中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》",
+            "summary": "当地时间6月5日，受赤道几内亚总理奥巴马的邀请，中国抗疫医疗专家组到赤道几内亚大陆地区交流，并同卫生与社会福利国务部长恩圭马举行会谈。恩圭马高度评价并感谢中国政府派遣医疗专家组到赤道几内亚交流抗疫经验，认为专家组是“授之以鱼不如授之以渔”的最好抗疫经验传播者，希望中方多提好的抗疫建议和方案，让赤道几内亚大陆地区民众也能得到更好的医疗保障。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591471566000",
+            "title": "希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域",
+            "summary": "当地时间6月6日起，希腊境内所有餐厅、咖啡厅、酒吧等餐饮场所重新开始接纳顾客室内用餐。但商户必须严格遵守防疫规定，每2.2平米的范围内只允许容纳一个客人，每张桌子最多只可容纳6个客人等。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591464720000",
             "title": "疫情下非洲线上购物发展迅猛，电子支付成新宠",
             "summary": "非洲疫情继续蔓延，肯尼亚、乌干达等国继续执行严格的防疫措施。疫情下，人们纷纷网购，线上消费成为非洲人购物的选择。危机之下往往蕴藏机遇，现阶段线下零售业受冲击影响较大，而线上销售、移动支付发展势头迅猛。除了网上购物，直播带货也走进了非洲。5 月，联合国副秘书长兼非洲经济委员会执行秘书松圭应邀参与中国网购平台的直播带货，3000 包卢旺达咖啡瞬间售罄。",
@@ -69,24 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月6日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8855例，累计确诊458689例。新增死亡病例197例，累计死亡5725例，新增治愈病例8708例，累计治愈221388例。目前，俄罗斯已进行了1230万次新冠病毒检测，共有约31.4万名疑似感染者正在接受医学观察。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilsAEJ0s9w51GfFWsYM8t200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591425000000",
-            "title": "3小时带货额近14亿！北京消费季启动 央视Boys再合体 邀你买买买",
-            "summary": "6月6日中央广播电视总台与北京市人民政府共同启动了“新消费•爱生活”北京消费季系列活动。央视Boys再合体携手北京广播电视台主持人春妮，带来本次消费季首场带货直播截至6日13时10分带货额达13.9亿！",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihrBalZbygQUPJxTa28ZQ200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591422043000",
-            "title": "北美观察丨墨西哥新冠抗疫100天 疫情拐点还未到来 复工复产艰难推行",
-            "summary": "墨西哥当地时间6月5日，墨西哥来到了自从2月27日正式确诊境内首例病例的100天这样一个时间节点。截至6月5日晚上7时，墨西哥全国的确诊病例数超过11万例，死亡病例数也超过13000例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiybOyjb3vRkJikFhGIe6M200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
