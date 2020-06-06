@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591411411000",
+            "title": "民航单日运输旅客量回升破百万 恢复至疫情前六成",
+            "summary": "6月5日，民航单日运输旅客量达103.67万人次，恢复至去年同期的61.5%，这是自1月28日以来，民航单日运输旅客量首次回升破百万，单日保障航班11333架次，再创2月以来单日航班量新高。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591408366000",
             "title": "阿根廷累计新冠肺炎确诊病例21037例 首都地区放宽隔离限制 将逐户排查病例",
             "summary": "当地时间6月5日，根据阿根廷卫生部发布的最新数据，该国24小时内新增新冠肺炎确诊病例840例，死亡17例；累计确诊21037例，死亡632例，治愈6088例。首都布宜诺斯艾利斯市长拉雷塔当天宣布，首都地区自8日起将会实施新的隔离政策。",
@@ -78,15 +87,6 @@
             "summary": "截至当地时间6月5日，一项针对巴西疫情重灾区圣保罗市的警察队伍及其家属的大规模新冠病毒抗体检测结果显示，在被检测的3万名警察和4万名警察家属中，20%已携带有新冠病毒抗体。该结果意味着他们正在或曾经感染了新冠病毒。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591373557000",
-            "title": "美国超半数新冠肺炎死亡病例来自养老院",
-            "summary": "根据波士顿医学中心和波士顿大学医学院于当地时间6月5日发布的报告显示，美国有26个州发现超过半数的新冠肺炎死亡来自长期护理机构。其中明尼苏达州和罗德岛州位居榜首，长期护理机构的死亡占总死亡人数81%，康涅狄格州和新罕布什尔州紧随其后，分别占据71%和70％。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
