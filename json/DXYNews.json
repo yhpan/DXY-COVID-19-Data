@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591450649000",
+            "title": "英国新冠肺炎累计确诊 284868 例，累计死亡 40465 例",
+            "summary": "根据英国卫生与社会保健部消息，截止当地时间 6 月 6 日 9 时，英国新冠肺炎确诊病例达 284868 例，单日新增 1557 例；截止 6 月 5 日下午 5 时，死亡病例 40465 例，单日新增 204 例；5 日完成检测 218187 例，一共完成检测 5438712 例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQT4DP4K4PXzP4KT0VVZr200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591444383000",
             "title": "燕归！首批湖北籍大学生搭乘高铁返京",
             "summary": "6 月 6 日 12 时 10 分，101 名北京大学湖北籍大学生和 12 名带队老师满怀喜悦地在武汉站西广场久别重逢。这些大学生全部来自北京大学各专业，均为 2020 级在校毕业生，是湖北省第一批返京返校的大学生。根据北京市突发公共卫生事件相应级别调整至三级的相关措施，铁路部门自 6 月 6 日起将逐步恢复湖北地区始发进京旅客列车运行，满足旅客出行需求。",
@@ -78,15 +87,6 @@
             "summary": "6月5日，民航单日运输旅客量达103.67万人次，恢复至去年同期的61.5%，这是自1月28日以来，民航单日运输旅客量首次回升破百万，单日保障航班11333架次，再创2月以来单日航班量新高。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591408366000",
-            "title": "阿根廷累计新冠肺炎确诊病例21037例 首都地区放宽隔离限制 将逐户排查病例",
-            "summary": "当地时间6月5日，根据阿根廷卫生部发布的最新数据，该国24小时内新增新冠肺炎确诊病例840例，死亡17例；累计确诊21037例，死亡632例，治愈6088例。首都布宜诺斯艾利斯市长拉雷塔当天宣布，首都地区自8日起将会实施新的隔离政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
