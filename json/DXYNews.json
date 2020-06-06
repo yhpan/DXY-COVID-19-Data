@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1591408366000",
+            "title": "阿根廷累计新冠肺炎确诊病例21037例 首都地区放宽隔离限制 将逐户排查病例",
+            "summary": "当地时间6月5日，根据阿根廷卫生部发布的最新数据，该国24小时内新增新冠肺炎确诊病例840例，死亡17例；累计确诊21037例，死亡632例，治愈6088例。首都布宜诺斯艾利斯市长拉雷塔当天宣布，首都地区自8日起将会实施新的隔离政策。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591407300000",
+            "title": "巴西新增新冠肺炎确诊病例30830例 累计确诊645771例",
+            "summary": "截至当地时间6月5日，巴西新增新冠肺炎确诊病例30830例，累计确诊645771例，新增死亡病例1005例，累计死亡35026人，死亡人数超过意大利，共有271940 名患者康复。近期巴西每日新增新冠肺炎确诊病例数都在3万例左右，死亡人数也以每日千例左右的速度快速增长，但巴西部分地区已经开始放松隔离限制并开放商业活动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591407200000",
+            "title": "韩国新增新冠肺炎确诊病例51例 累计确诊11719例",
+            "summary": "韩国中央防疫对策本部通报，截至6月6日0时，韩国较前一天新增51例新冠肺炎确诊病例，累计确诊11719例。新增病例中，43例为本土社区感染，8例为境外输入性病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioC2YaUS3w2CpgfCwo9y9200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591402139000",
             "title": "世卫组织更新口罩使用指南",
             "summary": "当地时间6月5日傍晚，世界卫生组织在日内瓦召开新冠肺炎疫情例行发布会。世卫组织总干事谭德塞表示，世卫组织已更新口罩使用指南，就应佩戴口罩的人群、何时佩戴口罩以及口罩应使用的材质等提出了建议。谭德塞强调，口罩只应作为抗击新冠肺炎疫情全面策略的一部分，不应忽略其他防护措施。",
@@ -60,33 +87,6 @@
             "summary": "根据波士顿医学中心和波士顿大学医学院于当地时间6月5日发布的报告显示，美国有26个州发现超过半数的新冠肺炎死亡来自长期护理机构。其中明尼苏达州和罗德岛州位居榜首，长期护理机构的死亡占总死亡人数81%，康涅狄格州和新罕布什尔州紧随其后，分别占据71%和70％。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591369214000",
-            "title": "英国新增新冠肺炎确诊病例1650例 累计确诊283311例",
-            "summary": "根据英国卫生与社会保健部消息，截至当地时间6月5日9时，英国新冠肺炎确诊病例达283311例，单日新增1650例；截至6月4日下午5时，死亡病例40261例，单日新增357例；共完成检测5214277次，4日完成检测207231次。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artim4uxLWnwEnrCVkvE3F3w200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591367839000",
-            "title": "加拿大5月份失业率创40年来最高纪录,高达13.7％",
-            "summary": "据加拿大统计局当地时间6月5日发布的统计数据显示，受新冠肺炎疫情等因素影响，加拿大5月份的失业率高达13.7％，超过了1982年12月创下的13.1％的纪录，成为40年来失业率最高的月份。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJXCFclCrzaMFfAB4XDR4200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591364667000",
-            "title": "荷兰新增新冠肺炎确诊病例210例 累计确诊47152例",
-            "summary": "据荷兰公共卫生与环境研究院6月5日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例210例，累计确诊47152例。其中住院治疗病例新增11例，累计治疗11782例。死亡病例新增15例，累计死亡6005例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
