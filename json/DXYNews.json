@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591464720000",
+            "title": "疫情下非洲线上购物发展迅猛，电子支付成新宠",
+            "summary": "非洲疫情继续蔓延，肯尼亚、乌干达等国继续执行严格的防疫措施。疫情下，人们纷纷网购，线上消费成为非洲人购物的选择。危机之下往往蕴藏机遇，现阶段线下零售业受冲击影响较大，而线上销售、移动支付发展势头迅猛。除了网上购物，直播带货也走进了非洲。5 月，联合国副秘书长兼非洲经济委员会执行秘书松圭应邀参与中国网购平台的直播带货，3000 包卢旺达咖啡瞬间售罄。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591461368000",
+            "title": "哈萨克斯坦总统新闻秘书确诊新冠肺炎",
+            "summary": "当地时间6日晚，哈萨克斯坦总统托卡耶夫的新闻秘书别热克·瓦里，在社交媒体发文表示自己确诊新冠肺炎，正在接受治疗。他表示托卡耶夫总统并没有受到影响，仍在正常工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC4ls333XqaPJKakEY67L200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591450649000",
             "title": "英国新冠肺炎累计确诊 284868 例，累计死亡 40465 例",
             "summary": "根据英国卫生与社会保健部消息，截止当地时间 6 月 6 日 9 时，英国新冠肺炎确诊病例达 284868 例，单日新增 1557 例；截止 6 月 5 日下午 5 时，死亡病例 40465 例，单日新增 204 例；5 日完成检测 218187 例，一共完成检测 5438712 例。",
@@ -69,24 +87,6 @@
             "summary": "墨西哥当地时间6月5日，墨西哥来到了自从2月27日正式确诊境内首例病例的100天这样一个时间节点。截至6月5日晚上7时，墨西哥全国的确诊病例数超过11万例，死亡病例数也超过13000例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiybOyjb3vRkJikFhGIe6M200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591414074000",
-            "title": "日本北九州市疫情反弹 感染路径不明者占约4成",
-            "summary": "在日本北九州市，5月23日以来新冠肺炎疫情反弹，到6月5日为止，确认感染135例，4例死亡，在医疗机构等6个设施发生了集体感染，密切接触者达1026人。截至5日，尚未结束核酸检测的接触者达75人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy85JC8RLCIsguFaIQxrD200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591411411000",
-            "title": "民航单日运输旅客量回升破百万 恢复至疫情前六成",
-            "summary": "6月5日，民航单日运输旅客量达103.67万人次，恢复至去年同期的61.5%，这是自1月28日以来，民航单日运输旅客量首次回升破百万，单日保障航班11333架次，再创2月以来单日航班量新高。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipVe9UOgp8d3U8IQd1kEx200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
