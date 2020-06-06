@@ -1,6 +1,69 @@
 {
     "results": [
         {
+            "pubDate": "1591402139000",
+            "title": "世卫组织更新口罩使用指南",
+            "summary": "当地时间6月5日傍晚，世界卫生组织在日内瓦召开新冠肺炎疫情例行发布会。世卫组织总干事谭德塞表示，世卫组织已更新口罩使用指南，就应佩戴口罩的人群、何时佩戴口罩以及口罩应使用的材质等提出了建议。谭德塞强调，口罩只应作为抗击新冠肺炎疫情全面策略的一部分，不应忽略其他防护措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFBeQkvxiJEjmBzn6iWFh200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591400639000",
+            "title": "美国加州新冠肺炎确诊病例不断增加",
+            "summary": "美国当地时间6月5日，加州卫生官员警告称，随着加州经济重新开放，新冠疫情可能会再次流行。根据约翰斯·霍普金斯大学的统计数字显示，在过去五天中，加利福尼亚州是全美20个新增病例最严重的州之一。《洛杉矶时报》的疫情分析显示，加州过去近一周内新增确诊病例数字继续上升，截至当地时间5日，新增病例已超过了17000例，仅洛杉矶县就有近10000例新增病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti96BU5VvGLck9ome7isGr200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591400456000",
+            "title": "厄瓜多尔“复苏”加速  近半数地区降低防疫级别",
+            "summary": "根据厄瓜多尔政府公布的数据，截至当地时间6月5日，该国累计确诊新冠肺炎病例42106例，累计死亡3592例。该国受疫情影响最严重的瓜亚斯省确诊累计14326例，死亡1461例，均占全国总数的三分之一以上。\n依据厄政府计划，5月初开始该国各地方政府可依据本地疫情形势，逐步降低防疫级别，有条件地恢复经济活动。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVYz9c8FCOou0DHx5Ukir200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591397815000",
+            "title": "关心旅非同胞 中国抗疫医疗专家组为旅圣普侨胞及中资机构人员提供帮助",
+            "summary": "中国抗疫医疗专家组日前正在圣多美和普林西比执行援非抗疫任务。由于当地疫情迅速发展，不到20万人口的国家截至6月5日已累计确诊新冠病例509例，死亡12例。为帮助旅圣普中国公民、中资机构更好地了解疫情，保护自己，中国抗疫医疗专家组于当地时间6月4日在中国驻圣普使馆特别举办了疫情防控知识讲座，近30名代表出席。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifhaKWknYeKKp2B94RVPL200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591390645000",
+            "title": "世卫组织：全球新冠肺炎确诊病例新增118526例",
+            "summary": "当地时间6月5日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎确诊病例新增118526例，死亡新增4288例。美洲区域确诊病例最多，达到3084517例（新增61693例），死亡172276例（新增3723例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS55rx2qwqV8n88P0OoBE200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591384286000",
+            "title": "巴西圣保罗：20%接受检测的警察及家属携带新冠病毒抗体",
+            "summary": "截至当地时间6月5日，一项针对巴西疫情重灾区圣保罗市的警察队伍及其家属的大规模新冠病毒抗体检测结果显示，在被检测的3万名警察和4万名警察家属中，20%已携带有新冠病毒抗体。该结果意味着他们正在或曾经感染了新冠病毒。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJJ3vZ5uNIp1gMREgsJ69200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591373557000",
+            "title": "美国超半数新冠肺炎死亡病例来自养老院",
+            "summary": "根据波士顿医学中心和波士顿大学医学院于当地时间6月5日发布的报告显示，美国有26个州发现超过半数的新冠肺炎死亡来自长期护理机构。其中明尼苏达州和罗德岛州位居榜首，长期护理机构的死亡占总死亡人数81%，康涅狄格州和新罕布什尔州紧随其后，分别占据71%和70％。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis2sWEnzn5Ay8rC2ycHx5200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591369214000",
             "title": "英国新增新冠肺炎确诊病例1650例 累计确诊283311例",
             "summary": "根据英国卫生与社会保健部消息，截至当地时间6月5日9时，英国新冠肺炎确诊病例达283311例，单日新增1650例；截至6月4日下午5时，死亡病例40261例，单日新增357例；共完成检测5214277次，4日完成检测207231次。",
@@ -24,69 +87,6 @@
             "summary": "据荷兰公共卫生与环境研究院6月5日最新通报，过去24小时内荷兰新增新冠肺炎确诊病例210例，累计确诊47152例。其中住院治疗病例新增11例，累计治疗11782例。死亡病例新增15例，累计死亡6005例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7ieyjv1HAAvGMZkWgLZ4200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591361100000",
-            "title": "二级→三级！京津冀下调应急响应级别 二级响应级别省份仅剩2个",
-            "summary": "随着北京重大突发公共卫生事件应急响应级别下调，相关防控策略也做出了相应的调整\n进社区不再测温",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihZHVALHHNAV55rh7wiz5200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591355369000",
-            "title": "卢旺达对与刚果（金）接壤的部分地区实行“封城”举措",
-            "summary": "根据卢旺达卫生部，该国6月4日新增新冠肺炎病例13例，累计确诊410例，累计死亡2例，累计治愈280例，现存病例128例，累计检测72510例。卫生部发布通告时同时表示，新增病例与Rusizi地区聚集性感染有关，卫生部门正在对密切接触者进行追踪。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0Mi6YRuCvYNE2atpFIe200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591354259000",
-            "title": "6月5日6时至13时 天津新增2例境外输入无症状感染者 全程实施闭环管理",
-            "summary": "6月5日6时至13时，我市新增2例境外输入无症状感染者（均为中国籍）。累计报告17例（境外输入16例），其中解除在院医学观察7例、转为确诊病例2例、尚在医学观察8例。第16例境外输入无症状感染者，女，21岁，学生，中国籍，居住地法国巴黎。\n",
-            "infoSource": "天津卫健委",
-            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/6/5/art_87_73872.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591350840000",
-            "title": "伊朗新增新冠肺炎确诊病例2886例 累计确诊167156例",
-            "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2886例，新增死亡63例。截至当地时间5日中午，伊朗累计确诊新冠肺炎病例167156例，其中129741例治愈，8134例死亡，2573例重症。截至5号，伊朗累计进行了1040289次检测。（总台记者 雷湘平）\n（编辑 韩咏慧）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNU1o0yTSOmU3tywyvL4r200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591349467000",
-            "title": "中国人民解放军向20国军队提供防疫物资援助",
-            "summary": "经中央军委批准，中国人民解放军于6月2日至5日通过空军飞机等方式分别向埃塞俄比亚、莫桑比克、突尼斯、安哥拉、埃及、摩洛哥、坦桑尼亚、刚果（布）、刚果（金）、赤道几内亚、塞拉利昂、津巴布韦、赞比亚、喀麦隆、卢旺达、阿根廷、老挝、柬埔寨、沙特和孟加拉国等20国军队提供防护服、医用口罩等防疫物资。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir5BMbH71cIvWsm2biouz200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591343603000",
-            "title": "法国科学委员会：法国新冠肺炎疫情已得到控制",
-            "summary": "当地时间6月5日，法国应对新冠肺炎科学委员会主席、免疫学专家德尔福雷西在早间广播访谈节目中表示，虽然新冠病毒继续在法国境内传播，尤其在大巴黎地区等部分区域更为明显，但整体传播速度大为减缓，疫情可以说已经得到控制。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwfbP9asOI9ZTGexuvY1H200605&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591340172000",
-            "title": "德国新增507例新冠肺炎确诊病例 累计确诊183271例",
-            "summary": "德国疾控机构罗伯特·科赫研究所公布的数据显示，截至当地时间6月5日0时，德国新冠肺炎确诊病例累计达183271例，较前一日增加507例；累计死亡8613例，较前一日增加32例；累计治愈约168500例。（总台记者 余鹏）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artizk4DqZkkxMftSag5jlTb200605&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
