@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591444383000",
+            "title": "燕归！首批湖北籍大学生搭乘高铁返京",
+            "summary": "6 月 6 日 12 时 10 分，101 名北京大学湖北籍大学生和 12 名带队老师满怀喜悦地在武汉站西广场久别重逢。这些大学生全部来自北京大学各专业，均为 2020 级在校毕业生，是湖北省第一批返京返校的大学生。根据北京市突发公共卫生事件相应级别调整至三级的相关措施，铁路部门自 6 月 6 日起将逐步恢复湖北地区始发进京旅客列车运行，满足旅客出行需求。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibOM5eT0plxNLqh4LVHON200606&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591438030000",
             "title": "139天！邱海波终于回家了",
             "summary": "从严冬到酷暑，从江苏到湖北，再转战黑龙江、吉林，著名重症医学专家、东南大学附属中大医院党委副书记邱海波，抗疫 139 天后，于 6 月 5 日下午从吉林平安返回南京。在他返回的前两天，6 月 3 日，吉林省舒兰市风险等级由高风险调整为低风险。看到邱海波回家，网友纷纷致敬：「辛苦了，好好休息休息！」",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月5日，根据阿根廷卫生部发布的最新数据，该国24小时内新增新冠肺炎确诊病例840例，死亡17例；累计确诊21037例，死亡632例，治愈6088例。首都布宜诺斯艾利斯市长拉雷塔当天宣布，首都地区自8日起将会实施新的隔离政策。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyMPYWh6xyCH5p1IjGkBt200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591407300000",
-            "title": "巴西新增新冠肺炎确诊病例30830例 累计确诊645771例",
-            "summary": "截至当地时间6月5日，巴西新增新冠肺炎确诊病例30830例，累计确诊645771例，新增死亡病例1005例，累计死亡35026人，死亡人数超过意大利，共有271940 名患者康复。近期巴西每日新增新冠肺炎确诊病例数都在3万例左右，死亡人数也以每日千例左右的速度快速增长，但巴西部分地区已经开始放松隔离限制并开放商业活动。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti45pWnzrThPP3lrIR1EtF200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
