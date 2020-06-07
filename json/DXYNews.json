@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591505382000",
+            "title": "国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒",
+            "summary": "国务院新闻办公室发布《抗击新冠肺炎疫情的中国行动》白皮书，国家卫生健康委主任马晓伟表示，中国政府没有任何延误和隐瞒，并第一时间向国际社会通报了病毒数据和相关疫情。新冠肺炎是近百年人类遭遇的一次全球性的流行病，对全世界是一次严重的危机和考验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591502713000",
             "title": "科技部：当然要溯源，目的只有一个：科学应对新冠病毒",
             "summary": "科技部部长王志刚指出，新冠病毒在全球蔓延，当然要进行溯源，要还原其过程，这是全球科技界的一种责任，也是科研活动的一个重要组成部分。溯源的目的只有一个，就是科学地应对人类共同的威胁。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月6日起，希腊境内所有餐厅、咖啡厅、酒吧等餐饮场所重新开始接纳顾客室内用餐。但商户必须严格遵守防疫规定，每2.2平米的范围内只允许容纳一个客人，每张桌子最多只可容纳6个客人等。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591464720000",
-            "title": "疫情下非洲线上购物发展迅猛，电子支付成新宠",
-            "summary": "非洲疫情继续蔓延，肯尼亚、乌干达等国继续执行严格的防疫措施。疫情下，人们纷纷网购，线上消费成为非洲人购物的选择。危机之下往往蕴藏机遇，现阶段线下零售业受冲击影响较大，而线上销售、移动支付发展势头迅猛。除了网上购物，直播带货也走进了非洲。5 月，联合国副秘书长兼非洲经济委员会执行秘书松圭应邀参与中国网购平台的直播带货，3000 包卢旺达咖啡瞬间售罄。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY2vYps2WKELV0sQjzsEd200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
