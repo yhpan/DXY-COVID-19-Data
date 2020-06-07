@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591515720000",
+            "title": "吉林市最后2名新冠肺炎患者治愈出院",
+            "summary": "6月7日14时，吉林市最后2名新冠肺炎确诊患者达到出院标准，在吉林医药学院附属医院出院。这两名患者分别为5月12日确诊的舒兰市本地病例和5月18日确诊的丰满区本地病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591515613000",
+            "title": "俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月7日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8984例，累计确诊467673例。新增死亡病例134例，累计死亡5859 例，新增治愈病例5343例，累计治愈226731例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591505382000",
             "title": "国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒",
             "summary": "国务院新闻办公室发布《抗击新冠肺炎疫情的中国行动》白皮书，国家卫生健康委主任马晓伟表示，中国政府没有任何延误和隐瞒，并第一时间向国际社会通报了病毒数据和相关疫情。新冠肺炎是近百年人类遭遇的一次全球性的流行病，对全世界是一次严重的危机和考验。",
@@ -69,24 +87,6 @@
             "summary": "当地时间6日，美媒报道，全美各地持续不断的抗议活动加剧了新冠肺炎疫情传播。目前全美有23个州新增确诊病例数持续增加，其中亚利桑那州、佛罗里达州、北卡罗莱纳州、得克萨斯州和佛蒙特州，过去4天创下疫情暴发以来新增确诊病例的最高纪录。\n",
             "infoSource": "央视新闻",
             "sourceUrl": "http://m.weibo.cn/2656274875/4513094523707767",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591485351000",
-            "title": "中国抗疫医疗专家组向赤道几内亚递交《抗疫国家建议书》",
-            "summary": "当地时间6月5日，受赤道几内亚总理奥巴马的邀请，中国抗疫医疗专家组到赤道几内亚大陆地区交流，并同卫生与社会福利国务部长恩圭马举行会谈。恩圭马高度评价并感谢中国政府派遣医疗专家组到赤道几内亚交流抗疫经验，认为专家组是“授之以鱼不如授之以渔”的最好抗疫经验传播者，希望中方多提好的抗疫建议和方案，让赤道几内亚大陆地区民众也能得到更好的医疗保障。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9St0ecn4HPwgtSc7oe5q200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591471566000",
-            "title": "希腊进一步放宽防疫限制措施，允许餐厅等开放室内就餐区域",
-            "summary": "当地时间6月6日起，希腊境内所有餐厅、咖啡厅、酒吧等餐饮场所重新开始接纳顾客室内用餐。但商户必须严格遵守防疫规定，每2.2平米的范围内只允许容纳一个客人，每张桌子最多只可容纳6个客人等。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipQaWQq6enyK9DSHEF5Zb200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
