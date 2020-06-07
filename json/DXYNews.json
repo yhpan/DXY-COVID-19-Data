@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591489711000",
+            "title": "吉林市发布公告，公路卡点一律取消",
+            "summary": "按照国家新冠肺炎疫情分区分级标准，6月7日起，吉林省吉林市城区风险等级调整为低风险，现就有关事项公告如下：一、城区内所有公路卡点一律取消。二、没有确诊病例及有确诊病例封闭超过28天的小区，解除封闭管理。有确诊病例封闭未达到28天的小区，继续实行封闭式管理，小区居民可凭通行证出行，实行测温、扫码，管控到第28天。各小区要强化社区网格化管理，加大对境外、重点地区返（来）吉人员及发热人员的排查。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591489046000",
             "title": "美媒称抗议持续加剧疫情传播",
             "summary": "当地时间6日，美媒报道，全美各地持续不断的抗议活动加剧了新冠肺炎疫情传播。目前全美有23个州新增确诊病例数持续增加，其中亚利桑那州、佛罗里达州、北卡罗莱纳州、得克萨斯州和佛蒙特州，过去4天创下疫情暴发以来新增确诊病例的最高纪录。\n",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月6日，新加坡卫生部公布，截至当天中午12时，新加坡新增新冠肺炎确诊病例344例，确诊总数累计37527例。新增确诊病例仍以宿舍区的外籍工人为主。新增社区病例7例，其中本地公民和永久居民3例，另有4例为有长期工作许可证的外国人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO7a46ZjtXKXtA6iffm98200606&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591433492000",
-            "title": "香港新增3例新冠肺炎确诊病例 累计确诊1105例",
-            "summary": "来自香港特区政府的最新消息，截至6月6日16时40分，香港单日新增3例新冠肺炎输入型病例。患者分别由英国和巴基斯坦抵港。至此，香港累计确诊病例增至1105例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0S7b2XRrPcn2Ns2OvME200606&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
