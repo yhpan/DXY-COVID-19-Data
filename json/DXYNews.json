@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591522800000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超675万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月7日10时36分(北京时间6月7日16时36分)，全球确诊新冠肺炎6750521例，死亡395779例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591515720000",
             "title": "吉林市最后2名新冠肺炎患者治愈出院",
             "summary": "6月7日14时，吉林市最后2名新冠肺炎确诊患者达到出院标准，在吉林医药学院附属医院出院。这两名患者分别为5月12日确诊的舒兰市本地病例和5月18日确诊的丰满区本地病例。",
@@ -78,15 +87,6 @@
             "summary": "按照国家新冠肺炎疫情分区分级标准，6月7日起，吉林省吉林市城区风险等级调整为低风险，现就有关事项公告如下：一、城区内所有公路卡点一律取消。二、没有确诊病例及有确诊病例封闭超过28天的小区，解除封闭管理。有确诊病例封闭未达到28天的小区，继续实行封闭式管理，小区居民可凭通行证出行，实行测温、扫码，管控到第28天。各小区要强化社区网格化管理，加大对境外、重点地区返（来）吉人员及发热人员的排查。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzEjNEht3CQmPFasiWB7200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591489046000",
-            "title": "美媒称抗议持续加剧疫情传播",
-            "summary": "当地时间6日，美媒报道，全美各地持续不断的抗议活动加剧了新冠肺炎疫情传播。目前全美有23个州新增确诊病例数持续增加，其中亚利桑那州、佛罗里达州、北卡罗莱纳州、得克萨斯州和佛蒙特州，过去4天创下疫情暴发以来新增确诊病例的最高纪录。\n",
-            "infoSource": "央视新闻",
-            "sourceUrl": "http://m.weibo.cn/2656274875/4513094523707767",
             "province": null,
             "provinceId": ""
         }
