@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591584161000",
+            "title": "巴西累计新冠肺炎确诊病例超69万",
+            "summary": "当地时间7日22时，巴西卫生部在其网站发布最新疫情数据：过去24小时内新增新冠肺炎确诊病例18912例，新增死亡病例525例，新增治愈病例6803例。根据昨天公布的统计数字累计计算，巴西全国累计新冠肺炎确诊病例691758例，累计死亡病例36455例。美国约翰斯·霍普金斯新冠肺炎数据统计系统采用了巴西卫生部的数据。\n",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyTDuDMmlvYu3N8zOaa2N200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591581153000",
             "title": "新西兰连续17天无新增新冠肺炎确诊病例 现存病例已“清零”",
             "summary": "当地时间6月8日，新西兰卫生部门宣布，该国已连续17天没有新增新冠肺炎确诊病例，最后一名新冠肺炎患者也已经康复。目前，新西兰的新冠肺炎患者已经清零。新西兰政府将研究何时进一步放松疫情管控措施。过去几个月，新西兰共有新冠肺炎确诊病例1054例，死亡病例22例。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月7日10时36分(北京时间6月7日16时36分)，全球确诊新冠肺炎6750521例，死亡395779例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591515720000",
-            "title": "吉林市最后2名新冠肺炎患者治愈出院",
-            "summary": "6月7日14时，吉林市最后2名新冠肺炎确诊患者达到出院标准，在吉林医药学院附属医院出院。这两名患者分别为5月12日确诊的舒兰市本地病例和5月18日确诊的丰满区本地病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
