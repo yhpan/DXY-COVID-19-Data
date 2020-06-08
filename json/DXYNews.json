@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591616656000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过691万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月8日10时31分(北京时间6月8日16时31分)，全球确诊新冠肺炎6912751例，死亡400469例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591614149000",
             "title": "中国赴孟加拉国抗疫医疗专家组今日启程",
             "summary": "今天（6月8日）上午，由国家卫健委组建，海南省卫健委选派的援助孟加拉国抗疫医疗专家组，从海口乘包机出发，赴孟加拉国帮助开展新冠肺炎疫情防控工作。这次专家组共10人，团队成员都具备专业医疗背景和抗疫一线临床经验。",
@@ -78,15 +87,6 @@
             "summary": "6月7日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为境外输入病例（四川3例，上海1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。当日新增治愈出院病例9例，解除医学观察的密切接触者479人，重症病例与前一日持平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591574061000",
-            "title": "上海6月7日无新增本地新冠肺炎确诊病例 新增境外输入1例",
-            "summary": "上海市卫健委通报：6月7日0—24时，通过口岸联防联控机制，报告1例境外输入性新冠肺炎确诊病例。病例为中国籍，在美国留学，6月3日自美国出发，6月4日抵达上海浦东国际机场，入关后即被集中隔离观察，期间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
