@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591570810000",
+            "title": "走基层助抗疫 援圣普抗疫医疗专家组走访地方开展工作",
+            "summary": "非洲第二小国圣多美和普林西比目前新冠肺炎疫情发展迅速，社区感染日渐严重。截至6月7日累计确诊达514例，死亡12例，康复68例。为帮助圣普卫生部门更好地掌握基层疫情，制定相应的防疫措施，中国援圣普抗疫医疗专家组当地时间6月4日至5日期间，先后走访圣普的梅佐希大区、普林西比自治区，深入基层开展抗疫工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591543059000",
             "title": "香港7日新增1例新冠肺炎确诊病例",
             "summary": "来自香港特区政府卫生防护中心的消息，截至6月7日22点，香港单日新增1例新冠肺炎病例。患者是一名从菲律宾返港的25岁女子。至此，香港累计确诊病例增至1106例。",
@@ -78,15 +87,6 @@
             "summary": "科技部部长王志刚指出，新冠病毒在全球蔓延，当然要进行溯源，要还原其过程，这是全球科技界的一种责任，也是科研活动的一个重要组成部分。溯源的目的只有一个，就是科学地应对人类共同的威胁。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591499508000",
-            "title": "白皮书：3至5月中国出口口罩706亿只，防护服3.4亿套",
-            "summary": "3至5月中国向200个国家和地区出口防疫物资，其中，口罩706亿只，防护服3.4亿套，护目镜1.15亿个，呼吸机9.67万台，检测试剂盒2.25亿人份，红外线测温仪4029万台，出口规模呈明显增长态势，有力支持了相关国家疫情防控。 \n",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4513138404609313",
             "province": null,
             "provinceId": ""
         }
