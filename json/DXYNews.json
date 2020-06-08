@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591576332000",
+            "title": "国家卫健委：昨日新增确诊病例4例 均为境外输入病例",
+            "summary": "6月7日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为境外输入病例（四川3例，上海1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。当日新增治愈出院病例9例，解除医学观察的密切接触者479人，重症病例与前一日持平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6qt1EI7P0O7FdHFYeEMX200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591574061000",
+            "title": "上海6月7日无新增本地新冠肺炎确诊病例 新增境外输入1例",
+            "summary": "上海市卫健委通报：6月7日0—24时，通过口岸联防联控机制，报告1例境外输入性新冠肺炎确诊病例。病例为中国籍，在美国留学，6月3日自美国出发，6月4日抵达上海浦东国际机场，入关后即被集中隔离观察，期间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591570810000",
             "title": "走基层助抗疫 援圣普抗疫医疗专家组走访地方开展工作",
             "summary": "非洲第二小国圣多美和普林西比目前新冠肺炎疫情发展迅速，社区感染日渐严重。截至6月7日累计确诊达514例，死亡12例，康复68例。为帮助圣普卫生部门更好地掌握基层疫情，制定相应的防疫措施，中国援圣普抗疫医疗专家组当地时间6月4日至5日期间，先后走访圣普的梅佐希大区、普林西比自治区，深入基层开展抗疫工作。",
@@ -69,24 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月7日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8984例，累计确诊467673例。新增死亡病例134例，累计死亡5859 例，新增治愈病例5343例，累计治愈226731例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591505382000",
-            "title": "国家卫健委：中国第一时间向国际社会通报病毒数据和相关疫情，没有任何延误和隐瞒",
-            "summary": "国务院新闻办公室发布《抗击新冠肺炎疫情的中国行动》白皮书，国家卫生健康委主任马晓伟表示，中国政府没有任何延误和隐瞒，并第一时间向国际社会通报了病毒数据和相关疫情。新冠肺炎是近百年人类遭遇的一次全球性的流行病，对全世界是一次严重的危机和考验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8USxpzevo90jYFOjV6zs200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591502713000",
-            "title": "科技部：当然要溯源，目的只有一个：科学应对新冠病毒",
-            "summary": "科技部部长王志刚指出，新冠病毒在全球蔓延，当然要进行溯源，要还原其过程，这是全球科技界的一种责任，也是科研活动的一个重要组成部分。溯源的目的只有一个，就是科学地应对人类共同的威胁。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLH0DL4bplfVLKmAp4JTA200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
