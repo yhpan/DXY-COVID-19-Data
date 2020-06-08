@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591607486000",
+            "title": "辽宁国家紧急医学救援队110天转战三地抗击疫情",
+            "summary": "2月4日紧急驰援湖北，4月1日返回沈阳；4月13日驰援黑龙江绥芬河，5月13日转战吉林，5月23日返回沈阳。从寒冬到初夏，从南方到北国，辽宁白衣战士始终坚守在抗击新冠肺炎疫情最前线，其中8名医疗队员整整110天没回过家，他们是来自中国医科大学附属第一医院的辽宁国家紧急医学救援队队员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591602871000",
             "title": "海南三亚6月7日新增输入确诊病例系个人出行",
             "summary": "6月6日，海南三亚新增一例输入新冠肺炎病例，7日，有消息称该病例是随旅游团来海南游玩，引发关注。\n据海南省旅文厅6月8日发布消息，经核查，全省旅行社无接待省外团队旅游业务记录，也未发现开展跨省、跨境组团旅游业务的旅行社。这名病例系个人出行。据了解，自新冠肺炎疫情发生以来，海南从1月25日至今尚未开放跨省、跨境组团旅游等活动。（总台央视记者 毛鑫 魏安）",
@@ -78,15 +87,6 @@
             "summary": "据印度媒体报道，6月7日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例13例，累计确诊病例升至1912例，当日无新增死亡病例，累计死亡病例71例。\n塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。塔拉维所在的孟买是印度疫情最严重的城市，目前孟买确诊新冠肺炎病例超4.7万，约占印度总病例数的五分之一。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0hxUl6kX8HvqLmWff6W200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591525405000",
-            "title": "阿联酋乱扔口罩将面临高额罚款 汽车中丢弃将被禁止驾车一年",
-            "summary": "近日，阿联酋阿布扎比警方发布最新规定，乱扔一次性口罩将被罚款1000迪拉姆（1迪拉姆约相当于1.94人民币），如果是从汽车中丢弃，驾驶员将被记6个黑点（在阿联酋一定期限内记满24黑点，将被禁止驾车一年）。为了控制疫情，阿联酋要求国民在所有公共场合佩戴口罩。经过一段时间适应，目前该国绝大多数人都能做到。但随之而来的是，随意抛弃一次性口罩，正在成为新的公害。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipZEG2rKIUprrxm89Jowv200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
