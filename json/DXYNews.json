@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591614149000",
+            "title": "中国赴孟加拉国抗疫医疗专家组今日启程",
+            "summary": "今天（6月8日）上午，由国家卫健委组建，海南省卫健委选派的援助孟加拉国抗疫医疗专家组，从海口乘包机出发，赴孟加拉国帮助开展新冠肺炎疫情防控工作。这次专家组共10人，团队成员都具备专业医疗背景和抗疫一线临床经验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPLpw0lWxXfvcZnm0mYak200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591613160000",
             "title": "牡丹江核酸检测排查 7天检测超65万人检出19例无症状感染者",
             "summary": "今天（8日）下午，黑龙江省牡丹江市政府新闻办公室举行新闻发布会，对近期牡丹江市全民核酸大排查相关情况进行介绍。会上，牡丹江市委副书记、市长王文力通报了检测情况。他说，牡丹江市在七天时间里，检测了超过65万人，检出19例无症状感染者。",
@@ -78,15 +87,6 @@
             "summary": "上海市卫健委通报：6月7日0—24时，通过口岸联防联控机制，报告1例境外输入性新冠肺炎确诊病例。病例为中国籍，在美国留学，6月3日自美国出发，6月4日抵达上海浦东国际机场，入关后即被集中隔离观察，期间出现症状。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKCHGJo5akWglZZjIB6Ps200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591570810000",
-            "title": "走基层助抗疫 援圣普抗疫医疗专家组走访地方开展工作",
-            "summary": "非洲第二小国圣多美和普林西比目前新冠肺炎疫情发展迅速，社区感染日渐严重。截至6月7日累计确诊达514例，死亡12例，康复68例。为帮助圣普卫生部门更好地掌握基层疫情，制定相应的防疫措施，中国援圣普抗疫医疗专家组当地时间6月4日至5日期间，先后走访圣普的梅佐希大区、普林西比自治区，深入基层开展抗疫工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR8CCWJ67KEIdnMzETJRC200608&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
