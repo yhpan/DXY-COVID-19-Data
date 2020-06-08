@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591630400000",
+            "title": "世卫组织总干事：全球新冠肺炎确诊病例近700万例",
+            "summary": "当地时间6月8日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，世卫组织已收到近700万例病例报告，昨天（7日）上报的病例中，75%来自10个国家，大多数位于美洲和南亚地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitJszQ6E0tgHa47cCaRGW200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591628803000",
+            "title": "武汉市300名无症状感染者的病毒培养结果全为阴性",
+            "summary": "武汉市对5月14日—6月1日集中核酸检测排查发现的300名无症状感染者，提取其痰液和咽拭子样本，经中科院武汉病毒所病毒分离培养，300人份样本均未培养出“活病毒”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591625220000",
             "title": "武汉至北京客运航班复航",
             "summary": "6月6日，北京下调突发公共卫生应急响应级别，国家民用航空局决定恢复湖北各机场至北京客运航线航班。经国家民用航空局批准，9日起，武汉天河机场至北京客运航线航班复航，由南方航空公司将执飞武汉天河机场至北京大兴机场的一个往返航班。",
@@ -69,24 +87,6 @@
             "summary": "2月4日紧急驰援湖北，4月1日返回沈阳；4月13日驰援黑龙江绥芬河，5月13日转战吉林，5月23日返回沈阳。从寒冬到初夏，从南方到北国，辽宁白衣战士始终坚守在抗击新冠肺炎疫情最前线，其中8名医疗队员整整110天没回过家，他们是来自中国医科大学附属第一医院的辽宁国家紧急医学救援队队员。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWBQPeay3oCEbjEYPqyx200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591602871000",
-            "title": "海南三亚6月7日新增输入确诊病例系个人出行",
-            "summary": "6月6日，海南三亚新增一例输入新冠肺炎病例，7日，有消息称该病例是随旅游团来海南游玩，引发关注。\n据海南省旅文厅6月8日发布消息，经核查，全省旅行社无接待省外团队旅游业务记录，也未发现开展跨省、跨境组团旅游业务的旅行社。这名病例系个人出行。据了解，自新冠肺炎疫情发生以来，海南从1月25日至今尚未开放跨省、跨境组团旅游等活动。（总台央视记者 毛鑫 魏安）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinFksyzbVn3OlFtqnnozp200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591595624000",
-            "title": "菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程",
-            "summary": "当地时间6月8日，菲律宾教育部长莱昂诺·布里安斯称，菲教育部将推迟学校面授课程，直到新冠肺炎疫苗研发出来才会复课。布里安斯表示，菲教育部做出这个决定是为了与菲律宾总统杜特尔特先前的声明保持一致，即总统不倾向于在没有疫苗的情况下恢复面授课程。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
