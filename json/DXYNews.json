@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591595624000",
+            "title": "菲律宾教育部长：在疫苗推出前菲律宾学校不会恢复面授课程",
+            "summary": "当地时间6月8日，菲律宾教育部长莱昂诺·布里安斯称，菲教育部将推迟学校面授课程，直到新冠肺炎疫苗研发出来才会复课。布里安斯表示，菲教育部做出这个决定是为了与菲律宾总统杜特尔特先前的声明保持一致，即总统不倾向于在没有疫苗的情况下恢复面授课程。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8LAUtS0KsAyUu3cSxkko200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591584161000",
             "title": "巴西累计新冠肺炎确诊病例超69万",
             "summary": "当地时间7日22时，巴西卫生部在其网站发布最新疫情数据：过去24小时内新增新冠肺炎确诊病例18912例，新增死亡病例525例，新增治愈病例6803例。根据昨天公布的统计数字累计计算，巴西全国累计新冠肺炎确诊病例691758例，累计死亡病例36455例。美国约翰斯·霍普金斯新冠肺炎数据统计系统采用了巴西卫生部的数据。\n",
@@ -78,15 +87,6 @@
             "summary": "根据伊朗卫生部最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2364例，新增死亡72例。伊朗累计确诊新冠肺炎病例171789例，其中134349例康复，8291例死亡，2596例重症。截至7日，伊朗累计进行了1084857次检测。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMVLggRxv1rncCZgC5tcz200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591522800000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超675万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月7日10时36分(北京时间6月7日16时36分)，全球确诊新冠肺炎6750521例，死亡395779例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikuapBMrFWQK6uET7Lunn200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
