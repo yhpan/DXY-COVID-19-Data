@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591581153000",
+            "title": "新西兰连续17天无新增新冠肺炎确诊病例 现存病例已“清零”",
+            "summary": "当地时间6月8日，新西兰卫生部门宣布，该国已连续17天没有新增新冠肺炎确诊病例，最后一名新冠肺炎患者也已经康复。目前，新西兰的新冠肺炎患者已经清零。新西兰政府将研究何时进一步放松疫情管控措施。过去几个月，新西兰共有新冠肺炎确诊病例1054例，死亡病例22例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiyl3QyBSlOQK1NjSUq5mk200608&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591576332000",
             "title": "国家卫健委：昨日新增确诊病例4例 均为境外输入病例",
             "summary": "6月7日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例4例，均为境外输入病例（四川3例，上海1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。当日新增治愈出院病例9例，解除医学观察的密切接触者479人，重症病例与前一日持平。",
@@ -78,15 +87,6 @@
             "summary": "6月7日14时，吉林市最后2名新冠肺炎确诊患者达到出院标准，在吉林医药学院附属医院出院。这两名患者分别为5月12日确诊的舒兰市本地病例和5月18日确诊的丰满区本地病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADSlMO9U1VsfIf1ZdxzK200607&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591515613000",
-            "title": "俄罗斯新增新冠肺炎确诊病例8984例，累计确诊超46万例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月7日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8984例，累计确诊467673例。新增死亡病例134例，累计死亡5859 例，新增治愈病例5343例，累计治愈226731例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0uHXanggCUfYXyCvHDza200607&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
