@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591688340000",
+            "title": "​俄罗斯新冠肺炎确诊病例累计超48万例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月9日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8595例，累计确诊485235例。新增死亡病例171 例，累计死亡6142 例，新增治愈病例11709 例，累计治愈242397例。其中首都莫斯科新增1572例，累计确诊198590例。从9日起，莫斯科解除隔离制度，市民出行不再受到限制。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591685816000",
             "title": "湖北又一地！鄂州开展核酸检测筛查",
             "summary": "据鄂州市新型冠状病毒感染的肺炎防控指挥部通告，6月11日至6月17日对鄂州市未进行核酸检测的人员，集中进行核酸检测筛查。集中检测期间，自愿自费进行核酸检测人员的费用由政府补贴50%。（湖北日报） ​​​​",
@@ -78,15 +87,6 @@
             "summary": "当地时间7日晚，巴西卫生部发布了两次疫情数据，两次发布的新增确诊病例数和新增死亡病例数存在明显差异，卫生部对此解释称原因是由于其中几个州的数据核算有误。为了向民众及时发布真实疫情数据，巴西全国卫生部长理事会再设一套疫情数据统计系统，每日下午5时发布数据，而7日该系统发布的数字与卫生部发布的数字也有出入。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9Ks4Uv5eIbwM9l5zNTPl200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591637475000",
-            "title": "两位确诊新冠肺炎的赞比亚政府内阁部长已经治愈出院",
-            "summary": "赞比亚卫生部常秘卡库鲁别尔瓦·穆拉洛女士在新闻发布会上通报，在5月份新冠肺炎检测呈阳性的两位赞比亚政府内阁部长，赞比亚信息与广播部长多拉·西利亚和赞比亚卫生部长奇塔卢·奇卢菲亚在近日连续两次新冠肺炎检测中均呈阴性，目前两位部长已经治愈出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO0HTJyN5xtivVK1ksUyZ200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
