@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591670664000",
+            "title": "200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务",
+            "summary": "当地时间6日起，世界上最大的铁矿石供应商——巴西铁矿石巨头淡水河谷公司，因在伊塔比拉综合矿区的200余名员工感染新冠病毒，被巴西第三地区法院强制暂停该综合矿区的业务。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591667160000",
+            "title": "巴西新冠肺炎累计确诊人数超70万",
+            "summary": "根据巴西卫生部8日18时公布的最新疫情数据，过去24小时内巴西新增新冠肺炎确诊病例15654例，新增死亡病例679例，新增治愈病例6088例。根据8日公布的统计数字累计计算，巴西全国累计新冠肺炎确诊病例707412例，累计死亡病例37134例。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591664161000",
             "title": "好消息！北京本地确诊清零",
             "summary": "6月8日0时至24时，北京新冠肺炎境外输入和本地确诊病例、疑似病例、无症状感染者都没有新增报告。本地病例治愈出院1例，实现“清零”。1名境外输入患者仍在院治疗。",
@@ -69,24 +87,6 @@
             "summary": "武汉市对5月14日—6月1日集中核酸检测排查发现的300名无症状感染者，提取其痰液和咽拭子样本，经中科院武汉病毒所病毒分离培养，300人份样本均未培养出“活病毒”。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT1DAD4GWe5BRxJSMSdZY200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591625220000",
-            "title": "武汉至北京客运航班复航",
-            "summary": "6月6日，北京下调突发公共卫生应急响应级别，国家民用航空局决定恢复湖北各机场至北京客运航线航班。经国家民用航空局批准，9日起，武汉天河机场至北京客运航线航班复航，由南方航空公司将执飞武汉天河机场至北京大兴机场的一个往返航班。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLYK7FXzIFOvkSUxNxkCf200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591623977000",
-            "title": "英国新增新冠肺炎确诊病例1205例 累计确诊287399例",
-            "summary": "根据英国卫生与社会保健部消息，截至当地时间6月8日9点，英国新冠肺炎确诊病例单日新增1205例，累计达287399例；截至6月7日下午5点，死亡病例40597例，单日新增死亡55例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihXXSq7fnHKTWwyVrfgMq200608&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
