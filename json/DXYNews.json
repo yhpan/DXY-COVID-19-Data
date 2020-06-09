@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591661760000",
+            "title": "广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例",
+            "summary": "6月8日0—24时，广东省新增境外输入确诊病例2例，广州报告，均来自孟加拉国，在入境口岸发现，入境后即被隔离观察。新增出院1例。截至6月8日24时，广东全省累计报告新冠肺炎确诊病例1604例（境外输入209例）。目前仍在院10例。新增境外输入无症状感染者1例，广州报告，来自美国，在入境口岸发现，入境后即被隔离观察。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591656390000",
             "title": "世卫组织称全球新冠疫情正在恶化",
             "summary": "6月8日，世界卫生组织总干事谭德塞表示，全球新冠疫情正在恶化，6月7日，世界单日新增13.6万例新冠肺炎，是迄今全球新增病例最多的一天。谭德塞说，各国已向世卫组织报告近700万例新冠病例，近40万人死亡。欧洲疫情有所好转，但是全球范围内，新冠疫情继续恶化，过去10天中有9天新增确诊病例数超过10万，6月7日新增病例数达13.6万例，创下新的记录。",
@@ -78,15 +87,6 @@
             "summary": "随着武汉疫情防控形势持续向好，高校学生也终于迎来了返校的好消息。6月8日开始，湖北高校2020届毕业生按照“错时错峰、自愿申请”的原则分批返校。今天（6月8日），湖北的各大高校迎来了首批返校的学子。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF8gjjsNhgYAs7VfrBGsF200608&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591616656000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过691万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月8日10时31分(北京时间6月8日16时31分)，全球确诊新冠肺炎6912751例，死亡400469例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQP3TLI70tzi8wcxc4b1m200608&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
