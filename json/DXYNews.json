@@ -1,11 +1,74 @@
 {
     "results": [
         {
+            "pubDate": "1591706792000",
+            "title": "沙特新增 3288 例新冠肺炎确诊病例，累计确诊超 10 万",
+            "summary": "沙特卫生部最新数字显示，境内过去 24 小时新增新冠肺炎确诊病例 3288 例，单日新增病例数比前一天略有回落，当日同时新增 37 例死亡病例，单日新增死亡病例数创下新高。至此，沙特境内新冠肺炎确诊病例数累计已达 108571 例，其中 783 名患者病重不治去世，76339 名患者已经治愈。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZRSmqFLh0xzMAtND9XOh200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591704997000",
+            "title": "中国驻纽约总领馆：再次提醒中国公民注意美国出入境限制措施",
+            "summary": "今年 2 月以来，美国政府先后出台系列针对外国人的入境限制临时举措，其中，自 6 月 1 日起对部分持 F 或 J 签证的中国留学人员实施入境限制措施。近期，中国驻纽约总领馆接到多起中方人员受美方上述措施影响入美境受阻求助案例。再次提醒在美或近期拟来美中方人员关注美相关入境限制措施，妥为筹划个人旅程。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591703326000",
+            "title": "非洲新冠肺炎确诊病例逼近 20 万，确诊病例以南非最多",
+            "summary": "截至非洲东部当地时间 6 月 9 日下午 2 时，非洲疾控中心数据显示：非洲54个国家报告了新冠肺炎确诊病例 195875 例，死亡 5334 例，86068 人康复。从确诊病例数看，北部非洲受疫情影响最为严重，其次是南部非洲，目前南非累计确诊病例超过 5 万例，确诊病例最多。非洲多国根据本国疫情形势继续调整防疫政策。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591702969000",
+            "title": "东航武汉公司武汉至北京客运航班6月11日复航  单程票价400元起售",
+            "summary": "近日，随着湖北各机场至北京客运航线航班的复航，携程等多个机票平台武汉始发北京机票查询量出现“井喷”，湖北民航复苏迎来新“拐点”。继南航率先恢复武汉至北京客运航班后，6月9日，记者从东航武汉公司获悉，经国家民用航空局批准，该公司将于6月11日起恢复武汉北京客运航班，从武汉天河机场至北京大兴机场。6月11日至10月24日，除每周星期二外，每天执飞一个往返航班，单程票价400元起售，旅客可登录东航官网或",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHCaroNRgP9GooRF7ZwK200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591702756000",
+            "title": "美 22 州确诊病例数大幅反弹，佛罗里达州新增病例增幅达 46%",
+            "summary": "受美国非裔男子弗洛伊德遭遇暴力执法致死引发大规模抗议的影响，美国近一半州的新冠肺炎病例出现了大幅反弹。佛罗里达州的新增病例增幅甚至达到了 46%。目前在全美范围内，22 个州的新冠病毒病例呈上升趋势。内陆各州的疫情也有扩大，包括阿肯色州、得克萨斯州和亚利桑那州。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591701570000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过 700 万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间 6 月 9 日 11 时 56 分（北京时间 6 月 9 日 17 时 56 分），全球新冠肺炎确诊病例升至 7023117 例，死亡 403845 例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591700317000",
             "title": "北京昌平：养老机构落实防控措施有序开放探视",
             "summary": "随着北京市进入常态化疫情防控，市内养老机构开始有序开放探视工作。按照相关要求，养老机构设置了探访专区，家属可以预约探访。\n在北京市昌平区，42家养老机构和11家社区养老服务驿站积极落实防控措施的要求，设置探视专区，制定探视流程，为养老机构家属探视、老人返院等做好了充足准备。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591697622000",
+            "title": "武汉至北京客运航班正式复航",
+            "summary": "6月9日17时28分，由南航执飞的CZ3139航班徐徐降落在大兴机场，这是武汉这座英雄城市解封后首个抵达北京的客运航班。据悉，6月6日，北京下调突发公共卫生应急响应级别，民航局决定恢复湖北各机场至北京客运航线航班。从6月9日起，南航开通大兴机场至武汉航班，由B737-800执飞，每日两班，计划航班时刻为：CZ3139航班，16时从武汉起飞，18时05分抵达大兴机场；CZ3140航班，19时15分从",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinfryEMzbfFKkn0ajWLSh200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -24,69 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月9日10时35分，过去24小时内俄罗斯新增新冠肺炎确诊病例8595例，累计确诊485235例。新增死亡病例171 例，累计死亡6142 例，新增治愈病例11709 例，累计治愈242397例。其中首都莫斯科新增1572例，累计确诊198590例。从9日起，莫斯科解除隔离制度，市民出行不再受到限制。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti373A2At56LgonwlSieph200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591685816000",
-            "title": "湖北又一地！鄂州开展核酸检测筛查",
-            "summary": "据鄂州市新型冠状病毒感染的肺炎防控指挥部通告，6月11日至6月17日对鄂州市未进行核酸检测的人员，集中进行核酸检测筛查。集中检测期间，自愿自费进行核酸检测人员的费用由政府补贴50%。（湖北日报） ​​​​",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4513919836764534",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591683435000",
-            "title": "上海有1例确诊病例今日出院，共计665例治愈出院",
-            "summary": "市卫生健康委今日（9日）通报：1例新型冠状病毒肺炎病例，经定点医疗机构医护人员精心诊治和护理，专家组评估，认为符合国家卫生健康委最新的新型冠状病毒肺炎确诊病例出院标准，于今日出院。",
-            "infoSource": "上海卫健委",
-            "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200609/b27d50ef76e741c3861a786c99bd455c.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591680323000",
-            "title": "阿布扎比酋长国宣布延长一周人员流动禁令",
-            "summary": "当地时间6月8日晚，阿布扎比酋长国政府多个部门发表联合声明称，将阿布扎比酋长国所管辖区域（阿布扎比市、艾因市和阿尔达夫拉市）之间的人员流动，以及出入阿布扎比酋长国的人员流动禁令，自6月9日再延长一周。人员流动禁令适用于阿联酋境内的所有居民。声明表示，重要部门的工作人员、运输必需品的车辆以及患有慢性病需要外出就诊的人员可以申请特殊出行许可证。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOex5vu4I9PwVoCdOk6EG200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591670664000",
-            "title": "200余名员工感染新冠病毒，巴西淡水河谷暂停伊塔比拉综合矿区业务",
-            "summary": "当地时间6日起，世界上最大的铁矿石供应商——巴西铁矿石巨头淡水河谷公司，因在伊塔比拉综合矿区的200余名员工感染新冠病毒，被巴西第三地区法院强制暂停该综合矿区的业务。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYxBq1ymu9S9ElnOVUHlc200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591667160000",
-            "title": "巴西新冠肺炎累计确诊人数超70万",
-            "summary": "根据巴西卫生部8日18时公布的最新疫情数据，过去24小时内巴西新增新冠肺炎确诊病例15654例，新增死亡病例679例，新增治愈病例6088例。根据8日公布的统计数字累计计算，巴西全国累计新冠肺炎确诊病例707412例，累计死亡病例37134例。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyUi5FB5SGguSYvGi67kq200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591664161000",
-            "title": "好消息！北京本地确诊清零",
-            "summary": "6月8日0时至24时，北京新冠肺炎境外输入和本地确诊病例、疑似病例、无症状感染者都没有新增报告。本地病例治愈出院1例，实现“清零”。1名境外输入患者仍在院治疗。",
-            "infoSource": "人民日报",
-            "sourceUrl": "http://m.weibo.cn/2803301701/4513829009101499",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591661760000",
-            "title": "广东8日新增境外输入确诊病例2例，新增境外输入无症状感染者1例",
-            "summary": "6月8日0—24时，广东省新增境外输入确诊病例2例，广州报告，均来自孟加拉国，在入境口岸发现，入境后即被隔离观察。新增出院1例。截至6月8日24时，广东全省累计报告新冠肺炎确诊病例1604例（境外输入209例）。目前仍在院10例。新增境外输入无症状感染者1例，广州报告，来自美国，在入境口岸发现，入境后即被隔离观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirgopjBYkLe3xojdl7KbB200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
