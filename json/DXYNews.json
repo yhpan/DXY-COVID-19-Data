@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591781149000",
+            "title": "巴基斯坦新冠肺炎疫情快速蔓延 世卫组织强烈建议实施严格封锁措施",
+            "summary": "当地时间6月10日，据本地媒体报道，截至当日上午全巴新冠肺炎确诊病例超113702例，其中人口稠密的旁遮普省日增病例数也在急剧上升，世界卫生组织（WHO）建议对该省实施严格的封闭措施两周。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zH8BF5aaDy6KFLDTGtT200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591773595000",
             "title": "以色列新冠肺炎确诊病例累计达18268例 美联航续签旧金山至特拉维夫的航班",
             "summary": "当地时间6月10日上午，以色列卫生部公布的最新疫情通报显示，在过去的12小时（9日22时至10日10时），以色列新增88例新冠肺炎确诊病例，累计达18268例，无新增死亡病例，累计死亡病例299例。截至目前，现存确诊病例2801例，有31人病情危重，其中24人使用呼吸机，已有15168人治愈康复。",
@@ -78,15 +87,6 @@
             "summary": "《纽约时报》9日报道，美国哥伦比亚特区国民警卫队发言人证实，负责维持秩序的多名国民警卫队士兵新冠病毒检测呈阳性，但他拒绝透露具体人数，也未证实他们是否在执行任务过程中被感染，而是表示执勤人员都穿戴了防护装备以及尽可能保持社交距离。公共卫生专家已经警告，在全美各地的抗议活动中，大批人员聚集可能加速新冠病毒的传播。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591742257000",
-            "title": "厄瓜多尔：复工期间首都现人群聚集  防疫专家发出风险警告",
-            "summary": "根据厄瓜多尔政府公布的数据，截至当地时间6月9日，该国累计确诊新冠肺炎病例43917例，累计死亡3690例。据当地媒体报道，自6月3日首都基多降低防疫级别以来，该市有超过40万人已经回到需要“面对面”工作的岗位。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
