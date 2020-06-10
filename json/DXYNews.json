@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591743559000",
+            "title": "美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎",
+            "summary": "《纽约时报》9日报道，美国哥伦比亚特区国民警卫队发言人证实，负责维持秩序的多名国民警卫队士兵新冠病毒检测呈阳性，但他拒绝透露具体人数，也未证实他们是否在执行任务过程中被感染，而是表示执勤人员都穿戴了防护装备以及尽可能保持社交距离。公共卫生专家已经警告，在全美各地的抗议活动中，大批人员聚集可能加速新冠病毒的传播。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591742257000",
+            "title": "厄瓜多尔：复工期间首都现人群聚集  防疫专家发出风险警告",
+            "summary": "根据厄瓜多尔政府公布的数据，截至当地时间6月9日，该国累计确诊新冠肺炎病例43917例，累计死亡3690例。据当地媒体报道，自6月3日首都基多降低防疫级别以来，该市有超过40万人已经回到需要“面对面”工作的岗位。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinMWXLfaSDfNfhFvJHR5n200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591718032000",
             "title": "布隆迪总统皮埃尔·恩库伦齐扎病逝",
             "summary": "布隆迪总统皮埃尔·恩库伦齐因心脏病病逝在布隆迪卡鲁兹医院病逝。他病逝的消息首先在布隆迪的政府官推账号发出。根据官方公告，他在 6 月 6 日晚间就开始感到不适，并于 6 月 7 日入住卡鲁兹医院进行治疗。6 月 8 日晚经抢救无效病逝。官方公布的死因为心脏病。布隆迪政府将在稍后更新后续相关事宜。",
@@ -69,24 +87,6 @@
             "summary": "受美国非裔男子弗洛伊德遭遇暴力执法致死引发大规模抗议的影响，美国近一半州的新冠肺炎病例出现了大幅反弹。佛罗里达州的新增病例增幅甚至达到了 46%。目前在全美范围内，22 个州的新冠病毒病例呈上升趋势。内陆各州的疫情也有扩大，包括阿肯色州、得克萨斯州和亚利桑那州。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591701570000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过 700 万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间 6 月 9 日 11 时 56 分（北京时间 6 月 9 日 17 时 56 分），全球新冠肺炎确诊病例升至 7023117 例，死亡 403845 例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTFEuh2BXqblVTsWKQysS200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591700317000",
-            "title": "北京昌平：养老机构落实防控措施有序开放探视",
-            "summary": "随着北京市进入常态化疫情防控，市内养老机构开始有序开放探视工作。按照相关要求，养老机构设置了探访专区，家属可以预约探访。\n在北京市昌平区，42家养老机构和11家社区养老服务驿站积极落实防控措施的要求，设置探视专区，制定探视流程，为养老机构家属探视、老人返院等做好了充足准备。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKox1wjXmwiFdVHCohIYJ200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
