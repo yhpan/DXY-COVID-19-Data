@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591785840000",
+            "title": "中国篮协：取消2019-2020赛季WCBA联赛后续比赛",
+            "summary": "中国篮协发布公告，受到新冠疫情影响，本赛季WCBA将提前结束，新赛季将在今年9月下旬开始。\n（编辑 唐泽屹）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAiAAB720SrM9YRPKTpGU200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591785603000",
+            "title": "韩首都圈或面临疫情暴发风险，520所学校停课",
+            "summary": "据韩国卫生部门消息，截至当地时间今天（10日）0时，过去24小时，韩国新增50例新冠肺炎确诊病例，累计确诊病例达到11902例，死亡276例。近期韩国首都圈集体感染事件频发，受此影响，韩国520所学校9日暂停在校授课。其中，509所学校集中在包括首尔、仁川 ​​​​...展开全文c",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4514338374122970",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591781149000",
             "title": "巴基斯坦新冠肺炎疫情快速蔓延 世卫组织强烈建议实施严格封锁措施",
             "summary": "当地时间6月10日，据本地媒体报道，截至当日上午全巴新冠肺炎确诊病例超113702例，其中人口稠密的旁遮普省日增病例数也在急剧上升，世界卫生组织（WHO）建议对该省实施严格的封闭措施两周。",
@@ -69,24 +87,6 @@
             "summary": "当地时间9日，智利新增3913例新冠肺炎确诊病例，累计达142759例。新增死亡病例19例，累计死亡病例2283例。该国首都圣地亚哥仍是国内疫情最严重地区，集中了全国八成以上的确诊病例。目前，这一地区和智利中北部的部分城市仍处于全面的强制隔离状态，涉及人口近700万，约占全国人口总数的40%。另据报道，智利足协9日发表声明宣布，将在7月31日正式重启国内足球联赛。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591747087000",
-            "title": "国家卫健委：昨日新增3例新冠肺炎确诊病例 新增1例疑似病例",
-            "summary": "6月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为境外输入病例（内蒙古2例，天津1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（上海1例）。当日新增治愈出院病例6例，解除医学观察的密切接触者527人，重症病例无变化。境外输入现有确诊病例54例（无重症病例），现有疑似病例2例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWTz29sLlDxTbC8RkPLr8200610&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591743559000",
-            "title": "美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎",
-            "summary": "《纽约时报》9日报道，美国哥伦比亚特区国民警卫队发言人证实，负责维持秩序的多名国民警卫队士兵新冠病毒检测呈阳性，但他拒绝透露具体人数，也未证实他们是否在执行任务过程中被感染，而是表示执勤人员都穿戴了防护装备以及尽可能保持社交距离。公共卫生专家已经警告，在全美各地的抗议活动中，大批人员聚集可能加速新冠病毒的传播。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibDYqEpdV5KUHtXb68wrY200610&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
