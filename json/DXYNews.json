@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1591752180000",
+            "title": "中国政府赴巴勒斯坦抗疫医疗专家组今日启程",
+            "summary": "应巴勒斯坦政府邀请，6月10日上午，中国政府赴巴勒斯坦抗疫医疗专家组从重庆启程，赴巴协助开展疫情防控工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4uUbNb753oy0TmbCPUQ2200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591750910000",
+            "title": "智利新冠肺炎确诊病例累计突破14万 足协宣布将在7月底重启国内足球赛事",
+            "summary": "当地时间9日，智利新增3913例新冠肺炎确诊病例，累计达142759例。新增死亡病例19例，累计死亡病例2283例。该国首都圣地亚哥仍是国内疫情最严重地区，集中了全国八成以上的确诊病例。目前，这一地区和智利中北部的部分城市仍处于全面的强制隔离状态，涉及人口近700万，约占全国人口总数的40%。另据报道，智利足协9日发表声明宣布，将在7月31日正式重启国内足球联赛。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiflSdKkqLGYuUh3tjpCKs200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591747087000",
+            "title": "国家卫健委：昨日新增3例新冠肺炎确诊病例 新增1例疑似病例",
+            "summary": "6月9日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为境外输入病例（内蒙古2例，天津1例）；无新增死亡病例；新增疑似病例1例，为境外输入病例（上海1例）。当日新增治愈出院病例6例，解除医学观察的密切接触者527人，重症病例无变化。境外输入现有确诊病例54例（无重症病例），现有疑似病例2例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWTz29sLlDxTbC8RkPLr8200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591743559000",
             "title": "美媒：负责维持秩序的多名国民警卫队士兵确诊新冠肺炎",
             "summary": "《纽约时报》9日报道，美国哥伦比亚特区国民警卫队发言人证实，负责维持秩序的多名国民警卫队士兵新冠病毒检测呈阳性，但他拒绝透露具体人数，也未证实他们是否在执行任务过程中被感染，而是表示执勤人员都穿戴了防护装备以及尽可能保持社交距离。公共卫生专家已经警告，在全美各地的抗议活动中，大批人员聚集可能加速新冠病毒的传播。",
@@ -60,33 +87,6 @@
             "summary": "今年 2 月以来，美国政府先后出台系列针对外国人的入境限制临时举措，其中，自 6 月 1 日起对部分持 F 或 J 签证的中国留学人员实施入境限制措施。近期，中国驻纽约总领馆接到多起中方人员受美方上述措施影响入美境受阻求助案例。再次提醒在美或近期拟来美中方人员关注美相关入境限制措施，妥为筹划个人旅程。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid2oe6gl4gMsIQPtIgexy200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591703326000",
-            "title": "非洲新冠肺炎确诊病例逼近 20 万，确诊病例以南非最多",
-            "summary": "截至非洲东部当地时间 6 月 9 日下午 2 时，非洲疾控中心数据显示：非洲54个国家报告了新冠肺炎确诊病例 195875 例，死亡 5334 例，86068 人康复。从确诊病例数看，北部非洲受疫情影响最为严重，其次是南部非洲，目前南非累计确诊病例超过 5 万例，确诊病例最多。非洲多国根据本国疫情形势继续调整防疫政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyKZL88cwLhB3pyEHtKAN200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591702969000",
-            "title": "东航武汉公司武汉至北京客运航班6月11日复航  单程票价400元起售",
-            "summary": "近日，随着湖北各机场至北京客运航线航班的复航，携程等多个机票平台武汉始发北京机票查询量出现“井喷”，湖北民航复苏迎来新“拐点”。继南航率先恢复武汉至北京客运航班后，6月9日，记者从东航武汉公司获悉，经国家民用航空局批准，该公司将于6月11日起恢复武汉北京客运航班，从武汉天河机场至北京大兴机场。6月11日至10月24日，除每周星期二外，每天执飞一个往返航班，单程票价400元起售，旅客可登录东航官网或",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQHCaroNRgP9GooRF7ZwK200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591702756000",
-            "title": "美 22 州确诊病例数大幅反弹，佛罗里达州新增病例增幅达 46%",
-            "summary": "受美国非裔男子弗洛伊德遭遇暴力执法致死引发大规模抗议的影响，美国近一半州的新冠肺炎病例出现了大幅反弹。佛罗里达州的新增病例增幅甚至达到了 46%。目前在全美范围内，22 个州的新冠病毒病例呈上升趋势。内陆各州的疫情也有扩大，包括阿肯色州、得克萨斯州和亚利桑那州。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieMmiHtlz5zxA0T5DafTo200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
