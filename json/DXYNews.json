@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591762590000",
+            "title": "印度新增新冠肺炎确诊病例9985例 累计确诊276583例",
+            "summary": "据印度卫生部消息，截至当地时间6月10日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至276583例。其中死亡7745例，治愈出院135206例。在过去24小时内，印度共新增9985例确诊病例，死亡病例共新增279例。在各行政区中，疫情最严重的马哈拉施特拉邦共确诊90787例，泰米尔纳德邦邦以34914例排在第二，首都新德里和古吉拉特邦以31309例和21014例分别排在第三和第四位。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9qFmLjcESWTmLgyUpOIp200610&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591759322000",
             "title": "祝福毕业生！百所高校举行云毕业典礼",
             "summary": "疫情之下，今年的毕业季注定不平凡。人民日报、微言教育、微博联合发起#未来你好#毕业季活动，百所高校一起“云毕业”！",
@@ -78,15 +87,6 @@
             "summary": "当地时间 9 日上午，圣保罗页报、圣保罗州报、环球报等多家巴西主流媒体联合设立的新冠肺炎数据统计系统开始实时发布数据。巴西卫生部本月 6 日宣布不再公布确诊病例和死亡病例的累计数据，此举在巴西国内外引起很大争议。在此背景下，巴西几家主流媒体表示将每日实时从巴西 26 个州和联邦区的卫生部门获取疫情最新数据，并利用电视、广播、报纸和网络平台发布数据。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsYDq5btcIaCYCjmyVST200609&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591711716000",
-            "title": "北京各学段返校复课安排都定了吗？ 来看北京市教委新闻发言人的11个问题解答",
-            "summary": "今天（6月9日）下午，北京市委教育工委、北京市教委召开新闻发布会。北京市委教育工委副书记、北京市教委新闻发言人李奕针对广大师生家长们关心的返校复课、防疫要求、暑假放假安排等相关问题进行了逐一解答。\n问题一：暑假前在校时间这么短，还有必要返校吗？\n北京市委教育工委副书记、北京市教委新闻发言人 李奕：首先，在整个基础教育阶段，孩子的成长和教育过程的实际获得，有一些环节是不能缺失的。同伴交流、集体活动，",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQU7na2WW3Dhw2HKJ8tTx200609&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
