@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591872060000",
+            "title": "北京新增确诊病例的两名密接者核酸检测均为阴性",
+            "summary": "北京市今天（6月11日）新增1例新冠肺炎确诊病例。相关部门已对其家庭中的两名密切接触者进行集中医学观察，两人首次核酸检测结果均为阴性。新增确诊病例详情：唐某某，男，52岁，北京市人，家住西城区月坛街道西便门东大街，于6月10日下午因间断发热到辖区医院发热门诊就诊。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591862404000",
             "title": "联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息",
             "summary": "联合国开发计划署10日指出，目前关于新冠病毒的虚假和具有煽动性、误导性的信息日益泛滥，加重了新冠肺炎疫情对社会的影响，各国政府和国际社会必须联手应对。",
@@ -78,15 +87,6 @@
             "summary": "联合国开发计划署6月10日指出，目前关于新冠病毒的虚假和具有煽动性、误导性的信息日益泛滥，加重了新冠肺炎疫情对社会的影响，各国政府和国际社会必须联手应对。只有各国政府负起领导责任，抵制错误信息和污名化才能取得真正的进展。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591829071000",
-            "title": "秘鲁政府允许新冠疫情高风险地区建筑业复工",
-            "summary": "当地时间6月10日，秘鲁住宅、建设和环卫部宣布，正式允许在被列为新冠疫情高风险地区的建筑企业复工。据当地媒体报道，这也是秘鲁政府恢复经济活动第二阶段的重点规划之一。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
