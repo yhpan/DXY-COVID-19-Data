@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591879551000",
+            "title": "美国首次申请失业救济人数仍在高位",
+            "summary": "当地时间6月11日，美国劳工部公布的数据显示，5月31日至6月6日一周，美国首次申请失业救济人数为154.2万，反映出经济重启使得就业岗位流失速度持续放慢，但申请人数仍在高位徘徊。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591874267000",
             "title": "非洲新冠肺炎确诊病例逼近21万，面临经济衰退",
             "summary": "截至非洲东部时间6月11日下午1点，非洲疾控中心数据显示：非洲地区54个国家累计报告新冠肺炎确诊病例209438例，死亡5678例，95273人康复。",
@@ -78,15 +87,6 @@
             "summary": "上海市卫健委通报：6月10日0—24时，通过口岸联防联控机制，报告6例境外输入性新冠肺炎确诊病例。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4514577625139584",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591844135000",
-            "title": "疫情后期逆势增长 5月我国快递业务量同比增长超四成",
-            "summary": "据国家邮政局统计，5月我国快递业务量完成73.8亿件，同比增长41%，快递业务收入完成771亿元，同比增长25%。快递业在疫情后期逆势增长，业务量增速超40%，创2018年2月以来新高。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
