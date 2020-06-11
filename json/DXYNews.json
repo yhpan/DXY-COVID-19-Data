@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591884574000",
+            "title": "印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例",
+            "summary": "据印度媒体报道，6月11日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例20例，累计确诊病例升至1984，新增死亡病例2例，累计死亡病例75例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591883891000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过727万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月11日14时20分（北京时间6月11日20时20分），全球确诊新冠肺炎7273958例，死亡413372例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591879551000",
             "title": "美国首次申请失业救济人数仍在高位",
             "summary": "当地时间6月11日，美国劳工部公布的数据显示，5月31日至6月6日一周，美国首次申请失业救济人数为154.2万，反映出经济重启使得就业岗位流失速度持续放慢，但申请人数仍在高位徘徊。",
@@ -69,24 +87,6 @@
             "summary": "据印度卫生部消息，截至当地时间6月11日早8点，印度新冠肺炎确诊病例已升至286579例。其中死亡8102例，治愈出院141029例。在过去24小时内，印度新增9996例新冠肺炎确诊病例，是印度疫情暴发以来单日增幅最大的一天。过去24小时内新增死亡病例357例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591844640000",
-            "title": "用电数据变化看经济 湖北5月用电量同比增速由负转正",
-            "summary": "这两天，我国各省的5月份用电数据正在陆续出炉，南方电网广东电网公司的最新数据显示，5月，广东全社会用电量629.06亿千瓦时，同比增长9.29%，是今年以来单月同比增长最大增幅。 5月，广东第一产业、第三产业用电量同比都实现了两位数的增长。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMqViUHfWnQs9RW0DzYuY200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591844404000",
-            "title": "上海新增6例境外输入",
-            "summary": "上海市卫健委通报：6月10日0—24时，通过口岸联防联控机制，报告6例境外输入性新冠肺炎确诊病例。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4514577625139584",
             "province": null,
             "provinceId": ""
         }
