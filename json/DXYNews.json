@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1591874267000",
+            "title": "非洲新冠肺炎确诊病例逼近21万，面临经济衰退",
+            "summary": "截至非洲东部时间6月11日下午1点，非洲疾控中心数据显示：非洲地区54个国家累计报告新冠肺炎确诊病例209438例，死亡5678例，95273人康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7BKmjmmyWpgbV1wzswE2200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591872060000",
             "title": "北京新增确诊病例的两名密接者核酸检测均为阴性",
             "summary": "北京市今天（6月11日）新增1例新冠肺炎确诊病例。相关部门已对其家庭中的两名密切接触者进行集中医学观察，两人首次核酸检测结果均为阴性。新增确诊病例详情：唐某某，男，52岁，北京市人，家住西城区月坛街道西便门东大街，于6月10日下午因间断发热到辖区医院发热门诊就诊。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOnX1SP7Omze4g5Jr2KF7200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591868367000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超725万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月11日10时32分(北京时间6月11日16时32分)，全球新冠肺炎确诊病例累计7255960例，死亡412583例。（总台记者 朱赫）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinTbTeZIAd8OaJrax3Wyc200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "据国家邮政局统计，5月我国快递业务量完成73.8亿件，同比增长41%，快递业务收入完成771亿元，同比增长25%。快递业在疫情后期逆势增长，业务量增速超40%，创2018年2月以来新高。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6894JSrgCGbEHdTZTU4U200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591841096000",
-            "title": "微视频丨率先解禁！突尼斯发布防疫短片重启旅游业",
-            "summary": "突尼斯宣布将于本月27日起开放国门。旅游业是突尼斯的支柱行业，为了重启旅游业，突尼斯政府发布短片，介绍该国如何做好防疫措施，希望吸引游客前往旅游。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmwI51d4RKtO0tinLybu200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591831741000",
-            "title": "联合国开发计划署：国际社会必须联合抵制虚假疫情信息",
-            "summary": "联合国开发计划署6月10日指出，目前关于新冠病毒的虚假和具有煽动性、误导性的信息日益泛滥，加重了新冠肺炎疫情对社会的影响，各国政府和国际社会必须联手应对。只有各国政府负起领导责任，抵制错误信息和污名化才能取得真正的进展。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN4Ch8HDChSWCJgW6wjn200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
