@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591862404000",
+            "title": "联合国开发计划署发布新闻公告：国际社会必须联合抵制虚假疫情信息",
+            "summary": "联合国开发计划署10日指出，目前关于新冠病毒的虚假和具有煽动性、误导性的信息日益泛滥，加重了新冠肺炎疫情对社会的影响，各国政府和国际社会必须联手应对。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4514656913274943",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591859314000",
+            "title": "当“抗议 ”遇到“抗疫#” 新冠肺炎病例迅速上升",
+            "summary": "全球地图一览：当“#抗议 ”遇到“抗疫“新冠肺炎病例迅速上升",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4514647539648228",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591857263000",
             "title": "巴基斯坦新增5834例新冠肺炎确诊病例 累计确诊119536例",
             "summary": "据巴基斯坦当地媒体及卫生部网站消息，截至当地时间6月11日08时37分，巴境内新冠肺炎确诊病例累计增至119536例，现有病例78789例，治愈38391例（治愈率为32.1%），死亡2356例（死亡率为2.0%）。累计检测780825人，新增检测26573人，新增确诊5834例，确诊比例为21.95%，较前一日（22.63%）降低了0.68个百分点。（总台记者 崔如）",
@@ -69,24 +87,6 @@
             "summary": "当地时间6月10日，秘鲁住宅、建设和环卫部宣布，正式允许在被列为新冠疫情高风险地区的建筑企业复工。据当地媒体报道，这也是秘鲁政府恢复经济活动第二阶段的重点规划之一。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUDyK96nNvw5cRp6DJMx200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591822306000",
-            "title": "受新冠疫情影响 2020年赞比亚国际贸易展会将推迟",
-            "summary": "据赞比亚当地媒体6月10日报道，赞比亚商贸工部长克里斯托弗·亚鲁玛（Christopher Yaluma）在一份声明中表示，由于受到赞比亚新冠肺炎疫情的影响，赞比亚政府已将原定于7月1日至7月7日在赞比亚恩多拉举行的2020年赞比亚国际贸易展会的时间推迟。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10fnZDpMCR8hODU9CkKY200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591818415000",
-            "title": "世卫组织总干事：所有国家在疫苗研发上应采用相同的规程",
-            "summary": "当地时间10日，世卫组织总干事谭德塞表示，所有国家在疫苗研发上应采用相同的规程，世卫组织不会容忍任何把某个大陆或国家作为试验场的行为。强调，疫苗研发将很快进入临床试验阶段，世卫组织将确保所有国家采用同样的规程和准则。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artioj4GcNFG5AueACA38ptV200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
