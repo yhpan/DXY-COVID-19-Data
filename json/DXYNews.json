@@ -10,6 +10,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1591844404000",
+            "title": "上海新增6例境外输入",
+            "summary": "上海市卫健委通报：6月10日0—24时，通过口岸联防联控机制，报告6例境外输入性新冠肺炎确诊病例。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4514577625139584",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591844135000",
             "title": "疫情后期逆势增长 5月我国快递业务量同比增长超四成",
             "summary": "据国家邮政局统计，5月我国快递业务量完成73.8亿件，同比增长41%，快递业务收入完成771亿元，同比增长25%。快递业在疫情后期逆势增长，业务量增速超40%，创2018年2月以来新高。",
@@ -78,15 +87,6 @@
             "summary": "6月10日，欧委会副主席博雷利称，欧委会将在本周内发布从7月1日起开放外部边界的提案，欧盟外部边界将逐步地开放。博雷利称欧盟各国将共同采取举措，针对符合相关标准的部分国家开放边界。为了防止新冠疫情的蔓延，欧盟从3月17日开始关闭了外部边界，该决定将在6月15日到期。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiy0BWooE1Pw2GlvFGUMmo200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591805742000",
-            "title": "全球智库抗疫合作云论坛发布倡议书：唯有团结合作才是战胜疫情最有力的武器",
-            "summary": "全球智库抗疫合作云论坛6月9日至10日召开，指出，重大传染性疾病是全人类共同的敌人，唯有团结合作才是战胜疫情最有力的武器。各国应当为本国人民负起责任，同时应当促进全球抗疫合作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAvFQYpJrOAqJ2L5hrV5A200610&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
