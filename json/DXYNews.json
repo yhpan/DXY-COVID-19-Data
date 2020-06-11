@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1591884872000",
+            "title": "国家卫健委：发热门诊就诊患者必须进行核酸检测",
+            "summary": "国家卫健委今天（11日）官网发布消息称，对于所有到发热门诊就诊的患者，必须扫“健康码”，并进行核酸检测。要充分发挥医疗机构哨点作用，对于待排除和疑似病例要第一时间进行隔离医学观察，提供基本医疗服务。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591884574000",
             "title": "印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例",
             "summary": "据印度媒体报道，6月11日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例20例，累计确诊病例升至1984，新增死亡病例2例，累计死亡病例75例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
@@ -78,15 +87,6 @@
             "summary": "据巴基斯坦当地媒体及卫生部网站消息，截至当地时间6月11日08时37分，巴境内新冠肺炎确诊病例累计增至119536例，现有病例78789例，治愈38391例（治愈率为32.1%），死亡2356例（死亡率为2.0%）。累计检测780825人，新增检测26573人，新增确诊5834例，确诊比例为21.95%，较前一日（22.63%）降低了0.68个百分点。（总台记者 崔如）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7hTteNj3EO9cs3XyKpXW200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591849234000",
-            "title": "印度新增9996例新冠肺炎确诊病例 累计确诊286579例",
-            "summary": "据印度卫生部消息，截至当地时间6月11日早8点，印度新冠肺炎确诊病例已升至286579例。其中死亡8102例，治愈出院141029例。在过去24小时内，印度新增9996例新冠肺炎确诊病例，是印度疫情暴发以来单日增幅最大的一天。过去24小时内新增死亡病例357例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiopBpyEl8qZz57osDjSVU200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
