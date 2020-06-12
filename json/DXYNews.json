@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591949760000",
+            "title": "北京通报6月12日新增2例新冠肺炎确诊病例",
+            "summary": "今天下午，北京市召开第113场疫情防控新闻发布会。根据通报，6月11日、12日连续两天新增新冠肺炎确诊病例。会上通报，6月12日，北京市丰台区新增2例确诊病例，为同一单位员工，目前已转至定点医疗机构。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591943618000",
+            "title": "英国4月份经济下降20.4%",
+            "summary": "英国国家统计局最新数字显示，受新冠肺炎疫情影响，4月份英国经济下降20.4%，超过2008年金融危机时期，成为经济表现最差的月份之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFyHcirfI5lhYniSiaI0t200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591940073000",
             "title": "天津12日通报：新增1例境外输入新冠肺炎确诊病例",
             "summary": "6月12日6时至11时30分，天津新增境外输入新冠肺炎确诊病例1例（中国籍），男，32岁，私营企业务工人员，中国籍，近期居住地塞尔维亚贝尔格莱德。自塞尔维亚贝尔格莱德乘坐航班（JU045），于6月11日抵达天津滨海国际机场。",
@@ -69,24 +87,6 @@
             "summary": "6月11日0时至24时，北京无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。截至6月11日24时，累计报告境外输入确诊病例174例，累计出院173例，在院1例。6月11日0时至24时，新增报告本地确诊病例1例，无疑似病例和无症状感染者。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591922403000",
-            "title": "上海新增境外输入确诊病例5例",
-            "summary": "据@健康上海12320 6月11日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。新增治愈出院1例。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4514911252989598",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591919543000",
-            "title": "上海11日新增5例境外输入新冠肺炎确诊病例",
-            "summary": "上海市卫健委今天（12日）通报：6月11日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自英国。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
