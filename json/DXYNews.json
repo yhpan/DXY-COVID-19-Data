@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591922799000",
+            "title": "北京昨日新增报告1例新冠肺炎确诊病例",
+            "summary": "6月11日0时至24时，北京无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。截至6月11日24时，累计报告境外输入确诊病例174例，累计出院173例，在院1例。6月11日0时至24时，新增报告本地确诊病例1例，无疑似病例和无症状感染者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591922403000",
+            "title": "上海新增境外输入确诊病例5例",
+            "summary": "据@健康上海12320 6月11日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。新增治愈出院1例。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4514911252989598",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591919543000",
             "title": "上海11日新增5例境外输入新冠肺炎确诊病例",
             "summary": "上海市卫健委今天（12日）通报：6月11日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自英国。",
@@ -69,24 +87,6 @@
             "summary": "哥伦比亚卫生部11日宣布新增1530例新冠肺炎确诊病例，全国累计45212例，死亡病例1488例，治愈病例17790例。哥首都波哥大市政府11日证实，疫情暴发以来该市重症监护床位占用率当天首次超过50%，政府将密切监测这一数据变化并于下周一宣布新的防疫措施。此前波哥大市政府曾表示，重症监护床位占用率超过50%，将把卫生警戒级别从目前的黄色提高至橙色。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOgrLQPwd5sMlJtIGfVSI200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591912346000",
-            "title": "秘鲁新冠肺炎确诊病例超过21万例 其中包括近万名警察",
-            "summary": "秘鲁卫生部11日报告显示，过去24小时，该国新增5965例新冠肺炎确诊病例，累计确诊病例超过21万例，达到214788例。新增死亡病例206例，累计死亡6109例。内政部长罗德里格斯在接受当地媒体采访时称，截至当地时间周三，已有9900名国家警察在接受新冠肺炎检测时结果呈阳性，其中170人因确诊新冠肺炎不幸去世。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwd2m8eFu7zRYpi97ZkX5200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591911821000",
-            "title": "瑞士日内瓦标志性大喷泉重新启动",
-            "summary": "当地时间11日，瑞士日内瓦的标志性大喷泉在关闭83天后，再次重启。自1891年起，大喷泉就是日内瓦的著名标志，是欢乐和希望的象征，但从新冠肺炎大流行以来暂时关闭。6月11日下午，当地举行大喷泉重启仪式，世卫组织总干事谭德塞作为嘉宾按下重启按钮，大喷泉再次以每小时200公里的速度跃升至日内瓦湖面上140米处，引来诸多市民驻足欣赏。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
