@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1591919543000",
+            "title": "上海11日新增5例境外输入新冠肺炎确诊病例",
+            "summary": "上海市卫健委今天（12日）通报：6月11日0—24时，通过口岸联防联控机制，报告5例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自英国。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVuQutpvYuA6fTc0KgzGb200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591919069000",
+            "title": "巴西2000余名原住民确诊新冠肺炎",
+            "summary": "根据巴西卫生部10日公布的数据，自新冠肺炎疫情暴发以来，巴西已有2392名原住民确诊新冠肺炎，累计有85名原住民死亡，统计数字仅计算生活在村庄中的原住民。据巴西媒体报道，巴西全国现有5852个原住民村庄，其中8.5%的村庄记录了新冠肺炎确诊病例。原住民感染是目前巴西卫生部最为关心的问题之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiARUMtrHy9CNPdmT3ZxGo200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591918479000",
+            "title": "阿拉伯国家卫生部长理事会声明：制定阿拉伯统一疫情应对计划",
+            "summary": "埃及媒体11日报道，阿拉伯国家卫生部长理事会10日举行第53次视频会议。在会议结束发表的声明中，决定制定一项统一计划草案并提交理事会讨论，以遏制新冠肺炎疫情在阿拉伯国家的传播。本次会议由阿拉伯卫生部长理事会技术秘书处与阿拉伯国家卫生部，世界卫生组织区域办事处和联合国阿拉伯国家人口基金会合作举行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK3BR5R3yI1h517lEKxA9200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591918063000",
+            "title": "巴西疫情“重灾区”圣保罗市重新开放购物中心 部分街区出现人群拥挤",
+            "summary": "在暂停营业80多天后，巴西疫情“重灾区”圣保罗市的购物中心从11日起恢复营业，但必须遵守政府的相关营业规定。然而在重新开放的第一天，部分购物场所并未能严格遵守客流量的限制，人们也并没有完全保持社交距离。而在10日开始允许重新开放街头店铺后，一些商业街区出现人群拥挤，还有一些小商贩在街上摆摊出售服装等商品，交通也因此变得拥堵。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJuC028jaPJ7dNOzCtmEV200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591917660000",
             "title": "中国驻利比里亚使馆向在利华人华侨发放“健康包”",
             "summary": "据中国驻利比里亚大使馆网站消息，6月10日，中国驻利比里亚大使馆向在利华人华侨发放了抗疫“健康包”，使馆表示愿与广大同胞一起风雨同舟，共克时艰。参加发放仪式的的华人华侨代表感谢使馆一直以来给予的防疫指导和支持，发放“健康包”等暖心举措让大家切实感受到祖国的关爱，感受到使馆“始终在我们身后”。",
@@ -51,42 +87,6 @@
             "summary": "当地时间11日，瑞士日内瓦的标志性大喷泉在关闭83天后，再次重启。自1891年起，大喷泉就是日内瓦的著名标志，是欢乐和希望的象征，但从新冠肺炎大流行以来暂时关闭。6月11日下午，当地举行大喷泉重启仪式，世卫组织总干事谭德塞作为嘉宾按下重启按钮，大喷泉再次以每小时200公里的速度跃升至日内瓦湖面上140米处，引来诸多市民驻足欣赏。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3rM6AQJTAvQNCzXwzgDA200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591884872000",
-            "title": "国家卫健委：发热门诊就诊患者必须进行核酸检测",
-            "summary": "国家卫健委今天（11日）官网发布消息称，对于所有到发热门诊就诊的患者，必须扫“健康码”，并进行核酸检测。要充分发挥医疗机构哨点作用，对于待排除和疑似病例要第一时间进行隔离医学观察，提供基本医疗服务。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2sJMU3Dnb01ovhWPqg2L200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591884574000",
-            "title": "印度最大贫民窟新增新冠肺炎确诊病例20例，累计1984例",
-            "summary": "据印度媒体报道，6月11日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例20例，累计确诊病例升至1984，新增死亡病例2例，累计死亡病例75例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZud6ztVHsYQsUiPbatuP200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591883891000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过727万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月11日14时20分（北京时间6月11日20时20分），全球确诊新冠肺炎7273958例，死亡413372例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9OwkdrTWl1FMrrG2UWj1200611&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591879551000",
-            "title": "美国首次申请失业救济人数仍在高位",
-            "summary": "当地时间6月11日，美国劳工部公布的数据显示，5月31日至6月6日一周，美国首次申请失业救济人数为154.2万，反映出经济重启使得就业岗位流失速度持续放慢，但申请人数仍在高位徘徊。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIlP75Da8V0C9B01UOnJj200611&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
