@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1591956733000",
+            "title": "东京奥组委：已确定约8成比赛场馆明年将继续使用",
+            "summary": "今天（6月12日），东京奥运会、残奥会组织委员会在东京举行第37届理事会，主要研究东京奥运会、残奥会延期一年举办的相关事宜。东京奥组委首席执行官武藤敏郎表示，经过协调，原定为东京奥运会服务的全部43个场馆当中，目前有约8成明年夏天可以确保为延期的东京奥运会所使用，其他奥运场馆的使用还需要进一步确认和协调。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidXiiw7c61Kr1MOpBili2200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591953429000",
+            "title": "​香港新增1例新冠肺炎确诊病例",
+            "summary": "来自香港特区政府卫生防护中心的消息，截至6月12日17时，香港新增1例新冠肺炎本地确诊病例。患者居住在沙田的沥源邨禄泉楼，这里此前曾发现多个确诊病例。患者是5月31日该大厦首位确诊者的亲属。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591949760000",
             "title": "北京通报6月12日新增2例新冠肺炎确诊病例",
             "summary": "今天下午，北京市召开第113场疫情防控新闻发布会。根据通报，6月11日、12日连续两天新增新冠肺炎确诊病例。会上通报，6月12日，北京市丰台区新增2例确诊病例，为同一单位员工，目前已转至定点医疗机构。",
@@ -69,24 +87,6 @@
             "summary": "当地时间6月11日，根据智利卫生部的最新数据，截至10日21时，该国24小时内新冠肺炎确诊病例新增5596例，其中507例为无症状感染者，累计确诊154092例；现有病例25000例，累计死亡2448例。智利总统皮涅拉日前宣布启动新一轮“家庭应急收入”的发放工作。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591926183000",
-            "title": "阿根廷新增1386例新冠肺炎确诊病例 全国仅一省尚未发现感染者",
-            "summary": "当地时间11日，阿根廷新增新冠肺炎确诊病例1386例，累计确诊27373例。新增死亡30人，累计死亡765人。11日当天，阿根廷东北部福尔摩萨省报告发现首例新冠肺炎确诊病例。就此，全国所有的23个省份中，仅剩西北部的卡塔马卡省尚未有感染病例出现。目前，阿首都布宜诺斯艾利斯的感染者数量最多，达到13026例，其中死亡281例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXjhJntHxKuPitBZXqTSx200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591922799000",
-            "title": "北京昨日新增报告1例新冠肺炎确诊病例",
-            "summary": "6月11日0时至24时，北京无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。截至6月11日24时，累计报告境外输入确诊病例174例，累计出院173例，在院1例。6月11日0时至24时，新增报告本地确诊病例1例，无疑似病例和无症状感染者。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTyz1maFB1P9MuCsO83sD200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
