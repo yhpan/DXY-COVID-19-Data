@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1592090569000",
+            "title": "​巴西新冠肺炎确诊病例累计超85万例",
+            "summary": "根据巴西卫生部当地时间13日公布的数据，截至当地时间18时，该国单日新增新冠肺炎确诊病例21704例，累计确诊病例850514例，新增死亡病例892例，累计死亡病例42720例，共有379245名患者康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQ5C4JGLbpcP4mjFZI7Zk200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592082635000",
+            "title": "美国确诊病例超过206万例",
+            "summary": "据约翰斯·霍普金斯大学数据，截至美东时间13日16时33分，美国累计新冠肺炎确诊病例2066993例，累计死亡病例115206例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTAH7vzLhvIMt4H6JntvG200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592074331000",
+            "title": "也门新增73例新冠肺炎确诊病例 疫情逐步加剧",
+            "summary": "当地时间6月13日晚间，也门政府“最高新冠病毒疫情防控委员会”公布也门疫情最新情况。也门政府军控制区当天共新增确诊病例73例，其中17例在确诊时已经死亡，当天另有4例此前确诊病例死亡和11例治愈病例。截至目前，也门全国总确诊数上升至709例，累计死亡病例为161例，累计治愈42例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFGz46PQiWzKRmsBEaVti200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592061240000",
             "title": "受新冠疫情影响，世界最大规模农业科技博览会取消",
             "summary": "巴西农业科技博览会主办方日前宣布，受新冠肺炎疫情不确定性的影响，2020年巴西农业科技博览展会开展日期一再被推迟后，不得不取消今年的展会。巴西农业科技博览会是拉丁美洲也是全球最大规模的农业科技展会。",
@@ -60,33 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月13日10时45分，过去24小时内俄罗斯新增新冠肺炎确诊病例8706例，累计确诊520129例；新增死亡病例114例，累计死亡6829例；新增治愈病例5271例，累计治愈274641例。首都莫斯科市新增确诊病例1493例，累计204428例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592022912000",
-            "title": "新发地市场暂时休市期间 北京启动应急交易保供措施",
-            "summary": "今天上午11点，北京市召开第114场疫情防控新闻发布会。会上通报。新发地市场暂时休市期间，为保障北京市蔬菜水果的正常供应，北京采取应急交易保供措施。新发地暂时休市期间，原在市场内交易的蔬菜和水果移到指定的区域进行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592018880000",
-            "title": "北京将对新发地农贸批发市场有关人员开展核酸检测",
-            "summary": "6月13日，北京市召开新冠肺炎疫情防控工作新闻发布会。会上，北京市有关部门负责人发布消息，鉴于新发地农贸批发市场中人员发现确诊病例，其环境样本中检测出核酸阳性，北京市决定将对5月30日以来与新发地市场有密切接触的人员开展核酸检测，卫生健康和公安部门正在制订筛查方案，将以区为单位进行筛查，今天将公布，请公众给予关注。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiI5VoxhKVHhNSH3eZfM9M200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592018514000",
-            "title": "北京新发地市场已有45人咽拭子阳性 已有40件环境阳性样本",
-            "summary": "针对本市近期疫情，6月12日，市、区疾病预防控制中心已组织专业人员，在全市开展了农贸批发市场、大型超市等排查，共采集海鲜、肉类等食品及外环境涂抹标本5424份，完成新冠病毒核酸检测，新发地市场发现40件环境阳性样本，其余农贸批发市场、大型超市均为阴性。在对从业人员主动筛检中，对1940名市场从业人员进行了核酸检测，在新发地采集的517件样品中，有45人咽拭子阳性，另在海淀一农贸市场中发现1例阳性，是1例新发地确诊病例的密切接触者。上述46人目前无临床症状，已纳入严密管理和观察中。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4515315273659688",
             "province": null,
             "provinceId": ""
         }
