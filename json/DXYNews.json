@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592009460000",
+            "title": "北京：对新发地批发市场所有人员进行核酸检测 排查周边场所",
+            "summary": "12日晚，北京新冠肺炎疫情防控工作领导小组召开第六十七次会议，强调：外防输入既要严格入境进京人员管控，也要加强入境货机管理和入境货物检验检疫。将新发地批发市场作为流调溯源的重中之重，派驻工作组，加强疫情防控。要根据流调和溯源情况，对新发地批发市场采取果断措施。扩大流调检测范围，对市场所有人员进行核酸检测，对周边场所进行全面排查。加强肉类、海鲜、果蔬等货物的监测监管，掌握来源及流向。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq7JDrbtUBVfUGvAc0go9200613&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592007742000",
             "title": "广东13日通报：新增1例境外输入新冠肺炎确诊病例",
             "summary": "6月12日0-24时，广东省新增境外输入确诊病例1例，广州报告，来自秘鲁，在入境口岸发现，入境后即被隔离观察。无新增无症状感染者。新增出院1例。截至6月12日24时，广东省累计报告新冠肺炎确诊病例1608例（境外输入213例）。目前在院10例。",
@@ -78,15 +87,6 @@
             "summary": "6月12日6时至11时30分，天津新增境外输入新冠肺炎确诊病例1例（中国籍），男，32岁，私营企业务工人员，中国籍，近期居住地塞尔维亚贝尔格莱德。自塞尔维亚贝尔格莱德乘坐航班（JU045），于6月11日抵达天津滨海国际机场。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWNb0iZLcv6lIpkwTw6MB200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591937301000",
-            "title": "南非卫生职业委员会主席：由衷感谢中国对非洲的抗议物资援助",
-            "summary": "《抗击新冠肺炎疫情的中国行动》白皮书在非洲国家引起广泛关注。近日，南非卫生职业委员会主席戈西·莱特拉普在接受总台记者采访时表示，中国面对疫情迅速采取措施，在短时间内遏制住了疫情蔓延的势头；而在国内疫情得到控制之后，中国又积极协助其他国家抗击疫情，特别是很多非洲国家都得到了中国的大力支援。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artip9L1rpXeIRXT6vB9Xun4200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
