@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592002803000",
+            "title": "巴西累计确诊病例逾82万例 死亡人数居世界第二",
+            "summary": "根据巴西卫生部当地时间6月12日晚公布的最新数据，该国单日新增新冠肺炎确诊病例25982例，累计确诊828810例；新增死亡病例909例，累计死亡病例41828例。巴西新冠肺炎累计死亡人数已经超过英国，位列全球第二。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4515249375784265",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1591996222000",
+            "title": "​新冠肺炎疫情危机或使全球赤贫人口增至11亿",
+            "summary": "联合国大学世界发展经济学研究所于6月12日发布一份最新研究报告称，新冠肺炎疫情带来经济的衰退可能让赤贫人口增加3.95亿人，最差的情况下，即人均收入减少20%的话，全球日收入不足1.9美元（约合人民币13.5元）的赤贫人口总数或将增加到11.2亿。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00meQmK1c2B26Nx5EygK200613&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1591956733000",
             "title": "东京奥组委：已确定约8成比赛场馆明年将继续使用",
             "summary": "今天（6月12日），东京奥运会、残奥会组织委员会在东京举行第37届理事会，主要研究东京奥运会、残奥会延期一年举办的相关事宜。东京奥组委首席执行官武藤敏郎表示，经过协调，原定为东京奥运会服务的全部43个场馆当中，目前有约8成明年夏天可以确保为延期的东京奥运会所使用，其他奥运场馆的使用还需要进一步确认和协调。",
@@ -69,24 +87,6 @@
             "summary": "古共中央政治局本周召开特别会议讨论并通过了古巴疫情恢复计划，会议决定，古巴将分三个阶段逐步恢复生产和社会经济活动。当地时间6月11日，古巴国家主席迪亚斯-卡内尔和总理曼努埃尔·马雷罗在古巴国家电视台《圆桌》节目中介绍了各恢复阶段即将实施的相关措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilbzTbhc1j7CUwfYFgl99200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591927745000",
-            "title": "墨西哥新增4790例新冠肺炎确诊病例 累计超13万例",
-            "summary": "当地时间6月11日，墨西哥卫生部宣布，截至当日晚上7点，墨西哥全国确诊133974例新冠肺炎病例，较前一天新增了4790例。同时，墨西哥全国确诊死亡病例较前一天新增587例，总数已经上升到15944例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaMDdFyBmC8bKhevTNZFO200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591926407000",
-            "title": "智利新冠肺炎确诊人数超过15万 政府向困难家庭发放补助",
-            "summary": "当地时间6月11日，根据智利卫生部的最新数据，截至10日21时，该国24小时内新冠肺炎确诊病例新增5596例，其中507例为无症状感染者，累计确诊154092例；现有病例25000例，累计死亡2448例。智利总统皮涅拉日前宣布启动新一轮“家庭应急收入”的发放工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinmgJHAnjlCaMmEY8k8zl200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
