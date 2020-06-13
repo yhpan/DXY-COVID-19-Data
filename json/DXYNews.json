@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592055960000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过755万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月13日14时25分(北京时间6月13日20时25分)，全球确诊新冠肺炎7553182例，死亡423349例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592048051000",
             "title": "北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性",
             "summary": "密云区新冠肺炎疫情防控指挥部今天（13日）下午对外发布，北京市12日新增6例确诊病例。目前，已对6名与外区确诊病例的密切接触者实施集中隔离观察，新冠病毒核酸检测均为阴性。同时，对辖区内批发市场、商超等公共场所，密云区疾控中心也进行了密集采样，核酸检测结果也为阴性。 ",
@@ -78,15 +87,6 @@
             "summary": "6月12日0-24时，广东省新增境外输入确诊病例1例，广州报告，来自秘鲁，在入境口岸发现，入境后即被隔离观察。无新增无症状感染者。新增出院1例。截至6月12日24时，广东省累计报告新冠肺炎确诊病例1608例（境外输入213例）。目前在院10例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiej8gZI8CthdiuiaMPdS2200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592004868000",
-            "title": "韩国决定延长首都圈强化版防疫措施",
-            "summary": "截至当地时间6月12日0时，韩国新增新冠肺炎确诊病例56例，累计确诊12003例，累计死亡277例，累计治愈10669例。韩国防疫部门6月12日宣布，鉴于首都圈近来频频发生小规模聚集性新冠病毒感染事件，因此决定无限期延长原定于本月14日结束的“首都圈强化版防疫措施”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiudL7HwY3e4oUW9qpBMij200613&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
