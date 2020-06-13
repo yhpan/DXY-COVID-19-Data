@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592022912000",
+            "title": "新发地市场暂时休市期间 北京启动应急交易保供措施",
+            "summary": "今天上午11点，北京市召开第114场疫情防控新闻发布会。会上通报。新发地市场暂时休市期间，为保障北京市蔬菜水果的正常供应，北京采取应急交易保供措施。新发地暂时休市期间，原在市场内交易的蔬菜和水果移到指定的区域进行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTMxQRhi6QmgBAh7Xjw10200613&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592018880000",
             "title": "北京将对新发地农贸批发市场有关人员开展核酸检测",
             "summary": "6月13日，北京市召开新冠肺炎疫情防控工作新闻发布会。会上，北京市有关部门负责人发布消息，鉴于新发地农贸批发市场中人员发现确诊病例，其环境样本中检测出核酸阳性，北京市决定将对5月30日以来与新发地市场有密切接触的人员开展核酸检测，卫生健康和公安部门正在制订筛查方案，将以区为单位进行筛查，今天将公布，请公众给予关注。",
@@ -78,15 +87,6 @@
             "summary": "来自香港特区政府卫生防护中心的消息，截至6月12日17时，香港新增1例新冠肺炎本地确诊病例。患者居住在沙田的沥源邨禄泉楼，这里此前曾发现多个确诊病例。患者是5月31日该大厦首位确诊者的亲属。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM3O0nmH5AbyudDZCIYRd200612&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1591949760000",
-            "title": "北京通报6月12日新增2例新冠肺炎确诊病例",
-            "summary": "今天下午，北京市召开第113场疫情防控新闻发布会。根据通报，6月11日、12日连续两天新增新冠肺炎确诊病例。会上通报，6月12日，北京市丰台区新增2例确诊病例，为同一单位员工，目前已转至定点医疗机构。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticyP1Q8xtCUKsvSJomYS4200612&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
