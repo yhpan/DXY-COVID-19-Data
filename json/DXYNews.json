@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592100360000",
+            "title": "湖北昨日新增无症状感染者2例",
+            "summary": "2020年6月13日0—24时，湖北省新增新冠肺炎确诊病例0例，新增疑似病例0例，新增死亡病例0例，无境外输入病例。截至2020年6月13日24时，湖北省现有确诊病例0例，现有疑似病例0例。全省累计报告新冠肺炎确诊病例68135例，累计治愈出院63623例，累计病亡4512例。全省累计追踪密切接触者285008人，尚在接受医学观察157人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592099763000",
+            "title": "北京：朝阳区全覆盖检查保食品安全",
+            "summary": "记者从朝阳区了解到，朝阳区市场监督管理局从6月13日开始对全区已经开业的41家农贸市场开展监督检查，重点对猪、牛、羊肉以及水产品的相关情况进行检查，全力保障群众食品安全。\n朝阳区市场监管局相关负责人介绍，在对农贸市场进行检查的同时，还将同步对辖区内的市场、超市、餐饮店等食品经营单位进行检查，针对重点产品将进行抽样检查，严守产品质量关，保障群众食品安全。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592097603000",
             "title": "辽宁新增2确诊为北京确诊密切接触者",
             "summary": "6月13日0时至24时，辽宁省新增2例新冠肺炎确诊病例，均为6月12日沈阳市报告的无症状感染者转归确诊病例（系北京市6月12日确诊病例密切接触者），其中1例属普通型病例、1例属轻型病例。 ​​​​",
@@ -69,24 +87,6 @@
             "summary": "当地时间13日，意大利卫生部部长斯佩兰扎发布公告称，已协同德国、法国、荷兰的卫生部部长，和阿斯利康公司签订了总量高达4亿支的疫苗供应合同。斯佩兰扎表示，候选疫苗来自牛津大学研究团队，意大利企业也会在研发和生产阶段发挥重要作用。据称，该疫苗已进入实验阶段，将有望在今年底前实现第一批量产。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0VBZSpYBidLosq7zHBJ200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592055960000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过755万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月13日14时25分(北京时间6月13日20时25分)，全球确诊新冠肺炎7553182例，死亡423349例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUHlUhGhgIc2nO5ta47zA200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592048051000",
-            "title": "北京密云：对6名密接者集中隔离观察，新冠病毒核酸检测均为阴性",
-            "summary": "密云区新冠肺炎疫情防控指挥部今天（13日）下午对外发布，北京市12日新增6例确诊病例。目前，已对6名与外区确诊病例的密切接触者实施集中隔离观察，新冠病毒核酸检测均为阴性。同时，对辖区内批发市场、商超等公共场所，密云区疾控中心也进行了密集采样，核酸检测结果也为阴性。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
