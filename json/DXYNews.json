@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592147775000",
+            "title": "辽宁发布关于域外疫情防控重点地区的通告",
+            "summary": "6月14日，辽宁省统筹推进新冠肺炎疫情防控和经济社会发展工作总指挥部决定，自2020年6月14日15时起将北京市丰台区，西城区月坛街道、金融街街道，房山区长阳镇，大兴区林校路街道、高米店街道、西红门（地区）镇调整为域外疫情防控重点地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592146304000",
+            "title": "国家卫健委：目前北京疫情十分严峻存不确定性 防控措施落实四扩大四加强和四早",
+            "summary": "北京市新冠肺炎聚集性疫情发生后，国家卫生健康委迅速行动，指导北京市做好疫情防控相关工作。向北京派出专家组指导防控工作，并对在京委属委管医院和全国面上进一步加强防控工作进行部署。确保各项防控措施一以贯之落实到位，坚决防止疫情扩散蔓延。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592139832000",
             "title": "世卫组织：全球新冠肺炎超过769万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日13时57分（北京时间6月14日19时57分），全球确诊新冠肺炎7690708例，死亡427630例。",
@@ -69,24 +87,6 @@
             "summary": "泰国自然资源和环境部从7月1日起开放国内127处国家森林公园，并强调开放后公园将采取严格的防疫措施，如，凡是入园游客都必须佩戴口罩；进出公园都必须在国家防疫网站“泰国必胜”扫描二维码签到；游览公园时彼此间必须保持社交距离；不允许在园内聚集等等，以防疫情的二次传播。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWBNnH6zFL2BHisg6offa200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592108880000",
-            "title": "北京市卫健委：发热门诊不得拒诊、停诊，要发挥发热门诊的探头和前哨作用",
-            "summary": "北京市卫健委：各医疗机构的发热门诊，不得拒诊；未经卫生健康行政部门批准，不得停诊，随时对就诊人员数量进行监测，发现就诊人员异常增加时要迅速向辖区卫生健康行政部门报告，并采取应急处置措施，充分发挥好发热门诊探头和前哨作用。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikTfvkYZM5tZ7eIwwPh9b200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592104234000",
-            "title": "陕西新增2例境外输入病例及3例无症状感染者",
-            "summary": "2020年6月13日8时至6月14日8时，陕西新增境外输入新冠肺炎确诊病例2例，新增境外输入无症状感染者3例。截至6月14日8时，陕西累计报告境外输入新冠肺炎确诊病例68例（治愈出院64例，无死亡病例），现有4例。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4515674812822539",
             "province": null,
             "provinceId": ""
         }
