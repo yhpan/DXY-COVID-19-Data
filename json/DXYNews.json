@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1592097603000",
+            "title": "辽宁新增2确诊为北京确诊密切接触者",
+            "summary": "6月13日0时至24时，辽宁省新增2例新冠肺炎确诊病例，均为6月12日沈阳市报告的无症状感染者转归确诊病例（系北京市6月12日确诊病例密切接触者），其中1例属普通型病例、1例属轻型病例。 ​​​​",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4515646996814787",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592096950000",
+            "title": "阿根廷首都一家养老院发生新冠肺炎聚集性感染",
+            "summary": "当地时间6月13日， 阿根廷首都布宜诺斯艾利斯市弗洛雷斯区的一家养老院因发生新冠肺炎聚集性感染被清空，该养老院自本周一（8日）发现第一位新冠肺炎感染者以来，已经有49位老人、9名工作人员确诊感染新冠肺炎，累计确诊病例58例。确诊患者已经被送往多家医院接受治疗。此前这里共居住着55位老人，并有16名工作人员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592095200000",
+            "title": "广东新增17例境外输入确诊病例",
+            "summary": "6月13日0—24时，广东省新增境外输入17例确诊病例和4例无症状感染者，均为广州报告，在入境口岸发现，入境后即按闭环管理程序进行管理。6月11日，来自孟加拉国、印度、埃及的3个航班在广州入境，海关部门采样后，全部人员按闭环管理程序转运至集中隔离点。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixAITisvDar87OH3Pfm3b200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592090569000",
             "title": "​巴西新冠肺炎确诊病例累计超85万例",
             "summary": "根据巴西卫生部当地时间13日公布的数据，截至当地时间18时，该国单日新增新冠肺炎确诊病例21704例，累计确诊病例850514例，新增死亡病例892例，累计死亡病例42720例，共有379245名患者康复。",
@@ -60,33 +87,6 @@
             "summary": "密云区新冠肺炎疫情防控指挥部今天（13日）下午对外发布，北京市12日新增6例确诊病例。目前，已对6名与外区确诊病例的密切接触者实施集中隔离观察，新冠病毒核酸检测均为阴性。同时，对辖区内批发市场、商超等公共场所，密云区疾控中心也进行了密集采样，核酸检测结果也为阴性。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artitel0BYJKGpp1h2da44xA200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592042870000",
-            "title": "四川经营冰鲜海鲜市场紧急启动高级别防控",
-            "summary": "6月13日下午，四川省农产品流通协会向四川全省农批市场、协会下属农批市场联合会发出紧急倡议，倡议有冰鲜海鲜经营业态的市场，须紧急启动高级别的防控措施，实施封闭式管理，严控人员与车辆流动，严格落实登记、测温、消毒、排查等防疫工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibX4JT5mm4ms6JEiw7cje200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592040493000",
-            "title": "英媒：新冠肺炎疫情前六个月 政府解散防大流行病委员会",
-            "summary": "当地时间13日，据英国当地媒体报道，在新冠肺炎疫情在英国暴发的前六个月，首相鲍里斯·约翰逊解散了一个由高级内阁成员组成的防大流行病委员会。这个名为“威胁、危险、恢复和紧急委员会”的机构原本由现任卫生大臣汉考克、内阁办公厅大臣戈夫等多名高级内阁官员组成。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiepYE8z3axiGPRIHMvh9e200613&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592034682000",
-            "title": "​俄罗斯新增新冠肺炎确诊病例8706例 累计超52万例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月13日10时45分，过去24小时内俄罗斯新增新冠肺炎确诊病例8706例，累计确诊520129例；新增死亡病例114例，累计死亡6829例；新增治愈病例5271例，累计治愈274641例。首都莫斯科市新增确诊病例1493例，累计204428例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqi3OE7YaHTJElbEwUS5Q200613&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
