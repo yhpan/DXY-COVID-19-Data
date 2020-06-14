@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592127768000",
+            "title": "印度德里计划改造酒店，增加2万张病床",
+            "summary": "印度德里首都辖区政府：将在未来一周内通过改造全市的酒店和宴会厅来增加2万张病床，以应对德里地区愈加严重的疫情危机。此外，所有拥有10~49张病床的养护所都将被征用为新冠肺炎诊治机构，这将又增加5000张病床。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592122382000",
             "title": "世卫组织：全球新冠肺炎确诊病例超过763万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日9时13分（北京时间6月14日15时13分），全球确诊新冠肺炎7633886例，死亡426317例。",
@@ -78,15 +87,6 @@
             "summary": "记者从朝阳区了解到，朝阳区市场监督管理局从6月13日开始对全区已经开业的41家农贸市场开展监督检查，重点对猪、牛、羊肉以及水产品的相关情况进行检查，全力保障群众食品安全。\n朝阳区市场监管局相关负责人介绍，在对农贸市场进行检查的同时，还将同步对辖区内的市场、超市、餐饮店等食品经营单位进行检查，针对重点产品将进行抽样检查，严守产品质量关，保障群众食品安全。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592097603000",
-            "title": "辽宁新增2确诊为北京确诊密切接触者",
-            "summary": "6月13日0时至24时，辽宁省新增2例新冠肺炎确诊病例，均为6月12日沈阳市报告的无症状感染者转归确诊病例（系北京市6月12日确诊病例密切接触者），其中1例属普通型病例、1例属轻型病例。 ​​​​",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4515646996814787",
             "province": null,
             "provinceId": ""
         }
