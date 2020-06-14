@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592130942000",
+            "title": "土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加",
+            "summary": "当地时间6月14日，土耳其举行国防大学招生考试，超过45万名考生参加考试。土耳其媒体称，所有的考场都进行了消毒，考场入口处，准备了消毒水、口罩、洗手液，供考生使用。监考官佩戴手套分发试卷，考生在进入考场，坐在自己座位上后，可以摘下口罩。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592127768000",
             "title": "印度德里计划改造酒店，增加2万张病床",
             "summary": "印度德里首都辖区政府：将在未来一周内通过改造全市的酒店和宴会厅来增加2万张病床，以应对德里地区愈加严重的疫情危机。此外，所有拥有10~49张病床的养护所都将被征用为新冠肺炎诊治机构，这将又增加5000张病床。",
@@ -78,15 +87,6 @@
             "summary": "2020年6月13日0—24时，湖北省新增新冠肺炎确诊病例0例，新增疑似病例0例，新增死亡病例0例，无境外输入病例。截至2020年6月13日24时，湖北省现有确诊病例0例，现有疑似病例0例。全省累计报告新冠肺炎确诊病例68135例，累计治愈出院63623例，累计病亡4512例。全省累计追踪密切接触者285008人，尚在接受医学观察157人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3NlJHVPogrRf0p4bWbl8200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592099763000",
-            "title": "北京：朝阳区全覆盖检查保食品安全",
-            "summary": "记者从朝阳区了解到，朝阳区市场监督管理局从6月13日开始对全区已经开业的41家农贸市场开展监督检查，重点对猪、牛、羊肉以及水产品的相关情况进行检查，全力保障群众食品安全。\n朝阳区市场监管局相关负责人介绍，在对农贸市场进行检查的同时，还将同步对辖区内的市场、超市、餐饮店等食品经营单位进行检查，针对重点产品将进行抽样检查，严守产品质量关，保障群众食品安全。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiq2CeLLpMCqGDPr6y8LPT200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
