@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592122382000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过763万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日9时13分（北京时间6月14日15时13分），全球确诊新冠肺炎7633886例，死亡426317例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592119038000",
             "title": "天津：及时排查疫区相关人员 确保生活必需品市场稳定",
             "summary": "天津召开疫情防控新闻发布会，通报截至13日16时，天津已排查出830名疫情地区暴露人员及其密切接触者并实施相关管控措施，对246份海鲜批发市场等外环境标本和329名从业人员呼吸道标本进行了核酸检测，目前尚未发现有关人员和环境样本核酸检测阳性情况。",
@@ -78,15 +87,6 @@
             "summary": "6月13日0时至24时，辽宁省新增2例新冠肺炎确诊病例，均为6月12日沈阳市报告的无症状感染者转归确诊病例（系北京市6月12日确诊病例密切接触者），其中1例属普通型病例、1例属轻型病例。 ​​​​",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4515646996814787",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592096950000",
-            "title": "阿根廷首都一家养老院发生新冠肺炎聚集性感染",
-            "summary": "当地时间6月13日， 阿根廷首都布宜诺斯艾利斯市弗洛雷斯区的一家养老院因发生新冠肺炎聚集性感染被清空，该养老院自本周一（8日）发现第一位新冠肺炎感染者以来，已经有49位老人、9名工作人员确诊感染新冠肺炎，累计确诊病例58例。确诊患者已经被送往多家医院接受治疗。此前这里共居住着55位老人，并有16名工作人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1mw2hwV1Nh69gRCWLvFL200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
