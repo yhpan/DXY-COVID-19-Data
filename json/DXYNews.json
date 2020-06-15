@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592207422000",
+            "title": "俄罗斯新增8246例新冠肺炎确诊病例 累计超53万例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月15日10时45分，过去24小时内，俄罗斯新增新冠肺炎确诊病例8246例，累计确诊537210例。新增死亡病例143例，累计死亡7091例，新增治愈病例4489例，累计治愈284539例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGeKczvobcqws3CjWo7N5200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592202039000",
             "title": "巴基斯坦新增5278例新冠肺炎确诊病例 累计144478例",
             "summary": "据当地媒体和巴基斯坦卫生部网站报道，截至2020年6月15日上午7:09，巴基斯坦境内新冠肺炎确诊病例总数增至144478例，新增确诊5278例，确诊比例为18.04%，较上日（23.10%）降低了5.06个百分点，治愈53721例（治愈率为37.2%），死亡2729例（死亡率为1.9%），累计检测897650人。（总台记者 崔如）",
@@ -78,15 +87,6 @@
             "summary": "近日，北京市海淀区玉泉东商品交易市场人员先后发现多例与新发地有关的新冠肺炎病例。在北京市疫情防控工作领导小组的统一指挥下，海淀区疫情防控工作领导小组立即展开病例流调溯源、人员排查等工作。为进一步做好玉泉东市场周边社区及中小学的排查工作，阻断疫情传播渠道，从6月15日零时起，启动对玉泉东市场周边10个社区封闭管理和人员居家隔离，进行核酸检测，市场附近小学及中学非毕业年级停课，居家线上教学。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592149589000",
-            "title": "疫情缓解 泰国计划推出“旅行泡泡”项目 入境旅客不必隔离14天",
-            "summary": "6月14日，泰国旅游和体育部长在新冠肺炎疫情管理中心会上表示对泰国的旅游潜力和防疫工作充满信心，并与泰国内政部、外交部和公共卫生部共同商讨如何推动“旅行泡泡”项目的开展，有针对性的对疫情管控较好的国家互相开放。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
