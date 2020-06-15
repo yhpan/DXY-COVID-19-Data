@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592234160000",
+            "title": "朝阳区所有社区采取二级防控措施，进入疫情防控战时状态",
+            "summary": "针对北京市新冠疫情防控出现新变化，朝阳区迅速响应，坚决贯彻落实北京市有关疫情防控工作部署，严格落实“全市所有社区（村）都采取三级应急响应、二级防控措施、一级工作状态”，全区所有社区防控迅速进入疫情防控战时状态，筑牢社区防线，坚决遏制疫情扩散蔓延。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXUmxzq0TUQVQrIJ5GA1y200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592230538000",
             "title": "四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例",
             "summary": "据四川卫健委官网，6月15日，四川雅安市石棉县报告确诊1例新冠肺炎省外输入性病例。新增的1例新冠肺炎确诊病例6月9日自北京乘海航HU7147航班到成都，然后乘私家车返回雅安市石棉县。",
@@ -78,15 +87,6 @@
             "summary": "据当地媒体和巴基斯坦卫生部网站报道，截至2020年6月15日上午7:09，巴基斯坦境内新冠肺炎确诊病例总数增至144478例，新增确诊5278例，确诊比例为18.04%，较上日（23.10%）降低了5.06个百分点，治愈53721例（治愈率为37.2%），死亡2729例（死亡率为1.9%），累计检测897650人。（总台记者 崔如）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592193840000",
-            "title": "​印度新增11502例新冠肺炎确诊病例 累计332424例",
-            "summary": "据印度卫生部消息，截至当地时间6月15日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至332424例。其中死亡9520例，治愈出院169798例。在过去24小时内，印度共新增11502例确诊病例，死亡病例共新增325例。在各行政区中，疫情最严重的马哈拉施特拉邦共确诊10802例；泰米尔纳德邦以44661例次之，首都新德里和古吉拉特邦以41182例和23544例分别排在第三和第四位。此外",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
