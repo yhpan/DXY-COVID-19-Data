@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592176588000",
+            "title": "北京海淀启动对玉泉东市场周边社区封闭管理 附近学校停课",
+            "summary": "近日，北京市海淀区玉泉东商品交易市场人员先后发现多例与新发地有关的新冠肺炎病例。在北京市疫情防控工作领导小组的统一指挥下，海淀区疫情防控工作领导小组立即展开病例流调溯源、人员排查等工作。为进一步做好玉泉东市场周边社区及中小学的排查工作，阻断疫情传播渠道，从6月15日零时起，启动对玉泉东市场周边10个社区封闭管理和人员居家隔离，进行核酸检测，市场附近小学及中学非毕业年级停课，居家线上教学。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM6h8vIPIq45wxM9RnkkL200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592149589000",
             "title": "疫情缓解 泰国计划推出“旅行泡泡”项目 入境旅客不必隔离14天",
             "summary": "6月14日，泰国旅游和体育部长在新冠肺炎疫情管理中心会上表示对泰国的旅游潜力和防疫工作充满信心，并与泰国内政部、外交部和公共卫生部共同商讨如何推动“旅行泡泡”项目的开展，有针对性的对疫情管控较好的国家互相开放。",
@@ -78,15 +87,6 @@
             "summary": "天津召开疫情防控新闻发布会，通报截至13日16时，天津已排查出830名疫情地区暴露人员及其密切接触者并实施相关管控措施，对246份海鲜批发市场等外环境标本和329名从业人员呼吸道标本进行了核酸检测，目前尚未发现有关人员和环境样本核酸检测阳性情况。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592113800000",
-            "title": "北京36例新增病例均与新发地有关！有接触史人员发热可打120坐专车就诊",
-            "summary": "市民朋友如近期曾去过新发地市场，应如实向社区或单位报告，主动前往相关机构或在社区安排的地点进行核酸筛查，不要外出，做好个人健康监测，如已出现症状应及时就近诊疗，前往医疗机构时严格按要求佩戴口罩，避免乘坐公共交通工具。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDnyY8azOpDgVa4RpvVCq200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
