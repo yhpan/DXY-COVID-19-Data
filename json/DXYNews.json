@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592202039000",
+            "title": "巴基斯坦新增5278例新冠肺炎确诊病例 累计144478例",
+            "summary": "据当地媒体和巴基斯坦卫生部网站报道，截至2020年6月15日上午7:09，巴基斯坦境内新冠肺炎确诊病例总数增至144478例，新增确诊5278例，确诊比例为18.04%，较上日（23.10%）降低了5.06个百分点，治愈53721例（治愈率为37.2%），死亡2729例（死亡率为1.9%），累计检测897650人。（总台记者 崔如）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuL74gdmjISNVj2iBpniz200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592193840000",
             "title": "​印度新增11502例新冠肺炎确诊病例 累计332424例",
             "summary": "据印度卫生部消息，截至当地时间6月15日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至332424例。其中死亡9520例，治愈出院169798例。在过去24小时内，印度共新增11502例确诊病例，死亡病例共新增325例。在各行政区中，疫情最严重的马哈拉施特拉邦共确诊10802例；泰米尔纳德邦以44661例次之，首都新德里和古吉拉特邦以41182例和23544例分别排在第三和第四位。此外",
@@ -78,15 +87,6 @@
             "summary": "6月14日，泰国旅游和体育部长在新冠肺炎疫情管理中心会上表示对泰国的旅游潜力和防疫工作充满信心，并与泰国内政部、外交部和公共卫生部共同商讨如何推动“旅行泡泡”项目的开展，有针对性的对疫情管控较好的国家互相开放。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticiRI5wkjZqhyKd6ZIsZ1200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592147775000",
-            "title": "辽宁发布关于域外疫情防控重点地区的通告",
-            "summary": "6月14日，辽宁省统筹推进新冠肺炎疫情防控和经济社会发展工作总指挥部决定，自2020年6月14日15时起将北京市丰台区，西城区月坛街道、金融街街道，房山区长阳镇，大兴区林校路街道、高米店街道、西红门（地区）镇调整为域外疫情防控重点地区。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
