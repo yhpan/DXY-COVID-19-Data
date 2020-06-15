@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592193840000",
+            "title": "​印度新增11502例新冠肺炎确诊病例 累计332424例",
+            "summary": "据印度卫生部消息，截至当地时间6月15日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至332424例。其中死亡9520例，治愈出院169798例。在过去24小时内，印度共新增11502例确诊病例，死亡病例共新增325例。在各行政区中，疫情最严重的马哈拉施特拉邦共确诊10802例；泰米尔纳德邦以44661例次之，首都新德里和古吉拉特邦以41182例和23544例分别排在第三和第四位。此外",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592192820000",
             "title": "香港迪士尼乐园将于18日重新开放",
             "summary": "6月15日，香港迪士尼乐园宣布，将于18日（本周四）重新开园。运营初期，乐园每日将会设置入场人次限制及实施人数管制。游客需要通过迪士尼乐园官网预约入园日期，并作出健康声明，遵守园内多项防疫措施。持有年票的会员即日起，可率先预约入园日期，非年票持有者可于16日中午起预约。",
@@ -78,15 +87,6 @@
             "summary": "6月14日，辽宁省统筹推进新冠肺炎疫情防控和经济社会发展工作总指挥部决定，自2020年6月14日15时起将北京市丰台区，西城区月坛街道、金融街街道，房山区长阳镇，大兴区林校路街道、高米店街道、西红门（地区）镇调整为域外疫情防控重点地区。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticLJawxyt8JKTVFSuWOU5200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592146304000",
-            "title": "国家卫健委：目前北京疫情十分严峻存不确定性 防控措施落实四扩大四加强和四早",
-            "summary": "北京市新冠肺炎聚集性疫情发生后，国家卫生健康委迅速行动，指导北京市做好疫情防控相关工作。向北京派出专家组指导防控工作，并对在京委属委管医院和全国面上进一步加强防控工作进行部署。确保各项防控措施一以贯之落实到位，坚决防止疫情扩散蔓延。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
