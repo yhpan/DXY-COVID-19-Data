@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592183786000",
+            "title": "四川昨日新增境外输入确诊病例4例",
+            "summary": "6月14日0—24时，四川新增新冠肺炎确诊病例4例，均为境外输入，其中3例于6月12日乘飞机从埃及开罗出发，6月13日抵达成都后即接受隔离医学观察和动态诊疗，6月14日确诊；另1例为6月7日的无症状感染者转确诊。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMdYHdWzTUCIB8tVerqoK200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592181180000",
+            "title": "北京14日新增36例新冠肺炎确诊病例，新增无症状感染者6例",
+            "summary": "6月14日0时至24时，北京新增报告本地确诊病例36例、无症状感染者6例，无新增疑似病例。截至6月14日24时，累计报告本地确诊病例499例，累计出院411例，在院79例，累计死亡9例。尚在观察的无症状感染者7例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirYPF3DwnSEpgdMoQZ9nw200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592179321000",
             "title": "截至6月14日24时新型冠状病毒肺炎疫情最新情况",
             "summary": "6月14日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例49例，其中境外输入病例10例（四川4例，重庆2例，陕西2例，上海1例，福建1例），本土病例39例（北京36例，河北3例）；无新增死亡病例；新增疑似病例1例，为本土病例（四川1例）。",
@@ -69,24 +87,6 @@
             "summary": "当地时间6月14日，土耳其举行国防大学招生考试，超过45万名考生参加考试。土耳其媒体称，所有的考场都进行了消毒，考场入口处，准备了消毒水、口罩、洗手液，供考生使用。监考官佩戴手套分发试卷，考生在进入考场，坐在自己座位上后，可以摘下口罩。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592127768000",
-            "title": "印度德里计划改造酒店，增加2万张病床",
-            "summary": "印度德里首都辖区政府：将在未来一周内通过改造全市的酒店和宴会厅来增加2万张病床，以应对德里地区愈加严重的疫情危机。此外，所有拥有10~49张病床的养护所都将被征用为新冠肺炎诊治机构，这将又增加5000张病床。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH7FBJN4U9OkbAtZ3Dot6200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592122382000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过763万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日9时13分（北京时间6月14日15时13分），全球确诊新冠肺炎7633886例，死亡426317例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
