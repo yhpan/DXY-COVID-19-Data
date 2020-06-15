@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592179321000",
+            "title": "截至6月14日24时新型冠状病毒肺炎疫情最新情况",
+            "summary": "6月14日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例49例，其中境外输入病例10例（四川4例，重庆2例，陕西2例，上海1例，福建1例），本土病例39例（北京36例，河北3例）；无新增死亡病例；新增疑似病例1例，为本土病例（四川1例）。",
+            "infoSource": "中国卫健委",
+            "sourceUrl": "http://www.nhc.gov.cn/xcs/yqtb/202006/cbbf99e3237645bc87c0dd3b8e99f01b.shtml",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592176588000",
             "title": "北京海淀启动对玉泉东市场周边社区封闭管理 附近学校停课",
             "summary": "近日，北京市海淀区玉泉东商品交易市场人员先后发现多例与新发地有关的新冠肺炎病例。在北京市疫情防控工作领导小组的统一指挥下，海淀区疫情防控工作领导小组立即展开病例流调溯源、人员排查等工作。为进一步做好玉泉东市场周边社区及中小学的排查工作，阻断疫情传播渠道，从6月15日零时起，启动对玉泉东市场周边10个社区封闭管理和人员居家隔离，进行核酸检测，市场附近小学及中学非毕业年级停课，居家线上教学。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日9时13分（北京时间6月14日15时13分），全球确诊新冠肺炎7633886例，死亡426317例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuLPT0uStqwmI8msMbSgT200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592119038000",
-            "title": "天津：及时排查疫区相关人员 确保生活必需品市场稳定",
-            "summary": "天津召开疫情防控新闻发布会，通报截至13日16时，天津已排查出830名疫情地区暴露人员及其密切接触者并实施相关管控措施，对246份海鲜批发市场等外环境标本和329名从业人员呼吸道标本进行了核酸检测，目前尚未发现有关人员和环境样本核酸检测阳性情况。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK5Zk7EU3BkvR2wVgjAvJ200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
