@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592188740000",
+            "title": "北京海淀玉泉东周边10个社区封闭管理 相关人员全部核酸检测",
+            "summary": "6月15日，在北京市新型冠状病毒肺炎疫情防控工作第117场新闻发布会上，北京市海淀区区委常委、常务副区长李俊杰介绍说，近日，海淀区玉泉东商品交易市场人员先后发现多例与新发地关联的新冠肺炎病例。海淀区对市场周边10个社区实施封闭管理措施，落实24小时专人值守。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592188020000",
+            "title": "北京卫健委：14日共检测76499人，其中59份阳性",
+            "summary": "6月15日上午，北京市召开新型冠状病毒肺炎疫情防控工作第117场新闻发布会，有关单位介绍情况并回答记者提问。发布会上，北京市卫健委新闻发言人高小俊介绍了北京全市和新发地市场核酸检测情况。6月14日全市共检测76499人，阳性59份，其中地坛医院已在院病例27份，新增确诊病例21份，有待诊断的阳性检测11份。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592183786000",
             "title": "四川昨日新增境外输入确诊病例4例",
             "summary": "6月14日0—24时，四川新增新冠肺炎确诊病例4例，均为境外输入，其中3例于6月12日乘飞机从埃及开罗出发，6月13日抵达成都后即接受隔离医学观察和动态诊疗，6月14日确诊；另1例为6月7日的无症状感染者转确诊。",
@@ -69,24 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日13时57分（北京时间6月14日19时57分），全球确诊新冠肺炎7690708例，死亡427630例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592136081000",
-            "title": "北京机场巴士公司声明：确诊病例未与公司人员及任何旅客有过接触",
-            "summary": "据机场巴士官方平台微信公众号6月14日消息，6月13日，该公司1名职工被确诊为新冠肺炎，正在接受隔离治疗。因疫情防控要求，自1月26日北京市省际道路客运班线停运以来，该员工一直居家休息，其间未与该公司其他人员及任何旅客有过接触。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizdqVXd4cLZ7Xb5uzgb7Q200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592130942000",
-            "title": "土耳其疫情暴发以来首次举行大规模全国性考试，45万考生参加",
-            "summary": "当地时间6月14日，土耳其举行国防大学招生考试，超过45万名考生参加考试。土耳其媒体称，所有的考场都进行了消毒，考场入口处，准备了消毒水、口罩、洗手液，供考生使用。监考官佩戴手套分发试卷，考生在进入考场，坐在自己座位上后，可以摘下口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVI6AjbfGBAbMwvm7pC8w200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
