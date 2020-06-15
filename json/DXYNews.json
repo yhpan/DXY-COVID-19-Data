@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1592230538000",
+            "title": "四川确诊1例为北京确诊病例密接，此前被诊断为疑似病例",
+            "summary": "据四川卫健委官网，6月15日，四川雅安市石棉县报告确诊1例新冠肺炎省外输入性病例。新增的1例新冠肺炎确诊病例6月9日自北京乘海航HU7147航班到成都，然后乘私家车返回雅安市石棉县。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4516204565894748",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592227944000",
+            "title": "肯尼亚总统府4人感染新冠病毒",
+            "summary": "肯尼亚总统府发言人蒂娜于当地时间6月15日发布消息称，总统府内有4名官员在6月11日的新冠病毒排查检测中确诊，现已就医诊治中。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij2dxFEmAMlR82TVZvd1W200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592227121000",
+            "title": "印度最大贫民窟新增新冠肺炎病例25例，累计2068例",
+            "summary": "据印度媒体报道，当地时间6月15日，位于孟买的塔拉维贫民窟新增新冠肺炎确诊病例25例，累计确诊病例升至2068例，当天（15日）无新增死亡病例，累计死亡病例77例。塔拉维是印度最大的贫民窟，也是亚洲最大的贫民窟之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7QsFBtiUI2NdpkEjCn5A200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592219031000",
             "title": "世卫组织：全球新冠肺炎确诊病例超过780万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月15日11时52分（北京时间6月15日17时52分），全球新冠肺炎确诊病例升至7805148例，死亡431192例。",
@@ -60,33 +87,6 @@
             "summary": "据印度卫生部消息，截至当地时间6月15日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至332424例。其中死亡9520例，治愈出院169798例。在过去24小时内，印度共新增11502例确诊病例，死亡病例共新增325例。在各行政区中，疫情最严重的马哈拉施特拉邦共确诊10802例；泰米尔纳德邦以44661例次之，首都新德里和古吉拉特邦以41182例和23544例分别排在第三和第四位。此外",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinAxF5XqZ6s0qrN2Ez3zn200615&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592192820000",
-            "title": "香港迪士尼乐园将于18日重新开放",
-            "summary": "6月15日，香港迪士尼乐园宣布，将于18日（本周四）重新开园。运营初期，乐园每日将会设置入场人次限制及实施人数管制。游客需要通过迪士尼乐园官网预约入园日期，并作出健康声明，遵守园内多项防疫措施。持有年票的会员即日起，可率先预约入园日期，非年票持有者可于16日中午起预约。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592188740000",
-            "title": "北京海淀玉泉东周边10个社区封闭管理 相关人员全部核酸检测",
-            "summary": "6月15日，在北京市新型冠状病毒肺炎疫情防控工作第117场新闻发布会上，北京市海淀区区委常委、常务副区长李俊杰介绍说，近日，海淀区玉泉东商品交易市场人员先后发现多例与新发地关联的新冠肺炎病例。海淀区对市场周边10个社区实施封闭管理措施，落实24小时专人值守。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK0tMMdnE1NwVSFu1FaLK200615&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592188020000",
-            "title": "北京卫健委：14日共检测76499人，其中59份阳性",
-            "summary": "6月15日上午，北京市召开新型冠状病毒肺炎疫情防控工作第117场新闻发布会，有关单位介绍情况并回答记者提问。发布会上，北京市卫健委新闻发言人高小俊介绍了北京全市和新发地市场核酸检测情况。6月14日全市共检测76499人，阳性59份，其中地坛医院已在院病例27份，新增确诊病例21份，有待诊断的阳性检测11份。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5RcTQanfeOgpd7seUAjw200615&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
