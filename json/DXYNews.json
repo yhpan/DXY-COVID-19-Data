@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592192820000",
+            "title": "香港迪士尼乐园将于18日重新开放",
+            "summary": "6月15日，香港迪士尼乐园宣布，将于18日（本周四）重新开园。运营初期，乐园每日将会设置入场人次限制及实施人数管制。游客需要通过迪士尼乐园官网预约入园日期，并作出健康声明，遵守园内多项防疫措施。持有年票的会员即日起，可率先预约入园日期，非年票持有者可于16日中午起预约。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYi1oi7rLs9SzS8Olr4Jn200615&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592188740000",
             "title": "北京海淀玉泉东周边10个社区封闭管理 相关人员全部核酸检测",
             "summary": "6月15日，在北京市新型冠状病毒肺炎疫情防控工作第117场新闻发布会上，北京市海淀区区委常委、常务副区长李俊杰介绍说，近日，海淀区玉泉东商品交易市场人员先后发现多例与新发地关联的新冠肺炎病例。海淀区对市场周边10个社区实施封闭管理措施，落实24小时专人值守。",
@@ -78,15 +87,6 @@
             "summary": "北京市新冠肺炎聚集性疫情发生后，国家卫生健康委迅速行动，指导北京市做好疫情防控相关工作。向北京派出专家组指导防控工作，并对在京委属委管医院和全国面上进一步加强防控工作进行部署。确保各项防控措施一以贯之落实到位，坚决防止疫情扩散蔓延。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiieP2VMEGVSVxHeZLoogs200614&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592139832000",
-            "title": "世卫组织：全球新冠肺炎超过769万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月14日13时57分（北京时间6月14日19时57分），全球确诊新冠肺炎7690708例，死亡427630例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiuxt7zR1meLPYac6r5bya200614&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
