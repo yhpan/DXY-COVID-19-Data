@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592276009000",
+            "title": "土耳其伊朗8月1日恢复航班往来",
+            "summary": "土耳其外长恰武什奥卢当地时间6月15日在伊斯坦布尔与正在土耳其访问的伊朗外长扎里夫举行会谈，就两国贸易合作、叙利亚问题等交换意见。在会谈后举行的记者会上，恰武什奥卢对于土俄外交军事部长级对话推迟一事也作出回应。这是自新冠肺炎疫情暴发以后，两国外长首次举行面对面对话，因为在疫情和美国制裁双重影响下，伊朗急需与邻国展开贸易等多领域合作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiELtiTLg8t84lKhymoKYy200616&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592273056000",
+            "title": "武汉市无症状感染者及其密切接触者“清零”",
+            "summary": "据武汉市卫生健康委员会消息，6月15日0时至24时，武汉市无新增无症状感染者，无尚在医学观察的密切接触者。现有最后3例无症状感染者连续两次核酸检测阴性，经专家组认定，正式解除隔离医学观察。至此，武汉市无症状感染者及其密切接触者全部清零。5月14日至6月1日，武汉市开展集中核酸检测排查，共发现无症状感染者300名，追踪密切接触者1174名。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiooLUuWbdvMXZ0hZCqFJl200616&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592269204000",
             "title": "世卫组织不认为北京疫情失去控制",
             "summary": "针对近日北京出现的新冠肺炎聚集性疫情，世卫组织周一表示中国政府正在积极调查与控制。世卫组织紧急项目负责人瑞安表示，会在未来几天为中国办事处团队配备更多专业力量。紧急项目技术负责人范凯尔克霍弗也表示， 无论是哪里的聚集性病例，都至关重要，每个病例都需要跟进和正确处理。",
@@ -69,24 +87,6 @@
             "summary": "当地时间15日，针对北京出现新冠肺炎聚集性疫情，世卫组织卫生紧急项目技术主管玛丽亚·范·科霍夫表示，北京已启动防控系统，此前新加坡、日本、德国等许多国家也出现过类似情况，每个人都需要做好准备，迅速发现并照顾病例，同时追踪接触者。已成功遏制病毒传播或减少传播至足够低水平的国家，也需要随时准备好，迅速发现疫情复发并消灭病毒。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiouDUqcXYl6N24wkgQbVs200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592243661000",
-            "title": "疫情观察丨非洲地区确诊病例超24万 多国调整防疫措施加大检测力度",
-            "summary": "截至非洲东部时间6月15日下午6时，非洲疾控中心数据显示：非洲地区54个国家共报告了新冠肺炎确诊病例242105例，死亡6464例，109977人康复。目前非洲报告确诊病例数较多的国家有南非、埃及、尼日利亚、加纳和阿尔及利亚。据各国14日发布的最新数据，南非确诊病例累计已破7万例，埃及超4万例，尼日利亚、加纳和阿尔及利亚均超1万例。多国根据疫情实际情况调整防疫措施 加大检测力度。\n",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWPGnXctDcKbeVwvtGgNL200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592240178000",
-            "title": "世卫组织总干事：过去两周几乎每天新增超过10万例新冠肺炎病例",
-            "summary": "当地时间6月15日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，新冠肺炎病例达到首个10万例花了两个多月时间，但在过去两周，几乎每天新增病例都超过10万例。最近上报的病例中，近75%来自十个国家，大部分位于美洲和南亚地区。此外，非洲、东欧、中亚和中东地区病例也有所增加。谭德塞强调，即使是有能力遏制病毒传播的国家，也必须对可能出现的疫情复发保持警惕。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEp2oXqAlLgCPMpYWjJbX200616&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
