@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592303060000",
+            "title": "美专家：美国第二波疫情已经开始",
+            "summary": "美国范德比尔特大学预防医学和流行病学教授威廉·沙夫纳日前在接受美国媒体采访时表示，他认为美国第二波新冠肺炎疫情已经开始，当地很多民众在各地重新开放后无视防疫规定和指导意见，势必将导致病毒进一步传播。沙夫纳呼吁民众继续保持谨慎，佩戴口罩，保持社交距离，否则将会出现更多的病例，医疗系统也会面临压力。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592300533000",
+            "title": "东京奥组委执委：应考虑奥运会再次推迟的可能性",
+            "summary": "东京奥组委执委会委员高桥治之日前在接受采访时表示，如果奥运会在明年夏天难以举行，应考虑向国际奥委会要求再一次延期。他认为“必须全力避免奥运取消”，因为取消将对日本和世界经济带来巨大打击。国际奥委会主席巴赫、东京奥组委主席森喜朗都曾表示，如果奥运会无法在明年如期开幕，只能选择取消。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592288943000",
             "title": "北京高温之下他们全副武装，真的辛苦了",
             "summary": "近日，北京疫情防控形势严峻，多地进行核酸检测排查。连日高温，身着密闭防护服的医务人员和社区工作者更加辛苦。有网友拍到一名护士体力不支的休息场景，令人心疼。感谢他们，更要照顾好他们，辛苦了，致敬！",
@@ -69,24 +87,6 @@
             "summary": "总台央视记者从北京市交通委获悉，为做好新冠肺炎疫情防控工作，阻断疫情通过出租车（含巡游车、网约车）、顺风车传播，从本月15日起，北京市出租车（含巡游车、网约车）、顺风车暂停出京运营业务。对违反规定的，交通运输管理部门、交通执法部门将依法从快严肃处理。恢复出京运营业务时间另行通知。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEWKlq3oxW23chEBstULH200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592267817000",
-            "title": "截至6月15日24时新型冠状病毒肺炎疫情最新情况",
-            "summary": "6月15日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例40例，其中境外输入病例8例（上海3例，广东3例，内蒙古1例，辽宁1例），本土病例32例（北京27例，河北4例，四川1例）；无新增死亡病例；新增疑似病例3例，其中境外输入病例1例（在上海），本土病例2例（均在北京）。当日新增治愈出院病例7例，解除医学观察的密切接触者225人，重症病例增加3例。\n\t\n\n\n\n",
-            "infoSource": "河北卫健委",
-            "sourceUrl": "http://wsjkw.hebei.gov.cn/content/content_3714/409512.jhtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592254347000",
-            "title": "也门新增116例新冠肺炎确诊病例 疫情恶化加速 病死率高达四分之一",
-            "summary": "当地时间6月15日晚间，也门政府“最高新冠病毒疫情防控委员会”公布也门疫情最新情况。也门政府军控制区当天共新增确诊病例116例，其中36例在确诊时就已经死亡，当天另有8例此前确诊病例死亡和26例治愈病例，当天是也门发现首例确诊病例以来，单日确诊数量首次过百。\n截止目前，也门全国总确诊数上升至848例，累计死亡病例为209例，累计治愈82例.",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz5rQErHXIvnPI0muS5tH200616&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
