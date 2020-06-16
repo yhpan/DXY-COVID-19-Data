@@ -10,6 +10,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1592318413000",
+            "title": "北京要时刻保持战时状态",
+            "summary": "北京疫情防控工作发布会通报：此起聚集性疫情已波及 9 个区 28 个街道，包括在三个省市引发了相关病例，本起聚集性疫情初步判断由人际传播或物品环境污染引发的感染所至，且密切接触者中出现了明确的续发感染，这些情况再次给我们敲响了警钟。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "https://m.weibo.cn/2656274875/4516573139870619",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592317980000",
             "title": "北京市应急响应级别由三级上调至二级",
             "summary": "6 月 16 日晚，北京市召开疫情防控新闻发布会，就北京防控疫情等相关情况进行通报，并回答记者提问。经北京市新冠肺炎疫情防控领导小组研究，将北京重大突发公共卫生事件三级应急响应上调为二级。",
@@ -78,15 +87,6 @@
             "summary": "美国范德比尔特大学预防医学和流行病学教授威廉·沙夫纳日前在接受美国媒体采访时表示，他认为美国第二波新冠肺炎疫情已经开始，当地很多民众在各地重新开放后无视防疫规定和指导意见，势必将导致病毒进一步传播。沙夫纳呼吁民众继续保持谨慎，佩戴口罩，保持社交距离，否则将会出现更多的病例，医疗系统也会面临压力。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKSfLBv4ZskeidOONFlc3200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592300533000",
-            "title": "东京奥组委执委：应考虑奥运会再次推迟的可能性",
-            "summary": "东京奥组委执委会委员高桥治之日前在接受采访时表示，如果奥运会在明年夏天难以举行，应考虑向国际奥委会要求再一次延期。他认为“必须全力避免奥运取消”，因为取消将对日本和世界经济带来巨大打击。国际奥委会主席巴赫、东京奥组委主席森喜朗都曾表示，如果奥运会无法在明年如期开幕，只能选择取消。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinSwx0BXQSoNz1Xkrgc7m200616&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
