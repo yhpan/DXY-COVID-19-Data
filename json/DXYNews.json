@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592381880000",
+            "title": "北京：已对35.6万重点人员进行核酸检测",
+            "summary": "在17日下午北京市召开的新冠肺炎疫情防控工作第123场新闻发布会上，北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、北京市委组织部副部长张强介绍了北京市核酸检测有关情况。6月13日起，北京已经迅速对新发地等出现疫情的市场人员、周边小区居民、大数据排查涉疫市场人员，社区敲门行动中主动报告、有关接触史的人员以及全市各农贸市场工作人员约35.6万人进行了核酸检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592379911000",
             "title": "俄罗斯新增新冠肺炎确诊病例7843例 累计确诊病例超55万例",
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月17日10时35分，过去24小时内，俄罗斯新增新冠肺炎确诊病例7843例，累计确诊553301例。新增死亡病例194例，累计死亡7478例，新增治愈病例10036例，累计治愈304342例。首都莫斯科市新增确诊病例1065例，累计209745例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间16日，世卫组织表示，英国初步临床试验结果显示，地塞米松可挽救新冠肺炎重症患者生命，对于使用呼吸机的患者，可将其死亡率降低约三分之一，对于仅吸氧的患者，可将其死亡率降低约五分之一。研究指出，地塞米松的改善效果仅在重症患者中可见，未在轻症患者中观察到。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592343874000",
-            "title": "受疫情影响 埃及失业人数上升 预计年底或达120万人",
-            "summary": "据《埃及公报》网站日前消息报道，埃及计划部下属的国家计划署发布报告称，自新冠肺炎疫情开始以来，受疫情影响，埃及已有82.4万人失业。预计疫情持续，至2020年底埃及失业人数可能会达到120万人。该报告预计称，2020至2021财年，埃及位于贫困线以下的人数将上升5.5%，达到560万人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNhd9iUQys19APW1CtYK8200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
