@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592387559000",
+            "title": "伊朗新增2612例新冠肺炎确诊病例 累计确诊195051例",
+            "summary": "根据伊朗卫生部当地时间6月17日最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2612例，新增死亡120例。截至当地时间17日中午，伊朗累计确诊新冠肺炎病例195051例，其中154812例康复，9185例死亡，2789例重症。截至17日，伊朗累计进行了1319920次检测。(总台记者 倪紫慧 )",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592381880000",
             "title": "北京：已对35.6万重点人员进行核酸检测",
             "summary": "在17日下午北京市召开的新冠肺炎疫情防控工作第123场新闻发布会上，北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、北京市委组织部副部长张强介绍了北京市核酸检测有关情况。6月13日起，北京已经迅速对新发地等出现疫情的市场人员、周边小区居民、大数据排查涉疫市场人员，社区敲门行动中主动报告、有关接触史的人员以及全市各农贸市场工作人员约35.6万人进行了核酸检测。",
@@ -78,15 +87,6 @@
             "summary": "截至非洲东部时间6月16日晚22时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例252544例，死亡6779例，114897人康复。目前非洲报告确诊病例数最多的国家为南非、埃及、尼日利亚、加纳，阿尔及利亚和喀麦隆。其中南非确诊病例数超过7万例，埃及超过4万例，尼日利亚、加纳，阿尔及利亚和喀麦隆均超过1万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592348395000",
-            "title": "世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命",
-            "summary": "当地时间16日，世卫组织表示，英国初步临床试验结果显示，地塞米松可挽救新冠肺炎重症患者生命，对于使用呼吸机的患者，可将其死亡率降低约三分之一，对于仅吸氧的患者，可将其死亡率降低约五分之一。研究指出，地塞米松的改善效果仅在重症患者中可见，未在轻症患者中观察到。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOyXupVqrjjnFDSM5MjXW200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
