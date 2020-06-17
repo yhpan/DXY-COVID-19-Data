@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592354581000",
+            "title": "四川新增1例境外输入，无新增本土确诊",
+            "summary": "6月16日0-24时，四川新增新型冠状病毒肺炎确诊病例1例（境外输入，为6月14日的无症状感染者转确诊），新增治愈出院病例1例，无新增疑似病例，无新增死亡病例。截至6月17日0时，全省累计报告新型冠状病毒肺炎确诊病例589例(其中境外输入48例），累计治愈出院565例，死亡3例，目前在院隔离治疗21例，353人尚在接受医学观察。全省183个县（市、区）全部为低风险区。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4516724840260928",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592352649000",
+            "title": "非洲新冠肺炎确诊病例超25万 非洲多国调整抗疫措施",
+            "summary": "截至非洲东部时间6月16日晚22时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例252544例，死亡6779例，114897人康复。目前非洲报告确诊病例数最多的国家为南非、埃及、尼日利亚、加纳，阿尔及利亚和喀麦隆。其中南非确诊病例数超过7万例，埃及超过4万例，尼日利亚、加纳，阿尔及利亚和喀麦隆均超过1万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticYVBOFMfw0EUYuo9NTlR200617&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592348395000",
             "title": "世卫组织：研究显示地塞米松可挽救新冠肺炎重症患者生命",
             "summary": "当地时间16日，世卫组织表示，英国初步临床试验结果显示，地塞米松可挽救新冠肺炎重症患者生命，对于使用呼吸机的患者，可将其死亡率降低约三分之一，对于仅吸氧的患者，可将其死亡率降低约五分之一。研究指出，地塞米松的改善效果仅在重症患者中可见，未在轻症患者中观察到。",
@@ -69,24 +87,6 @@
             "summary": "当地时间 6 月 16 日，法国医护人员走上街头，要求法国政府增加工资待遇、停止关闭医院业务和减少床位。这次的游行在全法多个城市进行。在本次新冠疫情期间，法国医护人员就医院预算多次削减，以及减少医护人员等问题多次向法国政府申诉，也获得了法国政府的相关承诺。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGcQndWK0Svc95NM4U21m200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592312916000",
-            "title": "北京又有 5 个地区升级为中风险！",
-            "summary": "6 月 16 日，根据国务院客户端小程序显示，东城区永定门外街道、丰台区丰台街道、南苑（地区）乡、大兴区魏善庄镇、门头沟区永定（地区）镇，升级为疫情中风险地区。目前，北京市中风险地区已增至 27 个。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiG6lEebombX9GzoYsveIh200616&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592308786000",
-            "title": "北京市怀柔区全面完成农贸市场和餐饮单位消杀工作，6 家农贸市场采样均为阴性",
-            "summary": "6 月 16 日 0 时至 6 时，北京市怀柔区连夜完成全区 6 家农贸市场的消杀工作。至此，该区农贸市场和 2790 家餐饮服务单位（含单位食堂）的消杀工作全面完成。对 6 家农贸市场 1725 名销售管理人员及摊位经营者的咽拭子采样同步完成，采集外环境标本 183 件，咽拭子和外环境标本新冠病毒核酸检测结果均为阴性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiihucbYEf7y3pC526urSX200616&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
