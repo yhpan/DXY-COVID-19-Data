@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592434663000",
+            "title": "世卫组织：因未能降低新冠肺炎死亡率 将停止在团结试验中使用羟氯喹",
+            "summary": "当地时间17日，世卫组织宣布，由于研究显示羟氯喹未能降低新冠肺炎住院患者死亡率，将在团结试验中停止使用羟氯喹。（总台记者 朱赫）\n（编辑 田宏炜）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592432569000",
+            "title": "疫情下的意大利杯决赛 那不勒斯点球大战取胜",
+            "summary": "当地时间6月17日21时，意大利杯决赛在罗马奥林匹克球场开哨，对阵双方为那不勒斯和尤文图斯。同上周复赛的意大利杯半决赛第二回合相同，本场比赛依旧在没有观众的情况下进行。\n两队在常规时间战成0:0平。受新冠肺炎疫情影响，复赛后的意大利杯取消加时赛，对阵双方直接进入点球大战。尤文图斯前两个点球射失，最终以2:4告负。那不勒斯历史上第6次捧起了意大利杯。（总台记者 邓宗宇）\n（编辑 田宏炜）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592407680000",
             "title": "北京地坛医院本部18日起停止所有门诊、急诊",
             "summary": "根据当前疫情防控需要，为了集中力量救治新冠肺炎患者，北京地坛医院本部（朝阳区京顺东街8号）从6月18日零时起停止所有门诊、急诊，住院部停止接收普通住院患者，患者班车停止运营。",
@@ -69,24 +87,6 @@
             "summary": "6月17日，中国疾控中心移动P3实验室检测队14名队员集结完毕，前往丰台区疾控中心，协助北京市开展新冠肺炎核酸检测工作。在现有配置情况下，日检测能力可达到1000份，将在北京市此次疫情核酸检测工作中发挥提升检测数量和参比实验室作用。#北京抗疫#（王君平） ​​​​",
             "infoSource": "人民日报",
             "sourceUrl": "https://m.weibo.cn/2803301701/4516827646795755",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592364333000",
-            "title": "​天津：严格落实管控措施 市民应坚持随身携带口罩",
-            "summary": "6月17日上午，天津召开疫情防控第145场新闻发布会。会上通报，受新发疫情影响，疫情防控形势十分严峻。京津两地距离较近，人流物流往来频繁，天津出现与疫情发生地关联病例和无症状感染者存在高风险。因此，天津将从交通口岸、社区网格、集体单位、医疗机构、重点人群、重点场所等六个方面从严管理。包括加强高中风险地区来津人员排查，在机场、火车站等继续做好来津人员体温检测和天津“健康码”查验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artic533NOczGyUTeknkODTx200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592364062000",
-            "title": "天津排查新发疫情密切接触者 1217人已完成检测 结果均为阴性",
-            "summary": "6月17日上午，天津召开疫情防控第145场新闻发布会。会上通报，自6月13日起，截至6月16日16时，天津全市共排查新发疫情地区涉及天津相关人员8103人。其中，具有暴露史人员1490人，均采取集中隔离医学观察，已完成核酸检测1217人，均为阴性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8xEoFF3UmE2NJ4NtkStx200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
