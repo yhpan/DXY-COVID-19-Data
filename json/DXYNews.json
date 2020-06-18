@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592494396000",
+            "title": "新加坡将从下周起为所有 45 岁以上患急性呼吸道感染者进行新冠病毒检测",
+            "summary": "新加坡卫生部 18 日晚发布公告，新加坡从 19 日零时进入病毒解封第二阶段。由于更多民众的复工，政府将扩大新冠病毒检测范围，从下周起，为所有 45 岁以上患急性呼吸道感染者进行检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYqUvVasYoAOeI9nN58UI200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592492271000",
+            "title": "纽约市市长：纽约市将从 22 日起进入重启第二阶段",
+            "summary": "纽约市市长德布拉西奥在每日发布会上表示，纽约市将从 6 月 22 日开始进入重启第二阶段。目前纽约市的新冠病毒检测确诊率已经降至了 1.2%，其中曼哈顿和史泰登岛感染率已经在 1% 以下。 6 月 17 日，纽约州因新冠病毒感染去世人数降至 17 人，为四月以来新低。进入第二阶段后，办公室将可以恢复上班，餐厅及酒吧将允许室外用餐，理发店等将可以重开，零售店铺内将允许 25% 容量的人流购物，房地产等交易将可以进行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiiqhsFLOqFFMrtUEaTFRF200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592487651000",
             "title": "甘肃新增 1 例境外输入新冠肺炎确诊病例",
             "summary": "截至 6 月 18 日 20 时，甘肃省本地连续 74 天无新增确诊病例报告，连续 82 天无疑似病例报告，。境外输入疫情：目前入境病例仍为 6 月 15 日 11 时 35 分乘坐 MU7792 次航班自沙特利雅得抵达兰州的人员。6 月 17 日 20 时至 6 月 18 日 20 时，我省新增 1 例境外输入新冠肺炎确诊病例。现有 12 例境外输入新冠肺炎确诊病例，均在省级定点医院住院隔离治疗。",
@@ -69,24 +87,6 @@
             "summary": "近日，海南海口市教育主管部门发布，要求从高考前14天起，所有考生进行体温监测并做好登记，监测结果于高考前一天报送给海口市考试中心，在省外的考生需提前返回。另外对身体出现发热异常症状和其他特殊情况的考生及时向考点和考区报告，以便视考生实际情况统筹安排和处理。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592468720000",
-            "title": "北京：多家超市相继承诺锁定10种蔬菜价格一个月",
-            "summary": "在今天下午北京市召开第125场疫情防控新闻发布会上，北京市商务局二级巡视员王洪存通报了北京市场供应保障的最新情况：纳入监测的8家大型连锁超市（592家门店），6月17日蔬菜进货量达3250多吨，较上一日增加10%，较12日增加88%；销售量2430多吨，较上一日增加3%，较12日增加106%。继家乐福、京客隆公开承诺后，永辉、首航、华冠、幸福荣耀、京东七鲜、城乡、顺天府等七家超市也以多种形式公示承",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivsKcIOnn1kNL7CEDKt1v200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592468577000",
-            "title": "北京通报聚集性疫情典型案例：某餐馆7名员工确诊 一人曾去新发地采购",
-            "summary": "6月18日下午，北京召开疫情防控第125场例行新闻发布会，相关部门负责人介绍有关情况并答记者问。北京市疾病预防控制中心副主任庞星火通报了某餐馆聚集性疫情典型案例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizYqWKyKB4U5vBcsHRhlX200618&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
