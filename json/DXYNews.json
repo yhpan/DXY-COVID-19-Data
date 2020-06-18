@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592450966000",
+            "title": "北京：暂停出租车、顺风车出京运营业务",
+            "summary": "6月18日上午，北京召开疫情防控第124场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。北京市公安局副局长、新闻发言人 潘绪宏表示，加强进出京客运业务管控，暂停顺风车出租车出京业务，暂停省际长途客运班线和包车出京客运业务。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592447808000",
+            "title": "墨西哥新增4930例新冠肺炎确诊病例 累计确诊159793例",
+            "summary": "当地时间6月17日，墨西哥卫生部宣布，截至6月17日晚上7点，墨西哥累计确诊159793例新冠肺炎病例，较前一天新增4930例。同时，死亡病例较前一天新增770例，累计死亡19080例。（总台记者 盛嘉迪 吕兴林）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592441218000",
             "title": "截至6月17日24时新型冠状病毒肺炎疫情最新情况",
             "summary": "6月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例28例，其中境外输入病例4例（上海2例，陕西1例，甘肃1例），本土病例24例（北京21例，河北2例，天津1例）；无新增死亡病例；新增疑似病例3例，均为本土病例（均在北京）。　　",
@@ -69,24 +87,6 @@
             "summary": "根据伊朗卫生部当地时间6月17日最新消息，过去24小时，伊朗新增新冠肺炎确诊病例2612例，新增死亡120例。截至当地时间17日中午，伊朗累计确诊新冠肺炎病例195051例，其中154812例康复，9185例死亡，2789例重症。截至17日，伊朗累计进行了1319920次检测。(总台记者 倪紫慧 )",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiADG5ja4saRVMqrlxEwik200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592381880000",
-            "title": "北京：已对35.6万重点人员进行核酸检测",
-            "summary": "在17日下午北京市召开的新冠肺炎疫情防控工作第123场新闻发布会上，北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、北京市委组织部副部长张强介绍了北京市核酸检测有关情况。6月13日起，北京已经迅速对新发地等出现疫情的市场人员、周边小区居民、大数据排查涉疫市场人员，社区敲门行动中主动报告、有关接触史的人员以及全市各农贸市场工作人员约35.6万人进行了核酸检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYFzIfP1bAWgV043nwQeB200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592379911000",
-            "title": "俄罗斯新增新冠肺炎确诊病例7843例 累计确诊病例超55万例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月17日10时35分，过去24小时内，俄罗斯新增新冠肺炎确诊病例7843例，累计确诊553301例。新增死亡病例194例，累计死亡7478例，新增治愈病例10036例，累计治愈304342例。首都莫斯科市新增确诊病例1065例，累计209745例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikvPvxJU0aBgAaCeT2Qso200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
