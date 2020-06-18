@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1592484120000",
+            "title": "美国上周首次申请失业救济人数 150.8 万人",
+            "summary": "当地时间 6 月 18 日，美国劳工部公布最新数据显示，上周美国首次申请失业救济人数为 150.8 万人，前一周首次申请失业救济人数修正为 156.6 万人。随着各州重启经济，美国经济活动开始回暖，这是首次申请失业救济人数连续第 11 周下降，但目前的数字仍远高于新冠肺炎疫情暴发前的水平。过去 3 个月，美国累计有超过 4400 万人首次申请失业救济。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592484069000",
+            "title": "天津第 137 例病例密接者核酸检测大部分完成，目前均为阴性",
+            "summary": "6 月 17 日，天津市报告新增 1 例本土确诊病例，为严防疫情扩散，天津市迅速开展流行病学调查、对密切接触者等高危暴露人群搜索追踪，并组织各区连夜开展目标人群排查、管理、核酸检测等工作。通过 24 小时连续奋战，全市共搜索涵盖确诊病例家属、同事、同楼栋居民、同时段用餐、就诊、同乘人员、酒店客人等在内的可疑暴露人群897人。已采集核酸检测样本 750 人，完成 732 人；采集血清学样本 365 人，完成 365 人，目前结果均为阴性，其余检测仍在进行中。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592481619000",
+            "title": "疫情期间哄抬蔬菜价格，北京个体工商户郭某某被处以 10 万元以上罚款",
+            "summary": "疫情防控期间，北京日易晶盛菜市场内个体工商户郭某某哄抬价格违法，北京市东城区市场监管局依法对郭某某作出 10 万元以上罚款的行政处罚。郭某某将进价 1.3 元/斤的土豆最高加价至 6 元/斤销售，进销差价率超过 3 倍。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10snHkwnMbl5OZ1U0DlX200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592481274000",
+            "title": "交通运输部：坚决防止旅客乘坐非法车辆进出北京",
+            "summary": "18 日，交通运输部发布关于进一步强化交通运输疫情防控措施坚决防止疫情反弹的通知。其中要求严格防止非法营运车辆进出京。北京市及环京「护城河」地区交通运输主管部门要增派执法力量，加强汽车客运站、城市轨道交通站周边区域等相关场所执法检查，强化安全秩序管控，严格查处非法营运行为，坚决防止旅客乘坐非法车辆进出北京。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVjdzyhHKyJjXUNiqPt200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592477672000",
+            "title": "受疫情影响，新加坡公务员今年年中奖金取消",
+            "summary": "隶属新加坡总理公署的新加坡公共服务署（Public Service Division）18 日宣布，考虑到新冠肺炎疫情带来的前所未有的经济危机，公共服务署在与公务机构工会商讨后决定，今年所有公务员将不会获得任何年中可变动奖金，所有高级管理层公务员则须接受半个月或一个月的一次性减薪，薪水越高者，减薪幅度越大。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5UErdbqiD0DVrYmE7rvt200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592469717000",
             "title": "吴尊友：北京市响应及时 把疫情控制在了最小范围",
             "summary": "6月18日下午，北京召开疫情防控第125场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。",
@@ -42,51 +87,6 @@
             "summary": "6月18日上午，北京召开疫情防控第124场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。北京市公安局副局长、新闻发言人 潘绪宏表示，加强进出京客运业务管控，暂停顺风车出租车出京业务，暂停省际长途客运班线和包车出京客运业务。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMBT9SHD7858e1xFlogIF200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592447808000",
-            "title": "墨西哥新增4930例新冠肺炎确诊病例 累计确诊159793例",
-            "summary": "当地时间6月17日，墨西哥卫生部宣布，截至6月17日晚上7点，墨西哥累计确诊159793例新冠肺炎病例，较前一天新增4930例。同时，死亡病例较前一天新增770例，累计死亡19080例。（总台记者 盛嘉迪 吕兴林）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwpS5oErmiMqmtOLrZrAW200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592441218000",
-            "title": "截至6月17日24时新型冠状病毒肺炎疫情最新情况",
-            "summary": "6月17日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例28例，其中境外输入病例4例（上海2例，陕西1例，甘肃1例），本土病例24例（北京21例，河北2例，天津1例）；无新增死亡病例；新增疑似病例3例，均为本土病例（均在北京）。　　",
-            "infoSource": "河北卫健委",
-            "sourceUrl": "http://wsjkw.hebei.gov.cn/content/content_3714/409677.jhtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592434663000",
-            "title": "世卫组织：因未能降低新冠肺炎死亡率 将停止在团结试验中使用羟氯喹",
-            "summary": "当地时间17日，世卫组织宣布，由于研究显示羟氯喹未能降低新冠肺炎住院患者死亡率，将在团结试验中停止使用羟氯喹。（总台记者 朱赫）\n（编辑 田宏炜）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie2mtScJkxuw3DIn5aFlG200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592432569000",
-            "title": "疫情下的意大利杯决赛 那不勒斯点球大战取胜",
-            "summary": "当地时间6月17日21时，意大利杯决赛在罗马奥林匹克球场开哨，对阵双方为那不勒斯和尤文图斯。同上周复赛的意大利杯半决赛第二回合相同，本场比赛依旧在没有观众的情况下进行。\n两队在常规时间战成0:0平。受新冠肺炎疫情影响，复赛后的意大利杯取消加时赛，对阵双方直接进入点球大战。尤文图斯前两个点球射失，最终以2:4告负。那不勒斯历史上第6次捧起了意大利杯。（总台记者 邓宗宇）\n（编辑 田宏炜）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipuAksC7YZzmqTDjECrBY200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592407680000",
-            "title": "北京地坛医院本部18日起停止所有门诊、急诊",
-            "summary": "根据当前疫情防控需要，为了集中力量救治新冠肺炎患者，北京地坛医院本部（朝阳区京顺东街8号）从6月18日零时起停止所有门诊、急诊，住院部停止接收普通住院患者，患者班车停止运营。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
