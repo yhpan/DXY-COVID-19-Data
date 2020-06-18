@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592469717000",
+            "title": "吴尊友：北京市响应及时 把疫情控制在了最小范围",
+            "summary": "6月18日下午，北京召开疫情防控第125场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592468770000",
             "title": "海南海口：学校提供考生高考前14天体温监测",
             "summary": "近日，海南海口市教育主管部门发布，要求从高考前14天起，所有考生进行体温监测并做好登记，监测结果于高考前一天报送给海口市考试中心，在省外的考生需提前返回。另外对身体出现发热异常症状和其他特殊情况的考生及时向考点和考区报告，以便视考生实际情况统筹安排和处理。",
@@ -78,15 +87,6 @@
             "summary": "根据当前疫情防控需要，为了集中力量救治新冠肺炎患者，北京地坛医院本部（朝阳区京顺东街8号）从6月18日零时起停止所有门诊、急诊，住院部停止接收普通住院患者，患者班车停止运营。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiolnIQWmKsgjlRSHKPMFm200617&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592405210000",
-            "title": "​6月17日6时至18时 天津新增1例本地新冠肺炎确诊病例",
-            "summary": "从天津市疾控中心获悉，6月17日6时至18时，天津市新增本地新冠肺炎确诊病例1例，累计报告本地新冠肺炎确诊病例137例，其中男性74例，女性63例；在院1例（为轻型），治愈出院133例，死亡3例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioPpXiRwaj2rvWzxq3ptR200617&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
