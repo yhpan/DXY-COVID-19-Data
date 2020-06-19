@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1592557149000",
+            "title": "马来西亚进一步放宽防疫出入境限制",
+            "summary": "当地时间19日，马来西亚国防部高级部长依斯迈沙比里表示，政府同意放宽外国公民入境马来西亚，尤其是来自新加坡、汶莱、新西兰等国的民众。“他们不需要得到移民局的允许，尤其是某个领域的专才或公司高级管理层，不过，他们进来前还是需要先在自己的国家进行测试结果呈阴性后才可以前来。”依斯迈沙比里说。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiqqy12SxSgaYrRsnO3aUx200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592556428000",
+            "title": "新加坡总理呼吁公众谨慎对待解封 勿庆祝过头",
+            "summary": "6月19日起，新加坡进入解封第二阶段，全面恢复商业活动。当日，总理李显龙在社交媒体刊文呼吁新加坡居民保持警惕，注意采取防疫措施、保持安全社交距离。李显龙呼吁称，在新加坡谨慎解封的过程中，居民应保持警惕，谨记之前学习到的经验。如果所有新加坡民都能尽到自己的一分力，那么公众安全就能得到保证。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLyTldWFbULbypFuXiQ0M200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592556300000",
+            "title": "北京：建议市民妥善处理新发地市场所购冰冻海鲜、豆制品等食物 不建议食用",
+            "summary": "6月19日下午，北京召开疫情防控第126场例行新闻发布会。北京市委宣传部副部长徐和建介绍，在新发地市场环境采样中，其综合交易大厅，特别是水产、豆制品局部售卖区域阳性标本较多，环境污染较重，建议市民朋友妥善处理赴新发地市场所购的冰冻海鲜、豆制品等食物，不建议食用。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXbBUrkLLbUCO7d90pUjS200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592555764000",
+            "title": "专家：建议低风险地区电影院看电影不要超过2小时",
+            "summary": "中国疾控中心环境所所长施小明19日在国务院联防联控机制发布会上表示，影剧院和游戏厅等密闭场所空气流通相对差一些，同时人们在这些场所活动相对时间比较长，所以容易出现人员长时间的聚集，在疫情防控当中是重点关注的场所。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizUzmuX8kQrwQUg2p5838200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592549660000",
+            "title": "受疫情影响 泰国出台“助农计划”向400万农户提供560亿泰铢补助",
+            "summary": "6月19日，泰国总理府副发言人拉差达（Ratchada Thanadirek）女士透露，在巴育总理主持召开的国家稻米政策和行政管理委员会上，批准了2020/2021年度“助农计划”，将收紧资金以帮助全国数千万农民。其中包括调拨560亿（折合约130亿人民币）补助400万农户，支持稻米种植农户产品管理和质量开发项目，每户补助资金不超过20000泰铢（折合约4651人民币）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibQ0YBFPw1YC2Qe3p0DWh200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592544594000",
             "title": "吴尊友：新发地发生疫情很蹊跷 病毒并非源于北京",
             "summary": "央视新闻《相对论》记者庄胜春独家专访吴尊友。中国疾病预防控制中心流行病学首席专家 吴尊友：目前还没有。首先在新发地发生这样一起疫情就很蹊跷，它不是源于北京，一定是北京以外的人或者物，把病毒带到了新发地。这些人和物到底是什么？我们现在还不清楚。物品最有可能是一些温度比较低、冷冻的物品。因为在这样的环境温度下，病毒存活时间比较长。",
@@ -42,51 +87,6 @@
             "summary": "日本自19日起全面解除国内避免跨都道府县移动的要求。此次限制解除后，包括与紧急事态宣言较晚解除的首都圈4都县（埼玉、千叶、东京、神奈川）以及北海道之间，所有跨都道府县均可自由往来。在感染人数较少的其他地区，此前已率先解除了避免移动的要求。振兴跨县旅游也获准将逐步推进。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592535604000",
-            "title": "今年高考报名人数1071万，高考是疫情以来全国规模最大集体活动",
-            "summary": "在今天教育部举办的新闻发布会上，教育部高校学生司司长王辉表示，今年高考报名人数1071万人，比去年增加40万。全国将设考点7000余个、考场40万个，安排监考及考务人员94.5万人。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4517479391614814",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592533139000",
-            "title": "德国将担任欧盟轮值主席国 抗击新冠肺炎疫情将是其任期内主要任务",
-            "summary": "德国将于7月1日起担任为期半年的欧盟轮值主席国。德国总理默克尔18日在德国联邦议院发表讲话时说，抗击新冠肺炎疫情将是德国在担任主席国期间的主要任务——她呼吁欧盟更紧密地团结起来对抗疫情导致的危机，“因为没有任何国家能够在这场危机面前独善其身”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid1AIIsIpsJyZQAfaVfaI200619&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592532738000",
-            "title": "教育部发布高考工作安排",
-            "summary": "今年高考报名人数1071万人，19日教育部发布高考工作安排：①发生过疫情学校不能作为考点；②低风险地区考生就座后可自定是否戴口罩，中高风险全程佩戴；③考生提前14天进行体温测量；④普通考场可使用分体或中央空调，备用隔离考场须使用分体空调...",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4517472085020492",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592532363000",
-            "title": "北京新发地新型冠状病毒基因组序列数据公布，向国际社会共享",
-            "summary": "刚刚，记者从中国疾控中心获悉，6月18日晚，该中心已通过“新型冠状病毒国家科技资源服务系统”正式发布2020年6月北京新发地新冠疫情及病毒基因组序列数据。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4517470512570737",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592531019000",
-            "title": "北京新发地新冠疫情及病毒基因组序列数据公布",
-            "summary": "据中国疾病预防控制中心官网消息，6月18日晚，中国疾病预防控制中心通过“新型冠状病毒国家科技资源服务系统”正式发布2020年6月北京新发地新冠疫情及病毒基因组序列数据。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKfN9jTTqJVOTPgbbs49U200619&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
