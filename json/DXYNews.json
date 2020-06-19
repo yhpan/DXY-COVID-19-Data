@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592532738000",
+            "title": "教育部发布高考工作安排",
+            "summary": "今年高考报名人数1071万人，19日教育部发布高考工作安排：①发生过疫情学校不能作为考点；②低风险地区考生就座后可自定是否戴口罩，中高风险全程佩戴；③考生提前14天进行体温测量；④普通考场可使用分体或中央空调，备用隔离考场须使用分体空调...",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4517472085020492",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592494396000",
             "title": "新加坡将从下周起为所有 45 岁以上患急性呼吸道感染者进行新冠病毒检测",
             "summary": "新加坡卫生部 18 日晚发布公告，新加坡从 19 日零时进入病毒解封第二阶段。由于更多民众的复工，政府将扩大新冠病毒检测范围，从下周起，为所有 45 岁以上患急性呼吸道感染者进行检测。",
@@ -78,15 +87,6 @@
             "summary": "6月18日下午，北京召开疫情防控第125场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592468770000",
-            "title": "海南海口：学校提供考生高考前14天体温监测",
-            "summary": "近日，海南海口市教育主管部门发布，要求从高考前14天起，所有考生进行体温监测并做好登记，监测结果于高考前一天报送给海口市考试中心，在省外的考生需提前返回。另外对身体出现发热异常症状和其他特殊情况的考生及时向考点和考区报告，以便视考生实际情况统筹安排和处理。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1n5ONHxjebgpJ54CEQ6Q200618&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
