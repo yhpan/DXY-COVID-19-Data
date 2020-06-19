@@ -1,11 +1,65 @@
 {
     "results": [
         {
+            "pubDate": "1592536785000",
+            "title": "日本19日全面放宽国内跨县移动限制",
+            "summary": "日本自19日起全面解除国内避免跨都道府县移动的要求。此次限制解除后，包括与紧急事态宣言较晚解除的首都圈4都县（埼玉、千叶、东京、神奈川）以及北海道之间，所有跨都道府县均可自由往来。在感染人数较少的其他地区，此前已率先解除了避免移动的要求。振兴跨县旅游也获准将逐步推进。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artieatm1eIGmSyq6iTIi2c4200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592535604000",
+            "title": "今年高考报名人数1071万，高考是疫情以来全国规模最大集体活动",
+            "summary": "在今天教育部举办的新闻发布会上，教育部高校学生司司长王辉表示，今年高考报名人数1071万人，比去年增加40万。全国将设考点7000余个、考场40万个，安排监考及考务人员94.5万人。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4517479391614814",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592533139000",
+            "title": "德国将担任欧盟轮值主席国 抗击新冠肺炎疫情将是其任期内主要任务",
+            "summary": "德国将于7月1日起担任为期半年的欧盟轮值主席国。德国总理默克尔18日在德国联邦议院发表讲话时说，抗击新冠肺炎疫情将是德国在担任主席国期间的主要任务——她呼吁欧盟更紧密地团结起来对抗疫情导致的危机，“因为没有任何国家能够在这场危机面前独善其身”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid1AIIsIpsJyZQAfaVfaI200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592532738000",
             "title": "教育部发布高考工作安排",
             "summary": "今年高考报名人数1071万人，19日教育部发布高考工作安排：①发生过疫情学校不能作为考点；②低风险地区考生就座后可自定是否戴口罩，中高风险全程佩戴；③考生提前14天进行体温测量；④普通考场可使用分体或中央空调，备用隔离考场须使用分体空调...",
             "infoSource": "人民日报",
             "sourceUrl": "https://m.weibo.cn/2803301701/4517472085020492",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592532363000",
+            "title": "北京新发地新型冠状病毒基因组序列数据公布，向国际社会共享",
+            "summary": "刚刚，记者从中国疾控中心获悉，6月18日晚，该中心已通过“新型冠状病毒国家科技资源服务系统”正式发布2020年6月北京新发地新冠疫情及病毒基因组序列数据。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4517470512570737",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592531019000",
+            "title": "北京新发地新冠疫情及病毒基因组序列数据公布",
+            "summary": "据中国疾病预防控制中心官网消息，6月18日晚，中国疾病预防控制中心通过“新型冠状病毒国家科技资源服务系统”正式发布2020年6月北京新发地新冠疫情及病毒基因组序列数据。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKfN9jTTqJVOTPgbbs49U200619&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592528995000",
+            "title": "辽宁18日新增1例本土确诊病例 为北京确诊病例密切接触者",
+            "summary": "6月18日0时至24时，辽宁省新增1例（域外输入）新冠肺炎确诊病例（系北京市确诊病例刘某某的密切接触者），为沈阳市报告病例，属轻型病例。无新增治愈出院病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiD6OTYhmZsvBPUVshlrLH200619&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -33,60 +87,6 @@
             "summary": "截至 6 月 18 日 20 时，甘肃省本地连续 74 天无新增确诊病例报告，连续 82 天无疑似病例报告，。境外输入疫情：目前入境病例仍为 6 月 15 日 11 时 35 分乘坐 MU7792 次航班自沙特利雅得抵达兰州的人员。6 月 17 日 20 时至 6 月 18 日 20 时，我省新增 1 例境外输入新冠肺炎确诊病例。现有 12 例境外输入新冠肺炎确诊病例，均在省级定点医院住院隔离治疗。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFmS1obNPTKIabBikwa1m200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592484120000",
-            "title": "美国上周首次申请失业救济人数 150.8 万人",
-            "summary": "当地时间 6 月 18 日，美国劳工部公布最新数据显示，上周美国首次申请失业救济人数为 150.8 万人，前一周首次申请失业救济人数修正为 156.6 万人。随着各州重启经济，美国经济活动开始回暖，这是首次申请失业救济人数连续第 11 周下降，但目前的数字仍远高于新冠肺炎疫情暴发前的水平。过去 3 个月，美国累计有超过 4400 万人首次申请失业救济。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIYx3G1SuIWNZHsXCTmqO200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592484069000",
-            "title": "天津第 137 例病例密接者核酸检测大部分完成，目前均为阴性",
-            "summary": "6 月 17 日，天津市报告新增 1 例本土确诊病例，为严防疫情扩散，天津市迅速开展流行病学调查、对密切接触者等高危暴露人群搜索追踪，并组织各区连夜开展目标人群排查、管理、核酸检测等工作。通过 24 小时连续奋战，全市共搜索涵盖确诊病例家属、同事、同楼栋居民、同时段用餐、就诊、同乘人员、酒店客人等在内的可疑暴露人群897人。已采集核酸检测样本 750 人，完成 732 人；采集血清学样本 365 人，完成 365 人，目前结果均为阴性，其余检测仍在进行中。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNb2vPmcCtxQ0jNsp1hmn200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592481619000",
-            "title": "疫情期间哄抬蔬菜价格，北京个体工商户郭某某被处以 10 万元以上罚款",
-            "summary": "疫情防控期间，北京日易晶盛菜市场内个体工商户郭某某哄抬价格违法，北京市东城区市场监管局依法对郭某某作出 10 万元以上罚款的行政处罚。郭某某将进价 1.3 元/斤的土豆最高加价至 6 元/斤销售，进销差价率超过 3 倍。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti10snHkwnMbl5OZ1U0DlX200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592481274000",
-            "title": "交通运输部：坚决防止旅客乘坐非法车辆进出北京",
-            "summary": "18 日，交通运输部发布关于进一步强化交通运输疫情防控措施坚决防止疫情反弹的通知。其中要求严格防止非法营运车辆进出京。北京市及环京「护城河」地区交通运输主管部门要增派执法力量，加强汽车客运站、城市轨道交通站周边区域等相关场所执法检查，强化安全秩序管控，严格查处非法营运行为，坚决防止旅客乘坐非法车辆进出北京。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOoVjdzyhHKyJjXUNiqPt200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592477672000",
-            "title": "受疫情影响，新加坡公务员今年年中奖金取消",
-            "summary": "隶属新加坡总理公署的新加坡公共服务署（Public Service Division）18 日宣布，考虑到新冠肺炎疫情带来的前所未有的经济危机，公共服务署在与公务机构工会商讨后决定，今年所有公务员将不会获得任何年中可变动奖金，所有高级管理层公务员则须接受半个月或一个月的一次性减薪，薪水越高者，减薪幅度越大。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5UErdbqiD0DVrYmE7rvt200618&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592469717000",
-            "title": "吴尊友：北京市响应及时 把疫情控制在了最小范围",
-            "summary": "6月18日下午，北京召开疫情防控第125场例行新闻发布会。市政府相关部门负责同志介绍有关情况，并答记者问。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9UbQVXXm8Y5JjDnYkTs200618&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
