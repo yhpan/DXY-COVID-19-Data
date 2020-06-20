@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592664120000",
+            "title": "世卫组织：全球新冠肺炎病例超过852万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月20日13时38分(北京时间6月20日19时38分)，全球确诊新冠肺炎8525042例，死亡456973例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592662687000",
+            "title": "北京快递小哥全员核酸检测，目前无确诊和疑似病例",
+            "summary": "6月19日起，按照北京市统一要求，为向市民提供更加安全放心的寄递服务，北京邮政、快递企业已开始陆续安排一线从业人员进行全员核酸检测，预计于6月22日完成核酸检测的采样工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592653680000",
             "title": "摩根大通亚太区首席执行官：中国出现“V型”复苏迹象，利好全球市场恢复",
             "summary": "有国际组织预测，发达经济体将因新冠肺炎疫情陷入二战以来最严重的经济衰退，新兴市场将出现近60年来的首次收缩。摩根大通亚太区首席执行官郭利博表示，中国开始出现“V型”复苏迹象，中国经济回暖对全球市场恢复都有利。中国是全球最具发展机遇的市场之一，摩根大通希望在进入中国市场100年之际继续与中国市场共同发展。",
@@ -69,24 +87,6 @@
             "summary": "20 日上午，西城区新街口街道新街口足球场核酸检测点正式拉开针对街道 9.6 万常住居民的全员核酸检测序幕。与此同时，西城 34 个核酸检测点位已经累计完成检测 10 万人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVixZ1HbhJXgHQN0Qoh41200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592629006000",
-            "title": "印度新冠肺炎单日新增病例数再创新高",
-            "summary": "根据印度卫生部官方网站公布的最新数据，截至当地时间 20 日上午 8 时，印度累计新冠肺炎确诊病例已升至 395048 例，累计死亡病例 12948 例，累计治愈出院 213831 例。在过去 24 小时内，印度新增确诊病例 14516 例，再次刷新印度自疫情暴发以来的单日增幅纪录，同时单日新增病例已经连续 9 天保持在 1 万例以上。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz0KjcYbA2yCNM4WjNe9X200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592626984000",
-            "title": "沈阳：一线医务人员子女在沈中考最高可获降低 10 分录取",
-            "summary": "6 月 19 日，记者从沈阳市教育局了解到，沈阳市印发了《落实新冠肺炎防控一线医务人员子女教育优待政策实施细则》，细则中规定一线医务人员子女在沈中考最高可获降低 10 分录取，并且还享有其他入园入学优惠政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGyf52MCFbR7co8IlagsY200620&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
