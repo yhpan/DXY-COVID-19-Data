@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1592647552000",
+            "title": "北京快递小哥、外卖骑手、公交司机……全体核酸检测！",
+            "summary": "20日，记者从大兴区获悉，按照“应检尽检”相关要求，大兴将对区内公交、出租企业全部从业人员陆续进行核酸检测。截至目前，已有1471人完成核酸检测。\n此外，大兴区交通局针对区内公交、电动出租行业人员中到过新发地市场、京深海鲜市场或与去往人员有密切接触的人员进行排查。共排查出71人，其中有去往史人员25人，密切接触人员46人，已要求以上人员向所在社区居（村）委会进行报备，并按照要求进行集中或居家隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4IDQovlz1GoPqqFVZ1Dm200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592645452000",
+            "title": "辽宁大连应急开展农贸海鲜市场环境物品食品新冠病毒核酸检测，1200 份样本结果均为阴性",
+            "summary": "为有效应对新冠肺炎疫情，做到科学精准防控，及时掌握大连市场环境、物品和食品被新冠肺炎病毒污染的风险，防止大连出现市场环境和物品食品污染引起的本地疫情传播，大连市卫生健康委在市场监管部门和商务部门配合下，开展覆盖全市所有区市县的应急采样监测工作。已监测 15 家大型商超、22 家农贸市场的肉类摊位和水产摊位，采集样本 1200 份，经大连市疾控中心实验室检测，结果全部为阴性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ys5bTPNS095G91FxRpa200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592641920000",
+            "title": "北大国际医院出现 1 例确诊病例，该院 2669 医护人员核酸检测为阴性",
+            "summary": "北大医疗产业集团总裁宋金松表示：北大国际医院近日出现 1 例新冠肺炎确诊病例。该病例为北大国际医院急诊科护士，主要负责急诊科留观室患者的护理治疗。因与海淀区之前的确诊病例存在关联，按昌平区 CDC 要求进行集中隔离，18 日确诊。对全院所有员工进行核酸检测，截至今天上午已检测院内医护人员 2669 人，均为阴性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPXAorJkeGQOWiOPHNxXp200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592640420000",
+            "title": "北​京通报 6 月 19 日新增 22 例确诊病例详情，均与新发地市场有关联",
+            "summary": "北京市委宣传部副部长徐和建通报：6 月 19 日 0 时至 24 时，北京市新增新冠肺炎确诊病例 22 例，其中男性 11 例，女性 11 例，年龄平均 37 岁，最小 1 岁，最大 56 岁，北京户籍 6 例，外省户籍 16 例，丰台区 13 例，大兴区 8 例，海淀区 1 例，临床分型轻型 9 例，普通型 13 例。确诊病例均与新发地市场有关联。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8YQFahSEaqmvRV2oU6i4200620&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592640254000",
+            "title": "北京 9 日内新增确诊 205 例，防控仍处于紧要关头",
+            "summary": "北京市委宣传部副部长徐和建：当前首都疫情形势依然严峻复杂，防控仍处于紧要关头，我们必须拉响警报，全力以赴，分秒必争，主动出击，全市上下紧急动员起来，织密疫情防控网，坚决打赢新发地批发市场疫情防控这场硬仗。  ​​​​",
+            "infoSource": "央视新闻",
+            "sourceUrl": "https://m.weibo.cn/2656274875/4517923039501043",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592633527000",
             "title": "​巴基斯坦单日新增死亡病例数达历史最高水平",
             "summary": "据巴基斯坦卫生部消息，截至当地时间 20 日 8 时，巴境内新增 6604 例新冠肺炎确诊病例，累计达 171666 例，新增 153 例死亡病例，单日新增数量为历史最高水平，累计死亡病例 3382 例，累计治愈病例 63504 例。",
@@ -42,51 +87,6 @@
             "summary": "据环球网报道，受北京新发地疫情影响，上周挪威冰鲜整条三文鱼对中国出口量为 240 吨，同期相比下跌 34%。挪威食品安全部门表示，没有证据表明挪威的鱼类产品可能受到感染。同时强调，挪威的鱼类及海产品可安全食用。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4517866621163537",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592625606000",
-            "title": "欧洲多国肉联厂暴发聚集性疫情感染",
-            "summary": "近日，英国、德国和法国的肉类加工厂接连暴发多起聚集性感染事件，引发普遍担忧。 英国阿斯达公司 19 日宣布，旗下西约克郡克莱克希顿肉类加工厂暴发新冠肺炎疫情，这是英国第三家暴发疫情的肉类加工厂。分析人士指出，之所以在类似场所工作的人比较容易感染，是因为他们要长时间在密闭狭小的环境中工作。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4517861600857113",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592623707000",
-            "title": "永远铭记！毕业典礼上武大师生起立默哀",
-            "summary": "6月20日上午8时30分，武汉大学毕业典礼上，在场师生全体起立，为在新冠肺炎疫情中牺牲的烈士与逝世同胞默哀。典礼以毕业生线上参加为主，参加线下毕业典礼的毕业生代表持邀请函、佩戴口罩，通过测温、扫健康码后入场。此次未能参加线下典礼的毕业生，可在未来三年内申请到校参加一次毕业典礼。网友：这是武大毕业季中难忘的最后一课，愿逝者安息，生者奋发！",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artij92hkpe0RrwMx5Mcknte200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592623271000",
-            "title": "辟谣！网传两则河南居民感染新冠肺炎消息不实，系谣言！",
-            "summary": "近日，两则河南居民感染新冠肺炎消息在网上流传，引发网友关注。对此，官方发布消息，证实两则消息不实，系谣言。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigPEU15OedHaodckHEuIu200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592620318000",
-            "title": "欧洲多国肉联厂暴发聚集性感染事件",
-            "summary": "随着欧洲各国逐步“解封”，近日，英国、德国和法国的肉类加工厂接连暴发多起聚集性感染事件，引发普遍担忧。 英国阿斯达公司19日宣布，他们此前一天证实了旗下西约克郡 克莱克希顿肉类加工厂暴发新冠肺炎疫情，这是继北威尔士安格尔西和雷克瑟姆的食品工厂之后英国第三家暴发疫情的肉类加工厂。该加工厂在一份声明中表示，此次主动停产是为保护员工、防止进一步传播而发起的预防措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigmNpPYfo9eHZ4RXnSUkZ200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592620141000",
-            "title": "德国聚集性感染频发 政府推出手机应用预警",
-            "summary": "近日，德国柏林和北威州发生两起大规模的新冠病毒聚集性感染事件。为了遏制病毒传播，德国政府日前推出了一款对发生疫情的位置进行预警的手机应用。19日，德国北威州肉联厂新冠病毒聚集性感染事件的感染人数已经由此前一天的730人增加到803人。柏林新克尔恩区新冠病毒聚集性感染事件的病例已经上升至85例。面对来势汹汹的疫情，德国政府推出了一款手机应用。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOdm8sUqxP5psgxEsMP9e200620&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
