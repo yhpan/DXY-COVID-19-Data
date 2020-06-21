@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592710320000",
+            "title": "张文宏称北京疫情非第二波疫情来临",
+            "summary": "面对北京6月11日以来累计确诊227例，，如何看待此次北京疫情？张文宏表示，这波疫情我们还不能认为是第二波的来临。这次北京出现的疫情应该是一次比较突然的、小范围的暴发，但是暴发力度目前仍在可控范围内。他解释说，所谓的“第二波”一定要形成非常显著的波峰，有一段时间的蔓延再下来。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4518216917077181",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592707651000",
             "title": "美疾控中心预测：到7月11日美新冠肺炎死亡病例或达14.5万",
             "summary": "据美国媒体报道，本周全美各地的新冠肺炎确诊病例数激增，17个州因感染新冠病毒而住院治疗的人数有所增加。与此同时，美国疾控中心的数据预测，到7月11日，美国国内新冠肺炎死亡病例数或高达14.5万例。美国福克斯新闻20日报道称，本周全美各地每日平均新增确诊病例数比此前增加约20％，达到每天近2.4万例。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月20日13时38分(北京时间6月20日19时38分)，全球确诊新冠肺炎8525042例，死亡456973例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592662687000",
-            "title": "北京快递小哥全员核酸检测，目前无确诊和疑似病例",
-            "summary": "6月19日起，按照北京市统一要求，为向市民提供更加安全放心的寄递服务，北京邮政、快递企业已开始陆续安排一线从业人员进行全员核酸检测，预计于6月22日完成核酸检测的采样工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid59I8LHsyMhavK3JMOgz200620&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
