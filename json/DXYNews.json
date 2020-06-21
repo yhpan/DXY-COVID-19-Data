@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592721742000",
+            "title": "南非主流媒体积极评价中非团结抗疫特别峰会",
+            "summary": "近日，南非主流媒体高度关注中非领导人召开中非团结抗疫特别峰会。南非卫星电视五台第一时间播出习近平主席在特别峰会上主旨演讲视频。主流媒体《星报》《比陀新闻报》《商报》刊发峰会专版，全文发表习主席主旨讲话及峰会联合声明。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592713335000",
+            "title": "至6月21日6时，天津新增2例境外输入无症状感染者",
+            "summary": "至6月21日6时，我市新增无症状感染者2例（均为境外输入，中国籍），累计25例（境外输入24例），其中解除医学观察15例、尚在医学观察7例、转为确诊病例3例。",
+            "infoSource": "天津卫健委",
+            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/6/21/art_87_74061.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592710320000",
             "title": "张文宏称北京疫情非第二波疫情来临",
             "summary": "面对北京6月11日以来累计确诊227例，，如何看待此次北京疫情？张文宏表示，这波疫情我们还不能认为是第二波的来临。这次北京出现的疫情应该是一次比较突然的、小范围的暴发，但是暴发力度目前仍在可控范围内。他解释说，所谓的“第二波”一定要形成非常显著的波峰，有一段时间的蔓延再下来。",
@@ -69,24 +87,6 @@
             "summary": "欧洲飞机制造商空中客车集团旗下的空客航天设备公司19日宣布，为应对新冠肺炎疫情冲击，这家跨国企业计划扩大“停薪留职”规模，为下辖西班牙和英国机构的5300名员工“放假”。该公司一名发言人通过电子邮件向路透社证实：“这项计划生效期限为5月20日至9月30日，空客运营公司在西班牙的所有雇员将受影响，大约波及3100人。”",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigfpbKlyLibq0IRwuzFyL200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592673604000",
-            "title": "河北一农民捐赠7吨蔬菜抵京：为抗疫做点贡献",
-            "summary": "6月20日，河北定州市来宝农产品专业合作社3辆厢式货车满载7吨蔬菜瓜果运往北京。合作社负责人王先生称，北京疫情期间新发地蔬菜批发市场暂时休市，他在自己种的几十亩蔬菜中采摘了田瓜、黄瓜、西红柿、青椒等捐赠给北京，为抗击疫情尽一份力量。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4518062919691816",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592664120000",
-            "title": "世卫组织：全球新冠肺炎病例超过852万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月20日13时38分(北京时间6月20日19时38分)，全球确诊新冠肺炎8525042例，死亡456973例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiH8p3wMZ9VsfizCO0Jasf200620&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
