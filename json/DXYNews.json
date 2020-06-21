@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592735521000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过869万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日10时24分（北京时间6月21日16时24分），全球累计新冠肺炎确诊病例8690140例，累计死亡病例461274例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592729119000",
             "title": "非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万",
             "summary": "非洲疾控中心数据显示，非洲地区54个国家报告了新冠肺炎确诊病例297352例，死亡7925例，142745人康复。非洲地区确诊病例最多的国家是南非，6月20日南非新增新冠肺炎患者确诊病例4966例，累计确诊病例达到92681例。",
@@ -78,15 +87,6 @@
             "summary": "截至当地时间6月20日18时，根据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1067579例，确诊病例比前一日新增34666例，死亡病例49976例，新增死亡病例1022例，累计康复人数520734人。其中圣保罗州累计确诊人数已超过21万，全州重症监护床位占用率为66.5%，里约州的确诊数量近10万，而首府里约市的病例数量就占了一半多，里约市市长今天宣布，25日之前所有体育比赛暂停。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJSi5Q5UBXo9pSMHfHZOR200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592693665000",
-            "title": "埃及安全部门持续打击违反宵禁规定行为",
-            "summary": "据埃及媒体20日报道，埃及内政部当天发表声明说，埃及安全部门在过去的24小时内，对发生在全国的7795起违反全国宵禁行为进行了处罚。声明说，当天查处的违规行为包括4684名行人和3111辆车辆。未来安全部门仍将继续贯彻安全措施，全力以赴继续在全国范围内打击任何违反宵禁规定的行为，将之绳之以法。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiK39dDutxDGngzaQsik0I200621&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
