@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1592780100000",
+            "title": "全球抗疫24小时丨全球新冠肺炎确诊病例超870万 德国肉联厂聚集性感染人数超1300人",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日12时54分（北京时间6月21日18时54分），全球确诊新冠肺炎8708008例，死亡461715例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592780076000",
+            "title": "美国学者：美国试图发动与中国新冷战 比新冠病毒带给全球的威胁更大",
+            "summary": "英国广播公司6月21日报道，美国经济学家、哥伦比亚大学可持续发展中心主任杰弗里·萨克斯（Jeffrey Sachs）认为，特朗普政府正在试图发动的与中国之间的冷战，将比新冠病毒带给全球更大的担忧。杰弗里·萨克斯是在接受英国广播公司亚洲事务记者卡里什马·瓦斯瓦尼（Karishma Vaswani）的采访时作出上述表态的。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592779200000",
+            "title": "网坛名将感染新冠病毒 近期曾同德约科维奇密切接触",
+            "summary": "据克罗地亚通讯社报道，当地时间20时，南部海滨城市扎达尔传来消息，保加利亚网球运动员迪米特罗夫（Grigor Dimitrov）被确诊感染新冠病毒，与其有过接触的运动员及其团队立即接受了新冠病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3WmpSoIvzGbkR1RpHmeL200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592772942000",
+            "title": "埃及外长会见中国驻埃及大使：中方抗疫的成功经验值得各国学习",
+            "summary": "当地时间21日，埃及外长舒凯里会见了中国驻埃及大使廖力强，双方就近日的部分相关问题交流了意见。\n在谈及中非团结抗疫特别峰会时，舒凯里首先表示，塞西总统在会议上的致辞显示了埃方对发展对华关系的高度重视。而关于“一带一路”国际合作高级别视频会议，舒凯里则高度赞赏了中方为推动国际抗疫合作所作的努力，并认为中方抗疫的成功经验值得各国学习借鉴。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0t6O0yM4L3PZ7ammM1Mv200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592761620000",
+            "title": "阿曼出台针对企业机构违反疫情防控规定罚款细则",
+            "summary": "当地时间6月21日，为了进一步控制新冠肺炎疫情的传播，阿曼劳工大臣阿卜杜拉·巴克里签署命令，对企业机构违反疫情防控最高委员会相关规定的行为处以罚款（1阿曼里亚尔约折合人民币18.4元），具体包括如下：在工作区域和工人居住区未保持社交距离——罚款100里亚尔。在公共交通设施和工作区域内未佩戴口罩——罚款100里亚尔。未在工作区域和工人居住区提供消毒用品——罚款100里亚尔。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL3K2xNTHfQxRsiw1GNNe200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592749920000",
             "title": "德国肉联厂聚集性感染新冠病毒人数继续上升，已超1300人。",
             "summary": "当地时间21日，德国北威州居特斯洛县发表声明称，通尼斯肉联厂聚集性感染新冠病毒人数已超过1300人。当天，北威州州长拉舍特表示，将尽一切努力确保感染不会扩散到民众中。据了解，此次肉联厂聚集性感染事件中共采集了6139个样品。截至21日中午，5899个检测结果已经出炉，其中1331个为阳性。",
@@ -42,51 +87,6 @@
             "summary": "截至6月21日15时，北京市丰台区新村街道、大兴区黄村（地区）镇由中风险调整为高风险。北京市丰台区长辛店街道、右安门街道，大兴区安定镇，海淀区八里庄街道，通州区北苑街道由低风险调整为中风险。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592735521000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过869万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日10时24分（北京时间6月21日16时24分），全球累计新冠肺炎确诊病例8690140例，累计死亡病例461274例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP6J9V2Z1o7Uo8kinwjn2200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592729119000",
-            "title": "非洲新冠肺炎疫情确诊病例逼近30万，南非确诊病例超9万",
-            "summary": "非洲疾控中心数据显示，非洲地区54个国家报告了新冠肺炎确诊病例297352例，死亡7925例，142745人康复。非洲地区确诊病例最多的国家是南非，6月20日南非新增新冠肺炎患者确诊病例4966例，累计确诊病例达到92681例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinQX2ZYm3kvE5WVWnqvAY200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592728964000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超865万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日9时36分（北京时间6月21日15时36分），全球累计新冠肺炎确诊病例8650917例，累计死亡病例460360例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipa9yBJTihnAC1gcUnP7j200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592728200000",
-            "title": "百事可乐公司出现确诊病例，已停产停业",
-            "summary": "百事公司大中华区集团事务部企宣总监樊志敏介绍，百事可乐公司出现确诊病例，现已停产停业。我司作为在中国运营的食品产业之一，第一时间启动应急预案。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjZHDfqypmXbRiXyhsXA200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592721742000",
-            "title": "南非主流媒体积极评价中非团结抗疫特别峰会",
-            "summary": "近日，南非主流媒体高度关注中非领导人召开中非团结抗疫特别峰会。南非卫星电视五台第一时间播出习近平主席在特别峰会上主旨演讲视频。主流媒体《星报》《比陀新闻报》《商报》刊发峰会专版，全文发表习主席主旨讲话及峰会联合声明。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtionYA3jXl6IP1ZYrk7Tet200621&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
