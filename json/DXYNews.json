@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592798568000",
+            "title": "天津昨日新增1例境外输入新冠肺炎确诊病例",
+            "summary": "2020年6月21日0—24时，天津市报告境外输入新冠肺炎确诊病例1例。截至6月21日24时，天津市累计报告境外输入新冠肺炎确诊病例61例，出院病例58例，在院3例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO3dAG8YWpH0uMT4skhd9200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592792820000",
             "title": "中国银行澳门分行已批出逾3800笔抗疫贷款 ",
             "summary": "中国银行澳门分行21日举行在线直播发布会，庆祝中国银行澳门分行成立70周年。据会上介绍，新冠肺炎疫情发生以来，澳门中银坚持为维护社会稳定提供金融服务，还出台多项措施为居民及企业纾困。截至目前，已批出逾3800笔抗疫贷款，其中给中小微企业的贷款达52.7亿澳门元。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日12时54分（北京时间6月21日18时54分），全球确诊新冠肺炎8708008例，死亡461715例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592780076000",
-            "title": "美国学者：美国试图发动与中国新冷战 比新冠病毒带给全球的威胁更大",
-            "summary": "英国广播公司6月21日报道，美国经济学家、哥伦比亚大学可持续发展中心主任杰弗里·萨克斯（Jeffrey Sachs）认为，特朗普政府正在试图发动的与中国之间的冷战，将比新冠病毒带给全球更大的担忧。杰弗里·萨克斯是在接受英国广播公司亚洲事务记者卡里什马·瓦斯瓦尼（Karishma Vaswani）的采访时作出上述表态的。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZek4BnQKMbifpVAZDqOt200622&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
