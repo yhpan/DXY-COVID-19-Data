@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592818763000",
+            "title": "刚果（布）国家公共卫生紧急状态再次延长20天",
+            "summary": "根据刚果（布）政府的公告，当地时间6月21日，刚果（布）国家公共卫生紧急状态再次延长20天，这是自3月31日以来刚政府第四次延长公共卫生紧急状态。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5nfHZbGRdYfR9Hb88rK5200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592814660000",
             "title": "北京：全市工地共确诊病例3人，涉及2个工地已封闭管理",
             "summary": "截至6月21日24时，北京市排查住建系统16个区435个项目，去过新发地的人员743人，接触过来自新发地食材配送人员或其他人员的879人，共1622人，已全部完成核酸检测。全市施工工地共发现确诊新冠肺炎病例3人，涉及2个工地，相关工地采取了封闭管理措施，情况平稳。",
@@ -78,15 +87,6 @@
             "summary": "2020年5月12日，北京市教委面向社会发布了《2020年北京市特岗计划乡村教师招聘公告》。今天（22日），北京市教委发布通知，受疫情影响，取消招聘计划中原设定的公共科目考试（笔试）、资格复审及面试环节，变更为线上资格复审及综合专业考核。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592785192000",
-            "title": "辽宁昨日新增1例境外输入新冠肺炎确诊病例",
-            "summary": "6月21日0时至24时，辽宁省新增1例境外输入（来自白俄罗斯）新冠肺炎确诊病例，为沈阳市报告病例，属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例23例，治愈出院21例，在院治疗2例。全省累计报告本土确诊病例131例，治愈出院126例，死亡2例，在院治疗3例。全省累计报告无症状感染者71例，解除隔离出院44例，转为确诊病例27例（治愈出院25例、正在定点医院治疗2例。）",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
