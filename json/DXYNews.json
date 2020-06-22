@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1592785192000",
+            "title": "辽宁昨日新增1例境外输入新冠肺炎确诊病例",
+            "summary": "6月21日0时至24时，辽宁省新增1例境外输入（来自白俄罗斯）新冠肺炎确诊病例，为沈阳市报告病例，属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例23例，治愈出院21例，在院治疗2例。全省累计报告本土确诊病例131例，治愈出院126例，死亡2例，在院治疗3例。全省累计报告无症状感染者71例，解除隔离出院44例，转为确诊病例27例（治愈出院25例、正在定点医院治疗2例。）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiytb14cSPsNRizYdZRXtX200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592783052000",
+            "title": "巴西累计新冠肺炎确诊病例超108万 7个州重症监护床位占用率超过80%",
+            "summary": "截至当地时间6月21日18时，根据巴西卫生部发布的数据，巴西全国新增17459例新冠肺炎确诊病例，累计达1085038例。新增死亡病例641例，累计达50617例，累计治愈病例549386例。此前的数据显示，每到周末时新增病例通常会减少。巴西各州公布了自己的重症监护床位占用率，有7个州的占用率在80%以上，其中西部的阿克里州和东北部的北大河州重症监护床位占用率甚至超过了90%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592781158000",
+            "title": "哥伦比亚累计确认68652例新冠肺炎病例 总统称疫情将持续较长时间",
+            "summary": "哥伦比亚卫生部21日宣布新增3019例新冠肺炎确诊病例，全国累计确诊病例68652例，死亡病例2237例，治愈病例27360例，截至目前哥伦比亚共进行了604273例病毒检测。哥伦比亚总统杜克当日呼吁民众做好与病毒长期共存的准备，他说从目前情况来看，该国疫情持续的时间将比预想中长得多，至少到今年年底甚至更长一段时间。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592780100000",
             "title": "全球抗疫24小时丨全球新冠肺炎确诊病例超870万 德国肉联厂聚集性感染人数超1300人",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日12时54分（北京时间6月21日18时54分），全球确诊新冠肺炎8708008例，死亡461715例。",
@@ -60,33 +87,6 @@
             "summary": "记者刚刚从天津市疾控中心获悉，经天津市疾控中心对天津第137例确诊病例呼吸道标本的新冠病毒全基因组高通量测序和序列分析，中国疾控中心复核，确认与北京新发地市场相关病例的病毒序列完全相同，属于L基因型欧洲家系分支I。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAg216hnK7LfOWcYxRJdO200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592747057000",
-            "title": "阿联酋宣布全面恢复疫情期间暂停的医疗服务",
-            "summary": "据阿联酋官方通讯社消息称，阿联酋卫生和预防部宣布境内的所有医疗机构将从6月21日起逐步全面恢复之前疫情期间暂停的医疗服务，但是必须严格遵守卫生部此前发布的医疗服务指南，以采取最高级别防控举措在保证病人、顾客以及医疗人员的健康安全下提供服务。其中将恢复的医疗服务包括常规门诊、紧急的医疗手术等。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artie9V4ywPysis0sdGhlnRV200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592746800000",
-            "title": "世卫组织：全球新冠肺炎超过870万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日12时54分(北京时间6月21日18时54分)，全球确诊新冠肺炎8708008例，死亡461715例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFQUdgIniiEzN5tENJIiN200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592737680000",
-            "title": "北京又有2地上升为高风险地区，目前4高风险37中风险",
-            "summary": "截至6月21日15时，北京市丰台区新村街道、大兴区黄村（地区）镇由中风险调整为高风险。北京市丰台区长辛店街道、右安门街道，大兴区安定镇，海淀区八里庄街道，通州区北苑街道由低风险调整为中风险。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqywsaNCG5CBnn2Z40cXl200621&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
