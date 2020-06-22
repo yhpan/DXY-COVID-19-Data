@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592787191000",
+            "title": "笔试面试取消 北京特岗计划乡村教师招聘改为线上复审考核",
+            "summary": "2020年5月12日，北京市教委面向社会发布了《2020年北京市特岗计划乡村教师招聘公告》。今天（22日），北京市教委发布通知，受疫情影响，取消招聘计划中原设定的公共科目考试（笔试）、资格复审及面试环节，变更为线上资格复审及综合专业考核。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGBJFvxVutqDYgvybAZOC200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592785192000",
             "title": "辽宁昨日新增1例境外输入新冠肺炎确诊病例",
             "summary": "6月21日0时至24时，辽宁省新增1例境外输入（来自白俄罗斯）新冠肺炎确诊病例，为沈阳市报告病例，属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例23例，治愈出院21例，在院治疗2例。全省累计报告本土确诊病例131例，治愈出院126例，死亡2例，在院治疗3例。全省累计报告无症状感染者71例，解除隔离出院44例，转为确诊病例27例（治愈出院25例、正在定点医院治疗2例。）",
@@ -78,15 +87,6 @@
             "summary": "当地时间21日，德国北威州居特斯洛县发表声明称，通尼斯肉联厂聚集性感染新冠病毒人数已超过1300人。当天，北威州州长拉舍特表示，将尽一切努力确保感染不会扩散到民众中。据了解，此次肉联厂聚集性感染事件中共采集了6139个样品。截至21日中午，5899个检测结果已经出炉，其中1331个为阳性。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaULp99JJ635wDuOlx2n7200621&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592748566000",
-            "title": "天津第137例新冠肺炎病例病毒全基因组测序结果与北京新发地市场相关病例病毒序列完全相同",
-            "summary": "记者刚刚从天津市疾控中心获悉，经天津市疾控中心对天津第137例确诊病例呼吸道标本的新冠病毒全基因组高通量测序和序列分析，中国疾控中心复核，确认与北京新发地市场相关病例的病毒序列完全相同，属于L基因型欧洲家系分支I。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAg216hnK7LfOWcYxRJdO200621&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
