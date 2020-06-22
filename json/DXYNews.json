@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592836980000",
+            "title": "中国疾控中心副主任：新发地暴露人员发病已进入尾声",
+            "summary": "6 月 22 日晚央视《新闻 1+1》，白岩松专访中国疾控中心副主任冯子健时，冯子健主任这样表示：6 月 22 日，北京市通报 21 日新增 9 例新冠肺炎确诊病例，这是近段时间新增病例首次降至个位数以内。新发地市场暴露的人员发病已经接近尾声了。另外，冯子健主任还认为薯片可以正常吃。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHMpHaoev6K8WJAaEKLZ8200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592835949000",
             "title": "美国佛罗里达州一医疗系统过去两周新冠肺炎患者增加 75%",
             "summary": "当地时间 22 日，美国佛罗里达州杰克逊医疗系统在社交媒体表示，过去两周内该系统内的医疗机构接收新冠肺炎患者人数增加了 75 %，随着各州陆续重启，疫情防控措施很难有效保持，美国包括亚利桑那、佛罗里达等多个州疫情出现反弹。佛罗里达州州长德桑蒂斯还表示，最新统计显示 20～30 岁青年人感染数量急速上升。",
@@ -78,15 +87,6 @@
             "summary": "截至6月21日24时，北京市排查住建系统16个区435个项目，去过新发地的人员743人，接触过来自新发地食材配送人员或其他人员的879人，共1622人，已全部完成核酸检测。全市施工工地共发现确诊新冠肺炎病例3人，涉及2个工地，相关工地采取了封闭管理措施，情况平稳。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGS2JsGC9Tz7NmFV0bYO200622&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592813880000",
-            "title": "非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例",
-            "summary": "截至非洲东部时间6月22日上午10时，非洲疾控中心数据显示，非洲地区54个国家累计报告新冠肺炎确诊病例306567例，累计死亡病例8115例，146212人治愈康复。非洲地区确诊病例最多的国家是南非，累计确诊病例97302例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
