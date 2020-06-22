@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592813880000",
+            "title": "非洲累计新冠肺炎确诊病例超30万例，南非病例累计近10万例",
+            "summary": "截至非洲东部时间6月22日上午10时，非洲疾控中心数据显示，非洲地区54个国家累计报告新冠肺炎确诊病例306567例，累计死亡病例8115例，146212人治愈康复。非洲地区确诊病例最多的国家是南非，累计确诊病例97302例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9mnSh5ECupJxOUJ0Qjay200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592811180000",
+            "title": "俄罗斯新增7600例新冠肺炎确诊病例，累计超59万例",
+            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至当地时间6月22日10时30分，过去24小时俄罗斯新增7600例新冠肺炎确诊病例，累计确诊病例592280例，累计死亡病例8206例，累计治愈病例344416例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artipk4zXSk2rTQ5ldAgFB78200622&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592798568000",
             "title": "天津昨日新增1例境外输入新冠肺炎确诊病例",
             "summary": "2020年6月21日0—24时，天津市报告境外输入新冠肺炎确诊病例1例。截至6月21日24时，天津市累计报告境外输入新冠肺炎确诊病例61例，出院病例58例，在院3例。",
@@ -69,24 +87,6 @@
             "summary": "截至当地时间6月21日18时，根据巴西卫生部发布的数据，巴西全国新增17459例新冠肺炎确诊病例，累计达1085038例。新增死亡病例641例，累计达50617例，累计治愈病例549386例。此前的数据显示，每到周末时新增病例通常会减少。巴西各州公布了自己的重症监护床位占用率，有7个州的占用率在80%以上，其中西部的阿克里州和东北部的北大河州重症监护床位占用率甚至超过了90%。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimjKpsi6P1NrW58B62mnw200622&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592781158000",
-            "title": "哥伦比亚累计确认68652例新冠肺炎病例 总统称疫情将持续较长时间",
-            "summary": "哥伦比亚卫生部21日宣布新增3019例新冠肺炎确诊病例，全国累计确诊病例68652例，死亡病例2237例，治愈病例27360例，截至目前哥伦比亚共进行了604273例病毒检测。哥伦比亚总统杜克当日呼吁民众做好与病毒长期共存的准备，他说从目前情况来看，该国疫情持续的时间将比预想中长得多，至少到今年年底甚至更长一段时间。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRD6djaLUGoqxaA3FrmSK200622&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592780100000",
-            "title": "全球抗疫24小时丨全球新冠肺炎确诊病例超870万 德国肉联厂聚集性感染人数超1300人",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月21日12时54分（北京时间6月21日18时54分），全球确诊新冠肺炎8708008例，死亡461715例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFayA3WZBUBTJhBwcjRxG200621&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
