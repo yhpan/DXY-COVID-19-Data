@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592907998000",
+            "title": "香港23日新增16例新冠肺炎确诊病例",
+            "summary": "来自香港特区政府卫生防护中心的消息，截至6月23日18时，香港单日新增16例新冠肺炎境外输入病例，暂无本地感染病例。至此，香港累计确诊病例增至1177例。此外，继此前有一名家住沙田沥源邨禄泉楼的78岁患者死亡后，6月23日，再有一名72岁的禄泉楼群组确诊者去世。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMWDL0LfX8buf6oBILgwo200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592903040000",
             "title": "北京疫情防控发布会：新冠病毒不会在食品之间传播 但有可能被新冠病毒污染",
             "summary": "6月23日下午，北京市召开新冠肺炎疫情防控第130场例行新闻发布会，北京市疾病预防控制中心等相关部门通报最新疫情以及防控举措等情况，并答记者问。会上，国家卫生健康委专家组专家、国家食品安全风险评估中心微生物实验室主任李凤琴表示，新冠病毒是不会在食品之间传播的，但有可能被新冠病毒污染。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月22日，墨西哥卫生部宣布，截止到6月22日19时，墨西哥全国累计达185122例新冠肺炎确诊病例，较前一天新增了4577例。同时，墨西哥全国确诊死亡病例较前一天新增759例，死亡病例总数上升到22584例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592874128000",
-            "title": "江苏22日新增1例境外输入确诊病例 新增1例省外输入无症状感染者",
-            "summary": "6月22日0—24时，江苏新增境外输入确诊病例1例。截至6月22日24时，累计报告境外输入确诊病例23例，尚在定点医院隔离治疗1例。当日无新增本地确诊病例。截至6月22日24时，累计报告本地确诊病例631例，均已出院。当日新增省外输入无症状感染者1例。尚在定点医院集中隔离和医学管理的无症状感染者2例。目前，全省追踪到确诊病例和无症状感染者的密切接触者13938人，已解除医学观察13690人，尚有2",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
