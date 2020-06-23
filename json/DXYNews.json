@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592908995000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过897万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月23日11时17分（北京时间6月23日17时17分），全球累计新冠肺炎确诊病例8974795例，累计死亡病例469159例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592907998000",
             "title": "香港23日新增16例新冠肺炎确诊病例",
             "summary": "来自香港特区政府卫生防护中心的消息，截至6月23日18时，香港单日新增16例新冠肺炎境外输入病例，暂无本地感染病例。至此，香港累计确诊病例增至1177例。此外，继此前有一名家住沙田沥源邨禄泉楼的78岁患者死亡后，6月23日，再有一名72岁的禄泉楼群组确诊者去世。",
@@ -78,15 +87,6 @@
             "summary": "近日，教育部临床医学专业认证工作委员会以“无条件通过”成绩正式获得世界医学教育联合会医学教育认证机构认定，这是继工程教育加入《华盛顿协议》之后，我国高等教育领域又一具有里程碑意义的重大突破，标志着我国医学教育标准和认证体系实现了国际实质等效，医学教育认证质量得到国际认可。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAzf9rbNiXMXyGy7D92HL200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592878143000",
-            "title": "​墨西哥新增4577例新冠肺炎确诊病例 累计确诊185122例",
-            "summary": "当地时间6月22日，墨西哥卫生部宣布，截止到6月22日19时，墨西哥全国累计达185122例新冠肺炎确诊病例，较前一天新增了4577例。同时，墨西哥全国确诊死亡病例较前一天新增759例，死亡病例总数上升到22584例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieHWIEDbSi6ytguEgjbXX200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
