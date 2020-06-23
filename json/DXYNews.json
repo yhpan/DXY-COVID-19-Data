@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1592953990000",
+            "title": "北京首个气膜版“火眼”核酸检测实验室投用",
+            "summary": "为了提升北京的核酸检测能力，昨天（23日），北京首个气膜版“火眼”核酸检测实验室投入使用。这个可移动的充气式二级生物安全实验室，可满足每天3万人的核酸检测需求。该实验室位于北京市大兴区的大兴体育中心内。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti81g3p8oTTeIrGKvV8rMf200624&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592940002000",
+            "title": "世卫组织：全球新增新冠肺炎确诊病例133326例",
+            "summary": "当地时间6月23日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新增新冠肺炎确诊病例133326例，新增死亡3847例。疫情最为严重的美洲区域确诊病例累计达4437946例（新增67425例），死亡224207例（新增2436例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDtfNQlOXhOVSGhiwOJUN200624&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592933779000",
+            "title": "国际奥委会、世界卫生组织和联合国携手抗击新冠肺炎大流行",
+            "summary": "在6月23日奥林匹克日当天，国际奥委会、世界卫生组织以及联合国共同发起了一项合作伙伴计划，以鼓励世界各地的个人和社区采取行动，使所有人都能共同健康。在接下来的几周内，奥林匹克运动员将帮助传递重要的公共卫生信息，激励人们采取或继续采取能遏制新冠肺炎大流行的行为，并为促进身心健康提供资源。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592925800000",
             "title": "世卫组织：全球新冠肺炎确诊病例累计超899万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月23日15时58分（北京时间6月23日21时58分），全球新冠肺炎确诊病例累计增至8993659例，累计死亡病例469587例。",
@@ -60,33 +87,6 @@
             "summary": "23日，北京市疾病预防控制中心主任曾晓芃在发布会上通报，21日，“饿了么”平台一外卖送餐员确诊感染新冠肺炎。对此，“饿了么”平台表示，与阳性病例有密切接触的骑手，已经第一时间暂停接单，目前已到指隔离点集中隔离。该骑手近20天行动轨迹，已如实上报给北京市疾控中心，并配合疾控中心积极排查。没有接到官方信息的市民不用过度担心。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592901287000",
-            "title": "北京：日核酸检测能力由4万份提升至30万份以上",
-            "summary": "6月23日，据北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、北京市卫生健康委员会副主任张华介绍，在保证质量和安全的前提下，按照扩大增量，挖掘存量，优化流程等方式，稳步提升全市核酸检测能力，满足“应检尽检”和“愿检尽检”需要。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592894602000",
-            "title": "北京建方舱式核酸检测实验室",
-            "summary": "北京48小时建成方舱式核酸检测实验室，日均检测1500人次 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592885550000",
-            "title": "印度新增14933例新冠肺炎确诊病例 累计确诊440215例",
-            "summary": "据印度卫生部统计，截至当地时间6月23日8时（北京时间10时30分），印度新冠肺炎累计确诊病例升至440215例。其中治愈出院248189例，累计死亡14011例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilIv6tHQGV3pcq73IIw65200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
