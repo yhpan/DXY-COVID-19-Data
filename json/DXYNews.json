@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592894602000",
+            "title": "北京建方舱式核酸检测实验室",
+            "summary": "北京48小时建成方舱式核酸检测实验室，日均检测1500人次 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitbaF9c7ykLp7eW3nS3ZT200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592885550000",
             "title": "印度新增14933例新冠肺炎确诊病例 累计确诊440215例",
             "summary": "据印度卫生部统计，截至当地时间6月23日8时（北京时间10时30分），印度新冠肺炎累计确诊病例升至440215例。其中治愈出院248189例，累计死亡14011例。",
@@ -78,15 +87,6 @@
             "summary": "6月20日，中国计划生育协会援埃及抗疫物资运抵开罗。此次援助物资包括11万个医用口罩、1000件医用防护服和额温枪等，将通过“埃及人民”基金会捐赠给埃及卫生部和埃及家庭计划协会，助力埃及政府和人民抗击疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592840517000",
-            "title": "世卫组织总干事：昨天新冠肺炎新增病例为迄今以来最高一天",
-            "summary": "当地时间 6 月 22 日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，昨天全球上报了超过 183000 例新冠肺炎新增病例，是疫情暴发以来最高的一天。一些国家病例仍在迅速增长，一些国家在成功遏制病毒传播，重启社会和经济后，又出现病例上升。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artilx3gcXcMNILC6w80t8mJ200622&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
