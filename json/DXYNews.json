@@ -1,11 +1,29 @@
 {
     "results": [
         {
+            "pubDate": "1592903040000",
+            "title": "北京疫情防控发布会：新冠病毒不会在食品之间传播 但有可能被新冠病毒污染",
+            "summary": "6月23日下午，北京市召开新冠肺炎疫情防控第130场例行新闻发布会，北京市疾病预防控制中心等相关部门通报最新疫情以及防控举措等情况，并答记者问。会上，国家卫生健康委专家组专家、国家食品安全风险评估中心微生物实验室主任李凤琴表示，新冠病毒是不会在食品之间传播的，但有可能被新冠病毒污染。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifrzblNpJPipvxnQScLQG200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592902948000",
             "title": "非洲新冠肺炎确诊病例累计超31万 南非累计确诊超10万",
             "summary": "截至非洲东部时间6月23日上午10时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例315410例，死亡8334例，149982人康复。其中疫情较为严重的国家包括南非、埃及、尼日利亚等。南非卫生部22日说，过去24小时该国新增确诊病例4288例，累计确诊101590例，占非洲大陆确诊总数约三分之一。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592902404000",
+            "title": "饿了么回应外卖送餐员确诊：密接骑手已暂停接单",
+            "summary": "23日，北京市疾病预防控制中心主任曾晓芃在发布会上通报，21日，“饿了么”平台一外卖送餐员确诊感染新冠肺炎。对此，“饿了么”平台表示，与阳性病例有密切接触的骑手，已经第一时间暂停接单，目前已到指隔离点集中隔离。该骑手近20天行动轨迹，已如实上报给北京市疾控中心，并配合疾控中心积极排查。没有接到官方信息的市民不用过度担心。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR7qwWkq8iD0te7cSY1NE200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "6月22日0—24时，江苏新增境外输入确诊病例1例。截至6月22日24时，累计报告境外输入确诊病例23例，尚在定点医院隔离治疗1例。当日无新增本地确诊病例。截至6月22日24时，累计报告本地确诊病例631例，均已出院。当日新增省外输入无症状感染者1例。尚在定点医院集中隔离和医学管理的无症状感染者2例。目前，全省追踪到确诊病例和无症状感染者的密切接触者13938人，已解除医学观察13690人，尚有2",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiizOjj4kWrpQJPnyqkIng200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592873020000",
-            "title": "国家卫健委：22日新增22例新冠肺炎确诊病例 境外输入病例9例 本土病例13例",
-            "summary": "6月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例22例，其中境外输入病例9例（甘肃7例，江苏1例，陕西1例），本土病例13例，均在北京；无新增死亡病例；新增疑似病例2例，均为本土病例（均在北京）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592867941000",
-            "title": "秘鲁新增2511例新冠肺炎确诊病例 多地商场及购物中心等场所恢复营业",
-            "summary": "当地时间22日周一，秘鲁全国除伊卡、拉利韦塔德、阿雷基帕、瓦努科、圣马丁大区以及安卡什大区卡斯马省、桑塔省和瓦拉斯省以外地区的商业中心和百货中心恢复营业。据悉，营业前相关单位已向卫生部上报疫情监督和防控方案。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
