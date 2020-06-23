@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592873020000",
+            "title": "国家卫健委：22日新增22例新冠肺炎确诊病例 境外输入病例9例 本土病例13例",
+            "summary": "6月22日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例22例，其中境外输入病例9例（甘肃7例，江苏1例，陕西1例），本土病例13例，均在北京；无新增死亡病例；新增疑似病例2例，均为本土病例（均在北京）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti520MeRh9nxSc1us1NtZe200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592867941000",
             "title": "秘鲁新增2511例新冠肺炎确诊病例 多地商场及购物中心等场所恢复营业",
             "summary": "当地时间22日周一，秘鲁全国除伊卡、拉利韦塔德、阿雷基帕、瓦努科、圣马丁大区以及安卡什大区卡斯马省、桑塔省和瓦拉斯省以外地区的商业中心和百货中心恢复营业。据悉，营业前相关单位已向卫生部上报疫情监督和防控方案。",
@@ -78,15 +87,6 @@
             "summary": "根据土耳其内政部的要求，从当地时间 6 月 22 日开始，在土耳其未按规定佩戴口罩者将会面临 900 里拉（约合人民币 928.6 元）的行政罚款。包括安卡拉、伊斯坦布尔、布尔萨等大城市在内的 48 个省份实施了强制口罩令，只要出门必须佩戴口罩。另外 33 个省份的民众在商业中心、集市、餐馆、咖啡厅等人员密集场所需要佩戴口罩。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7J7WDPR8sRgkpn1HjYE8200622&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592825440000",
-            "title": "向全球开放！上海蛋白质设施开放提供新冠病毒 29 个蛋白质的表达质粒",
-            "summary": "为增强我国快速应对公共卫生事件能力，中科院上海高等研究院国家蛋白质科学（上海）设施建立了我国自己的蛋白质库。经饶子和院士等科学家实验室的质粒捐赠和支持，所有新冠病毒编码的 29 种蛋白质表达质粒的构建已全部完成，近日已面向全球开放并提供寄送服务，以实现蛋白质资源的快速共享，助力新冠肺炎的防治研究。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticT3ZlljYX8suesMEZew1200622&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
