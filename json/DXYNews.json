@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1592902948000",
+            "title": "非洲新冠肺炎确诊病例累计超31万 南非累计确诊超10万",
+            "summary": "截至非洲东部时间6月23日上午10时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例315410例，死亡8334例，149982人康复。其中疫情较为严重的国家包括南非、埃及、尼日利亚等。南非卫生部22日说，过去24小时该国新增确诊病例4288例，累计确诊101590例，占非洲大陆确诊总数约三分之一。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBkwrq3clzI0vGbOVcAdv200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1592901287000",
+            "title": "北京：日核酸检测能力由4万份提升至30万份以上",
+            "summary": "6月23日，据北京新冠肺炎疫情防控工作领导小组检疫检测工作组副组长、北京市卫生健康委员会副主任张华介绍，在保证质量和安全的前提下，按照扩大增量，挖掘存量，优化流程等方式，稳步提升全市核酸检测能力，满足“应检尽检”和“愿检尽检”需要。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiT3tWTrScRXKDiDtDjpBc200623&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592894602000",
             "title": "北京建方舱式核酸检测实验室",
             "summary": "北京48小时建成方舱式核酸检测实验室，日均检测1500人次 ",
@@ -69,24 +87,6 @@
             "summary": "当地时间22日周一，秘鲁全国除伊卡、拉利韦塔德、阿雷基帕、瓦努科、圣马丁大区以及安卡什大区卡斯马省、桑塔省和瓦拉斯省以外地区的商业中心和百货中心恢复营业。据悉，营业前相关单位已向卫生部上报疫情监督和防控方案。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4rXWA278H8sAiZvJXjUW200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592862294000",
-            "title": "特朗普竞选团队再增加2名新冠病毒感染者",
-            "summary": "据美国《国会山报》22日报道，2名特朗普竞选连任活动团队成员，在当地时间上周六（20日）晚参加完在俄克拉荷马州塔尔萨举行的特朗普竞选演说活动后，于22日确诊感染新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3C01BXW8CLNV8WVIA3EJ200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592860364000",
-            "title": "中国计划生育协会援埃及抗疫物资运抵开罗 包括11万个医用口罩等",
-            "summary": "6月20日，中国计划生育协会援埃及抗疫物资运抵开罗。此次援助物资包括11万个医用口罩、1000件医用防护服和额温枪等，将通过“埃及人民”基金会捐赠给埃及卫生部和埃及家庭计划协会，助力埃及政府和人民抗击疫情。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioFUA91w7pl1LRGmVIQ6m200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
