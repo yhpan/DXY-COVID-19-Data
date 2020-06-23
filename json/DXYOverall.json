@@ -2,26 +2,22 @@
     "results": [
         {
             "currentConfirmedCount": 452,
-            "currentConfirmedIncr": 50,
+            "currentConfirmedIncr": null,
             "confirmedCount": 85086,
-            "confirmedIncr": 68,
+            "confirmedIncr": null,
             "suspectedCount": 1885,
-            "suspectedIncr": 9,
+            "suspectedIncr": null,
             "curedCount": 79987,
-            "curedIncr": 17,
+            "curedIncr": null,
             "deadCount": 4647,
-            "deadIncr": 1,
+            "deadIncr": null,
             "seriousCount": 99,
-            "seriousIncr": -15,
+            "seriousIncr": null,
             "globalStatistics": {
                 "currentConfirmedCount": 4315099,
                 "confirmedCount": 9099849,
                 "curedCount": 4312376,
-                "deadCount": 472374,
-                "currentConfirmedIncr": -10515,
-                "confirmedIncr": 66654,
-                "curedIncr": 75282,
-                "deadIncr": 1887
+                "deadCount": 472374
             },
             "generalRemark": "1. 3 月 12 日国家卫健委确诊补订遗漏 12 例确诊病例（非 12 日新增），暂无具体省份信息。 2. 浙江省 12 例外省治愈暂无具体省份信息。",
             "remark1": "易感人群：人群普遍易感。老年人及有基础疾病者感染后病情较重，儿童及婴幼儿也有发病",
@@ -32,7 +28,7 @@
             "note1": "病毒：SARS-CoV-2，其导致疾病命名 COVID-19",
             "note2": "传染源：新冠肺炎的患者。无症状感染者也可能成为传染源。",
             "note3": "传播途径：经呼吸道飞沫、接触传播是主要的传播途径。气溶胶传播和消化道等传播途径尚待明确。",
-            "updateTime": 1592928106232
+            "updateTime": 1592935271209
         }
     ],
     "success": true
