@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592980338000",
+            "title": "东京新增55例新冠肺炎确诊病例 为日本解除紧急事态后单日新增人数最多",
+            "summary": "日本东京都发布消息称，6月24日东京新冠肺炎确诊病例新增55例。这是自5月25日日本解除紧急事态宣言后东京单日新增人数最多的一天。上次单日新增确诊病例数超过50例是在5月5日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592979028000",
             "title": "国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降",
             "summary": "国务院联防联控机制今天（24日）下午召开新闻发布会，相关负责人介绍了核酸检测、端午文化旅游活动注意事项等有关情况并回答记者提问。国家卫生健康委新闻发言人胡强强在发布会上通报，全国尚在医学观察的密切接触者自此次北京发生聚集性疫情以来，首次下降。",
@@ -78,15 +87,6 @@
             "summary": "在6月23日奥林匹克日当天，国际奥委会、世界卫生组织以及联合国共同发起了一项合作伙伴计划，以鼓励世界各地的个人和社区采取行动，使所有人都能共同健康。在接下来的几周内，奥林匹克运动员将帮助传递重要的公共卫生信息，激励人们采取或继续采取能遏制新冠肺炎大流行的行为，并为促进身心健康提供资源。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyW0zSOBQK8qjCY72WQMl200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592925800000",
-            "title": "世卫组织：全球新冠肺炎确诊病例累计超899万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月23日15时58分（北京时间6月23日21时58分），全球新冠肺炎确诊病例累计增至8993659例，累计死亡病例469587例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3QkjDdNSImLliu9XZmwX200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
