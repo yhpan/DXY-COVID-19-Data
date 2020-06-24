@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1592969897000",
+            "title": "卫健委发布2020年高考防疫关键措施10条",
+            "summary": "国家卫健委官网6月24日发布《2020年高考防疫关键措施10条》，具体内容有：对参与组考、监考环节的工作人员和考生，要求提前14天进行日常体温测量和身体健康状况监测，做到每天体温测量并记录等。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHQoFzjTscx13SvHq1xRW200624&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1592968132000",
             "title": "截至6月23日24时新型冠状病毒肺炎疫情最新情况",
             "summary": "6月23日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例12例，其中境外输入病例3例（上海2例，陕西1例），本土病例9例（北京7例，河北2例）；无新增死亡病例；新增疑似病例4例，均为本土病例（均在北京）。",
@@ -78,15 +87,6 @@
             "summary": "据利比里亚公共卫生研究院统计数据，6月22日利比里亚新增2例新冠肺炎确诊病例，累计确诊652例，累计治愈270例，累计死亡34例，现存病例共348例。6月22日，利比里亚总统维阿宣布国家紧急状态再延长30天。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticKJhvRgCoB8oE34ixn0T200623&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592908995000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过897万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月23日11时17分（北京时间6月23日17时17分），全球累计新冠肺炎确诊病例8974795例，累计死亡病例469159例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLqjdGzOuFYJ2Ugt5QKb5200623&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
