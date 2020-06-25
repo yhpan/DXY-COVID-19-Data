@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593043427000",
+            "title": "巴西日增确诊超4万，总确诊病例超118万",
+            "summary": "据巴西卫生部消息，当地时间24日，巴西新增42725例新冠肺炎确诊病例，累计确诊1188631例，新增死亡1185例，累计死亡53830例，共有近65万名患者被治愈。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4519614068925822",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593041656000",
+            "title": "世卫预计一周内全球确诊将达1000万",
+            "summary": "24日，世卫组织总干事谭德塞在记者会上表示，过去一个月全球新增病例近400万，世卫组织预计，一周内全球确诊病例将达1000万。世卫组织卫生紧急项目执行主任迈克尔·瑞安表示，美洲地区的疫情仍然非常严重。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4519606640727304",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593040236000",
             "title": "中埃友好城市举行抗疫经验视频交流会",
             "summary": "24日，互为友好城市的中国上海和埃及亚历山大的卫生专家们，共同通过视频会议的方式进行了一场抗疫经验交流会，分享了彼此的抗疫经验。",
@@ -69,24 +87,6 @@
             "summary": "今天下午，北京市召开第131场疫情防控新闻发布会。会上，北京地坛医院副院长吴国安表示：统计数据显示，此次新冠肺炎病例症状大多为发热，轻度发热到高热情况不一，有些早期发现无症状者处于疾病的潜伏期。入院后才出现症状，有些症状较为轻微，没有肺部影像改变，仅表现为咽部不适和乏力，少数病例改变为腹泻、味觉和嗅觉改变。对新冠肺炎的研究还在深入持续，仍有不少未解之谜，发病症状可能出现所谓的典型与不典型，但只要我",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592988249000",
-            "title": "北京：取消人员聚集性促销活动 控制易引起快递员聚集的线上促消费活动",
-            "summary": "今天下午，北京市召开第131场疫情防控新闻发布会。会上，北京市商务局二级巡视员王洪存通报：要加强对网红店等人气较高店铺的管理，做好收银台、出入口等重点区域的管控。北京消费季线下促消费活动一律暂停，有序控制易引起快递配送环节人员聚集的线上促消费活动。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiL8dfUTqjqO9ogW1RteKz200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592985795000",
-            "title": "俄罗斯新增7176例新冠肺炎确诊病例 累计确诊超60万例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间6月24日10时45分，过去24小时内俄罗斯新增新冠肺炎确诊病例7176例，累计确诊606881例。新增死亡病例154例，累计死亡8513例。新增治愈病例12393例，累计治愈368822例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
