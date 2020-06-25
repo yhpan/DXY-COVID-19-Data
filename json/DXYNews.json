@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1593096953000",
+            "title": "西班牙众议会批准新常态下法令",
+            "summary": "当地时间 25 日，西班牙众议会经过投票后以 265 票赞成、77 票反对和 5 票弃权的结果通过了新常态下法令的施行。该法令包括维持预防新冠病毒的基本卫生措施，如强制民众在公共场所佩戴口罩、维持安全距离、安排工作时间轮换避免拥挤，以及保证养老院等特定地区与各自治区卫生系统的协调等。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTTnJsQDhDzmbtKAojhfi200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593096070000",
+            "title": "英国 3 家肉食加工厂超 330 人确诊",
+            "summary": "据英媒 25 日报道，威尔士 3 家肉食加工厂近期出现聚集性新冠疫情，截至目前共有超过 330 人确诊。威尔士卫生部门负责人说，新冠病毒能在湿冷的室内环境中长期生存，给肉类和食品加工行业带来特殊挑战。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4519834870646758",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593094928000",
+            "title": "​香港新增 14 例新冠肺炎确诊病例，均为境外输入病例",
+            "summary": "据香港特区政府卫生防护中心的消息，截至 6 月 25 日 22 点，香港新增 14 例新冠肺炎境外输入病例，暂无本地确诊病例。至此，香港累计确诊病例增至 1193 例。14 例输入病例涉及 9 男 5 女，全部曾于潜伏期身处境外。其中 12 人曾到过巴基斯坦，其余 2 人分别到过菲律宾及印度。此外，一名由菲律宾抵港、确诊新冠肺炎的男子于 25 日死亡，累计死亡人数增至 7 人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593089686000",
+            "title": "世界卫生组织欧洲办事处主任：欧洲疫情出现反弹",
+            "summary": "当地时间 6 月 25 日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，在欧洲的一些国家，随着国家调整措施而出现疫情反弹。在过去的两周中，有 30 个国家的新增病例有所增加。其中有 11 个国家，病毒加速传播导致疫情加重，如果不加以制止，这将使欧洲的卫生系统再度濒临崩溃。也有正面的例子，比如过去几周，像波兰、德国、西班牙和以色列对学校、煤矿和食品生产环境所暴发的疫情作出了快速反应，使疫情得以控制。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593089416000",
+            "title": "美国一季度经济下滑 5%",
+            "summary": "当地时间 6 月 25 日，美国商务部公布最终修正值显示，由于新冠疫情引发前所未有的经济衰退，美国经济在 2020 年第一季度以年化 5% 的速度下降。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593087670000",
             "title": "德法向世卫组织追加资金支持，合计增加 6.4 亿欧元",
             "summary": "世卫组织举行记者会，世卫组织总干事谭德塞、德国卫生部长施潘、法国卫生部长韦朗共同出席。德国卫生部长施潘表示，全球健康和支持世卫组织是关键主题，现在比以往任何时候都需要一个强大、透明和负责任的世卫组织。德国今年将提供创纪录的总额超过 5 亿欧元的世卫资金支持。法国也将投入 1.4 亿欧元支持世卫。",
@@ -42,51 +87,6 @@
             "summary": "饿了么 25日发布微博称，6月23日，一名小哥被确诊新冠，很多人对此表达了关心与祝福。目前，小哥正在医院隔离治疗，他的妻子和小孩都已经通过了核酸检测，结果都呈阴性，目前还在集中隔离观察。饿了么还称，已为北京全部骑手进行新冠疫情险延保。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4519688631648659",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593054767000",
-            "title": "河北雄安新区加强疫情防控工作 保障重点工程项目建设",
-            "summary": "根据河北省卫健委发布的新冠肺炎疫情情况报告，从6月14日0时至6月23日24时，雄安新区共报告12例确诊病例。在这种情况下，各项目工地都在实施测温、登记、健康码扫描等疫情防控措施。同样，在容东片区雄安商务服务中心，项目部正在组织参建人员进行核酸检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593050392000",
-            "title": "6月24日24时新型冠状病毒肺炎疫情最新情况",
-            "summary": "6月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例19例，其中境外输入病例5例（甘肃3例，广东1例，陕西1例），本土病例14例（北京13例，河北1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例5例，解除医学观察的密切接触者415人，重症病例与前一日相比增加3例。",
-            "infoSource": "中国卫健委",
-            "sourceUrl": "http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593047746000",
-            "title": "确诊病例暴增 美国加州迪士尼因新冠疫情将延期开放",
-            "summary": "华特迪士尼公司在当地时间6月24日发布一份声明中宣布，美国加州橙县迪士尼乐园的重新开放时间将推迟到7月17日之后（原定于7月17日重新开放），该声明中未提及替代日期。迪士尼公司在这份声明中暗示多种原因导致重新开放的延迟，并表示将在7月4日之后的某个时候发布加州迪士尼主题公园重开指南。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593043427000",
-            "title": "巴西日增确诊超4万，总确诊病例超118万",
-            "summary": "据巴西卫生部消息，当地时间24日，巴西新增42725例新冠肺炎确诊病例，累计确诊1188631例，新增死亡1185例，累计死亡53830例，共有近65万名患者被治愈。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4519614068925822",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593041656000",
-            "title": "世卫预计一周内全球确诊将达1000万",
-            "summary": "24日，世卫组织总干事谭德塞在记者会上表示，过去一个月全球新增病例近400万，世卫组织预计，一周内全球确诊病例将达1000万。世卫组织卫生紧急项目执行主任迈克尔·瑞安表示，美洲地区的疫情仍然非常严重。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4519606640727304",
             "province": null,
             "provinceId": ""
         }
