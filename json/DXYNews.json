@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593103382000",
+            "title": "法国启动独立工作小组，评估新冠疫情危机管理",
+            "summary": "据法国媒体 6 月 25 日报道，法国新冠疫情危机管理评估工作小组当天正式启动，由瑞士传染病专家迪迪埃·皮泰担任负责人。该工作小组的任务是在未来六个月内对法国新冠疫情危机管理进行全面评估，并对疫情风险进行预测，从而使法国能够更好地应对未来可能出现的危机。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593101666000",
+            "title": "美国休斯敦地区重症监护病床超负荷",
+            "summary": "据美国广播公司报道，当地时间 6 月 25 日，美国得克萨斯州休斯顿地区的重症监护病床已经全部用完。休斯敦所在的哈里斯县官员表示，随着越来越多的人确诊新冠肺炎，休斯敦市现在必须采取行动应对危机。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticIwtxgFmMPfNiq5bd7Fd200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593096953000",
             "title": "西班牙众议会批准新常态下法令",
             "summary": "当地时间 25 日，西班牙众议会经过投票后以 265 票赞成、77 票反对和 5 票弃权的结果通过了新常态下法令的施行。该法令包括维持预防新冠病毒的基本卫生措施，如强制民众在公共场所佩戴口罩、维持安全距离、安排工作时间轮换避免拥挤，以及保证养老院等特定地区与各自治区卫生系统的协调等。",
@@ -69,24 +87,6 @@
             "summary": "塞内加尔国家通讯社塞通社（APS）当地时间25日报道，塞内加尔总统马基·萨勒因接触过一名新冠肺炎确诊病例，虽然萨勒总统的新冠病毒检测结果呈阴性，但作为预防措施，其决定从6月24日起进行为期两周的自我隔离。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593075406000",
-            "title": "北京大兴一名60岁女子确诊，前四次核酸检测为阴性",
-            "summary": "6月25日，在北京市新冠肺炎疫情防控工作新闻发布会上，北京市疾病预防控制中心副主任庞星火通报北京大兴一名60岁女子确诊，前四次核酸检测为阴性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3SjhMn8wkWcTfSlMKEZi200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593061203000",
-            "title": "确诊外卖小哥的妻子和小孩核酸阴性",
-            "summary": "饿了么 25日发布微博称，6月23日，一名小哥被确诊新冠，很多人对此表达了关心与祝福。目前，小哥正在医院隔离治疗，他的妻子和小孩都已经通过了核酸检测，结果都呈阴性，目前还在集中隔离观察。饿了么还称，已为北京全部骑手进行新冠疫情险延保。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4519688631648659",
             "province": null,
             "provinceId": ""
         }
