@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593054767000",
+            "title": "河北雄安新区加强疫情防控工作 保障重点工程项目建设",
+            "summary": "根据河北省卫健委发布的新冠肺炎疫情情况报告，从6月14日0时至6月23日24时，雄安新区共报告12例确诊病例。在这种情况下，各项目工地都在实施测温、登记、健康码扫描等疫情防控措施。同样，在容东片区雄安商务服务中心，项目部正在组织参建人员进行核酸检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNmnjVANtuOwZqh9Zsuhg200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593050392000",
             "title": "6月24日24时新型冠状病毒肺炎疫情最新情况",
             "summary": "6月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例19例，其中境外输入病例5例（甘肃3例，广东1例，陕西1例），本土病例14例（北京13例，河北1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例5例，解除医学观察的密切接触者415人，重症病例与前一日相比增加3例。",
@@ -78,15 +87,6 @@
             "summary": "根据法国法兰西岛大区卫生局24日发布的消息，当天上午位于巴黎四区的勒纳尔小学因出现1例新冠肺炎确诊病例而关闭，这是巴黎第二所因疫情关闭的小学。巴黎所在的法兰西岛大区卫生局强调，这并不是一起聚集性感染。目前，勒纳尔小学只有1例确诊病例，但因其与多名学生和教师有过接触，所以决定暂时关闭这所学校直到7月7日。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDWrZPhhdKS81QEQmuBs6200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592999932000",
-            "title": "英国医学权威们警告英国必须为第二波疫情做好准备",
-            "summary": "当地时间6月23日，在《英国医学杂志》上发表的一封致英国所有政党领导人的公开信中，英国医学权威们呼吁，一旦疫情再次暴发，应该“迅速并有前瞻性地评估”全国的防疫状况。现有的证据表明，地方性疫情暴发的可能性越来越大，第二波疫情是一个真实的风险。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
