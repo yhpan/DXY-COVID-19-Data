@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593040236000",
+            "title": "中埃友好城市举行抗疫经验视频交流会",
+            "summary": "24日，互为友好城市的中国上海和埃及亚历山大的卫生专家们，共同通过视频会议的方式进行了一场抗疫经验交流会，分享了彼此的抗疫经验。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593040139000",
+            "title": "谭德塞：下周全球确诊总数将超1000万",
+            "summary": "当地时间6月24日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，目前全球已报告超过910万例新冠肺炎病例，死亡超过47万例，而在疫情开始的第一个月，只有不到1万例新冠肺炎病例，世卫组织预计下周内全球新冠肺炎病例将达到1000万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593012910000",
             "title": "佛罗里达新增新冠肺炎确诊病例5511例 专家警告可能成为美国下一个疫情“重灾区”",
             "summary": "当地时间6月24日，佛罗里达卫生部表示，该州当日新增新冠肺炎确诊病例5511例，是自疫情于3月份暴发以来最高单日新增记录。目前佛州共有109014人确诊，是美国第7个确诊病例破10万例的州。",
@@ -69,24 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间6月24日10时45分，过去24小时内俄罗斯新增新冠肺炎确诊病例7176例，累计确诊606881例。新增死亡病例154例，累计死亡8513例。新增治愈病例12393例，累计治愈368822例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtitiRwUxxkFeqiLpnLTnsL200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592980338000",
-            "title": "东京新增55例新冠肺炎确诊病例 为日本解除紧急事态后单日新增人数最多",
-            "summary": "日本东京都发布消息称，6月24日东京新冠肺炎确诊病例新增55例。这是自5月25日日本解除紧急事态宣言后东京单日新增人数最多的一天。上次单日新增确诊病例数超过50例是在5月5日。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66Yreu6AHYNSNBB2nS3g200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592979028000",
-            "title": "国家卫健委：北京发生聚集性疫情以来尚在医学观察的密切接触者首次下降",
-            "summary": "国务院联防联控机制今天（24日）下午召开新闻发布会，相关负责人介绍了核酸检测、端午文化旅游活动注意事项等有关情况并回答记者提问。国家卫生健康委新闻发言人胡强强在发布会上通报，全国尚在医学观察的密切接触者自此次北京发生聚集性疫情以来，首次下降。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Articx92gNhq228n9HIGZimB200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
