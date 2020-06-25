@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593081402000",
+            "title": "​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离",
+            "summary": "塞内加尔国家通讯社塞通社（APS）当地时间25日报道，塞内加尔总统马基·萨勒因接触过一名新冠肺炎确诊病例，虽然萨勒总统的新冠病毒检测结果呈阴性，但作为预防措施，其决定从6月24日起进行为期两周的自我隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593075406000",
             "title": "北京大兴一名60岁女子确诊，前四次核酸检测为阴性",
             "summary": "6月25日，在北京市新冠肺炎疫情防控工作新闻发布会上，北京市疾病预防控制中心副主任庞星火通报北京大兴一名60岁女子确诊，前四次核酸检测为阴性。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月24日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，目前全球已报告超过910万例新冠肺炎病例，死亡超过47万例，而在疫情开始的第一个月，只有不到1万例新冠肺炎病例，世卫组织预计下周内全球新冠肺炎病例将达到1000万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593012910000",
-            "title": "佛罗里达新增新冠肺炎确诊病例5511例 专家警告可能成为美国下一个疫情“重灾区”",
-            "summary": "当地时间6月24日，佛罗里达卫生部表示，该州当日新增新冠肺炎确诊病例5511例，是自疫情于3月份暴发以来最高单日新增记录。目前佛州共有109014人确诊，是美国第7个确诊病例破10万例的州。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
