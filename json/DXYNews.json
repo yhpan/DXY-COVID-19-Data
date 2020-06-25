@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593050392000",
+            "title": "6月24日24时新型冠状病毒肺炎疫情最新情况",
+            "summary": "6月24日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例19例，其中境外输入病例5例（甘肃3例，广东1例，陕西1例），本土病例14例（北京13例，河北1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例5例，解除医学观察的密切接触者415人，重症病例与前一日相比增加3例。",
+            "infoSource": "中国卫健委",
+            "sourceUrl": "http://www.nhc.gov.cn/xcs/yqtb/202006/613956ec16c048c990a18c0349f350e1.shtml",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593047746000",
+            "title": "确诊病例暴增 美国加州迪士尼因新冠疫情将延期开放",
+            "summary": "华特迪士尼公司在当地时间6月24日发布一份声明中宣布，美国加州橙县迪士尼乐园的重新开放时间将推迟到7月17日之后（原定于7月17日重新开放），该声明中未提及替代日期。迪士尼公司在这份声明中暗示多种原因导致重新开放的延迟，并表示将在7月4日之后的某个时候发布加州迪士尼主题公园重开指南。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiXOMIXuBuJ9tiKuQA0WmL200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593043427000",
             "title": "巴西日增确诊超4万，总确诊病例超118万",
             "summary": "据巴西卫生部消息，当地时间24日，巴西新增42725例新冠肺炎确诊病例，累计确诊1188631例，新增死亡1185例，累计死亡53830例，共有近65万名患者被治愈。",
@@ -69,24 +87,6 @@
             "summary": "当地时间6月23日，在《英国医学杂志》上发表的一封致英国所有政党领导人的公开信中，英国医学权威们呼吁，一旦疫情再次暴发，应该“迅速并有前瞻性地评估”全国的防疫状况。现有的证据表明，地方性疫情暴发的可能性越来越大，第二波疫情是一个真实的风险。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHDkAuAGrR3k6LzHwrrlG200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592995874000",
-            "title": "澳大利亚维多利亚州向国防军求助 要求增援300名军队医疗人员",
-            "summary": "当地时间24日，根据澳大利亚广播公司报道，维多利亚州由于疫情出现多天反弹，且社区传播风险增高，该州政府已经向澳大利亚国防军求助，要求增援300名军队医疗人员投入抗击疫情的工作中，主要负责协助维多利亚州的几个疫情“热点”地区的人员隔离等方面工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2SAAwCsmjOouA8qGU8jD200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1592989161000",
-            "title": "北京：新冠肺炎有哪些“非典型”症状？",
-            "summary": "今天下午，北京市召开第131场疫情防控新闻发布会。会上，北京地坛医院副院长吴国安表示：统计数据显示，此次新冠肺炎病例症状大多为发热，轻度发热到高热情况不一，有些早期发现无症状者处于疾病的潜伏期。入院后才出现症状，有些症状较为轻微，没有肺部影像改变，仅表现为咽部不适和乏力，少数病例改变为腹泻、味觉和嗅觉改变。对新冠肺炎的研究还在深入持续，仍有不少未解之谜，发病症状可能出现所谓的典型与不典型，但只要我",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF1sBlW9p26FDRazNQbnD200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
