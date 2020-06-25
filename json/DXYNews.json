@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593075406000",
+            "title": "北京大兴一名60岁女子确诊，前四次核酸检测为阴性",
+            "summary": "6月25日，在北京市新冠肺炎疫情防控工作新闻发布会上，北京市疾病预防控制中心副主任庞星火通报北京大兴一名60岁女子确诊，前四次核酸检测为阴性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3SjhMn8wkWcTfSlMKEZi200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593061203000",
             "title": "确诊外卖小哥的妻子和小孩核酸阴性",
             "summary": "饿了么 25日发布微博称，6月23日，一名小哥被确诊新冠，很多人对此表达了关心与祝福。目前，小哥正在医院隔离治疗，他的妻子和小孩都已经通过了核酸检测，结果都呈阴性，目前还在集中隔离观察。饿了么还称，已为北京全部骑手进行新冠疫情险延保。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6月24日，佛罗里达卫生部表示，该州当日新增新冠肺炎确诊病例5511例，是自疫情于3月份暴发以来最高单日新增记录。目前佛州共有109014人确诊，是美国第7个确诊病例破10万例的州。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtireJ55ah0i4TFFNsWwP23200624&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593008818000",
-            "title": "甘肃24日新增3例境外输入新冠肺炎确诊病例",
-            "summary": "据甘肃省卫健委通报：截至6月24日20时，甘肃省已连续80天无新增本土确诊病例，连续88天无疑似病例，连续62天无无症状感染者。在境外输入疫情方面，6月23日沙特吉达-兰州MU7790次航班254名入境人员中，24日新增3例确诊病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigRsysnz8xLYNuLVF7yro200624&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
