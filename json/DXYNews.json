@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593087670000",
+            "title": "德法向世卫组织追加资金支持，合计增加 6.4 亿欧元",
+            "summary": "世卫组织举行记者会，世卫组织总干事谭德塞、德国卫生部长施潘、法国卫生部长韦朗共同出席。德国卫生部长施潘表示，全球健康和支持世卫组织是关键主题，现在比以往任何时候都需要一个强大、透明和负责任的世卫组织。德国今年将提供创纪录的总额超过 5 亿欧元的世卫资金支持。法国也将投入 1.4 亿欧元支持世卫。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593085140000",
+            "title": "国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正",
+            "summary": "卫健委在《关于做好精准健康管理推进人员有序流动的通知》中提出：各地要按照依法、科学、精准防控要求，规范人员健康管理措施。对在常态化防控措施之外附加其他不合理限制要求的，要立即予以纠正。对造成恶劣影响的典型案例，坚决依法查处，并通过媒体予以曝光。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593081402000",
             "title": "​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离",
             "summary": "塞内加尔国家通讯社塞通社（APS）当地时间25日报道，塞内加尔总统马基·萨勒因接触过一名新冠肺炎确诊病例，虽然萨勒总统的新冠病毒检测结果呈阴性，但作为预防措施，其决定从6月24日起进行为期两周的自我隔离。",
@@ -69,24 +87,6 @@
             "summary": "24日，世卫组织总干事谭德塞在记者会上表示，过去一个月全球新增病例近400万，世卫组织预计，一周内全球确诊病例将达1000万。世卫组织卫生紧急项目执行主任迈克尔·瑞安表示，美洲地区的疫情仍然非常严重。",
             "infoSource": "人民日报",
             "sourceUrl": "https://m.weibo.cn/2803301701/4519606640727304",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593040236000",
-            "title": "中埃友好城市举行抗疫经验视频交流会",
-            "summary": "24日，互为友好城市的中国上海和埃及亚历山大的卫生专家们，共同通过视频会议的方式进行了一场抗疫经验交流会，分享了彼此的抗疫经验。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGRuTl35kwtATcyStTKvU200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593040139000",
-            "title": "谭德塞：下周全球确诊总数将超1000万",
-            "summary": "当地时间6月24日，世卫组织召开新冠肺炎例行发布会，世卫组织总干事谭德塞表示，目前全球已报告超过910万例新冠肺炎病例，死亡超过47万例，而在疫情开始的第一个月，只有不到1万例新冠肺炎病例，世卫组织预计下周内全球新冠肺炎病例将达到1000万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHEB0efLGoRWAZDFhYlG7200625&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
