@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1593126300000",
+            "title": "德法两国向世卫组织追加资金支持 美专家预测美国真实感染人数或超2300万人",
+            "summary": "世卫组织：全球新冠肺炎确诊病例超过929万例。据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月25日14时25分（北京时间6月25日20时25分），全球累计新冠肺炎确诊病例9296202例，累计死亡病例479133例。全球新冠肺炎新增167056例，死亡新增5336例。疫情最为严重的美洲区域确诊病例达到4604134例（新增97128例），死亡230165例（新增3661例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593124597000",
+            "title": "美国内华达州26日起施行“口罩强制令”",
+            "summary": "美国内华达州“口罩强制令”将于美国当地时间6月26日（周五）正式生效，这将意味着，前往内华达州著名旅游城市拉斯维加斯的游客，从明日起必须佩戴口罩出入各个公共场所。同时为了鼓励游客遵循这一命令，拉斯维加斯许多酒店和休闲娱乐场所纷纷推出戴口罩奖励政策。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593124212000",
+            "title": "秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施",
+            "summary": "当地时间25日，秘鲁卫生部长萨莫拉在接受当地媒体采访时表示，在本月30日全国抗击新冠肺炎疫情紧急状态结束后，仍将继续实施现行的部分限制举措，如宵禁等，但或将调整实施宵禁措施的具体时间段。萨莫拉称，政府目前正在研判制定6月30日后民众应遵守的各项规定。此外，不排除在阿雷基帕及伊卡等新冠肺炎确诊病例仍在增加的地区维持严格的限制措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593121418000",
+            "title": "​希腊首例监狱感染新冠病毒病例被逆转 该服刑人员并未感染",
+            "summary": "希腊卫生部当地时间6月25日下午发布的疫情通报称，在过去24小时内，希腊新增13例新冠肺炎确诊病例，累计确诊3321例；累计死亡人数为191人。而位于雅典市郊考利达洛斯监狱的一名服刑人员的新冠检测结果被逆转，25日公布的复检结果显示，这名服刑人员并没有感染新冠病毒。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593120074000",
+            "title": "美国知名连锁百货商店梅西百货预计裁员近4000人",
+            "summary": "受新冠疫情影响，美国知名连锁百货公司梅西百货于当地时间6月25日宣布了一项重组计划，预计将裁减3900个公司和管理职位。该百货公司表示，预计裁员将为公司每年节省约6.3亿美元。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593103382000",
             "title": "法国启动独立工作小组，评估新冠疫情危机管理",
             "summary": "据法国媒体 6 月 25 日报道，法国新冠疫情危机管理评估工作小组当天正式启动，由瑞士传染病专家迪迪埃·皮泰担任负责人。该工作小组的任务是在未来六个月内对法国新冠疫情危机管理进行全面评估，并对疫情风险进行预测，从而使法国能够更好地应对未来可能出现的危机。",
@@ -42,51 +87,6 @@
             "summary": "据香港特区政府卫生防护中心的消息，截至 6 月 25 日 22 点，香港新增 14 例新冠肺炎境外输入病例，暂无本地确诊病例。至此，香港累计确诊病例增至 1193 例。14 例输入病例涉及 9 男 5 女，全部曾于潜伏期身处境外。其中 12 人曾到过巴基斯坦，其余 2 人分别到过菲律宾及印度。此外，一名由菲律宾抵港、确诊新冠肺炎的男子于 25 日死亡，累计死亡人数增至 7 人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibP2krHuLcakBl7sy2wDI200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593089686000",
-            "title": "世界卫生组织欧洲办事处主任：欧洲疫情出现反弹",
-            "summary": "当地时间 6 月 25 日，世界卫生组织欧洲办事处召开新闻发布会，欧洲办事处主任汉斯·克鲁格称，在欧洲的一些国家，随着国家调整措施而出现疫情反弹。在过去的两周中，有 30 个国家的新增病例有所增加。其中有 11 个国家，病毒加速传播导致疫情加重，如果不加以制止，这将使欧洲的卫生系统再度濒临崩溃。也有正面的例子，比如过去几周，像波兰、德国、西班牙和以色列对学校、煤矿和食品生产环境所暴发的疫情作出了快速反应，使疫情得以控制。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihtXPrGk5iylTvRynMATJ200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593089416000",
-            "title": "美国一季度经济下滑 5%",
-            "summary": "当地时间 6 月 25 日，美国商务部公布最终修正值显示，由于新冠疫情引发前所未有的经济衰退，美国经济在 2020 年第一季度以年化 5% 的速度下降。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiR0XO1VzNvSnlMQ67p7Ul200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593087670000",
-            "title": "德法向世卫组织追加资金支持，合计增加 6.4 亿欧元",
-            "summary": "世卫组织举行记者会，世卫组织总干事谭德塞、德国卫生部长施潘、法国卫生部长韦朗共同出席。德国卫生部长施潘表示，全球健康和支持世卫组织是关键主题，现在比以往任何时候都需要一个强大、透明和负责任的世卫组织。德国今年将提供创纪录的总额超过 5 亿欧元的世卫资金支持。法国也将投入 1.4 亿欧元支持世卫。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRdHbL7kpqGhpHkz7PuIp200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593085140000",
-            "title": "国家卫健委：对在常态化防控措施之外附加其他不合理限制要求的要立即予以纠正",
-            "summary": "卫健委在《关于做好精准健康管理推进人员有序流动的通知》中提出：各地要按照依法、科学、精准防控要求，规范人员健康管理措施。对在常态化防控措施之外附加其他不合理限制要求的，要立即予以纠正。对造成恶劣影响的典型案例，坚决依法查处，并通过媒体予以曝光。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti00hlg9oGymTWCUGmHDK0200625&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593081402000",
-            "title": "​塞内加尔总统萨勒因接触新冠肺炎确诊病例进行两周自我隔离",
-            "summary": "塞内加尔国家通讯社塞通社（APS）当地时间25日报道，塞内加尔总统马基·萨勒因接触过一名新冠肺炎确诊病例，虽然萨勒总统的新冠病毒检测结果呈阴性，但作为预防措施，其决定从6月24日起进行为期两周的自我隔离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artibb3PrZBGxbqleyxnkA2l200625&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
