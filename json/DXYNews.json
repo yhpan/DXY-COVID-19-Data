@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593151018000",
+            "title": "6月26日6时至10时 天津新增2例境外输入无症状感染者",
+            "summary": "6月26日6时至10时，我市新增境外输入无症状感染者2例（均为中国籍），累计28例（境外输入27例），其中解除医学观察18例、尚在医学观察7例、转为确诊病例3例。",
+            "infoSource": "天津卫健委",
+            "sourceUrl": "http://wsjk.tj.gov.cn/art/2020/6/26/art_87_74114.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593138415000",
             "title": "又有30例新增！澳大利亚维州疫情持续恶化",
             "summary": "根据澳大利亚维多利亚州卫生部门消息，当地时间6月26日该州新冠肺炎新增确诊病例30例，第10天保持两位数新增。其中，两个病例与当地的超市货源配发中心有关。在维州政府的请求下，澳大利亚国防军派出了1000多名官兵援助维州应对疫情。",
@@ -78,15 +87,6 @@
             "summary": "受新冠疫情影响，美国知名连锁百货公司梅西百货于当地时间6月25日宣布了一项重组计划，预计将裁减3900个公司和管理职位。该百货公司表示，预计裁员将为公司每年节省约6.3亿美元。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593103382000",
-            "title": "法国启动独立工作小组，评估新冠疫情危机管理",
-            "summary": "据法国媒体 6 月 25 日报道，法国新冠疫情危机管理评估工作小组当天正式启动，由瑞士传染病专家迪迪埃·皮泰担任负责人。该工作小组的任务是在未来六个月内对法国新冠疫情危机管理进行全面评估，并对疫情风险进行预测，从而使法国能够更好地应对未来可能出现的危机。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB3hG7UoQ1WwSfuGSQR4o200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
