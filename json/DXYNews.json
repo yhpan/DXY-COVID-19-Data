@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593163596000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过941万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月26日8时01分（北京时间6月26日14时01分），全球累计新冠肺炎确诊病例9413289例，累计死亡病例482730例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinvK1t0sz4RPMEfbxjict200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593159900000",
             "title": "北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理",
             "summary": "北京市西城区人民政府副区长李异通报：自6月16日凌晨2点，对广外街道天陶红莲菜市场周边7个社区实施应急封闭管理措施以来，广大居民群众给予我们充分的理解，积极支持和配合有关工作。街道社区及时组织对相关人员进行核酸检测，结果均为阴性。",
@@ -78,15 +87,6 @@
             "summary": "美国内华达州“口罩强制令”将于美国当地时间6月26日（周五）正式生效，这将意味着，前往内华达州著名旅游城市拉斯维加斯的游客，从明日起必须佩戴口罩出入各个公共场所。同时为了鼓励游客遵循这一命令，拉斯维加斯许多酒店和休闲娱乐场所纷纷推出戴口罩奖励政策。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593124212000",
-            "title": "秘鲁6月30日全国紧急状态结束后或仍将继续实施宵禁等措施",
-            "summary": "当地时间25日，秘鲁卫生部长萨莫拉在接受当地媒体采访时表示，在本月30日全国抗击新冠肺炎疫情紧急状态结束后，仍将继续实施现行的部分限制举措，如宵禁等，但或将调整实施宵禁措施的具体时间段。萨莫拉称，政府目前正在研判制定6月30日后民众应遵守的各项规定。此外，不排除在阿雷基帕及伊卡等新冠肺炎确诊病例仍在增加的地区维持严格的限制措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
