@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593154800000",
+            "title": "北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生",
+            "summary": "北京本轮疫情首位确诊患者 “西城大爷”唐先生，此前因病情反复被转入重症监护室。在ICU里治疗的7天后，他的肺部病变已经有了明显好转，如今已转到普通病房。他说，非常感谢医护人员，是他们给了自己第二次生命。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuR54dpZzwfnM9Yh8t5nQ200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593151018000",
             "title": "6月26日6时至10时 天津新增2例境外输入无症状感染者",
             "summary": "6月26日6时至10时，我市新增境外输入无症状感染者2例（均为中国籍），累计28例（境外输入27例），其中解除医学观察18例、尚在医学观察7例、转为确诊病例3例。",
@@ -78,15 +87,6 @@
             "summary": "希腊卫生部当地时间6月25日下午发布的疫情通报称，在过去24小时内，希腊新增13例新冠肺炎确诊病例，累计确诊3321例；累计死亡人数为191人。而位于雅典市郊考利达洛斯监狱的一名服刑人员的新冠检测结果被逆转，25日公布的复检结果显示，这名服刑人员并没有感染新冠病毒。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593120074000",
-            "title": "美国知名连锁百货商店梅西百货预计裁员近4000人",
-            "summary": "受新冠疫情影响，美国知名连锁百货公司梅西百货于当地时间6月25日宣布了一项重组计划，预计将裁减3900个公司和管理职位。该百货公司表示，预计裁员将为公司每年节省约6.3亿美元。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artifsil0C971Id0G9zvcll1200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
