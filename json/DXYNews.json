@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593185246000",
+            "title": "疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致",
+            "summary": "北京本次疫情排除武汉流行毒株或动物病毒传染人。今天（26日），中国疾控中心公布了“6月北京新型冠状病毒肺炎疫情进展”，其中病毒来源分析中指出：北京本次疫情流行的新冠病毒为L基因型欧洲家系分支Ⅰ，该毒株比当前欧洲流行同型毒株更“老”；本次疫情可以排除由动物病毒外溢传染人，也排除今年4月前北京本地传播毒株或武汉流行毒株导致。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593181684000",
+            "title": "新发地市场牛羊肉综合交易大楼常务副经理被免职",
+            "summary": "北京新发地市场网站日前公布一份任免通知。通知说，经市场经理办公会研究决定，免去李友牛羊肉综合交易大楼常务副经理职务，自2020年6月22日起开始执行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593178507000",
+            "title": "日本新增103例新冠肺炎确诊病例 累计18315例",
+            "summary": "据日本放送协会消息，当地时间26日0时-21时，日本单日新增新冠肺炎确诊病例103例，日本累计新冠肺炎确诊病例达到18315例。其中，26日，东京新增54例新冠肺炎病例，至此，东京累计确诊人数为5997例。目前日本国内新冠肺炎死亡人数为971人，患者出院人数达到16392人。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDQprDZdBQQOTzz4N2N4K200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593163596000",
             "title": "世卫组织：全球新冠肺炎确诊病例超过941万例",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月26日8时01分（北京时间6月26日14时01分），全球累计新冠肺炎确诊病例9413289例，累计死亡病例482730例。",
@@ -60,33 +87,6 @@
             "summary": "澳门新型冠状病毒感染应变协调中心26日表示，当天新增1例境外输入新冠肺炎确诊病例，累计确诊病例46例。这也是澳门4月8日确诊第45例新冠肺炎病例后，时隔78天再次出现确诊病例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLGwTiWTdY6Z78WaEozMN200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593134173000",
-            "title": "疫情导致经济放缓 美国加州洛杉矶县治安管理局计划裁员并削减1.62亿美元预算",
-            "summary": "美国加州洛杉矶县官员于当地时间6月25日宣布，疫情导致加州经济放缓，在一系列削减经费的拟定预算中，该县公共安全部门将首当其冲，受到总体开支削减8%的影响，为此洛杉矶县治安管理局计划裁员400人，并从33亿美元的预算中削减1.62亿美元。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinrvdNzKoFPjzg8C8A3Rv200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593126300000",
-            "title": "德法两国向世卫组织追加资金支持 美专家预测美国真实感染人数或超2300万人",
-            "summary": "世卫组织：全球新冠肺炎确诊病例超过929万例。据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月25日14时25分（北京时间6月25日20时25分），全球累计新冠肺炎确诊病例9296202例，累计死亡病例479133例。全球新冠肺炎新增167056例，死亡新增5336例。疫情最为严重的美洲区域确诊病例达到4604134例（新增97128例），死亡230165例（新增3661例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYXT4yd09ShM723Dyxan3200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593124597000",
-            "title": "美国内华达州26日起施行“口罩强制令”",
-            "summary": "美国内华达州“口罩强制令”将于美国当地时间6月26日（周五）正式生效，这将意味着，前往内华达州著名旅游城市拉斯维加斯的游客，从明日起必须佩戴口罩出入各个公共场所。同时为了鼓励游客遵循这一命令，拉斯维加斯许多酒店和休闲娱乐场所纷纷推出戴口罩奖励政策。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiO9hFQLOfXdcttyaTwlh5200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
