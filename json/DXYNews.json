@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593159900000",
+            "title": "北京西城天陶红莲菜市场相关人员核酸检测均为阴性，周边社区解除应急封闭管理",
+            "summary": "北京市西城区人民政府副区长李异通报：自6月16日凌晨2点，对广外街道天陶红莲菜市场周边7个社区实施应急封闭管理措施以来，广大居民群众给予我们充分的理解，积极支持和配合有关工作。街道社区及时组织对相关人员进行核酸检测，结果均为阴性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifuG9kQy5uwEIPOqx9jxP200626&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593154800000",
             "title": "北京“西城大爷”从ICU转回普通病房，称最感谢的人是医生",
             "summary": "北京本轮疫情首位确诊患者 “西城大爷”唐先生，此前因病情反复被转入重症监护室。在ICU里治疗的7天后，他的肺部病变已经有了明显好转，如今已转到普通病房。他说，非常感谢医护人员，是他们给了自己第二次生命。",
@@ -78,15 +87,6 @@
             "summary": "当地时间25日，秘鲁卫生部长萨莫拉在接受当地媒体采访时表示，在本月30日全国抗击新冠肺炎疫情紧急状态结束后，仍将继续实施现行的部分限制举措，如宵禁等，但或将调整实施宵禁措施的具体时间段。萨莫拉称，政府目前正在研判制定6月30日后民众应遵守的各项规定。此外，不排除在阿雷基帕及伊卡等新冠肺炎确诊病例仍在增加的地区维持严格的限制措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti13ltQyQiWgUKZTR7FyOR200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593121418000",
-            "title": "​希腊首例监狱感染新冠病毒病例被逆转 该服刑人员并未感染",
-            "summary": "希腊卫生部当地时间6月25日下午发布的疫情通报称，在过去24小时内，希腊新增13例新冠肺炎确诊病例，累计确诊3321例；累计死亡人数为191人。而位于雅典市郊考利达洛斯监狱的一名服刑人员的新冠检测结果被逆转，25日公布的复检结果显示，这名服刑人员并没有感染新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRw5sg3cg6EvIU52SzmX1200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
