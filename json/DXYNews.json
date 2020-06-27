@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593218273000",
+            "title": "     北京昨日新增报告17例新冠肺炎确诊病例 ",
+            "summary": "\n\t\t\t            6月26日0时至24时，新增报告本地确诊病例17例、无症状感染者4例，无新增疑似病例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。        6月11日0时至6月26日24时，累计报告本地确诊病例297例，在院297例。尚在观察的无症状感染者25例；无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。        新增确诊病例中，丰台区15例、大兴区2例。        全市有14个区无本地报告新增确诊病例，具体为平谷区自有疫情以来无报告病例、延庆区155天、怀柔区141天、顺义区139天、密云区136天、石景山区12天、门头沟区11天、房山区11天、东城区10天、通州区6天、朝阳区5天、西城区4天、海淀区1天、昌平区1天。\n                \n            ",
+            "infoSource": "北京卫健委",
+            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200627_1932820.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593217800000",
+            "title": "北京26日新增新冠肺炎确诊病例17例",
+            "summary": "6月26日0时至24时，北京新增报告本地确诊病例17例、无症状感染者4例，无新增疑似病例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。6月11日0时至6月26日24时，累计报告本地确诊病例297例，在院297例。尚在观察的无症状感染者25例；无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。新增确诊病例中，丰台区15例、大兴区2例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593217080000",
+            "title": "国家卫健委：26日新增21例新冠肺炎确诊病例 北京确诊17例本土病例",
+            "summary": "6月26日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例21例，其中境外输入病例4例（广东2例，上海1例，甘肃1例），本土病例17例（均在北京）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。当日新增治愈出院病例5例，解除医学观察的密切接触者791人，重症病例与前一日持平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593213696000",
             "title": "智利新增4296例新冠肺炎确诊病例 累计263360例",
             "summary": "当地时间26日，智利卫生部公布，全国新增4296例新冠肺炎确诊病例，累计确诊263360例。新增165例死亡病例，累计5068例。卫生部官员介绍，去年底智利公立医院体系内一共只有600台呼吸机，疫情期间政府大量引进医疗设备和物资，使智利新冠肺炎死亡率保持在2%以内的较低水平。",
@@ -60,33 +87,6 @@
             "summary": "当地时间6月26日，美国疾控中心官员和国家过敏症和传染病研究所所长安东尼·福奇在当日的白宫疫情简报会上表示，新冠肺炎疫情反弹数据说明美国部分地区正面临“严峻问题”。福奇表示，部分地区的疫情反弹归根于经济开放过早，或民众未能遵守防疫准则。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1iBBPHAbgziZ6LnhxUmE200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593189625000",
-            "title": "世卫组织：中国积极研发新冠疫苗 将进一步合作并提供支持",
-            "summary": "当地时间26日，世卫组织举行新冠肺炎例行发布会，介绍“获取新冠肺炎相关工具”加速器运行情况。“获取新冠肺炎相关工具”加速器特使安德鲁·威蒂表示，新冠疫苗研发体现了全球多样化组合，既有传统西方药企的贡献，同时也看到了中国积极开展的研究项目，正在继续加速研发。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artils64PkWSWBEcb4T7pXlH200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593185246000",
-            "title": "疾控专家：新发地疫情的病毒跟欧洲三四月份流行的毒株基本一致",
-            "summary": "北京本次疫情排除武汉流行毒株或动物病毒传染人。今天（26日），中国疾控中心公布了“6月北京新型冠状病毒肺炎疫情进展”，其中病毒来源分析中指出：北京本次疫情流行的新冠病毒为L基因型欧洲家系分支Ⅰ，该毒株比当前欧洲流行同型毒株更“老”；本次疫情可以排除由动物病毒外溢传染人，也排除今年4月前北京本地传播毒株或武汉流行毒株导致。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0O339rCaivgE29rhS7o8200626&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593181684000",
-            "title": "新发地市场牛羊肉综合交易大楼常务副经理被免职",
-            "summary": "北京新发地市场网站日前公布一份任免通知。通知说，经市场经理办公会研究决定，免去李友牛羊肉综合交易大楼常务副经理职务，自2020年6月22日起开始执行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijy6UEeB27HI5N0e3pFhs200626&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
