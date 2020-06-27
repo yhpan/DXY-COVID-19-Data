@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593266358000",
+            "title": "香港27日新增1例境外输入新冠肺炎确诊病例",
+            "summary": "来自香港特区政府卫生防护中心的消息，截至6月26日21点，香港新增1例境外输入新冠肺炎确诊病例，暂无本地感染个案。该名女患者曾到过菲律宾。至此，香港累计确诊病例增至1197例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593263750000",
+            "title": "美国疾控中心：美国实际感染人数可能是目前的10倍",
+            "summary": "美国新冠肺炎疫情持续恶化，多州单日新增确诊人数创近期新高。美国疾病预防与控制中心（CDC）表示，美国可能至少已有2400万人感染了新冠病毒，实际感染数量是目前报道数字的10倍。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593257546000",
             "title": "土耳其高考期间实施全国“禁足令”",
             "summary": "当地时间6月27—28日，土耳其举行全国高考。为了防控疫情，土耳其政府在全国实施“禁足令”，禁足时段为6月27日09:30—15:00以及6月28日09:30—18:30。在此期间，考生和家长不受禁令限制，此外，国内外游客去海滩、博物馆、历史遗迹等景点游玩也不受限制。",
@@ -69,24 +87,6 @@
             "summary": "当地时间26日，世界卫生组织召开新冠肺炎例行发布会时宣布，世卫组织计划明年年底前提供20亿剂疫苗。世卫组织首席科学家苏米娅·斯瓦米纳坦表示，目前中国至少有四种候选疫苗正从二期临床试验进入三期临床试验，世卫组织已与多个中国疫苗研发团队就进一步合作展开讨论。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4520373138512318",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593222365000",
-            "title": "国际货币基金组织：受疫情影响 2020年拉美地区将出现有统计以来最严重经济衰退",
-            "summary": "国际货币基金组织西半球部门负责人亚历杭德罗·维尔纳（Alejandro Werner）于当地时间26日表示，拉丁美洲已成为新冠肺炎疫情的新震中，这将导致该地区出现有统计以来最严重的经济衰退，预计2020年该地区国家的国内生产总值将下降9.4%。国际货币基金组织曾在24日发布的最新世界经济展望报告中，将巴西和墨西哥这两个拉美最大经济体2020年的增长预期分别调至-9.1%和-10.5%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artix5rR8TmDNKn8Ww1KpKRX200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593220749000",
-            "title": "厄瓜多尔使用计算机技术辅助防疫  拟扩大复工规模",
-            "summary": "为应对复工带来的防疫压力，厄瓜多尔政府推出实验项目，利用监控摄像头网络，结合计算机图像分析技术，监测公共场合民众遵守社交隔离的情况。计算机会根据监控画面自动分析人群社交距离，对出现人群聚集的场所，将通过现场的广播设备发出警告，必要的情况下可派出专业人员进行驱散。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOmc3kLS8A3X6eGCrVtn200627&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
