@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593246947000",
+            "title": "中国疾控中心：通过短时间的接触快递被感染的几率很低",
+            "summary": "中国疾病预防控制中心研究员王丽萍在新冠肺炎疫情防控第134场例行新闻发布会上回答记者提问时提到，通过短时间的接触快递被感染的几率很低，在小区门口接收快递时注意佩戴口罩，妥善处理快递的外包装以后，要及时用流水和肥皂水洗手。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593246510000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过959万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月27日8时18分（北京时间6月27日14时18分），全球累计新冠肺炎确诊病例9590149例，累计死亡病例489493例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593235170000",
             "title": "疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨",
             "summary": "当地时间27日，澳大利亚维多利亚州卫生部官员表示，该州在过去的24小时内发现新冠肺炎确诊病例41例，为近期单日新增最多的一天，这是该州自疫情反弹以来连续第11天保持两位数新增。",
@@ -69,24 +87,6 @@
             "summary": "6月26日0时至24时，北京新增报告本地确诊病例17例、无症状感染者4例，无新增疑似病例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。6月11日0时至6月26日24时，累计报告本地确诊病例297例，在院297例。尚在观察的无症状感染者25例；无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。新增确诊病例中，丰台区15例、大兴区2例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJO13ajxhye963wrl7qT8200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593217080000",
-            "title": "国家卫健委：26日新增21例新冠肺炎确诊病例 北京确诊17例本土病例",
-            "summary": "6月26日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例21例，其中境外输入病例4例（广东2例，上海1例，甘肃1例），本土病例17例（均在北京）；无新增死亡病例；新增疑似病例1例，为境外输入病例（在上海）。当日新增治愈出院病例5例，解除医学观察的密切接触者791人，重症病例与前一日持平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBVWIWxZ9Cn2DIx4PGNC1200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593213696000",
-            "title": "智利新增4296例新冠肺炎确诊病例 累计263360例",
-            "summary": "当地时间26日，智利卫生部公布，全国新增4296例新冠肺炎确诊病例，累计确诊263360例。新增165例死亡病例，累计5068例。卫生部官员介绍，去年底智利公立医院体系内一共只有600台呼吸机，疫情期间政府大量引进医疗设备和物资，使智利新冠肺炎死亡率保持在2%以内的较低水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidvmuhljKl1QNghDgMwqO200627&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
