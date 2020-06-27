@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593272097000",
+            "title": "美国至少11个州暂停或推迟重启",
+            "summary": "据CNN报道，截至当地时间6月26日，美国至少已有11个州暂停或推迟了重启计划。其中，佛罗里达州和得克萨斯州州长分别撤回了重启计划中的部分措施，宣布暂停重启。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593268848000",
+            "title": "西班牙安达卢西亚大区疫情继续暴发 ，5省确诊病例升至172例",
+            "summary": "根据西班牙安达卢西亚大区卫生部27日的最新官方数据，该大区的新冠疫情暴发愈发严重，目前登记的9起局部暴发疫情共波及该大区五个省，总计已通过核酸检测确诊172例感染病例，过去24小时内新增45例感染病例和2例死亡病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593266358000",
             "title": "香港27日新增1例境外输入新冠肺炎确诊病例",
             "summary": "来自香港特区政府卫生防护中心的消息，截至6月26日21点，香港新增1例境外输入新冠肺炎确诊病例，暂无本地感染个案。该名女患者曾到过菲律宾。至此，香港累计确诊病例增至1197例。",
@@ -69,24 +87,6 @@
             "summary": "据韩国卫生部门消息，截至当地时间27日0时，过去24小时（26日0时—27日0时）韩国累计报告新增确诊新型冠状病毒感染者51人，韩国确诊感染者总数达12653人，累计死亡282人，累计治愈11317人。26日新增确诊的51人中，31人属韩国本地社区感染，另外20人属于境外输入病例。31名本地感染中有27人来自首都圈地区，韩国首都圈疫情依旧处于频发状态。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593227004000",
-            "title": "秘鲁政府宣布将全国紧急状态延至7月31日",
-            "summary": "秘鲁政府将国家紧急状态延长至7月31日。根据最新规定，为进一步抗击新冠肺炎疫情，7月1日起秘鲁全国将实行分区域隔离政策，即在包括阿雷基帕、伊卡及胡宁等7个新冠肺炎确诊病例仍在增加的区域继续执行严格的隔离措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUAG1hRomxl9e6Zb7TCmn200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593224403000",
-            "title": "世卫组织计划2021年底前提供20亿剂新冠疫苗",
-            "summary": "当地时间26日，世界卫生组织召开新冠肺炎例行发布会时宣布，世卫组织计划明年年底前提供20亿剂疫苗。世卫组织首席科学家苏米娅·斯瓦米纳坦表示，目前中国至少有四种候选疫苗正从二期临床试验进入三期临床试验，世卫组织已与多个中国疫苗研发团队就进一步合作展开讨论。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4520373138512318",
             "province": null,
             "provinceId": ""
         }
