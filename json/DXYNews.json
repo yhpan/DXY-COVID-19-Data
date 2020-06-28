@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593311712000",
+            "title": "韩国单日新增62例新冠肺炎确诊病例，为一周以来最高",
+            "summary": "韩国中央防疫对策本部当地时间28日通报，6月27日0时至6月28日0时，韩国新增62例新冠肺炎确诊病例，时隔8天单日新增病例再次达60例以上，累计确诊病例12715例。新增病例中，40例为本土病例，其余22例为境外输入病例。新增本土病例中，来自首尔和京畿道各13例，首都圈防疫形势依然严峻。新增的输入病例中，有16例在入境检疫过程中被确诊，其余6例则是在居家隔离时被发现。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8SAvhvMRtsKwiWALVBfh200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593309426000",
+            "title": "美国洛杉矶县新冠肺炎住院率持续上升",
+            "summary": "美国洛杉矶县公共卫生官员当地时间6月27日表示，该县医疗机构提供的数据显示，目前在该县住院治疗的新冠肺炎患者为1698人，这一数字高于两周前的平均住院人数（1350人），同时该县连日来平均日新增病例达到1900例，此数据也高于两周前的平均日新增病例数，即1379例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNfsVwyUJTDkHjXxazD5c200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593306514000",
+            "title": "墨西哥全国确诊新冠肺炎病例212802例，死亡病例上升到26381例",
+            "summary": "墨西哥卫生部宣布，截止到6月27日晚上7点，墨西哥全国确诊212802例新冠肺炎病例，较前一天新增了4410例。同时，墨西哥全国确诊死亡病例较前一天新增602例，总数已经上升到26381例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti84WLjcznNEpvA7U9TC8G200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593302815000",
             "title": "美国迈阿密戴德县将在国庆节假日期间关闭所有海滩",
             "summary": "由于美国佛罗里达州新冠病毒确诊病例激增，迈阿密戴德县宣布计划在7月4日国庆节假期间关闭所有海滩。迈阿密戴德县县长卡洛斯·吉梅内斯在一份声明中表示，在听取该县的公共卫生专家就目前疫情的报告后，已于周六（6月27日）签署紧急命令，将从7月3日周五开始到7月7日周二，关闭迈阿密戴德的所有海滩。由于越来越多的年轻人检测呈阳性，住院人数也在上升，县长吉梅内斯在声明中强调了关闭海滩的重要性。",
@@ -60,33 +87,6 @@
             "summary": "来自香港特区政府卫生防护中心的消息，截至6月26日21点，香港新增1例境外输入新冠肺炎确诊病例，暂无本地感染个案。该名女患者曾到过菲律宾。至此，香港累计确诊病例增至1197例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593263750000",
-            "title": "美国疾控中心：美国实际感染人数可能是目前的10倍",
-            "summary": "美国新冠肺炎疫情持续恶化，多州单日新增确诊人数创近期新高。美国疾病预防与控制中心（CDC）表示，美国可能至少已有2400万人感染了新冠病毒，实际感染数量是目前报道数字的10倍。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8TrE8kQrXNGPSmMbAf0y200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593257546000",
-            "title": "土耳其高考期间实施全国“禁足令”",
-            "summary": "当地时间6月27—28日，土耳其举行全国高考。为了防控疫情，土耳其政府在全国实施“禁足令”，禁足时段为6月27日09:30—15:00以及6月28日09:30—18:30。在此期间，考生和家长不受禁令限制，此外，国内外游客去海滩、博物馆、历史遗迹等景点游玩也不受限制。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2cyOGmi3kRc8mbh78h8W200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593256525000",
-            "title": "​因疫情无法返校做实验，武大团队造600多个“家庭实验室”送到学生家中",
-            "summary": "近日，武汉大学电子信息学院实行的“家庭电子实验室”在线教学，全面完成本学期所有实验教学任务。这些“家庭电子实验室”是由该团队老师将100多万件电子元器件挑选分装成600多个实验套件，再加上自主研发的集成仪器一起打包，通过快递送到学生家中的，从而在学生因疫情无法返校期间，也能在家做实验进行实践学习。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
