@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593314198000",
+            "title": "多地推出多种优惠措施提振消费信心 端午市场回暖迹象明显",
+            "summary": "端午假期是疫情防控常态化后的首个传统节日，各地推出多种优惠措施提振消费信心，农业生产、文化旅游、商贸服务多个行业亮点不断，市场回暖迹象明显。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0d73uhmvrHroWMVPSfQP200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593313626000",
+            "title": "巴西新冠疫情最严重州累计死亡超1.4万，八成属重症高风险人群",
+            "summary": "当地时间27日，巴西疫情“震中”圣保罗州645个城市中已有617个城市报告出现新冠肺炎确诊患者，全州共确诊新冠肺炎265581例，其中359个城市出现死亡病例，累计死亡14263例。目前，该州的重症监护病床占用率达到65.3%，共收治了5636名患者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNNfyr98ggHeVXTNqpW9F200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593311712000",
             "title": "韩国单日新增62例新冠肺炎确诊病例，为一周以来最高",
             "summary": "韩国中央防疫对策本部当地时间28日通报，6月27日0时至6月28日0时，韩国新增62例新冠肺炎确诊病例，时隔8天单日新增病例再次达60例以上，累计确诊病例12715例。新增病例中，40例为本土病例，其余22例为境外输入病例。新增本土病例中，来自首尔和京畿道各13例，首都圈防疫形势依然严峻。新增的输入病例中，有16例在入境检疫过程中被确诊，其余6例则是在居家隔离时被发现。",
@@ -19,11 +37,29 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1593307203000",
+            "title": "上海新增1例美国输入确诊病例",
+            "summary": "上海市卫健委今早通报：6月27日0—24时，通过口岸联防联控机制，报告1例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自墨西哥。病例为中国籍，在美国工作，6月24日自美国出发，6月25日抵达上海浦东国际机场，入关后即被集中隔离观察，期间出现症状。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4520710003735860",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593306514000",
             "title": "墨西哥全国确诊新冠肺炎病例212802例，死亡病例上升到26381例",
             "summary": "墨西哥卫生部宣布，截止到6月27日晚上7点，墨西哥全国确诊212802例新冠肺炎病例，较前一天新增了4410例。同时，墨西哥全国确诊死亡病例较前一天新增602例，总数已经上升到26381例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti84WLjcznNEpvA7U9TC8G200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593305944000",
+            "title": "端午假期全国快递业务量同比增长超四成",
+            "summary": "国家邮政局监测数据显示，端午节假期（6月25日至27日），邮政快递全行业共揽收快递包裹6.07亿件，同比增长45.38%，投递快递包裹6.51亿件，同比增长47.68%，有效满足了节日期间人民群众生产生活物资和上下游产业复工复产物资寄递需求。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEthQxGXvijgavqrbs1kG200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         },
@@ -51,42 +87,6 @@
             "summary": "当地时间6月27日，秘鲁部长会议主席（总理）塞瓦略斯宣布，政府或将于近期在完善相关卫生安全规定后，恢复除因确诊病例增加而继续执行严格隔离措施的7个地区以外，其他区域间的航班及陆路交通。当天，秘鲁国防部长马尔托斯强调，政府将在当地时间7月1日起开始按照区域及人群执行差异化的隔离措施，随后15天内将进行一次评估，如发现新冠肺炎感染人数出现上升，则将重新全面执行严格的隔离措施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593290838000",
-            "title": "西班牙北部一建筑被隔离，共发现13例阳性病例",
-            "summary": "位于西班牙北部的坎塔布里亚大区政府27日宣布，由于新冠疫情的暴发，桑坦德市一座建筑已被处在隔离状态10天，该建筑内部居住人群中最新确诊4例新冠阳性病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593272097000",
-            "title": "美国至少11个州暂停或推迟重启",
-            "summary": "据CNN报道，截至当地时间6月26日，美国至少已有11个州暂停或推迟了重启计划。其中，佛罗里达州和得克萨斯州州长分别撤回了重启计划中的部分措施，宣布暂停重启。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8Ogfs8QTIoHqoMpt9HAq200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593268848000",
-            "title": "西班牙安达卢西亚大区疫情继续暴发 ，5省确诊病例升至172例",
-            "summary": "根据西班牙安达卢西亚大区卫生部27日的最新官方数据，该大区的新冠疫情暴发愈发严重，目前登记的9起局部暴发疫情共波及该大区五个省，总计已通过核酸检测确诊172例感染病例，过去24小时内新增45例感染病例和2例死亡病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipcU5tbyQ6ucmU94ELwky200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593266358000",
-            "title": "香港27日新增1例境外输入新冠肺炎确诊病例",
-            "summary": "来自香港特区政府卫生防护中心的消息，截至6月26日21点，香港新增1例境外输入新冠肺炎确诊病例，暂无本地感染个案。该名女患者曾到过菲律宾。至此，香港累计确诊病例增至1197例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia9B1fA0A69DHb9Y4lbWj200627&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
