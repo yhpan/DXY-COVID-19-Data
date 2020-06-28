@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593357183000",
+            "title": "巴西里约球场7月10日起允许观众观看比赛",
+            "summary": "巴西里约市政府本周末发布公告，自7月10日起准许观众入场观看足球比赛。公告同时规定，每场球赛的观众人数不得多于观众席位数的1/3，每名观众座位四周4平方米内不得有其他人，必须采取网上或自助售票机的售票方式。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593353926000",
+            "title": "​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩",
+            "summary": "据伊朗总统办公室当地时间28日消息，伊朗总统鲁哈尼在抗击新冠疫情特别工作组会议上表示，民众遵守防疫提示是抗击新冠疫情的唯一途径，自7月5日起，所有人在公共聚集区域及室内区域必须佩戴口罩。一旦疫情再次出现感染高峰，将给医疗人员带来巨大的压力。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593345594000",
             "title": "科威特新增551例新冠肺炎确诊病例 累计44942例",
             "summary": "科威特卫生部当地时间28日下午发布通告，确认过去24小时境内新增551例新冠肺炎肺炎确诊病例，同时新增4例死亡病例。通告显示，新增病例均为本地感染病例。至此科威特境内新冠肺炎累计确诊病例数量已达44942例，其中348名患者病重不治去世，149名患者病情较为严重，35494名患者已治愈出院。",
@@ -69,24 +87,6 @@
             "summary": "6 月 28 日下午，北京召开新冠肺炎疫情防控第 135 场例行新闻发布会。北京市疾病预防控制中心副主任庞星火在会上就北京市 6 月 27 日新增确诊病例的相关情况进行通报。庞星火介绍，6 月 27 日 0 时至 24 时，新增确诊病例 14 例，其中男性 6 例，女性 8 例；最小 22 岁，最大 63 岁；丰台区 10 例，大兴区 4 例。已完成12例确诊病例流行病学调查，两例正在调查中。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593324034000",
-            "title": "拟将新冠肺炎纳入妨害传染病防治罪调整范围",
-            "summary": "刑法修正案（十一）草案修改了妨害传染病防治罪，明确新冠肺炎等依法确定的采取甲类传染病管理措施的传染病，属于本罪调整范围；补充完善构成犯罪的情形，增加规定了拒绝执行人民政府依法提出的预防控制措施，非法出售、运输疫区被污染物品等犯罪行为。",
-            "infoSource": "央视新闻",
-            "sourceUrl": "https://m.weibo.cn/2656274875/4520791020515509",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593323151000",
-            "title": "疫情持续蔓延，巴西经济不堪重负",
-            "summary": "虽然巴西目前累计确诊病例数还低于美国，但事实上疫情状况以及对经济的影响都应当比美国更为严重的。巴西实际感染人数远高于官方数据，每周死亡人数都在刷新纪录。而巴西经济，疫情之下更是不堪重负。国际货币基金组织对巴西今年的增长预期从 -5.3% 降至 -9.1%。这是一个非常悲观的预期。巴西货币雷亚尔一度贬值超过 50%，目前仍剧烈波动。巴西失业率目前接近 13%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
