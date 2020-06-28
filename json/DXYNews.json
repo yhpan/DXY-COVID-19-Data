@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1593324034000",
+            "title": "拟将新冠肺炎纳入妨害传染病防治罪调整范围",
+            "summary": "刑法修正案（十一）草案修改了妨害传染病防治罪，明确新冠肺炎等依法确定的采取甲类传染病管理措施的传染病，属于本罪调整范围；补充完善构成犯罪的情形，增加规定了拒绝执行人民政府依法提出的预防控制措施，非法出售、运输疫区被污染物品等犯罪行为。",
+            "infoSource": "央视新闻",
+            "sourceUrl": "https://m.weibo.cn/2656274875/4520791020515509",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593323151000",
+            "title": "疫情持续蔓延，巴西经济不堪重负",
+            "summary": "虽然巴西目前累计确诊病例数还低于美国，但事实上疫情状况以及对经济的影响都应当比美国更为严重的。巴西实际感染人数远高于官方数据，每周死亡人数都在刷新纪录。而巴西经济，疫情之下更是不堪重负。国际货币基金组织对巴西今年的增长预期从 -5.3% 降至 -9.1%。这是一个非常悲观的预期。巴西货币雷亚尔一度贬值超过 50%，目前仍剧烈波动。巴西失业率目前接近 13%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAR3K9AspDe3kkEKLql8V200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593321603000",
+            "title": "印度新确诊 19906 例，系单日最大增幅 ",
+            "summary": "印度卫生部官方网站公布的最新数据显示，截至当地时间 6 月 28 日上午，印度新冠肺炎确诊病例已升至 528859 例，在过去 24 小时内，印度新增确诊病例 19906 例，为单日最大增幅。新增死亡病例 410 例，累计死亡病例 16095 例。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4520780823831858",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593320403000",
+            "title": "东京解禁后疫情反弹严重：多数病例为年轻人，感染途径成谜",
+            "summary": "27 日，日本东京都单日新增新冠肺炎确诊病例达 57 人，为紧急事态宣言解除后人数最多的一天。至此，东京已连续 4 天维持 50 人前后的高确诊人数，累计确诊达 6054 人。在 57 名新增感染者中，有 36 人感染途径不明。有 17 人是夜间繁华街的服务人员及客人。20 至 30 多岁的感染者达 41 人，",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4520775790805161",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593314198000",
             "title": "多地推出多种优惠措施提振消费信心 端午市场回暖迹象明显",
             "summary": "端午假期是疫情防控常态化后的首个传统节日，各地推出多种优惠措施提振消费信心，农业生产、文化旅游、商贸服务多个行业亮点不断，市场回暖迹象明显。",
@@ -51,42 +87,6 @@
             "summary": "墨西哥卫生部宣布，截止到6月27日晚上7点，墨西哥全国确诊212802例新冠肺炎病例，较前一天新增了4410例。同时，墨西哥全国确诊死亡病例较前一天新增602例，总数已经上升到26381例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti84WLjcznNEpvA7U9TC8G200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593305944000",
-            "title": "端午假期全国快递业务量同比增长超四成",
-            "summary": "国家邮政局监测数据显示，端午节假期（6月25日至27日），邮政快递全行业共揽收快递包裹6.07亿件，同比增长45.38%，投递快递包裹6.51亿件，同比增长47.68%，有效满足了节日期间人民群众生产生活物资和上下游产业复工复产物资寄递需求。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEthQxGXvijgavqrbs1kG200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593302815000",
-            "title": "美国迈阿密戴德县将在国庆节假日期间关闭所有海滩",
-            "summary": "由于美国佛罗里达州新冠病毒确诊病例激增，迈阿密戴德县宣布计划在7月4日国庆节假期间关闭所有海滩。迈阿密戴德县县长卡洛斯·吉梅内斯在一份声明中表示，在听取该县的公共卫生专家就目前疫情的报告后，已于周六（6月27日）签署紧急命令，将从7月3日周五开始到7月7日周二，关闭迈阿密戴德的所有海滩。由于越来越多的年轻人检测呈阳性，住院人数也在上升，县长吉梅内斯在声明中强调了关闭海滩的重要性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593298701000",
-            "title": "北京20家医疗机构对首都高校开展核酸检测 筑牢校园防疫防火墙",
-            "summary": "昨天（6月27日）起，国家卫生健康委医政医管局在北京市教工委协调配合下，组织20家医疗机构对在京近百所高校师生开展核酸检测，并可根据需要出具离京检测报告。国家卫生健康委医疗管理服务指导中心处长 赵靖：核酸检测对象是所有在校员工和在校的学生，大概人数在10万余人。按我们的要求和安排从27日的中午12点前开始检测，开始采样，在28日中午12点前完成核酸的采样，28日晚上24点前完成核酸检测并出结果。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593296688000",
-            "title": "秘鲁或将于近期恢复部分省际交通",
-            "summary": "当地时间6月27日，秘鲁部长会议主席（总理）塞瓦略斯宣布，政府或将于近期在完善相关卫生安全规定后，恢复除因确诊病例增加而继续执行严格隔离措施的7个地区以外，其他区域间的航班及陆路交通。当天，秘鲁国防部长马尔托斯强调，政府将在当地时间7月1日起开始按照区域及人群执行差异化的隔离措施，随后15天内将进行一次评估，如发现新冠肺炎感染人数出现上升，则将重新全面执行严格的隔离措施。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
