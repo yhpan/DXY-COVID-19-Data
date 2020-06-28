@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593385286000",
+            "title": "智利北部安托法加斯塔大区新冠肺炎平均感染率超过首都圣地亚哥",
+            "summary": "根据智利卫生部28日公布的最新数据，北部的安托法加斯塔大区新增新冠肺炎确诊病例281例，累计确诊8308例，仅次于首都和瓦尔帕莱索大区，是受疫情影响最严重的第三大地区。如果考虑到平均感染率，安托法加斯塔大区每10万人中就有超过40人感染新冠肺炎，超过了疫情最为严重的首都地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artidxxeg60qWGSTbzwyj2aL200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593384792000",
+            "title": "秘鲁政府28日进行全民手机问卷调查 了解民众健康安全等状况",
+            "summary": "据秘鲁卫生部28日报告，过去24小时，该国新增3430例新冠肺炎确诊病例，累计确诊病例达到279419例。新增死亡病例182例，累计死亡9317例。目前，已有167998人康复，仍有10861名患者在接受住院治疗。\n同日，秘鲁部长会议数字化政府部官员柯乔巴称，政府于当天中午12时向全国超过4000万在网手机用户发送问卷调查，了解民众当前的健康安全等状况。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593357183000",
             "title": "巴西里约球场7月10日起允许观众观看比赛",
             "summary": "巴西里约市政府本周末发布公告，自7月10日起准许观众入场观看足球比赛。公告同时规定，每场球赛的观众人数不得多于观众席位数的1/3，每名观众座位四周4平方米内不得有其他人，必须采取网上或自助售票机的售票方式。",
@@ -69,24 +87,6 @@
             "summary": "28 日下午四点，北京召开第 135 场疫情防控新闻发布会。会上，北京市委组织部副部长张强通报：截至 6 月 28 日 12 时，北京全市累计完成采样 829.9 万人，已完成检测 768.7 万人，基本完成应检尽检人员动态清零。据了解，根据轻重缓急，北京全市共分四个批次对应检尽检人员进行核酸检测。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti48gBbbTZgRkh5499wxJ2200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593332911000",
-            "title": "北京：26、27 日丰台新增确诊病例 25 例均来自集中隔离点",
-            "summary": "28 日下午四点，北京召开第 135 场疫情防控新闻发布会。会上，北京市丰台区委副书记、区政府代区长初军威通报：从丰台近期确诊病例的情况来看，丰台病例主要发现在集中隔离点。特别是 26 日、27 日丰台区新增的 25 例确诊病例均来源于集中隔离点，其中，美高美酒店集中隔离点确诊 23 例。病例来源全部为新发地市场牛羊肉综合大楼地下一层的从业人员。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisoDWZ5ihWBgDc8NgiFuY200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593332100000",
-            "title": "北京通报 27 日新冠肺炎新增确诊病例详情",
-            "summary": "6 月 28 日下午，北京召开新冠肺炎疫情防控第 135 场例行新闻发布会。北京市疾病预防控制中心副主任庞星火在会上就北京市 6 月 27 日新增确诊病例的相关情况进行通报。庞星火介绍，6 月 27 日 0 时至 24 时，新增确诊病例 14 例，其中男性 6 例，女性 8 例；最小 22 岁，最大 63 岁；丰台区 10 例，大兴区 4 例。已完成12例确诊病例流行病学调查，两例正在调查中。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihryZG6Iwcjtf2LPZBpA7200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
