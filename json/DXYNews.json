@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1593302815000",
+            "title": "美国迈阿密戴德县将在国庆节假日期间关闭所有海滩",
+            "summary": "由于美国佛罗里达州新冠病毒确诊病例激增，迈阿密戴德县宣布计划在7月4日国庆节假期间关闭所有海滩。迈阿密戴德县县长卡洛斯·吉梅内斯在一份声明中表示，在听取该县的公共卫生专家就目前疫情的报告后，已于周六（6月27日）签署紧急命令，将从7月3日周五开始到7月7日周二，关闭迈阿密戴德的所有海滩。由于越来越多的年轻人检测呈阳性，住院人数也在上升，县长吉梅内斯在声明中强调了关闭海滩的重要性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBK70BzgqLew8pddfthZs200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593298701000",
+            "title": "北京20家医疗机构对首都高校开展核酸检测 筑牢校园防疫防火墙",
+            "summary": "昨天（6月27日）起，国家卫生健康委医政医管局在北京市教工委协调配合下，组织20家医疗机构对在京近百所高校师生开展核酸检测，并可根据需要出具离京检测报告。国家卫生健康委医疗管理服务指导中心处长 赵靖：核酸检测对象是所有在校员工和在校的学生，大概人数在10万余人。按我们的要求和安排从27日的中午12点前开始检测，开始采样，在28日中午12点前完成核酸的采样，28日晚上24点前完成核酸检测并出结果。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZnpgsXWJzpJ0bb0ghFUO200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593296688000",
+            "title": "秘鲁或将于近期恢复部分省际交通",
+            "summary": "当地时间6月27日，秘鲁部长会议主席（总理）塞瓦略斯宣布，政府或将于近期在完善相关卫生安全规定后，恢复除因确诊病例增加而继续执行严格隔离措施的7个地区以外，其他区域间的航班及陆路交通。当天，秘鲁国防部长马尔托斯强调，政府将在当地时间7月1日起开始按照区域及人群执行差异化的隔离措施，随后15天内将进行一次评估，如发现新冠肺炎感染人数出现上升，则将重新全面执行严格的隔离措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticHbW44NLSjEqsLeg7Aq6200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593290838000",
+            "title": "西班牙北部一建筑被隔离，共发现13例阳性病例",
+            "summary": "位于西班牙北部的坎塔布里亚大区政府27日宣布，由于新冠疫情的暴发，桑坦德市一座建筑已被处在隔离状态10天，该建筑内部居住人群中最新确诊4例新冠阳性病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigvmC4ykKuqmkjxa9zRqM200628&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593272097000",
             "title": "美国至少11个州暂停或推迟重启",
             "summary": "据CNN报道，截至当地时间6月26日，美国至少已有11个州暂停或推迟了重启计划。其中，佛罗里达州和得克萨斯州州长分别撤回了重启计划中的部分措施，宣布暂停重启。",
@@ -51,42 +87,6 @@
             "summary": "近日，武汉大学电子信息学院实行的“家庭电子实验室”在线教学，全面完成本学期所有实验教学任务。这些“家庭电子实验室”是由该团队老师将100多万件电子元器件挑选分装成600多个实验套件，再加上自主研发的集成仪器一起打包，通过快递送到学生家中的，从而在学生因疫情无法返校期间，也能在家做实验进行实践学习。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigBshZ1OqdP0qrmh2aBcL200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593246947000",
-            "title": "中国疾控中心：通过短时间的接触快递被感染的几率很低",
-            "summary": "中国疾病预防控制中心研究员王丽萍在新冠肺炎疫情防控第134场例行新闻发布会上回答记者提问时提到，通过短时间的接触快递被感染的几率很低，在小区门口接收快递时注意佩戴口罩，妥善处理快递的外包装以后，要及时用流水和肥皂水洗手。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artigsu8RGykdlZtpnD1JmuW200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593246510000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过959万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间6月27日8时18分（北京时间6月27日14时18分），全球累计新冠肺炎确诊病例9590149例，累计死亡病例489493例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8RvsKTEOfhTmr2zQ5SIz200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593235170000",
-            "title": "疫情反弹，澳大利亚维州新冠肺炎确诊病例数持续上涨",
-            "summary": "当地时间27日，澳大利亚维多利亚州卫生部官员表示，该州在过去的24小时内发现新冠肺炎确诊病例41例，为近期单日新增最多的一天，这是该州自疫情反弹以来连续第11天保持两位数新增。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGzZYdNp0JvlCiSdFWebC200627&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593228450000",
-            "title": "韩国新冠肺炎确诊病例累计达12653例 首都圈疫情频发",
-            "summary": "据韩国卫生部门消息，截至当地时间27日0时，过去24小时（26日0时—27日0时）韩国累计报告新增确诊新型冠状病毒感染者51人，韩国确诊感染者总数达12653人，累计死亡282人，累计治愈11317人。26日新增确诊的51人中，31人属韩国本地社区感染，另外20人属于境外输入病例。31名本地感染中有27人来自首都圈地区，韩国首都圈疫情依旧处于频发状态。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artil5whA6nhPHmPQuDQiw1x200627&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
