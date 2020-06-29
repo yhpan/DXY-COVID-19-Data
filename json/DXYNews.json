@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593414126000",
+            "title": "美国食药局前局长：美每日新增死亡数恐反弹",
+            "summary": "美国食品和药物管理局前局长戈特利布28日在接受媒体采访时警告称，随着美国多州的新冠肺炎疫情出现反弹，美国每日新增的新冠肺炎死亡病例数，很可能也将出现反弹。戈特利布表示，目前美国多州疫情仍然严重，“即使我们现在立即采取积极的行动，新冠肺炎病例数依然会在未来数周持续增长”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6UhA0qyOP0o5oTffbKkL200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593409094000",
             "title": "6月28日6时至29日6时 天津无新增确诊病例 境外输入病例清零！",
             "summary": "6月28日6时至29日6时，天津市无新增报告境外输入新冠肺炎确诊病例。累计报告境外输入确诊病例61例（中国籍57例、美国籍2例、法国籍1例、菲律宾籍1例），治愈出院61例，在院0例。6月28日6时至29日6时，我市无新增报告本地新冠肺炎确诊病例。累计报告本地新冠肺炎确诊病例137例，其中男性74例，女性63例；治愈出院133例，死亡3例，在院1例。",
@@ -78,15 +87,6 @@
             "summary": "据伊朗总统办公室当地时间28日消息，伊朗总统鲁哈尼在抗击新冠疫情特别工作组会议上表示，民众遵守防疫提示是抗击新冠疫情的唯一途径，自7月5日起，所有人在公共聚集区域及室内区域必须佩戴口罩。一旦疫情再次出现感染高峰，将给医疗人员带来巨大的压力。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593345594000",
-            "title": "科威特新增551例新冠肺炎确诊病例 累计44942例",
-            "summary": "科威特卫生部当地时间28日下午发布通告，确认过去24小时境内新增551例新冠肺炎肺炎确诊病例，同时新增4例死亡病例。通告显示，新增病例均为本地感染病例。至此科威特境内新冠肺炎累计确诊病例数量已达44942例，其中348名患者病重不治去世，149名患者病情较为严重，35494名患者已治愈出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti93Oz2h8pjkQGr0ug0ErF200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
