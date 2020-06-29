@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593399895000",
+            "title": "澳大利亚维多利亚州首席医疗官：疫情“已经到了掌控边缘”",
+            "summary": "6月29日，澳大利亚维多利亚州新冠肺炎单日确诊人数创下四月份以来单日新增最高记录，为75例。该州首席医疗官布雷特·萨顿（Brett Sutton）表示，疫情“已经到了掌控边缘”。萨顿同时表示，该州疫情很可能会继续恶化。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593398878000",
+            "title": "福建：中高考期间 涉考食品从业人员核酸“应检尽检”",
+            "summary": "近期，福建省市场监管局和福建省教育厅联合下发《关于加强中高考期间食品安全及夏季学校食源性疾病防控工作的通知》，要求加强对涉考食品从业人员的核酸检测，做到“应检尽检”，同时集中时间和力量对考点学校食堂等单位开展全面的隐患排查及整治。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8fR6bg7BsoXyYzBNu6x200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593391479000",
             "title": "北京昨日新增报告7例新冠肺炎确诊病例 ",
             "summary": "6月28日0时至24时，新增报告本地确诊病例7例、疑似病例4例、无症状感染者1例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。新增确诊病例中，丰台区5例、大兴区2例。全市有14个区无本地报告新增确诊病例，具体为平谷区自有疫情以来无报告病例、延庆区157天、怀柔区143天、顺义区141天、密云区138天、石景山区14天、门头沟区13天、房山区13天、东城区12天、通州区8天、朝阳区7天、西城区6天、海淀区3天、昌平区3天。\n                \n            ",
@@ -69,24 +87,6 @@
             "summary": "新发地疫情发生以来，农贸市场成为北京防疫重点。6月25日起，北京朝阳区十八里店乡在大洋路市场东门口，设立了北京首个农贸市场核酸快检站。约两分钟完成检测，10小时左右可拿结果。",
             "infoSource": "央视新闻",
             "sourceUrl": "https://m.weibo.cn/2656274875/4520877028403355",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593338404000",
-            "title": "日本一娱乐场所暴发集体感染，33 人确诊，1 人死亡",
-            "summary": "日本小樽市 28 日宣布，市内今日新增 14 例新冠肺炎感染病例，为小樽市单日确诊人数最多。这 14 人全部曾去过同一家娱乐场所。该娱乐场所相关的感染已经增加至 33 人。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4520851292399949",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593334156000",
-            "title": "北京：进京蔬菜累计调运 11910 吨",
-            "summary": "6 月 28 日下午，北京召开第 135 场疫情防控新闻发布会。会上，北京市商务局二级巡视员王洪存通报：国家部委的支持力度不断加大。国家发改委组织协调的外埠进京蔬菜持续增加，河北高碑店、平谷马坊、廊坊万庄 3 个蔬菜中转调运站累计调运蔬菜 11910 吨。节日期间的调运量就达 3732 吨。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCGwJB22273aaBmemAJaq200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
