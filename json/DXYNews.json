@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593427812000",
+            "title": "北京：集中观察点必须单人单间居住",
+            "summary": "6月29日，北京市召开新冠肺炎疫情防控工作新闻发布会，北京市委组织部部务委员徐颖介绍，除儿童病人等确需他人照顾的人员外，集中观察点必须单人单间居住。每日至少两次主动询问健康状况，上门测量体温做好记录，发现健康状况异常的，立即进行转诊，严格实行封闭管理，除工作人员外，严格限制人员进出。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVIUeuvyNddyqNLcqOv2q200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593427143000",
+            "title": "北京：在备用考点考试 座位间距应不小于2米",
+            "summary": "6月29日18时，北京市召开疫情防控第136场例行新闻发布会。在发布会上，北京市教委发布了高考时间及具体安排。北京市委教育工委副书记、市教委新闻发言人李奕在会上介绍，今年高考，对于集中医学观察的考生，安排在备用考点单人单场考试，由各区专门安排车辆送考，实行全程封闭管理；对于居家观察或居住小区封闭管理阶段的考生，安排在备用考点参加考试，考生座位间距应不小于2米。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigIs9Ys4T1XPqOzEOWSFq200629&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593414126000",
             "title": "美国食药局前局长：美每日新增死亡数恐反弹",
             "summary": "美国食品和药物管理局前局长戈特利布28日在接受媒体采访时警告称，随着美国多州的新冠肺炎疫情出现反弹，美国每日新增的新冠肺炎死亡病例数，很可能也将出现反弹。戈特利布表示，目前美国多州疫情仍然严重，“即使我们现在立即采取积极的行动，新冠肺炎病例数依然会在未来数周持续增长”。",
@@ -69,24 +87,6 @@
             "summary": "据秘鲁卫生部28日报告，过去24小时，该国新增3430例新冠肺炎确诊病例，累计确诊病例达到279419例。新增死亡病例182例，累计死亡9317例。目前，已有167998人康复，仍有10861名患者在接受住院治疗。\n同日，秘鲁部长会议数字化政府部官员柯乔巴称，政府于当天中午12时向全国超过4000万在网手机用户发送问卷调查，了解民众当前的健康安全等状况。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6YgjAmXedVW7S5yMVke8200629&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593357183000",
-            "title": "巴西里约球场7月10日起允许观众观看比赛",
-            "summary": "巴西里约市政府本周末发布公告，自7月10日起准许观众入场观看足球比赛。公告同时规定，每场球赛的观众人数不得多于观众席位数的1/3，每名观众座位四周4平方米内不得有其他人，必须采取网上或自助售票机的售票方式。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixj2VQil2eIh7T5K2JLzO200628&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593353926000",
-            "title": "​伊朗将强制要求民众在公共聚集区域及室内区域佩戴口罩",
-            "summary": "据伊朗总统办公室当地时间28日消息，伊朗总统鲁哈尼在抗击新冠疫情特别工作组会议上表示，民众遵守防疫提示是抗击新冠疫情的唯一途径，自7月5日起，所有人在公共聚集区域及室内区域必须佩戴口罩。一旦疫情再次出现感染高峰，将给医疗人员带来巨大的压力。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiwXoSNGlglgVS9unmP3VC200628&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
