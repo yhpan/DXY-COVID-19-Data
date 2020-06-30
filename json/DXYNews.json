@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593485602000",
+            "title": "真相丨美国多州疫情反弹 美媒称美国抗疫遭遇“历史性失败”",
+            "summary": "据《纽约时报》报道，26日，全美有29个州的单日新增确诊病例处于持续上升状态，在各州陆续解除“居家令”、复工复产后，新冠疫情出现大幅反弹。美国疾病控制和预防中心27日统计数据显示，过去24小时全美新增新冠肺炎确诊病例逾4.4万例，再次刷新单日新增病例数纪录。接连数日的高确诊数使疫情重返4月初的高峰时期水平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiF0xLNtweUAJhWCglVewD200630&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593479401000",
+            "title": "日本完全失业率升至2.9% 疫情期间就业形势连续3个月恶化",
+            "summary": "日本厚生劳动省30日发表的5月份有效求人倍率为1.20倍，比前一个月下降了0.12个百分点。此次下跌幅度是自第一次石油危机后 ，即1974年1月以来时隔46年的最大跌幅。。根据日本总务省30日发表的5月劳动力调查，日本完全失业率上升0.3个百分点，达到2.9%，连续3个月恶化。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NMolCUECNryUAn7D9z2200630&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593477844000",
             "title": "巴西3-5月疫情期间就业岗位减少近150万个",
             "summary": "根据巴西经济部当地时间6月29日公布的数字，5月份巴西全国得到正式雇佣的人数为703921人，被解雇的人数为1035822人，就业人数负增长约33万人，其中服务业解雇人数最多。不过与4月相比，5月的雇佣人数增长了14%，解雇人数也减少了31.9%。3月至5月间，巴西全国减少就业岗位约148万个。",
@@ -69,24 +87,6 @@
             "summary": "6月29日，澳大利亚维多利亚州新冠肺炎单日确诊人数创下四月份以来单日新增最高记录，为75例。该州首席医疗官布雷特·萨顿（Brett Sutton）表示，疫情“已经到了掌控边缘”。萨顿同时表示，该州疫情很可能会继续恶化。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNECPNhwhcmBI02oMp5js200629&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593398878000",
-            "title": "福建：中高考期间 涉考食品从业人员核酸“应检尽检”",
-            "summary": "近期，福建省市场监管局和福建省教育厅联合下发《关于加强中高考期间食品安全及夏季学校食源性疾病防控工作的通知》，要求加强对涉考食品从业人员的核酸检测，做到“应检尽检”，同时集中时间和力量对考点学校食堂等单位开展全面的隐患排查及整治。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZ8fR6bg7BsoXyYzBNu6x200629&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593391479000",
-            "title": "北京昨日新增报告7例新冠肺炎确诊病例 ",
-            "summary": "6月28日0时至24时，新增报告本地确诊病例7例、疑似病例4例、无症状感染者1例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。新增确诊病例中，丰台区5例、大兴区2例。全市有14个区无本地报告新增确诊病例，具体为平谷区自有疫情以来无报告病例、延庆区157天、怀柔区143天、顺义区141天、密云区138天、石景山区14天、门头沟区13天、房山区13天、东城区12天、通州区8天、朝阳区7天、西城区6天、海淀区3天、昌平区3天。\n                \n            ",
-            "infoSource": "北京卫健委",
-            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202006/t20200629_1933999.html",
             "province": null,
             "provinceId": ""
         }
