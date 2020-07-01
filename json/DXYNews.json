@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593598103000",
+            "title": "安徽今起下调新冠病毒检测费用",
+            "summary": "为了进一步减轻人民群众新冠肺炎相关检测费用负担，从7月1日起，安徽省下调新冠肺炎核酸检测和抗体检测医疗服务项目价格。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593578757000",
             "title": "受新冠肺炎疫情影响 墨西哥航空申请破产保护",
             "summary": "当地时间6月30日，墨西哥最大的航空公司墨西哥航空（Aeromexico）宣布，因受新冠肺炎疫情影响和冲击，墨西哥航空按照美国破产法第十一章申请破产保护。",
@@ -78,15 +87,6 @@
             "summary": "根据巴西经济部所属的地理和统计研究院（IBGE）30日公布的数据显示，今年3至5月巴西官方统计的失业人数为1270万，失业率达到了12.9%，比此前3个月11.6%的失业率上升了1.3个百分点。这是自2018年3月以来的最高失业率。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLMkSvT9yjPQYz5pF07f200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593524945000",
-            "title": "国际劳工组织：疫情对劳动力市场的影响比预期更为严重",
-            "summary": "当地时间30日，总部位于瑞士日内瓦的国际劳工组织发布最新一期疫情和劳动世界监测报告。报告指出新冠肺炎疫情对劳动世界的影响远超之前的评估。国际劳工组织在报告中表明，全球范围内2020年上半年工作时间的损失远超之前的预估，2020年极为不确定性的复苏也很难回归疫情前的水平，疫情所造成的大规模失业也再所难免。根据这份最新的报告，2020年第二季度，全球工作时间减少了14％，这相当于损失了4亿个全职工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif7kRCcstnFXhWWV3lZft200630&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
