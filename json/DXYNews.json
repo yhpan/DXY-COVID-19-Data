@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593570112000",
+            "title": "73例新增！澳大利亚维多利亚州疫情持续恶化已超过两周",
+            "summary": "当地时间1日，澳大利亚维多利亚州卫生部官员表示，该州在过去的24小时内新增新冠肺炎确诊病例73例， 该州疫情反弹并持续恶化超过两周。该州州长安德鲁斯30日下午宣布，州内几个疫情热点地区的居民需要待在家中隔离，该“居家令”从7月2日开始生效。（总台记者 王聪）",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593560400000",
             "title": "国家卫健委：6月30日新增3例新冠肺炎确诊病例 均为本土病例",
             "summary": "6月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为本土病例（均在北京）；无新增死亡病例；新增疑似病例2例，为境外输入病例（均在上海）。当日新增治愈出院病例10例，解除医学观察的密切接触者703人，重症病例与前一日持平。",
@@ -78,15 +87,6 @@
             "summary": "6月30日，印尼卫生部宣布新增1293例新冠肺炎确诊病例，全国累计确诊病例56385例；新增71例死亡病例，累计死亡2876例。另有24806人被治愈。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5h8QEKgirQpm501bJTY200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593503282000",
-            "title": "上海市下调新冠病毒核酸检测项目价格",
-            "summary": "据上海市新冠肺炎疫情防控工作领导小组办公室介绍，根据国家医保局有关通知精神，从2020年6月30日起，本市将新冠病毒核酸检测项目价格调整为每人次120元（含试剂盒等耗材），将新冠病毒抗体检测项目价格调整为每项40元（含试剂盒等耗材）。",
-            "infoSource": "上海卫健委",
-            "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html",
             "province": null,
             "provinceId": ""
         }
