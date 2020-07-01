@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593618639000",
+            "title": "世界银行预测：受疫情影响泰国将面临830万人失业",
+            "summary": "据世界银行最新研究数据显示，受到新冠肺炎疫情的影响，泰国今年第二季度的经济急剧下滑，或将导致失业人数超过830万人。尽管泰国采取了一系列放宽措施以刺激经济，但仍面临很多困难，当前泰国旅游业仍处在停滞状态。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593616234000",
+            "title": "纽约市长：禁止餐厅、酒吧室内用餐",
+            "summary": "当地时间7月1日，纽约市长比尔·德布拉西奥表示，越来越多证据表明，美国多州新冠肺炎疫情出现大幅上升，与酒吧及餐厅有关，因此“现在我们无法批准纽约市开始在餐厅室内用餐。”德布拉西奥表示将与纽约州政府合作，决定何时可以开始室内用餐。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1UEt10LS7pBRJ3IraySU200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593607530000",
             "title": "英国著名食品制造公司已有28名员工确诊感染新冠病毒",
             "summary": "英国著名食品制造商沃克斯公司（Walkers）已有28名员工确诊感染新冠病毒。这些员工均来自位于英格兰中部莱斯特的工厂，该厂也是世界上最大的薯片生产厂。",
@@ -69,24 +87,6 @@
             "summary": "6月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为本土病例（均在北京）；无新增死亡病例；新增疑似病例2例，为境外输入病例（均在上海）。当日新增治愈出院病例10例，解除医学观察的密切接触者703人，重症病例与前一日持平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593557305000",
-            "title": "400台从中国采购的呼吸机运抵秘鲁 助力提升救治新冠肺炎重症患者能力",
-            "summary": "当地时间6月30日周二，秘鲁总统比斯卡拉召开新闻发布会，通报该国抗击新冠肺炎疫情的最新进展。比斯卡拉称，从中国采购的400台呼吸机于当天运抵秘鲁，将立即投入使用，进一步提升该国救治新冠肺炎重症患者的能力。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593531662000",
-            "title": "香港新增2例新冠肺炎确诊病例 累计确诊1205例",
-            "summary": "据香港特区政府卫生防护中心的消息，截至6月30日22时，香港当日新增2例新冠肺炎确诊病例，均为境外输入型病例。两名男性患者均从美国抵达香港。截至目前，香港已连续17天暂无本地感染病例。香港累计确诊病例增至1205例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
