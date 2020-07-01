@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593642736000",
+            "title": "葡萄牙一罐头工厂多名员工确诊新冠肺炎",
+            "summary": "当地时间7月1日，根据葡萄牙卢萨通讯社消息，一家位于葡萄牙孔迪镇的罐头工厂的多位员工检测出新冠肺炎，具体感染人数尚不明确，目前工厂仍在正常运行。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593618639000",
             "title": "世界银行预测：受疫情影响泰国将面临830万人失业",
             "summary": "据世界银行最新研究数据显示，受到新冠肺炎疫情的影响，泰国今年第二季度的经济急剧下滑，或将导致失业人数超过830万人。尽管泰国采取了一系列放宽措施以刺激经济，但仍面临很多困难，当前泰国旅游业仍处在停滞状态。",
@@ -78,15 +87,6 @@
             "summary": "当地时间1日，澳大利亚维多利亚州卫生部官员表示，该州在过去的24小时内新增新冠肺炎确诊病例73例， 该州疫情反弹并持续恶化超过两周。该州州长安德鲁斯30日下午宣布，州内几个疫情热点地区的居民需要待在家中隔离，该“居家令”从7月2日开始生效。（总台记者 王聪）",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti022Fjf0gSqlbWG0gwIxq200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593560400000",
-            "title": "国家卫健委：6月30日新增3例新冠肺炎确诊病例 均为本土病例",
-            "summary": "6月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为本土病例（均在北京）；无新增死亡病例；新增疑似病例2例，为境外输入病例（均在上海）。当日新增治愈出院病例10例，解除医学观察的密切接触者703人，重症病例与前一日持平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
