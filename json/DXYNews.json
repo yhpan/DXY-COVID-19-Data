@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593607530000",
+            "title": "英国著名食品制造公司已有28名员工确诊感染新冠病毒",
+            "summary": "英国著名食品制造商沃克斯公司（Walkers）已有28名员工确诊感染新冠病毒。这些员工均来自位于英格兰中部莱斯特的工厂，该厂也是世界上最大的薯片生产厂。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593605340000",
+            "title": "全球病例破千万，战胜疫情须除“三大害”",
+            "summary": "世界卫生组织日前公布的数据确认，全球新冠肺炎确诊病例数已突破千万大关。这个数字本身足以警醒世人：疫情远未结束，仍在加速蔓延。战胜疫情须除“三大害”：不认真阻止病毒传播；盲目复工复产；政治化疫情。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593600181000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过1032万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月1日10时56分（北京时间7月1日16时56分），全球累计新冠肺炎确诊病例10321689例，累计死亡病例507435例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593598103000",
             "title": "安徽今起下调新冠病毒检测费用",
             "summary": "为了进一步减轻人民群众新冠肺炎相关检测费用负担，从7月1日起，安徽省下调新冠肺炎核酸检测和抗体检测医疗服务项目价格。",
@@ -60,33 +87,6 @@
             "summary": "据香港特区政府卫生防护中心的消息，截至6月30日22时，香港当日新增2例新冠肺炎确诊病例，均为境外输入型病例。两名男性患者均从美国抵达香港。截至目前，香港已连续17天暂无本地感染病例。香港累计确诊病例增至1205例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiQrV5j3TsDQNP0vBUp1lt200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593530716000",
-            "title": "巴西里约方舱医院建设延期两个月 5座尚未完工",
-            "summary": "为应对新冠肺炎疫情，预计在今年4月30日交付使用的巴西里约热内卢州7座方舱医院，截至6月30日，只有马拉卡纳和圣贡卡洛这两座交付使用，尚有5座未完工，且完工日期并未确定。近两个月来，里约州更换了两次卫生厅厅长。里约州卫生部门专家组建议停止这5座方舱医院的建设。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti66PLfBHNLGfDPYXIgvCX200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593530425000",
-            "title": "加拿大国内生产总值三、四月合计下跌近20％",
-            "summary": "据加拿大统计局当地时间6月30日公布的经济数据显示，今年三月份，加拿大实际国内生产总值（Real GDP）下跌了7.5％，而四月份的这一数字跌到了11.6％，两个月合计19.1％。其中，四月份下跌幅度为1961年以来的最大值。与今年二月份相比，加拿大经济整体收缩了18.2％。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiuzJIQRTFP9yUignQg2vB200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593529042000",
-            "title": "巴西近3个月失业率为12.9% 为2018年3月以来最高",
-            "summary": "根据巴西经济部所属的地理和统计研究院（IBGE）30日公布的数据显示，今年3至5月巴西官方统计的失业人数为1270万，失业率达到了12.9%，比此前3个月11.6%的失业率上升了1.3个百分点。这是自2018年3月以来的最高失业率。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiYLMkSvT9yjPQYz5pF07f200630&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
