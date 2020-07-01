@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593557305000",
+            "title": "400台从中国采购的呼吸机运抵秘鲁 助力提升救治新冠肺炎重症患者能力",
+            "summary": "当地时间6月30日周二，秘鲁总统比斯卡拉召开新闻发布会，通报该国抗击新冠肺炎疫情的最新进展。比斯卡拉称，从中国采购的400台呼吸机于当天运抵秘鲁，将立即投入使用，进一步提升该国救治新冠肺炎重症患者的能力。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiM96o7rlTaO0a4YwSvdeX200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593531662000",
             "title": "香港新增2例新冠肺炎确诊病例 累计确诊1205例",
             "summary": "据香港特区政府卫生防护中心的消息，截至6月30日22时，香港当日新增2例新冠肺炎确诊病例，均为境外输入型病例。两名男性患者均从美国抵达香港。截至目前，香港已连续17天暂无本地感染病例。香港累计确诊病例增至1205例。",
@@ -78,15 +87,6 @@
             "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间6月30日10时30分，过去24小时内俄罗斯新增新冠肺炎确诊病例6693例，累计确诊647849例；新增死亡病例154例，累计死亡9320例；新增治愈病例9220例，累计治愈412650例。首都莫斯科市新增确诊病例745例，累计221598例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZmjp0NXEWxmXVfuoCx1200630&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593493002000",
-            "title": "印度新增18522例新冠肺炎病例 累计566840例",
-            "summary": "据印度卫生部统计，截至当地时间6月30日早8时（北京时间10时30分），印度新冠肺炎累计确诊病例升至566840例。其中治愈出院334821例，死亡16893例。过去24个小时内，共新增病例18522例，新增病例连续19天都在1万例以上。新增死亡病例418例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtibPOqSjyPucxFv2XHV62c200630&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
