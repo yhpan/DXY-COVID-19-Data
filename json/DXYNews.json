@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593560400000",
+            "title": "国家卫健委：6月30日新增3例新冠肺炎确诊病例 均为本土病例",
+            "summary": "6月30日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例3例，均为本土病例（均在北京）；无新增死亡病例；新增疑似病例2例，为境外输入病例（均在上海）。当日新增治愈出院病例10例，解除医学观察的密切接触者703人，重症病例与前一日持平。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihQiASFcR8iLRr9ZcafkW200701&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593557305000",
             "title": "400台从中国采购的呼吸机运抵秘鲁 助力提升救治新冠肺炎重症患者能力",
             "summary": "当地时间6月30日周二，秘鲁总统比斯卡拉召开新闻发布会，通报该国抗击新冠肺炎疫情的最新进展。比斯卡拉称，从中国采购的400台呼吸机于当天运抵秘鲁，将立即投入使用，进一步提升该国救治新冠肺炎重症患者的能力。",
@@ -78,15 +87,6 @@
             "summary": "据上海市新冠肺炎疫情防控工作领导小组办公室介绍，根据国家医保局有关通知精神，从2020年6月30日起，本市将新冠病毒核酸检测项目价格调整为每人次120元（含试剂盒等耗材），将新冠病毒抗体检测项目价格调整为每项40元（含试剂盒等耗材）。",
             "infoSource": "上海卫健委",
             "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200630/1d200e7e9cf74b33a505b0897c52af56.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593502727000",
-            "title": "俄罗斯新增6693例新冠肺炎确诊病例 累计确诊647849例",
-            "summary": "据俄罗斯新冠病毒防疫官网发布的信息，截至莫斯科时间6月30日10时30分，过去24小时内俄罗斯新增新冠肺炎确诊病例6693例，累计确诊647849例；新增死亡病例154例，累计死亡9320例；新增治愈病例9220例，累计治愈412650例。首都莫斯科市新增确诊病例745例，累计221598例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLZmjp0NXEWxmXVfuoCx1200630&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
