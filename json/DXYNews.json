@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1593702069000",
+            "title": "俄罗斯决定暂缓恢复国际航班至7月底",
+            "summary": "据俄新社当地时间7月2日消息，俄联邦航空运输总署决定延长外国人入境禁令直至7月31日，莫斯科多莫杰多沃机场和S7航空公司已经证实收到相关通知。据悉，俄联邦航空运输总署表示恢复国际航运时会另行发布通知。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593698120000",
+            "title": "非洲足协：受疫情影响 ​2021非洲杯将延期至2022年举行",
+            "summary": "非洲足协近日宣布，受新冠肺炎疫情影响，原定于2021年1—2月举行的非洲杯推迟到2022年1—2月在喀麦隆举行。除此之外，原定于今年4月举行的非洲足球锦标赛也将推迟至2021年1月举行。非洲杯的改期对欧洲五大联赛球队来说会产生一定影响，球员难免会因国家队赛事打乱联赛的节奏。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593695001000",
+            "title": "葡萄牙一养老院发生聚集性感染 45位老人确诊",
+            "summary": "当地时间7月2日，据葡萄牙卢萨社消息，一家位于里斯本大区卡斯凯什市的养老院检测出45位老人感染新冠病毒。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593689015000",
+            "title": "匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议",
+            "summary": "当地时间2日，匈牙利总理欧尔班表示，匈牙利不采取欧盟有关7月1日起开放外部边境的建议 。欧尔班在其脸书发布的视频中强调，目前无法满足欧盟的要求，这有违匈牙利公民的健康利益。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593686786000",
             "title": "德约科维奇和妻子新冠病毒检测呈阴性",
             "summary": "7月2日，德约科维奇团队以邮件形式告知总台记者，德约科维奇和妻子第二次新冠病毒检测报告显示阴性。6月23日，德约科维奇本人证实，自己和妻子的新冠病毒检测结果为阳性，孩子们检测报告显示阴性。德约科维奇当天以申明形式，解释自己举办慈善表演赛，是出于人道主义，对受到感染的每一个人感到非常抱歉。",
@@ -51,42 +87,6 @@
             "summary": "7月1日，美国食品和药物管理局（FDA）前局长斯科特·戈特利布在接受美国消费者新闻与商业频道（CNBC）采访时表示，实际上，目前美国每天新增感染者人数已经超过10万，只是由于病毒检测能力不足，官方的确诊数据还没有显示出这一水平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593650497000",
-            "title": "世卫：全面应对措施是战胜疫情最好方法",
-            "summary": "当地时间7月1日，世卫组织举行新冠肺炎例行发布会。世卫组织总干事谭德塞表示，过去一周，全球每日新增确诊病例都超过16万例，采取全面的应对措施是战胜疫情的最好方法。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiTcV4O5zb7XssDlp6Gx4c200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593648178000",
-            "title": "巴西新冠肺炎确诊病例累计超144万例 死亡人数超6万",
-            "summary": "截至当地时间7月1日19时，据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1448753例，确诊病例比前一日新增46712例，死亡病例60632例，新增死亡病例1038例，累计康复人数826866人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizXXW7rF4ZG2uXHvRAbMK200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593642736000",
-            "title": "葡萄牙一罐头工厂多名员工确诊新冠肺炎",
-            "summary": "当地时间7月1日，根据葡萄牙卢萨通讯社消息，一家位于葡萄牙孔迪镇的罐头工厂的多位员工检测出新冠肺炎，具体感染人数尚不明确，目前工厂仍在正常运行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJMWGkOTzHfyQzfigdoxC200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593618639000",
-            "title": "世界银行预测：受疫情影响泰国将面临830万人失业",
-            "summary": "据世界银行最新研究数据显示，受到新冠肺炎疫情的影响，泰国今年第二季度的经济急剧下滑，或将导致失业人数超过830万人。尽管泰国采取了一系列放宽措施以刺激经济，但仍面临很多困难，当前泰国旅游业仍处在停滞状态。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSpaS86efeOCxcuOr9N2n200701&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
