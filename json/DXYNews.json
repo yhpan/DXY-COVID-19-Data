@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593679422000",
+            "title": "安理会通过关于新冠肺炎疫情的决议",
+            "summary": "据报道，7月1日，安理会通过关于新冠肺炎疫情的决议，支持古特雷斯秘书长提出的全球停火协议，呼吁加强人道主义援助。外交部发言人赵立坚在2日的外交部例行记者会上表示，中方欢迎安理会一致通过新冠肺炎疫情决议，对决议投了赞成票。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593666198000",
             "title": "北京确诊“外卖骑手”治愈出院 曾坦言心理压力大",
             "summary": "7月2日中午，引发亿万网友关注的“外卖骑手”孔先生新冠肺炎治愈出院。6月22日住院以来，孔先生曾通过《生命缘》栏目表达了对公众的歉意，称心理压力很大，担心自己连累大家。消息传出后，孔先生收获了来自网友们满满的关心与鼓励。经过10天的治疗，孔先生已经康复，核酸检测连续两次为阴性，顺利出院。",
@@ -78,15 +87,6 @@
             "summary": "英国著名食品制造商沃克斯公司（Walkers）已有28名员工确诊感染新冠病毒。这些员工均来自位于英格兰中部莱斯特的工厂，该厂也是世界上最大的薯片生产厂。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiRNQTldmzCJsGI9vQUfhw200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593605340000",
-            "title": "全球病例破千万，战胜疫情须除“三大害”",
-            "summary": "世界卫生组织日前公布的数据确认，全球新冠肺炎确诊病例数已突破千万大关。这个数字本身足以警醒世人：疫情远未结束，仍在加速蔓延。战胜疫情须除“三大害”：不认真阻止病毒传播；盲目复工复产；政治化疫情。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
