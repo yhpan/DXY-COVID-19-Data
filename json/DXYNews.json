@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593666198000",
+            "title": "北京确诊“外卖骑手”治愈出院 曾坦言心理压力大",
+            "summary": "7月2日中午，引发亿万网友关注的“外卖骑手”孔先生新冠肺炎治愈出院。6月22日住院以来，孔先生曾通过《生命缘》栏目表达了对公众的歉意，称心理压力很大，担心自己连累大家。消息传出后，孔先生收获了来自网友们满满的关心与鼓励。经过10天的治疗，孔先生已经康复，核酸检测连续两次为阴性，顺利出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593661167000",
             "title": "美得州康复患者：政府重启经济过快 防疫信息传达混乱",
             "summary": "得克萨斯州是美国最早放松防疫限制措施的州之一，而现在已经成为全美新增新冠肺炎病例数最快的州之一。得州23岁姑娘佩顿·切瑟是一名新冠肺炎康复患者，最近她接受美国有线电视新闻网采访时说，疫情暴发以来，自己一直严格执行防疫措施，但最终确诊。她认为，是得州重启经济过快，州政府传达的防疫信息混乱害她中了招。",
@@ -78,15 +87,6 @@
             "summary": "世界卫生组织日前公布的数据确认，全球新冠肺炎确诊病例数已突破千万大关。这个数字本身足以警醒世人：疫情远未结束，仍在加速蔓延。战胜疫情须除“三大害”：不认真阻止病毒传播；盲目复工复产；政治化疫情。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilZy6plvjSANEF2yluEpN200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593600181000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过1032万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月1日10时56分（北京时间7月1日16时56分），全球累计新冠肺炎确诊病例10321689例，累计死亡病例507435例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
