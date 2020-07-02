@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593661167000",
+            "title": "美得州康复患者：政府重启经济过快 防疫信息传达混乱",
+            "summary": "得克萨斯州是美国最早放松防疫限制措施的州之一，而现在已经成为全美新增新冠肺炎病例数最快的州之一。得州23岁姑娘佩顿·切瑟是一名新冠肺炎康复患者，最近她接受美国有线电视新闻网采访时说，疫情暴发以来，自己一直严格执行防疫措施，但最终确诊。她认为，是得州重启经济过快，州政府传达的防疫信息混乱害她中了招。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593658177000",
             "title": "美国FDA前局长：美国每天新增感染人数其实已超10万",
             "summary": "7月1日，美国食品和药物管理局（FDA）前局长斯科特·戈特利布在接受美国消费者新闻与商业频道（CNBC）采访时表示，实际上，目前美国每天新增感染者人数已经超过10万，只是由于病毒检测能力不足，官方的确诊数据还没有显示出这一水平。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月1日10时56分（北京时间7月1日16时56分），全球累计新冠肺炎确诊病例10321689例，累计死亡病例507435例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artili2qSzXeZGCGug4y1P0p200701&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593598103000",
-            "title": "安徽今起下调新冠病毒检测费用",
-            "summary": "为了进一步减轻人民群众新冠肺炎相关检测费用负担，从7月1日起，安徽省下调新冠肺炎核酸检测和抗体检测医疗服务项目价格。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiY209PjiXz3E8fX4HRs3s200701&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
