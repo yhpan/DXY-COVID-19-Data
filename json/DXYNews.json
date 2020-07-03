@@ -19,6 +19,15 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1593766045000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过1066万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月3日8时18分（北京时间7月3日14时18分），全球累计新冠肺炎确诊病例10662536例，累计死亡病例516209例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593764400000",
             "title": "北京新增确诊连续5天为个位数 治愈出院病例持续增加",
             "summary": "7月3日下午，北京市疾控中心等部门通报疫情最新进展和防控措施等相关情况，并答记者问。会上，北京市委宣传部副部长徐和建介绍，7月2日北京新增报告本地确诊病例2例，疑似病例1例，无症状感染者1例，治愈出院病例3例。",
@@ -78,15 +87,6 @@
             "summary": "昨日，在武汉市肺科医院，82岁的张和武身着白大褂，率队查房。张和武是中国防痨界知名专家、中国医师奖获得者，2003年退休后，他仍一直活跃在医疗岗位上。今年1月寒冬他感染新冠肺炎住院，康复返岗时已是盛夏。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593742973000",
-            "title": "中国政府首批援巴西物资抵巴 中巴举办线上交接仪式",
-            "summary": "当地时间7月2日，中国政府首批援巴医用物资抵达巴西。同一天，中国驻巴西大使杨万明与巴西国家合作署署长、巴西卫生部国际司司长、副总统外事助理等巴西官员举行了线上的交接仪式。据悉，此次运抵的物资是中方根据巴方需要，紧急筹集的2吨多重紧急医用品，包括5000件防护服、N95口罩1万个、外科口罩5万个，医用口罩和大量眼罩、手套、鞋套和体温计等医疗用品。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
