@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1593731549000",
+            "title": "巴西新冠肺炎累计确诊人数近150万 调查称仅9%为无症状感染者",
+            "summary": "截至当地时间7月2日19时，根据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1496858例，确诊病例比前一日新增48105例，死亡病例61884例，新增死亡病例1252例，累计康复人数852816人。近期死亡率有所下降，目前降至4.1%，低于世界平均死亡率。巴西卫生部与佩罗塔斯联邦大学合作研究发现，巴西只有9%的无症状感染者，91%的新冠肺炎患者都有不同程度的症状出现。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593729708000",
+            "title": "英国统计方式存漏洞 导致累计确诊病例偏差3000人",
+            "summary": "当地时间7月2日，在英国卫生与社会保障部发布的最新数据统计中，新增新冠肺炎确诊病例576例，累计确诊283757例。不过这一数字比1日的官方累计确诊313483例整整少了将近3000例。英国卫生与社会保障部表示在之前的统计方式中，出现了同一个疑似病例在不同地点重复检测、确诊后重复记录的情况，致使累计确诊人数超过实际数字，这一情况在7月2日的统计数字中进行了修正。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593726120000",
+            "title": "美国新冠肺炎确诊病例累计超272万例",
+            "summary": "据美国约翰斯·霍普金斯大学统计数据显示，截至美东时间7月2日17时35分（北京时间3日5时35分），美国新冠肺炎确诊病例达2724640例，死亡病例达128574例。 在当地时间7月1日19时33分至7月2日17时35分期间，美国新增新冠肺炎确诊病例46438例，新增死亡病例604例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593723146000",
+            "title": "美国得克萨斯州发布口罩令 对民众在公共场所佩戴口罩进行强制要求",
+            "summary": "据CNN报道，美国得克萨斯州州长格雷格·阿博特当地时间7月2日签署了一项行政命令，强制要求民众“在有20个或更多新冠肺炎病例的县”的公共场所戴口罩 。根据州政府的数据，这一命令目前将影响得州约67%的县。该行政命令称，如果民众在公共场所不遵守口罩令将被处以一定的罚款。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593720310000",
+            "title": "世卫组织：全球新冠肺炎新增176102例",
+            "summary": "当地时间7月2日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎新增176102例，死亡新增4787例。疫情最为严重的美洲区域确诊病例达到5317792例（新增99202例），死亡252340例（新增3022例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593702069000",
             "title": "俄罗斯决定暂缓恢复国际航班至7月底",
             "summary": "据俄新社当地时间7月2日消息，俄联邦航空运输总署决定延长外国人入境禁令直至7月31日，莫斯科多莫杰多沃机场和S7航空公司已经证实收到相关通知。据悉，俄联邦航空运输总署表示恢复国际航运时会另行发布通知。",
@@ -42,51 +87,6 @@
             "summary": "7月2日，德约科维奇团队以邮件形式告知总台记者，德约科维奇和妻子第二次新冠病毒检测报告显示阴性。6月23日，德约科维奇本人证实，自己和妻子的新冠病毒检测结果为阳性，孩子们检测报告显示阴性。德约科维奇当天以申明形式，解释自己举办慈善表演赛，是出于人道主义，对受到感染的每一个人感到非常抱歉。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593684106000",
-            "title": "哈萨克斯坦首任总统新闻秘书：首任总统纳扎尔巴耶夫新冠肺炎已经治愈",
-            "summary": "7月2日，哈萨克斯坦首任总统新闻秘书阿依多斯·乌克拜在其社交媒体账号表示，哈首任总统纳扎尔巴耶夫已经治愈，新冠肺炎病毒检测为阴性。根据医生的建议，纳扎尔巴耶夫还将保持自我隔离，远程办公，定期到户外进行散步。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artio3yPeR6LYkAgRaez86Fu200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593679422000",
-            "title": "安理会通过关于新冠肺炎疫情的决议",
-            "summary": "据报道，7月1日，安理会通过关于新冠肺炎疫情的决议，支持古特雷斯秘书长提出的全球停火协议，呼吁加强人道主义援助。外交部发言人赵立坚在2日的外交部例行记者会上表示，中方欢迎安理会一致通过新冠肺炎疫情决议，对决议投了赞成票。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiijjsakuw9U1ckzNeVkC5200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593666198000",
-            "title": "北京确诊“外卖骑手”治愈出院 曾坦言心理压力大",
-            "summary": "7月2日中午，引发亿万网友关注的“外卖骑手”孔先生新冠肺炎治愈出院。6月22日住院以来，孔先生曾通过《生命缘》栏目表达了对公众的歉意，称心理压力很大，担心自己连累大家。消息传出后，孔先生收获了来自网友们满满的关心与鼓励。经过10天的治疗，孔先生已经康复，核酸检测连续两次为阴性，顺利出院。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihaI37GqscwGdTlN1rorF200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593661167000",
-            "title": "美得州康复患者：政府重启经济过快 防疫信息传达混乱",
-            "summary": "得克萨斯州是美国最早放松防疫限制措施的州之一，而现在已经成为全美新增新冠肺炎病例数最快的州之一。得州23岁姑娘佩顿·切瑟是一名新冠肺炎康复患者，最近她接受美国有线电视新闻网采访时说，疫情暴发以来，自己一直严格执行防疫措施，但最终确诊。她认为，是得州重启经济过快，州政府传达的防疫信息混乱害她中了招。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiC78FkYePAezsBQ0IS8ye200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593658177000",
-            "title": "美国FDA前局长：美国每天新增感染人数其实已超10万",
-            "summary": "7月1日，美国食品和药物管理局（FDA）前局长斯科特·戈特利布在接受美国消费者新闻与商业频道（CNBC）采访时表示，实际上，目前美国每天新增感染者人数已经超过10万，只是由于病毒检测能力不足，官方的确诊数据还没有显示出这一水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV6O8NxAemQ656E3Oo7jJ200702&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
