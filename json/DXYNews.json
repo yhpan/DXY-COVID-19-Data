@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593789655000",
+            "title": "新加坡电影院将于 7 月 13 日重新开放",
+            "summary": "新加坡资讯通信媒体发展局发布公告称，新加坡电影院将于 7 月 13 日起重新开放，观众观影需要遵守安全社交距离。重新开放后电影院每个影厅观影人数不能超过 50 人。一同观影的观众不能超过 5 人，不同群体之间需要保持至少 1 米的安全距离。为了阻断新冠肺炎病毒传播，新加坡从 3 月 27 日起关闭酒吧、电影院等娱乐设施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593787589000",
+            "title": "香港 3 日新增 5 例新冠肺炎确诊病例，均为境外输入",
+            "summary": "据来自香港特区政府卫生防护中心的消息，截至 7 月 3 日 21 时，香港单日新增 5 例新冠肺炎确诊病例，均为境外输入病例。确诊患者的年龄在 3 岁至 49 岁之间，均于潜伏期曾身处境外，分别由巴基斯坦、印度、哈萨克斯坦、菲律宾及英国抵达香港。至此，香港累计确诊病例增至1247例，暂无本地感染个案。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593786748000",
+            "title": "巴基斯坦外交部长感染新冠病毒",
+            "summary": "巴基斯坦外交部长库雷希于当地时间 3 日表示，他的新冠病毒检测结果呈阳性，但身体并无大碍。过去几个月，巴基斯坦不少政要感染了新冠肺炎，其中包括巴铁路部长谢赫·拉希德、信德省省长伊姆兰·伊斯梅尔、巴基斯坦人民党领导人萨义德·加尼和巴基斯坦穆斯林联盟主席沙赫巴兹·谢里夫。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593784680000",
             "title": "假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言",
             "summary": "记者从北京海淀微信公众号获悉，近日，关于「海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」的消息在网上流传，引发网友关注。经与相关部门核实，以上为谣言，望广大网民不听、不信、不传。 ",
@@ -60,33 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月3日8时18分（北京时间7月3日14时18分），全球累计新冠肺炎确诊病例10662536例，累计死亡病例516209例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593764400000",
-            "title": "北京新增确诊连续5天为个位数 治愈出院病例持续增加",
-            "summary": "7月3日下午，北京市疾控中心等部门通报疫情最新进展和防控措施等相关情况，并答记者问。会上，北京市委宣传部副部长徐和建介绍，7月2日北京新增报告本地确诊病例2例，疑似病例1例，无症状感染者1例，治愈出院病例3例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7tjapKTWHuTo9Wl4kWBO200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593760754000",
-            "title": "2名驻韩美军新冠检测阳性 因错记为阴性解除隔离",
-            "summary": "据韩联社报道，驻韩美军司令部2日承认，由于管理失误，两名新冠病毒检测呈阳性的美国军人被系统记录为阴性并解除隔离。医护人员9小时后发现了错误并重新隔离他们。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593757534000",
-            "title": "美国单日新增确诊病例数超5.4万创新高 多州收紧限制措施",
-            "summary": "当地时间7月2日晚，全美报告单日新增确诊病例数超过5.4万例，再次刷新单日新增病例数最高纪录。鉴于病例数激增，美国至少23个州已宣布暂停或放缓重启经济计划，收紧限制措施。目前美国累计确诊病例已超过273万例，累计死亡病例超过12.8万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
