@@ -1,6 +1,42 @@
 {
     "results": [
         {
+            "pubDate": "1593771900000",
+            "title": "北京首都国际机场：明天起从首都机场离京不再查验核酸证明",
+            "summary": "据北京首都国际机场官方微信今日（3日）消息，根据北京口岸入境管理联防联控前方指挥部要求，明日（7月4日）0时起所有旅客须展示北京健康宝“未见异常”的健康码并通过体温监测后方可进入航站楼。满足以下两个条件方可离京：1.目的地政府防控要求；2.北京健康宝健康码“未见异常”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593768071000",
+            "title": "吉尔吉斯斯坦社区感染性肺炎病例增加 面临双重疫情挑战",
+            "summary": "据吉尔吉斯斯坦卫生部通报，截至当地时间7月3日11时，吉尔吉斯斯坦国内新冠肺炎确诊病例较前一日增加506例，累计确诊6767例，治愈2655例，新增死亡10例，累计76例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593764400000",
+            "title": "北京新增确诊连续5天为个位数 治愈出院病例持续增加",
+            "summary": "7月3日下午，北京市疾控中心等部门通报疫情最新进展和防控措施等相关情况，并答记者问。会上，北京市委宣传部副部长徐和建介绍，7月2日北京新增报告本地确诊病例2例，疑似病例1例，无症状感染者1例，治愈出院病例3例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7tjapKTWHuTo9Wl4kWBO200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593760754000",
+            "title": "2名驻韩美军新冠检测阳性 因错记为阴性解除隔离",
+            "summary": "据韩联社报道，驻韩美军司令部2日承认，由于管理失误，两名新冠病毒检测呈阳性的美国军人被系统记录为阴性并解除隔离。医护人员9小时后发现了错误并重新隔离他们。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAMqEixKc0FO3O3fm1BbJ200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593757534000",
             "title": "美国单日新增确诊病例数超5.4万创新高 多州收紧限制措施",
             "summary": "当地时间7月2日晚，全美报告单日新增确诊病例数超过5.4万例，再次刷新单日新增病例数最高纪录。鉴于病例数激增，美国至少23个州已宣布暂停或放缓重启经济计划，收紧限制措施。目前美国累计确诊病例已超过273万例，累计死亡病例超过12.8万例。",
@@ -51,42 +87,6 @@
             "summary": "当地时间7月2日，中国政府首批援巴医用物资抵达巴西。同一天，中国驻巴西大使杨万明与巴西国家合作署署长、巴西卫生部国际司司长、副总统外事助理等巴西官员举行了线上的交接仪式。据悉，此次运抵的物资是中方根据巴方需要，紧急筹集的2吨多重紧急医用品，包括5000件防护服、N95口罩1万个、外科口罩5万个，医用口罩和大量眼罩、手套、鞋套和体温计等医疗用品。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593735205000",
-            "title": "朝鲜举行政治局扩大会议 讨论新冠肺炎防疫",
-            "summary": "据朝中社报道，朝鲜劳动党第七届中央委员会第十四次政治局扩大会议当地时间２日举行，朝鲜最高领导人金正恩出席会议。会议总结了新冠肺炎疫情防疫六个月的工作情况，并讨论加强国家紧急防疫工作，进一步巩固当前防疫形势等问题。金正恩表示，朝鲜在全球卫生危机严重的情况下能够彻底防止病毒输入并保持稳定的防疫形势，要珍惜并不断巩固这一防疫成果，切实保障和保证国家安全和人民安宁。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593734497000",
-            "title": "世卫组织：全球已分享超过六万个新冠病毒基因序列",
-            "summary": "当地时间7月2日，世卫组织举行新冠肺炎研发进展发布会，世卫组织首席科学家苏米娅·斯瓦米纳坦表示，几乎所有国家都分享了新冠病毒基因序列，目前已有超过六万个基因序列，让科学家可以着手进行流行病学追踪，研究病毒如何在全球范围内传播，以及病毒的变异情况。苏米娅·斯瓦米纳坦指出，中国首先于今年1月分享了病毒基因序列，首个候选疫苗也是在基因序列数据的基础上才能够于1月份就开始研制。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593734282000",
-            "title": "捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产",
-            "summary": "当地时间7月2日，捷克通讯社援引捷克OKD矿业公司发言人娜达·哈托娃（Naďa Chattová）的话报道称，由于该公司下属的ČSM煤矿在近期的大规模新冠肺炎检测中的结果显示疫情形势不容乐观，因此将从7月5日起，未来六周内暂停该公司下属的所有位于卡尔维纳（Karviná）地区煤矿的开采工作。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593734027000",
-            "title": "加州疫情反扑 美国南加州大学推翻原有秋季返校计划 继续网上授课",
-            "summary": "受连续几周来加州新冠患者迅速增加影响，南加州大学（USC）于近日决定，改变早前的秋季入学计划，不再提供该校本科学生进行校内和网络授课相结合的的教学方式，并要求学生继续留在家中通过网课进行学习。加州州长纽森于周三（1日）提出一系列新的行政命令，来应对新增新冠肺炎病例数连日来的暴涨，其中规定需严格控制各个行业的室内活动，该规定包括加州各个校园所计划的室内活动（授课与实践等）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
