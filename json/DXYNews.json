@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593757534000",
+            "title": "美国单日新增确诊病例数超5.4万创新高 多州收紧限制措施",
+            "summary": "当地时间7月2日晚，全美报告单日新增确诊病例数超过5.4万例，再次刷新单日新增病例数最高纪录。鉴于病例数激增，美国至少23个州已宣布暂停或放缓重启经济计划，收紧限制措施。目前美国累计确诊病例已超过273万例，累计死亡病例超过12.8万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593750300000",
+            "title": "​印度新增20903例新冠肺炎确诊病例 累计625544例",
+            "summary": "据印度卫生部消息，截至当地时间7月3日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至625544例。其中死亡18213例，治愈出院379892例。在过去24小时内，印度共新增20903例确诊病例，首次突破2万例，也创下了疫情暴发以来的单日最大增幅。死亡病例共新增379例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593744990000",
             "title": "巴西原住民组织称已有超过1万名原住民确诊新冠肺炎",
             "summary": "巴西原住民联合会称，截至当地时间7月2日，巴西已有10300名原住民感染新冠肺炎，这个数字与巴西卫生部公布的6800例有一定差距，同时两个数据来源中的死亡人数也不同，分别为原住民联合会的408例和卫生部的158例。对此，巴西政府的解释是，巴西有大约100万原住民，但政府能够监控到的为75万左右。但无论哪个机构的数字，感染人数都在高速增长，从6月1日至今，感染人数增长了500%。",
@@ -69,24 +87,6 @@
             "summary": "英国计划在未来几天内开始全面解封，并且正在草拟一份“空中走廊”名单，希望和一些疫情风险等级低的国家相互免除14天的入境隔离。然而，作为英国的最亲密盟友，以及入境旅客的最大来源国——美国，由于疫情严峻，仍然被排除在名单之外。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593731549000",
-            "title": "巴西新冠肺炎累计确诊人数近150万 调查称仅9%为无症状感染者",
-            "summary": "截至当地时间7月2日19时，根据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1496858例，确诊病例比前一日新增48105例，死亡病例61884例，新增死亡病例1252例，累计康复人数852816人。近期死亡率有所下降，目前降至4.1%，低于世界平均死亡率。巴西卫生部与佩罗塔斯联邦大学合作研究发现，巴西只有9%的无症状感染者，91%的新冠肺炎患者都有不同程度的症状出现。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9RFRSLm0VdCTdPoY5DB9200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593729708000",
-            "title": "英国统计方式存漏洞 导致累计确诊病例偏差3000人",
-            "summary": "当地时间7月2日，在英国卫生与社会保障部发布的最新数据统计中，新增新冠肺炎确诊病例576例，累计确诊283757例。不过这一数字比1日的官方累计确诊313483例整整少了将近3000例。英国卫生与社会保障部表示在之前的统计方式中，出现了同一个疑似病例在不同地点重复检测、确诊后重复记录的情况，致使累计确诊人数超过实际数字，这一情况在7月2日的统计数字中进行了修正。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
