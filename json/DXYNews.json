@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1593735205000",
+            "title": "朝鲜举行政治局扩大会议 讨论新冠肺炎防疫",
+            "summary": "据朝中社报道，朝鲜劳动党第七届中央委员会第十四次政治局扩大会议当地时间２日举行，朝鲜最高领导人金正恩出席会议。会议总结了新冠肺炎疫情防疫六个月的工作情况，并讨论加强国家紧急防疫工作，进一步巩固当前防疫形势等问题。金正恩表示，朝鲜在全球卫生危机严重的情况下能够彻底防止病毒输入并保持稳定的防疫形势，要珍惜并不断巩固这一防疫成果，切实保障和保证国家安全和人民安宁。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8zYPodAQcORLJdEZPZbn200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593734497000",
+            "title": "世卫组织：全球已分享超过六万个新冠病毒基因序列",
+            "summary": "当地时间7月2日，世卫组织举行新冠肺炎研发进展发布会，世卫组织首席科学家苏米娅·斯瓦米纳坦表示，几乎所有国家都分享了新冠病毒基因序列，目前已有超过六万个基因序列，让科学家可以着手进行流行病学追踪，研究病毒如何在全球范围内传播，以及病毒的变异情况。苏米娅·斯瓦米纳坦指出，中国首先于今年1月分享了病毒基因序列，首个候选疫苗也是在基因序列数据的基础上才能够于1月份就开始研制。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiThW128MJ4Pgxt2MusEzw200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593734282000",
+            "title": "捷克OKD矿业公司因暴发新冠肺炎聚集性感染宣布停产",
+            "summary": "当地时间7月2日，捷克通讯社援引捷克OKD矿业公司发言人娜达·哈托娃（Naďa Chattová）的话报道称，由于该公司下属的ČSM煤矿在近期的大规模新冠肺炎检测中的结果显示疫情形势不容乐观，因此将从7月5日起，未来六周内暂停该公司下属的所有位于卡尔维纳（Karviná）地区煤矿的开采工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiN762YkUKGLMLGytp5nIZ200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593734027000",
+            "title": "加州疫情反扑 美国南加州大学推翻原有秋季返校计划 继续网上授课",
+            "summary": "受连续几周来加州新冠患者迅速增加影响，南加州大学（USC）于近日决定，改变早前的秋季入学计划，不再提供该校本科学生进行校内和网络授课相结合的的教学方式，并要求学生继续留在家中通过网课进行学习。加州州长纽森于周三（1日）提出一系列新的行政命令，来应对新增新冠肺炎病例数连日来的暴涨，其中规定需严格控制各个行业的室内活动，该规定包括加州各个校园所计划的室内活动（授课与实践等）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti85IOHUhV8mhfTVUk5tdS200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593732872000",
+            "title": "英国草拟互免隔离名单 美国被排除在外",
+            "summary": "英国计划在未来几天内开始全面解封，并且正在草拟一份“空中走廊”名单，希望和一些疫情风险等级低的国家相互免除14天的入境隔离。然而，作为英国的最亲密盟友，以及入境旅客的最大来源国——美国，由于疫情严峻，仍然被排除在名单之外。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti27udhCJ5jHEWoS5lwzHE200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593731549000",
             "title": "巴西新冠肺炎累计确诊人数近150万 调查称仅9%为无症状感染者",
             "summary": "截至当地时间7月2日19时，根据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1496858例，确诊病例比前一日新增48105例，死亡病例61884例，新增死亡病例1252例，累计康复人数852816人。近期死亡率有所下降，目前降至4.1%，低于世界平均死亡率。巴西卫生部与佩罗塔斯联邦大学合作研究发现，巴西只有9%的无症状感染者，91%的新冠肺炎患者都有不同程度的症状出现。",
@@ -42,51 +87,6 @@
             "summary": "当地时间7月2日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎新增176102例，死亡新增4787例。疫情最为严重的美洲区域确诊病例达到5317792例（新增99202例），死亡252340例（新增3022例）。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593702069000",
-            "title": "俄罗斯决定暂缓恢复国际航班至7月底",
-            "summary": "据俄新社当地时间7月2日消息，俄联邦航空运输总署决定延长外国人入境禁令直至7月31日，莫斯科多莫杰多沃机场和S7航空公司已经证实收到相关通知。据悉，俄联邦航空运输总署表示恢复国际航运时会另行发布通知。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipxLwUZdV32szIg6AdV7g200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593698120000",
-            "title": "非洲足协：受疫情影响 ​2021非洲杯将延期至2022年举行",
-            "summary": "非洲足协近日宣布，受新冠肺炎疫情影响，原定于2021年1—2月举行的非洲杯推迟到2022年1—2月在喀麦隆举行。除此之外，原定于今年4月举行的非洲足球锦标赛也将推迟至2021年1月举行。非洲杯的改期对欧洲五大联赛球队来说会产生一定影响，球员难免会因国家队赛事打乱联赛的节奏。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWW1yNJrdUghAUp2iHxCN200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593695001000",
-            "title": "葡萄牙一养老院发生聚集性感染 45位老人确诊",
-            "summary": "当地时间7月2日，据葡萄牙卢萨社消息，一家位于里斯本大区卡斯凯什市的养老院检测出45位老人感染新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipsOJToBYlFyIBWC185r1200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593689015000",
-            "title": "匈牙利总理欧尔班：匈牙利将不执行欧盟开放外部边境的建议",
-            "summary": "当地时间2日，匈牙利总理欧尔班表示，匈牙利不采取欧盟有关7月1日起开放外部边境的建议 。欧尔班在其脸书发布的视频中强调，目前无法满足欧盟的要求，这有违匈牙利公民的健康利益。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw7X1W4qDMC7q5ptnAUjy200702&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593686786000",
-            "title": "德约科维奇和妻子新冠病毒检测呈阴性",
-            "summary": "7月2日，德约科维奇团队以邮件形式告知总台记者，德约科维奇和妻子第二次新冠病毒检测报告显示阴性。6月23日，德约科维奇本人证实，自己和妻子的新冠病毒检测结果为阳性，孩子们检测报告显示阴性。德约科维奇当天以申明形式，解释自己举办慈善表演赛，是出于人道主义，对受到感染的每一个人感到非常抱歉。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiJCuF980D7ssmrcQRkhUa200702&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
