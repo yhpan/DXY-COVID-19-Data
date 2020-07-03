@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593744990000",
+            "title": "巴西原住民组织称已有超过1万名原住民确诊新冠肺炎",
+            "summary": "巴西原住民联合会称，截至当地时间7月2日，巴西已有10300名原住民感染新冠肺炎，这个数字与巴西卫生部公布的6800例有一定差距，同时两个数据来源中的死亡人数也不同，分别为原住民联合会的408例和卫生部的158例。对此，巴西政府的解释是，巴西有大约100万原住民，但政府能够监控到的为75万左右。但无论哪个机构的数字，感染人数都在高速增长，从6月1日至今，感染人数增长了500%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593744733000",
+            "title": "武汉82岁医生新冠肺炎康复后返岗 带来厚厚的自诊病历",
+            "summary": "昨日，在武汉市肺科医院，82岁的张和武身着白大褂，率队查房。张和武是中国防痨界知名专家、中国医师奖获得者，2003年退休后，他仍一直活跃在医疗岗位上。今年1月寒冬他感染新冠肺炎住院，康复返岗时已是盛夏。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593742973000",
+            "title": "中国政府首批援巴西物资抵巴 中巴举办线上交接仪式",
+            "summary": "当地时间7月2日，中国政府首批援巴医用物资抵达巴西。同一天，中国驻巴西大使杨万明与巴西国家合作署署长、巴西卫生部国际司司长、副总统外事助理等巴西官员举行了线上的交接仪式。据悉，此次运抵的物资是中方根据巴方需要，紧急筹集的2吨多重紧急医用品，包括5000件防护服、N95口罩1万个、外科口罩5万个，医用口罩和大量眼罩、手套、鞋套和体温计等医疗用品。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1rC7vmmvDazalltExU6r200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593735205000",
             "title": "朝鲜举行政治局扩大会议 讨论新冠肺炎防疫",
             "summary": "据朝中社报道，朝鲜劳动党第七届中央委员会第十四次政治局扩大会议当地时间２日举行，朝鲜最高领导人金正恩出席会议。会议总结了新冠肺炎疫情防疫六个月的工作情况，并讨论加强国家紧急防疫工作，进一步巩固当前防疫形势等问题。金正恩表示，朝鲜在全球卫生危机严重的情况下能够彻底防止病毒输入并保持稳定的防疫形势，要珍惜并不断巩固这一防疫成果，切实保障和保证国家安全和人民安宁。",
@@ -60,33 +87,6 @@
             "summary": "当地时间7月2日，在英国卫生与社会保障部发布的最新数据统计中，新增新冠肺炎确诊病例576例，累计确诊283757例。不过这一数字比1日的官方累计确诊313483例整整少了将近3000例。英国卫生与社会保障部表示在之前的统计方式中，出现了同一个疑似病例在不同地点重复检测、确诊后重复记录的情况，致使累计确诊人数超过实际数字，这一情况在7月2日的统计数字中进行了修正。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixpFmCcV9yLIsv8aWPZpQ200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593726120000",
-            "title": "美国新冠肺炎确诊病例累计超272万例",
-            "summary": "据美国约翰斯·霍普金斯大学统计数据显示，截至美东时间7月2日17时35分（北京时间3日5时35分），美国新冠肺炎确诊病例达2724640例，死亡病例达128574例。 在当地时间7月1日19时33分至7月2日17时35分期间，美国新增新冠肺炎确诊病例46438例，新增死亡病例604例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUo922QEFRZM2V4XIfTGh200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593723146000",
-            "title": "美国得克萨斯州发布口罩令 对民众在公共场所佩戴口罩进行强制要求",
-            "summary": "据CNN报道，美国得克萨斯州州长格雷格·阿博特当地时间7月2日签署了一项行政命令，强制要求民众“在有20个或更多新冠肺炎病例的县”的公共场所戴口罩 。根据州政府的数据，这一命令目前将影响得州约67%的县。该行政命令称，如果民众在公共场所不遵守口罩令将被处以一定的罚款。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNkapSB2iPm8yve3Lp7c1200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593720310000",
-            "title": "世卫组织：全球新冠肺炎新增176102例",
-            "summary": "当地时间7月2日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎新增176102例，死亡新增4787例。疫情最为严重的美洲区域确诊病例达到5317792例（新增99202例），死亡252340例（新增3022例）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtighBb8XJC3efUCtXsJ03N200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
