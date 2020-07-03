@@ -1,9 +1,27 @@
 {
     "results": [
         {
+            "pubDate": "1593784680000",
+            "title": "假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言",
+            "summary": "记者从北京海淀微信公众号获悉，近日，关于「海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」的消息在网上流传，引发网友关注。经与相关部门核实，以上为谣言，望广大网民不听、不信、不传。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593782403000",
+            "title": "北京通报隐瞒新发地活动史和密接史案例",
+            "summary": "北京通报多例隐瞒新发地活动史和密接史案例，包括隐瞒接触史、违反居家隔离规定、违规接诊发热病例等情况，以上人员均已被立案调查。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4522713559415583",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593777771000",
-            "title": "最新！北京市具备新冠病毒核酸检测能力的机构已达175所",
-            "summary": "截至2020年7月3日，北京市具备新冠病毒核酸检测能力的机构已达175所，可预约开展“愿检尽检”服务。市卫生健康委汇总了各检测机构信息，现予以公布。市民可通过北京市预约挂号统一平台（北京114预约挂号）、京医通和各检测机构电话、官方App、微信公众号等方式预约。\n附：175所提供新冠病毒核酸检测服务的机构名单",
+            "title": "最新！北京市具备新冠病毒核酸检测能力的机构已达 175 所",
+            "summary": "截至 2020 年 7 月 3 日，北京市具备新冠病毒核酸检测能力的机构已达 175 所，可预约开展「愿检尽检」服务。市卫生健康委汇总了各检测机构信息，现予以公布。市民可通过北京市预约挂号统一平台（北京 114 预约挂号）、京医通和各检测机构电话、官方 App、微信公众号等方式预约。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBekIoekGLMZTO3M9o9Jj200703&isfromapp=1",
             "province": null,
@@ -69,24 +87,6 @@
             "summary": "当地时间7月2日晚，全美报告单日新增确诊病例数超过5.4万例，再次刷新单日新增病例数最高纪录。鉴于病例数激增，美国至少23个州已宣布暂停或放缓重启经济计划，收紧限制措施。目前美国累计确诊病例已超过273万例，累计死亡病例超过12.8万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFMYdUjWSmW8n3TqQodGa200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593757523000",
-            "title": "印度男子出现新冠肺炎症状仍办婚礼：婚后两天死亡 上百宾客呈阳性",
-            "summary": "近日，在印度比哈尔邦，一位新郎明知可能已感染新冠肺炎的情况下仍大办婚礼，引发聚集性感染。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiEPIpTFq23JuqIB0lnVe8200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593750300000",
-            "title": "​印度新增20903例新冠肺炎确诊病例 累计625544例",
-            "summary": "据印度卫生部消息，截至当地时间7月3日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至625544例。其中死亡18213例，治愈出院379892例。在过去24小时内，印度共新增20903例确诊病例，首次突破2万例，也创下了疫情暴发以来的单日最大增幅。死亡病例共新增379例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
