@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593791816000",
+            "title": "意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施",
+            "summary": "据意大利安莎社报道，当地时间 7 月 3 日，威尼托大区主席卢卡·扎亚在当地民防部门举行的一场特别新闻发布会上表示，由于近日部分民众欠考虑且不负责任的行为，该大区将在下周一重新公布并推行相关限制措施。本周，威尼托大区维琴察一名企业主从波黑商务旅行后返回当地，继续参加社交活动。后经检测，迄今已有包括其接触者在内的 5 人新冠病毒检测结果呈阳性，另有 89 名接触者被隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593789655000",
             "title": "新加坡电影院将于 7 月 13 日重新开放",
             "summary": "新加坡资讯通信媒体发展局发布公告称，新加坡电影院将于 7 月 13 日起重新开放，观众观影需要遵守安全社交距离。重新开放后电影院每个影厅观影人数不能超过 50 人。一同观影的观众不能超过 5 人，不同群体之间需要保持至少 1 米的安全距离。为了阻断新冠肺炎病毒传播，新加坡从 3 月 27 日起关闭酒吧、电影院等娱乐设施。",
@@ -78,15 +87,6 @@
             "summary": "据吉尔吉斯斯坦卫生部通报，截至当地时间7月3日11时，吉尔吉斯斯坦国内新冠肺炎确诊病例较前一日增加506例，累计确诊6767例，治愈2655例，新增死亡10例，累计76例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593766045000",
-            "title": "世卫组织：全球新冠肺炎确诊病例超过1066万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月3日8时18分（北京时间7月3日14时18分），全球累计新冠肺炎确诊病例10662536例，累计死亡病例516209例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKTGGeWGE4afkRITJcpbk200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
