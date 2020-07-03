@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593777771000",
+            "title": "最新！北京市具备新冠病毒核酸检测能力的机构已达175所",
+            "summary": "截至2020年7月3日，北京市具备新冠病毒核酸检测能力的机构已达175所，可预约开展“愿检尽检”服务。市卫生健康委汇总了各检测机构信息，现予以公布。市民可通过北京市预约挂号统一平台（北京114预约挂号）、京医通和各检测机构电话、官方App、微信公众号等方式预约。\n附：175所提供新冠病毒核酸检测服务的机构名单",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBekIoekGLMZTO3M9o9Jj200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593776092000",
+            "title": "欧盟委员会给瑞德西韦发放「有条件」上市许可",
+            "summary": "当地时间 7 月 3 日，欧盟委员会正式批准瑞德西韦上市，作为欧盟层面许可的首款治疗新冠肺炎的药物。不过值得注意的是，欧委会发放的是「有条件」上市许可，这是欧盟药物监管的一种特殊机制。其目的是在应对公共卫生紧急状况时，公众可尽早获取药效并未完全证明的药物。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0tKJlqUfyfrzNRgCnZEl200703&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593771900000",
             "title": "北京首都国际机场：明天起从首都机场离京不再查验核酸证明",
             "summary": "据北京首都国际机场官方微信今日（3日）消息，根据北京口岸入境管理联防联控前方指挥部要求，明日（7月4日）0时起所有旅客须展示北京健康宝“未见异常”的健康码并通过体温监测后方可进入航站楼。满足以下两个条件方可离京：1.目的地政府防控要求；2.北京健康宝健康码“未见异常”。",
@@ -69,24 +87,6 @@
             "summary": "据印度卫生部消息，截至当地时间7月3日早8点（北京时间10点30分），印度新冠肺炎确诊病例已升至625544例。其中死亡18213例，治愈出院379892例。在过去24小时内，印度共新增20903例确诊病例，首次突破2万例，也创下了疫情暴发以来的单日最大增幅。死亡病例共新增379例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGMwCRH8aFpwrq8bQPlvY200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593744990000",
-            "title": "巴西原住民组织称已有超过1万名原住民确诊新冠肺炎",
-            "summary": "巴西原住民联合会称，截至当地时间7月2日，巴西已有10300名原住民感染新冠肺炎，这个数字与巴西卫生部公布的6800例有一定差距，同时两个数据来源中的死亡人数也不同，分别为原住民联合会的408例和卫生部的158例。对此，巴西政府的解释是，巴西有大约100万原住民，但政府能够监控到的为75万左右。但无论哪个机构的数字，感染人数都在高速增长，从6月1日至今，感染人数增长了500%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artily6WlsxfrW6EifHLvLTG200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593744733000",
-            "title": "武汉82岁医生新冠肺炎康复后返岗 带来厚厚的自诊病历",
-            "summary": "昨日，在武汉市肺科医院，82岁的张和武身着白大褂，率队查房。张和武是中国防痨界知名专家、中国医师奖获得者，2003年退休后，他仍一直活跃在医疗岗位上。今年1月寒冬他感染新冠肺炎住院，康复返岗时已是盛夏。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw0iAzjHK9Bw3g1V3CqOS200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
