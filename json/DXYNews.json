@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593855396000",
+            "title": "美国单日新增病例再超5万 聚集活动成隐患",
+            "summary": "美国3日新增新冠肺炎确诊病例超过5万例，美国已经连续多天单日新增确诊病例超过5万，疫情引发各界担忧。7月4日是美国独立日，美国将举行多场庆祝活动，卫生专家担忧人员聚集会令疫情进一步加剧。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593852690000",
+            "title": "曾在新发地购买的食物如何处置？国家卫健委专家回应",
+            "summary": "国家卫生健康委专家组专家、国家食品安全风险评估中心微生物实验室主任李凤琴，就如何处置曾经在新发地市场购买过的食物时表示，目前还没有发现因吃食品而感染新冠病毒的报道，也没有这方面的证据。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9yHvKJxLFh0RbfVdES97200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593850654000",
+            "title": "北京：开展线上招聘3000余场，5万余毕业生落实就业单位",
+            "summary": "北京市人力资源和社会保障局局长徐熙表示：北京市人力社保局与市教委、市国资委等部门联合行动，已经开展了3000余场毕业生线上招聘活动，推送各类就业信息9.8万次，5万余名毕业生通过网上招聘落实了就业单位。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimxPjQjLTnMXGx9GabAyy200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593840000000",
             "title": "“全球疫情会诊室”：中国专家与南非、肯尼亚同行探讨疫情最新热点",
             "summary": "在全球抗击新冠肺炎疫情的过程中，中国与非洲一直相互声援、并肩战斗。国家主席习近平在6月举行的中非团结抗疫特别峰会上也发表重要讲话，呼吁各方统筹资源、团结合作，尽最大努力保护人民生命安全和身体健康，最大限度降低疫情负面影响。",
@@ -60,33 +87,6 @@
             "summary": "据巴西卫生部当地时间7月3日晚公布的最新数据，该国单日新增新冠肺炎确诊病例42223例，累计确诊1539081例；新增死亡病例1290例，累计死亡病例63174例。此外，巴西圣卡塔琳娜联邦大学2日发表的一份研究报告说，由该校领衔的一个研究小组在圣卡塔琳娜州首府弗洛里亚诺波利斯市去年11月27日采集的废水样本中检测出新冠病毒。",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4522869587887061",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593811033000",
-            "title": "美国新冠肺炎确诊病例超过278万例",
-            "summary": "根据约翰斯·霍普金斯大学的最新数据统计，截至美东时间7月3日16时33分，美国新冠肺炎确诊病例超过278万例，为 2780916例，死亡病例为129227例。新增确诊病例数较当日9时33分公布的数据增长了40563例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593799939000",
-            "title": "阿联酋开放本国公民和外籍居民出国旅行",
-            "summary": "当地时间7月3日晚，阿联酋国家紧急危机和灾难管理局发布声明，开放阿联酋本国公民或外籍居民出国旅行。从阿联酋出发和返回阿联酋时都需要遵守相应的强制性预防措施，如持有48小时内的新冠病毒检测结果呈阴性的有效证明。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593791816000",
-            "title": "意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施",
-            "summary": "据意大利安莎社报道，当地时间 7 月 3 日，威尼托大区主席卢卡·扎亚在当地民防部门举行的一场特别新闻发布会上表示，由于近日部分民众欠考虑且不负责任的行为，该大区将在下周一重新公布并推行相关限制措施。本周，威尼托大区维琴察一名企业主从波黑商务旅行后返回当地，继续参加社交活动。后经检测，迄今已有包括其接触者在内的 5 人新冠病毒检测结果呈阳性，另有 89 名接触者被隔离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHFR422YzinlOpPAON4VQ200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
