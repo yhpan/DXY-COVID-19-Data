@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593832154000",
+            "title": "100亿欧元对抗疫情 西班牙政府颁布经济复苏计划并采取措施",
+            "summary": "当地时间7月3日，为了复苏经济，西班牙政府颁布了刺激商业投资、振兴旅游业以及对企业帮扶的政策。3日，西班牙政府正式与工会和企业协会签署了《经济和就业复兴特别公约》，批准设立总额为100亿欧元的基金，以援助在偿还债务上存在困难的企业，并设立新的信贷担保以刺激商业投资，同时政府批准了旅游业的振兴计划的相关措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArticjpWy15nkQQgFpxPnpwT200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593831459000",
+            "title": "巴西第一大城市圣保罗7月6日起将允许餐厅、理发店重新开放",
+            "summary": "当地时间下周一（7月6日）起，巴西第一大城市圣保罗市的餐厅、酒吧、理发店、美容院等将可以重新开放，但需遵守一定条件，如每天最多营业6小时，17点以前必须关门，只能接待其容量40%的客人。同时，圣保罗州政府表示，如果圣保罗市的疫情状态能连续四个星期保持在“黄色”或更低的级别，将可能从7月27日起在一定条件下开放电影院、剧院、健身房等场所。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBaJCJmEGvRwUlC27QpnV200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593829341000",
+            "title": "美国至少37州新冠肺炎疫情出现反弹 疫情就像“6级飓风”",
+            "summary": "目前美国至少有37个州的新冠肺炎疫情出现反弹。其中，佛罗里达州2日新增确诊病例突破1万例，3日又继续新增9000多例。鉴于病例数激增，美国至少23个州已宣布暂停重启经济计划。路透社报道，美国37个州过去14天新增确诊病例数比以往增多。加利福尼亚、亚利桑那、佛罗里达、得克萨斯等多个州过去7天新增确诊病例激增。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBj3DsZjauijJoguFR8fO200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593827701000",
             "title": "圭亚那新冠肺炎疫情进入第二阶段“解封”期",
             "summary": "据当地媒体报道，圭亚那全国新冠肺炎防控团队宣布从当地时间3日起正式进入“解封”第二阶段，但每天18点至次日6点的宵禁措施仍将持续。除此前第一阶段恢复运营的公共交通、餐饮业外送服务和公共区域限时健身活动外，第二阶段将允许制造业、公共领域建筑工程和医学院校在非宵禁时段重新运行。",
@@ -60,33 +87,6 @@
             "summary": "新加坡资讯通信媒体发展局发布公告称，新加坡电影院将于 7 月 13 日起重新开放，观众观影需要遵守安全社交距离。重新开放后电影院每个影厅观影人数不能超过 50 人。一同观影的观众不能超过 5 人，不同群体之间需要保持至少 1 米的安全距离。为了阻断新冠肺炎病毒传播，新加坡从 3 月 27 日起关闭酒吧、电影院等娱乐设施。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIMQnDDNG4BhFcaEUjLpX200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593787589000",
-            "title": "香港 3 日新增 5 例新冠肺炎确诊病例，均为境外输入",
-            "summary": "据来自香港特区政府卫生防护中心的消息，截至 7 月 3 日 21 时，香港单日新增 5 例新冠肺炎确诊病例，均为境外输入病例。确诊患者的年龄在 3 岁至 49 岁之间，均于潜伏期曾身处境外，分别由巴基斯坦、印度、哈萨克斯坦、菲律宾及英国抵达香港。至此，香港累计确诊病例增至1247例，暂无本地感染个案。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUwOi4tdCRvbNsP3aMbJN200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593786748000",
-            "title": "巴基斯坦外交部长感染新冠病毒",
-            "summary": "巴基斯坦外交部长库雷希于当地时间 3 日表示，他的新冠病毒检测结果呈阳性，但身体并无大碍。过去几个月，巴基斯坦不少政要感染了新冠肺炎，其中包括巴铁路部长谢赫·拉希德、信德省省长伊姆兰·伊斯梅尔、巴基斯坦人民党领导人萨义德·加尼和巴基斯坦穆斯林联盟主席沙赫巴兹·谢里夫。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiePREQLYS4s4LSLVeCbyC200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593784680000",
-            "title": "假的！网传「北京海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」为谣言",
-            "summary": "记者从北京海淀微信公众号获悉，近日，关于「海淀一大型冻库从阿根廷进口的牛肉检测出新冠病毒」的消息在网上流传，引发网友关注。经与相关部门核实，以上为谣言，望广大网民不听、不信、不传。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimo8pqP0Wm7EaDJiCH9Xr200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
