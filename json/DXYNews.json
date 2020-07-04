@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593819603000",
+            "title": "巴西去年废水中测出病毒",
+            "summary": "据巴西卫生部当地时间7月3日晚公布的最新数据，该国单日新增新冠肺炎确诊病例42223例，累计确诊1539081例；新增死亡病例1290例，累计死亡病例63174例。此外，巴西圣卡塔琳娜联邦大学2日发表的一份研究报告说，由该校领衔的一个研究小组在圣卡塔琳娜州首府弗洛里亚诺波利斯市去年11月27日采集的废水样本中检测出新冠病毒。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4522869587887061",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593811033000",
+            "title": "美国新冠肺炎确诊病例超过278万例",
+            "summary": "根据约翰斯·霍普金斯大学的最新数据统计，截至美东时间7月3日16时33分，美国新冠肺炎确诊病例超过278万例，为 2780916例，死亡病例为129227例。新增确诊病例数较当日9时33分公布的数据增长了40563例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGdyAIFJIkV481QR9ZS9I200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593799939000",
+            "title": "阿联酋开放本国公民和外籍居民出国旅行",
+            "summary": "当地时间7月3日晚，阿联酋国家紧急危机和灾难管理局发布声明，开放阿联酋本国公民或外籍居民出国旅行。从阿联酋出发和返回阿联酋时都需要遵守相应的强制性预防措施，如持有48小时内的新冠病毒检测结果呈阴性的有效证明。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiDgFpXANl2315s2pzSYYz200704&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593791816000",
             "title": "意大利威尼托大区主席：因感染值再度上升，下周将重推限制措施",
             "summary": "据意大利安莎社报道，当地时间 7 月 3 日，威尼托大区主席卢卡·扎亚在当地民防部门举行的一场特别新闻发布会上表示，由于近日部分民众欠考虑且不负责任的行为，该大区将在下周一重新公布并推行相关限制措施。本周，威尼托大区维琴察一名企业主从波黑商务旅行后返回当地，继续参加社交活动。后经检测，迄今已有包括其接触者在内的 5 人新冠病毒检测结果呈阳性，另有 89 名接触者被隔离。",
@@ -60,33 +87,6 @@
             "summary": "截至 2020 年 7 月 3 日，北京市具备新冠病毒核酸检测能力的机构已达 175 所，可预约开展「愿检尽检」服务。市卫生健康委汇总了各检测机构信息，现予以公布。市民可通过北京市预约挂号统一平台（北京 114 预约挂号）、京医通和各检测机构电话、官方 App、微信公众号等方式预约。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBekIoekGLMZTO3M9o9Jj200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593776092000",
-            "title": "欧盟委员会给瑞德西韦发放「有条件」上市许可",
-            "summary": "当地时间 7 月 3 日，欧盟委员会正式批准瑞德西韦上市，作为欧盟层面许可的首款治疗新冠肺炎的药物。不过值得注意的是，欧委会发放的是「有条件」上市许可，这是欧盟药物监管的一种特殊机制。其目的是在应对公共卫生紧急状况时，公众可尽早获取药效并未完全证明的药物。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0tKJlqUfyfrzNRgCnZEl200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593771900000",
-            "title": "北京首都国际机场：明天起从首都机场离京不再查验核酸证明",
-            "summary": "据北京首都国际机场官方微信今日（3日）消息，根据北京口岸入境管理联防联控前方指挥部要求，明日（7月4日）0时起所有旅客须展示北京健康宝“未见异常”的健康码并通过体温监测后方可进入航站楼。满足以下两个条件方可离京：1.目的地政府防控要求；2.北京健康宝健康码“未见异常”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiw3QpyCxGeRTWOJkaCfNq200703&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593768071000",
-            "title": "吉尔吉斯斯坦社区感染性肺炎病例增加 面临双重疫情挑战",
-            "summary": "据吉尔吉斯斯坦卫生部通报，截至当地时间7月3日11时，吉尔吉斯斯坦国内新冠肺炎确诊病例较前一日增加506例，累计确诊6767例，治愈2655例，新增死亡10例，累计76例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiySjOciZRkpYUcBVywRGN200703&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
