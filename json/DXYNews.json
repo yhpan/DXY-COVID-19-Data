@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1593991647000",
+            "title": "秘鲁新冠肺炎确诊病例超过30万",
+            "summary": "据秘鲁卫生部5日报告，过去24小时，该国新增3638例新冠肺炎确诊病例，累计确诊病例超过30万例，达到302718例。新增死亡病例177例，累计死亡10589例。据卫生部统计数据显示，自该国于今年3月进入全国紧急状态抗击新冠肺炎疫情至今，遍布各地的移动健康中心已累计诊治了超过4万名新冠肺炎患者。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUA6tvKMTHdOqguJRvRbO200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593985455000",
+            "title": "肯尼亚总统：非洲疫情在未来数月可能恶化 各国应根据数据做决断",
+            "summary": "肯尼亚多家主流媒体7月5日报道，肯尼亚总统肯雅塔在当地时间4日晚举行的国际和平峰会理事会非洲组织（ISCP-Africa）网络研讨会上表示，尽管非洲大陆资源有限，但各国采取了积极措施减缓新冠肺炎疫情的蔓延，非洲的疫情应对比世界上很多其他地区做得都要好。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti15SXZBh8SduwPWzhUgCU200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593980810000",
+            "title": "世卫组织：全球新增203836例新冠肺炎确诊病例",
+            "summary": "当地时间7月5日，世卫组织发布最新一期新冠肺炎每日疫情报告，全球新冠肺炎新增203836例，死亡新增5195例。疫情最为严重的美洲区域确诊病例达到5697954例（新增122472例），死亡262538例（新增3444例）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigAtMlAiNB4MHtuYdX74g200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593956653000",
             "title": "放松管控，英国 9 个月内或将再增 2.7 万人死于新冠肺炎",
             "summary": "英国政府前首席科学顾问大卫·金教授在接受英国天空新闻采访时表示，目前英国放松疫情严管措施并不正确。他说，如果英国政府提出的「英格兰地区现在每天新增 2000~3000 名新冠感染者」的数据准确，预测从现在开始到 2021 年 4 月，英国可能由此再增 2.7 万人因新冠肺炎而死亡。教授认为：越早将新冠病人清零，英国全境才能越早实现经济全面重启。而现在就放松管控措施，是极其具有危险性的一步行动。",
@@ -60,33 +87,6 @@
             "summary": "北京又有6地调低疫情风险等级：丰台区长辛店街道、右安门街道，大兴区安定镇，海淀区八里庄街道，通州区北苑街道疫情风险等级由中风险地区降级为低风险地区；北京市大兴区西红门（地区）镇由高风险变更为中风险地区。目前，北京仅剩丰台区花乡（地区）乡为高风险地区。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593938237000",
-            "title": "内蒙古5日报告新增1例境外输入新冠肺炎确诊病例",
-            "summary": "7月4日7时至7月5日14时，内蒙古自治区报告新增境外输入确诊病例1例（由首都机场国际航班分流至呼和浩特白塔国际机场）。内蒙古自治区累计报告境外输入确诊病例162例，已治愈出院161例。现有境外输入确诊病例1例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593936863000",
-            "title": "世卫组织：全球新冠肺炎确诊病例累计超1104万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月5日8时12分（北京时间7月5日14时12分），全球累计新冠肺炎确诊病例11046917例，累计死亡病例526465例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiuuZSBaWvQGTlw27Wrn200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593931075000",
-            "title": "美国40个州新冠肺炎疫情加剧，多州新增病例创新高",
-            "summary": "全美单日新增确诊病例数连续几天为约5万例。佛罗里达州、得克萨斯州单日新增确诊病例数都创新高。4日，佛罗里达州卫生部门报告新增新冠肺炎确诊病例超过11000例，这也是佛罗里达州3天内第二次新增病例数超过1万。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtizlPZeigqTVDwt02FnfJx200705&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
