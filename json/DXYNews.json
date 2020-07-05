@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593919854000",
+            "title": "德国新增239例新冠肺炎确诊病例 累计确诊196335例",
+            "summary": "德国疾控机构罗伯特·科赫研究所公布的数据显示，截至当地时间7月5日0时，德国新冠肺炎确诊病例累计达196335例，较前一日增加239例；累计死亡9012例，较前一日增加2例；累计治愈约181700例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1376eZif7feEAsXgdnp3200705&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593916803000",
             "title": "严重程度被大幅低估！美专家称美国实际感染人数或为10到24倍",
             "summary": "美国西北大学流行病学专家在接受央视记者采访时表示，美国疫情的严重程度被大幅低估。由于美国各地重启经济进程太快，再加上很多人未能遵循相关防控和隔离措施，美国实际的新冠肺炎感染病例可能比目前的数据高很多。",
@@ -78,15 +87,6 @@
             "summary": "今年高考，广东省的报名人数达77.96万人。在疫情防控常态化的形势下，广东各地各考点严格做好防疫安全、考生服务等各项工作。据了解，今年高考，深圳中学设有38个考场和4个隔离备用考场。按照教育部要求，考生体温在37.3℃以下才可以进入考点，体温偏高者，将进入复检室观察。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593862181000",
-            "title": "中国驻俄罗斯使馆提醒：谨慎选择自莫斯科转机回国",
-            "summary": "对于近期有中国公民咨询经莫斯科国际机场转机回国事宜，中国驻俄罗斯使馆提醒，目前莫斯科市疫情虽有缓解，但依然严峻，机场等封闭式公共场所仍属于易感危险区域。建议谨慎选择自莫斯科转机回国。如确须自莫斯科转机，请务必详细了解自莫斯科的过境政策、防疫要求和配套航班信息，妥善安排行程。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipX8B0Xg89pL2wBBdDYJJ200704&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
