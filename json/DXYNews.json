@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593909040000",
+            "title": "北京4日新增报告2例新冠肺炎确诊病例，均在丰台区",
+            "summary": "7月4日0时至24时，北京新增报告本地确诊病例2例，无新增疑似病例、无症状感染者，治愈出院病例1例；无新增报告境外输入确诊病例、疑似病例、无症状感染者。6月11日0时至7月4日24时，北京累计报告本地确诊病例334例，在院324例，治愈出院10例。尚在观察的无症状感染者29例；无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。新增确诊病例均在丰台区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKQfTXVzhnGYXT6KL9V5d200705&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593908669000",
+            "title": "加纳总统进行两周自我隔离，身边至少1人确诊感染病毒",
+            "summary": "加纳信息部于当地时间7月4日晚发布消息称，加纳总统阿库福-阿多身边至少有1人于4日确诊感染新冠病毒。阿库福当日的新冠病毒检测结果虽然呈阴性，但按照医生的建议，从4日起他会进行为期两周的自我隔离，隔离期间也将继续工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67DnzT8MSPidY8GA9qUD200705&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593904853000",
             "title": "巴西新冠肺炎累计确诊人数超157万，104岁老人康复出院",
             "summary": "截至当地时间7月4日18时，根据巴西卫生部发布的数据，巴西全国新冠肺炎确诊病例累计1577004例，确诊病例比前一日新增37923例，死亡病例64265例，新增死亡病例1091例，累计康复人数876359人。\n巴西一名104岁的老人4日当天在经过27天的治疗后出院，他在重症监护室度过了7天，在有并发症的情况下战胜了新冠肺炎，成为巴西年纪最大的康复者之一。",
@@ -69,24 +87,6 @@
             "summary": "据《荷兰时报》4日报道，荷兰卫生、福利及体育部的一名发言人称，荷兰目前有充足的瑞德西韦库存，即便美国将“买断”近期该药物的产量，也不会影响到荷兰。这名发言人还表示，瑞德西韦的制造商吉利德公司已承诺将在近期继续帮助荷兰增加库存。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiZUBiCN3ajJbVMtWFp2Ds200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593858565000",
-            "title": "土耳其将于7月6日重开游乐场和主题公园",
-            "summary": "当地时间7月4日，土耳其内政部向各省发布通知称，游乐场和主题公园可于7月6日重新开放。根据内政部的要求，游乐场和主题公园重开之后，游客必须注意清洁卫生、佩戴口罩以及保持社交距离。出口和入口处要采取必要措施，避免人员近距离接触。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtinjzlUI4jQrgvGNlYj5cy200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593855396000",
-            "title": "美国单日新增病例再超5万 聚集活动成隐患",
-            "summary": "美国3日新增新冠肺炎确诊病例超过5万例，美国已经连续多天单日新增确诊病例超过5万，疫情引发各界担忧。7月4日是美国独立日，美国将举行多场庆祝活动，卫生专家担忧人员聚集会令疫情进一步加剧。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixYH9RcfhR8IIauDpAV37200704&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
