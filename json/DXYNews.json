@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593924004000",
+            "title": "世卫组织：望部分疫情严重国家“清醒过来”",
+            "summary": "世卫组织紧急项目执行主任迈克尔·瑞安在日内瓦联合国记者协会主办的一次简报会上说：“人们需要清醒过来。数据没有说谎。现实情况没有说谎。”",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4523307478018295",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593919854000",
             "title": "德国新增239例新冠肺炎确诊病例 累计确诊196335例",
             "summary": "德国疾控机构罗伯特·科赫研究所公布的数据显示，截至当地时间7月5日0时，德国新冠肺炎确诊病例累计达196335例，较前一日增加239例；累计死亡9012例，较前一日增加2例；累计治愈约181700例。",
@@ -78,15 +87,6 @@
             "summary": "据CNN报道，佛蒙特州是美国唯一一个报告过去一周新增新冠确诊病例较前一周减少的州。另有12个州的新增病例保持稳定，37个州报告病例增加。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivBYIg8wJrnTEPa12gGSQ200704&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593863221000",
-            "title": "高考即将来临 广东考前防疫再升级",
-            "summary": "今年高考，广东省的报名人数达77.96万人。在疫情防控常态化的形势下，广东各地各考点严格做好防疫安全、考生服务等各项工作。据了解，今年高考，深圳中学设有38个考场和4个隔离备用考场。按照教育部要求，考生体温在37.3℃以下才可以进入考点，体温偏高者，将进入复检室观察。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artid4JPYpeiloK9cZzv5NyQ200704&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
