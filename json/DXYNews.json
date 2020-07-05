@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1593938237000",
+            "title": "内蒙古5日报告新增1例境外输入新冠肺炎确诊病例",
+            "summary": "7月4日7时至7月5日14时，内蒙古自治区报告新增境外输入确诊病例1例（由首都机场国际航班分流至呼和浩特白塔国际机场）。内蒙古自治区累计报告境外输入确诊病例162例，已治愈出院161例。现有境外输入确诊病例1例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCo0aThE19WIJnKcELnSH200705&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1593936863000",
+            "title": "世卫组织：全球新冠肺炎确诊病例累计超1104万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月5日8时12分（北京时间7月5日14时12分），全球累计新冠肺炎确诊病例11046917例，累计死亡病例526465例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqiuuZSBaWvQGTlw27Wrn200705&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593931075000",
             "title": "美国40个州新冠肺炎疫情加剧，多州新增病例创新高",
             "summary": "全美单日新增确诊病例数连续几天为约5万例。佛罗里达州、得克萨斯州单日新增确诊病例数都创新高。4日，佛罗里达州卫生部门报告新增新冠肺炎确诊病例超过11000例，这也是佛罗里达州3天内第二次新增病例数超过1万。",
@@ -69,24 +87,6 @@
             "summary": "当地时间7月4日，随著英国新冠病毒感染和死亡率持续下降，英国政府继续放宽疫情封锁措施，英格兰地区的餐馆、酒吧、理发店和电影院等场所将陆续重新开放。在长达三个月的沉寂后，伦敦市中心的中国城也正式宣布开门迎客。餐馆和酒吧的开放，无论是民众还是商家，都对此期待已久。这一天也被英国人称为“超级星期六”。伦敦中国城的不少餐馆早早就忙碌起来，做好准备重新迎客，力求给人们一个安全放心的就餐环境。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiignSxbyNeqKf4wFvUv1Z200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593891764000",
-            "title": "英格兰酒馆、餐厅、剧院恢复营业 严格遵守社交距离",
-            "summary": "根据英国政府的逐步解封政策，英国英格兰的酒馆、酒吧、饭馆、美发店和电影院4日重新开始营业，前提是遵守社交距离规定。当天开放的还有博物馆、美术馆、图书馆、社区中心、户外健身场所、儿童游乐场等场所。英国首相约翰逊说，英格兰解封是“恢复道路上的最大一步”。英国财政大臣苏纳克欢迎这些企业重新开业，称这是“好消息”。他说，近50万人在酒馆、酒吧工作，“帮助我们所有人安全地享受夏天”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVahxQz2VdBZzCW0mLUih200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593872115000",
-            "title": "受疫情影响 意大利近三分之一餐饮企业营收减半",
-            "summary": "当地时间7月4日，意大利公共和旅游经营者联合会（Fiepet）公布的一项调查结果显示，在参与调查的300家餐饮企业中，有32.1%的企业营业收入与同期平均水平相比减少超过一半，39.3%的企业营业收入减少31%~50%，21.8%的企业面临关门停业的危机。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiz8iLgeKYdbsw8R5YVhtU200704&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
