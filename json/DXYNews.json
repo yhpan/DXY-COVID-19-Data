@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593992297000",
+            "title": "智利政府推出惠民计划 帮助中产家庭度过疫情危机",
+            "summary": "当地时间7月5日，智利总统皮涅拉宣布，政府推出中产家庭帮助计划，包括国家担保推迟还贷、低息信贷、提高租房补助、高等教育贷款等内容，预计将惠及超过100万个家庭，帮助他们度过疫情危机。该计划是此前智利政府推出的疫情期间保护脆弱家庭和中产家庭的收入和就业计划的一部分。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3xELOJauP8Nw2uCpQ2aB200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593991647000",
             "title": "秘鲁新冠肺炎确诊病例超过30万",
             "summary": "据秘鲁卫生部5日报告，过去24小时，该国新增3638例新冠肺炎确诊病例，累计确诊病例超过30万例，达到302718例。新增死亡病例177例，累计死亡10589例。据卫生部统计数据显示，自该国于今年3月进入全国紧急状态抗击新冠肺炎疫情至今，遍布各地的移动健康中心已累计诊治了超过4万名新冠肺炎患者。",
@@ -78,15 +87,6 @@
             "summary": "7月4日，新加坡卫生部宣布，新加坡近九成的新冠肺炎患者已出院，需要在重症监护室接受治疗的病例有2例。\n新加坡政府日前还宣布，截止到7月1日，已经有1/4的外籍工人宿舍完成新冠病毒检测，被列为“安全”，宿舍区35万名外籍工人中有87000人可以复工。为了进一步重启经济，新加坡正在进一步扩大检测力度，优先对重点人群实行全面检测。\n目前新加坡已经完成对学前教育工作者、养老院人员的核酸检测。外籍工人宿舍区",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593943661000",
-            "title": "北京又有6地疫情风险等级降级，高风险地区仅余一个",
-            "summary": "北京又有6地调低疫情风险等级：丰台区长辛店街道、右安门街道，大兴区安定镇，海淀区八里庄街道，通州区北苑街道疫情风险等级由中风险地区降级为低风险地区；北京市大兴区西红门（地区）镇由高风险变更为中风险地区。目前，北京仅剩丰台区花乡（地区）乡为高风险地区。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFL2EjVuE1Bb9P2swaLgi200705&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
