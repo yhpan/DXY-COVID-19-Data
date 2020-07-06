@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594040858000",
+            "title": "美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了",
+            "summary": "据《华盛顿邮报》报道，美国单日新增新冠肺炎确诊病例的“七日平均值” 在5日达到了48640例 ，连续第27天创下历史新高。在新增确诊病例骤增的一些州，当地官员发布警告称，由于过早重新开放导致社区疫情暴发，目前的防疫手段将无法遏制病毒的扩散。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPlhkLVDwwlhX7MSkqbbn200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594036763000",
             "title": "菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人",
             "summary": "菲律宾首都大马尼拉地区轻轨3号线（MRT-3）管理部门称，轻轨3号线员工确诊新冠肺炎人数达186人。其中，有17人是在轻轨站内工作的员工，包括11名售票员、3名列车驾驶员、2名控制中心员工和1名救护人员。",
@@ -78,15 +87,6 @@
             "summary": "因新冠肺炎疫情关闭三个多月后，7月6日，法国卢浮宫博物馆将重新开放。重开后，参观者需要事先预约参观时段，在入口处使用手部消毒剂，11岁以上的参观者必须全程戴口罩。另外，博物馆只接受刷卡支付，不再收现金，快餐和衣物存储服务也暂不开放。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594000643000",
-            "title": "中国阿根廷搭建“空中桥梁”合作抗疫",
-            "summary": "今年3月，阿根廷开始出现新冠肺炎疫情。疫情不断蔓延让阿根廷面临医疗物资短缺的压力。为了提高医疗系统应对疫情的能力，阿根廷政府和中国政府迅速搭建起一架特殊的“空中桥梁”。早在3月中旬，阿根廷政府就下令停飞所有商业国际航班。但为了及时补充医疗物资、提高应对能力，阿根廷政府批准其国营的阿根廷航空公司临时开通了直飞中国的运输物资航班，这一航班也很快得到了中国政府的支持。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
