@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1593996714000",
+            "title": "苏里南将分区进一步放宽疫情管控措施 体育馆美发店等可重新开放",
+            "summary": "截至当地时间5日，苏里南新冠肺炎确诊病例数仍在持续攀升，累计确诊594例，累计死亡14例，累计隔离观察496人。当天，苏里南副总统阿德欣（Ashwin Adhin) 宣布将分地区进一步放宽疫情管控限制。6日早5点起除该国东部外，其它地区的餐饮业、体育馆和美发店均可重新开放；外出时段放宽至每晚22点至次日早5点。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593992297000",
             "title": "智利政府推出惠民计划 帮助中产家庭度过疫情危机",
             "summary": "当地时间7月5日，智利总统皮涅拉宣布，政府推出中产家庭帮助计划，包括国家担保推迟还贷、低息信贷、提高租房补助、高等教育贷款等内容，预计将惠及超过100万个家庭，帮助他们度过疫情危机。该计划是此前智利政府推出的疫情期间保护脆弱家庭和中产家庭的收入和就业计划的一部分。",
@@ -78,15 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月5日11时54分（北京时间7月5日17时54分），全球新冠肺炎确诊病例累计增至11108580例，累计死亡病例527835例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593944904000",
-            "title": "新加坡扩大筛查范围 重点人群优先检测",
-            "summary": "7月4日，新加坡卫生部宣布，新加坡近九成的新冠肺炎患者已出院，需要在重症监护室接受治疗的病例有2例。\n新加坡政府日前还宣布，截止到7月1日，已经有1/4的外籍工人宿舍完成新冠病毒检测，被列为“安全”，宿舍区35万名外籍工人中有87000人可以复工。为了进一步重启经济，新加坡正在进一步扩大检测力度，优先对重点人群实行全面检测。\n目前新加坡已经完成对学前教育工作者、养老院人员的核酸检测。外籍工人宿舍区",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0Re2CU7bA5R1WVYWLnz4200705&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
