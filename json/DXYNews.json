@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594042342000",
+            "title": "葡萄牙瓜尔达理工学院16名学生感染新冠病毒",
+            "summary": "当地时间7月6日，根据葡萄牙卢萨社消息，在一次生日聚会后，葡萄牙瓜尔达理工学院16名学生及一名学生的两个月大的幼儿感染新冠病毒。其中15名学生及幼儿在医院接受治疗，1名学生在家隔离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti7GY3vWMx4YO7DHBiqzyv200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594040858000",
             "title": "美国单日新增确诊病例数连续27天破纪录，地方官员：我们还是沦陷了",
             "summary": "据《华盛顿邮报》报道，美国单日新增新冠肺炎确诊病例的“七日平均值” 在5日达到了48640例 ，连续第27天创下历史新高。在新增确诊病例骤增的一些州，当地官员发布警告称，由于过早重新开放导致社区疫情暴发，目前的防疫手段将无法遏制病毒的扩散。",
@@ -15,6 +24,15 @@
             "summary": "菲律宾首都大马尼拉地区轻轨3号线（MRT-3）管理部门称，轻轨3号线员工确诊新冠肺炎人数达186人。其中，有17人是在轻轨站内工作的员工，包括11名售票员、3名列车驾驶员、2名控制中心员工和1名救护人员。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594034662000",
+            "title": "全球新冠肺炎超1143万",
+            "summary": "截至北京时间7月6日16时，全球累计确诊11437991例，累计死亡534385例。其中，美国新冠肺炎确诊超288万。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4523771610347333",
             "province": null,
             "provinceId": ""
         },
@@ -69,24 +87,6 @@
             "summary": "印度南部城市班加罗尔一名 52 岁的男子苏贾尼出现疑似新冠肺炎症状，却被 18 家医院拒收，他最终在一家医院门口身亡。目前印度政府正在调查涉事医院。 ",
             "infoSource": "人民日报海外版",
             "sourceUrl": "https://m.weibo.cn/3057540037/4523715160000750",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594004741000",
-            "title": "美国华盛顿大学出现聚集性疫情 121名学生新冠病毒检测结果呈阳性",
-            "summary": "据美国有线电视新闻网当地时间7月5日报道，位于华盛顿州西雅图市的“华盛顿大学”暴发聚集性疫情。根据华盛顿大学和西雅图卫生部门联合发布的最新消息，这所大学已有121名学生新冠病毒检测结果呈阳性。据悉，上周华盛顿大学校区内设立了一处新冠病毒检测点，截至4日共进行了大约1300次检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594000996000",
-            "title": "法国卢浮宫今日重开 11岁以上参观者须全程戴口罩",
-            "summary": "因新冠肺炎疫情关闭三个多月后，7月6日，法国卢浮宫博物馆将重新开放。重开后，参观者需要事先预约参观时段，在入口处使用手部消毒剂，11岁以上的参观者必须全程戴口罩。另外，博物馆只接受刷卡支付，不再收现金，快餐和衣物存储服务也暂不开放。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
