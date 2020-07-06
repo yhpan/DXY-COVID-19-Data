@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594000996000",
+            "title": "法国卢浮宫今日重开 11岁以上参观者须全程戴口罩",
+            "summary": "因新冠肺炎疫情关闭三个多月后，7月6日，法国卢浮宫博物馆将重新开放。重开后，参观者需要事先预约参观时段，在入口处使用手部消毒剂，11岁以上的参观者必须全程戴口罩。另外，博物馆只接受刷卡支付，不再收现金，快餐和衣物存储服务也暂不开放。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixwwPfkwbNO42gUxTyfV4200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594000643000",
+            "title": "中国阿根廷搭建“空中桥梁”合作抗疫",
+            "summary": "今年3月，阿根廷开始出现新冠肺炎疫情。疫情不断蔓延让阿根廷面临医疗物资短缺的压力。为了提高医疗系统应对疫情的能力，阿根廷政府和中国政府迅速搭建起一架特殊的“空中桥梁”。早在3月中旬，阿根廷政府就下令停飞所有商业国际航班。但为了及时补充医疗物资、提高应对能力，阿根廷政府批准其国营的阿根廷航空公司临时开通了直飞中国的运输物资航班，这一航班也很快得到了中国政府的支持。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1593996714000",
             "title": "苏里南将分区进一步放宽疫情管控措施 体育馆美发店等可重新开放",
             "summary": "截至当地时间5日，苏里南新冠肺炎确诊病例数仍在持续攀升，累计确诊594例，累计死亡14例，累计隔离观察496人。当天，苏里南副总统阿德欣（Ashwin Adhin) 宣布将分地区进一步放宽疫情管控限制。6日早5点起除该国东部外，其它地区的餐饮业、体育馆和美发店均可重新开放；外出时段放宽至每晚22点至次日早5点。",
@@ -69,24 +87,6 @@
             "summary": "近期，不少中国公民选择经比利时布鲁塞尔国际机场转机回国。中国驻比利时大使馆提醒中国公民，如确需经比利时转机回国，请注意以下事项：（一）在比利时转机时间不能超过 24 小时，且不得出机场国际转机区域。如转机时间超过 24 小时，按规定将被拒绝过境，造成滞留甚至被遣返至出发地。（二）根据当地规定，如含比利时在内连续过境两个或两个以上申根国，须走申根区境内转机通道。但目前比利时仍未对中国公民放开入境限制，中国公民如无当地长期居留许可，即使持有效申根签证亦无法入境，从而无法通过申根区境内转机通道，造成滞留甚至被遣返至出发地……",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593946970000",
-            "title": "江西：考生若体温正常，考场内可自主决定是否佩戴口罩",
-            "summary": "为了做好高考的疫情防控工作，江西省对考生和考试工作人员进行健康监测，还特别设置备用隔离考场等。考试当天考生要接受体温检测，体温低于 37.3°C 方可进入考点。考生进入考场就座后可自主决定是否佩戴口罩。备用隔离考场的考生要全程佩戴口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioAUiZLmgfyBPHET21y9V200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593946402000",
-            "title": "世卫组织：全球新冠肺炎确诊病例累计超1110万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月5日11时54分（北京时间7月5日17时54分），全球新冠肺炎确诊病例累计增至11108580例，累计死亡病例527835例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti0D5kRtTMFJ1EwvgEs28M200705&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
