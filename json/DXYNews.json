@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594036763000",
+            "title": "菲律宾马尼拉轻轨3号线员工确诊新冠肺炎人数达186人",
+            "summary": "菲律宾首都大马尼拉地区轻轨3号线（MRT-3）管理部门称，轻轨3号线员工确诊新冠肺炎人数达186人。其中，有17人是在轻轨站内工作的员工，包括11名售票员、3名列车驾驶员、2名控制中心员工和1名救护人员。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiA5bcvo2i7msVccT3FUO6200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594033020000",
             "title": "民航局发出首份外航熔断指令",
             "summary": "7 月 6 日，民航局再次发布通知，决定即日起，暂停孟加拉优速航空公司孟加拉国达卡至广州 BS325 航班运行 1 周。这是民航局发布的第三份熔断指令，也是对外国航空公司的首份熔断指令。6 月 28 日，孟加拉优速航空公司孟加拉国达卡至广州 BS325 航班上，5 名旅客新冠病毒核酸检测呈阳性，触发航班熔断条件。",
@@ -78,15 +87,6 @@
             "summary": "今年3月，阿根廷开始出现新冠肺炎疫情。疫情不断蔓延让阿根廷面临医疗物资短缺的压力。为了提高医疗系统应对疫情的能力，阿根廷政府和中国政府迅速搭建起一架特殊的“空中桥梁”。早在3月中旬，阿根廷政府就下令停飞所有商业国际航班。但为了及时补充医疗物资、提高应对能力，阿根廷政府批准其国营的阿根廷航空公司临时开通了直飞中国的运输物资航班，这一航班也很快得到了中国政府的支持。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiiy2M8Zdb5NTDnRxmOmha200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593996714000",
-            "title": "苏里南将分区进一步放宽疫情管控措施 体育馆美发店等可重新开放",
-            "summary": "截至当地时间5日，苏里南新冠肺炎确诊病例数仍在持续攀升，累计确诊594例，累计死亡14例，累计隔离观察496人。当天，苏里南副总统阿德欣（Ashwin Adhin) 宣布将分地区进一步放宽疫情管控限制。6日早5点起除该国东部外，其它地区的餐饮业、体育馆和美发店均可重新开放；外出时段放宽至每晚22点至次日早5点。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisbtcYw8jV04oUuVhqoMH200706&isfromapp=1",
             "province": null,
             "provinceId": ""
         }

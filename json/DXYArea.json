@@ -1,481 +1,6 @@
 {
     "results": [
         {
-            "locationId": 955007,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "伊朗",
-            "countryEnglishName": "Iran",
-            "countryFullName": "Iran (Islamic Republic of)",
-            "provinceName": "伊朗",
-            "provinceEnglishName": "Iran",
-            "provinceShortName": "伊朗",
-            "currentConfirmedCount": 27237,
-            "confirmedCount": 243051,
-            "suspectedCount": 0,
-            "curedCount": 204083,
-            "deadCount": 11731,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 965008,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "意大利",
-            "countryEnglishName": "Italy",
-            "countryFullName": "Italy",
-            "provinceName": "意大利",
-            "provinceEnglishName": "Italy",
-            "provinceShortName": "意大利",
-            "currentConfirmedCount": 14642,
-            "confirmedCount": 241611,
-            "suspectedCount": 0,
-            "curedCount": 192108,
-            "deadCount": 34861,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 952009,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "新加坡",
-            "countryEnglishName": "Singapore",
-            "countryFullName": "Singapore",
-            "provinceName": "新加坡",
-            "provinceEnglishName": "Singapore",
-            "provinceShortName": "新加坡",
-            "currentConfirmedCount": 4516,
-            "confirmedCount": 44983,
-            "suspectedCount": 0,
-            "curedCount": 40441,
-            "deadCount": 26,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 952008,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "菲律宾",
-            "countryEnglishName": "Philippines",
-            "countryFullName": "Philippines",
-            "provinceName": "菲律宾",
-            "provinceEnglishName": "Philippines",
-            "provinceShortName": "菲律宾",
-            "currentConfirmedCount": 32845,
-            "confirmedCount": 46333,
-            "suspectedCount": 0,
-            "curedCount": 12185,
-            "deadCount": 1303,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 955013,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "阿曼",
-            "countryEnglishName": "Oman",
-            "countryFullName": "Oman",
-            "provinceName": "阿曼",
-            "provinceEnglishName": "Oman",
-            "provinceShortName": "阿曼",
-            "currentConfirmedCount": 18371,
-            "confirmedCount": 47735,
-            "suspectedCount": 0,
-            "curedCount": 29146,
-            "deadCount": 218,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 984011,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "南非",
-            "countryEnglishName": "South Africa",
-            "countryFullName": "South Africa",
-            "provinceName": "南非",
-            "provinceEnglishName": "South Africa",
-            "provinceShortName": "南非",
-            "currentConfirmedCount": 100236,
-            "confirmedCount": 196750,
-            "suspectedCount": 0,
-            "curedCount": 93315,
-            "deadCount": 3199,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 953003,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "印度",
-            "countryEnglishName": "India",
-            "countryFullName": "India",
-            "provinceName": "印度",
-            "provinceEnglishName": "India",
-            "provinceShortName": "印度",
-            "currentConfirmedCount": 253287,
-            "confirmedCount": 697413,
-            "suspectedCount": 0,
-            "curedCount": 424433,
-            "deadCount": 19693,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 955002,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "亚美尼亚",
-            "countryEnglishName": "Armenia",
-            "countryFullName": "Armenia",
-            "provinceName": "亚美尼亚",
-            "provinceEnglishName": "Armenia",
-            "provinceShortName": "亚美尼亚",
-            "currentConfirmedCount": 12143,
-            "confirmedCount": 28936,
-            "suspectedCount": 0,
-            "curedCount": 16302,
-            "deadCount": 491,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 953001,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "孟加拉国",
-            "countryEnglishName": "Bangladesh",
-            "countryFullName": "Bangladesh",
-            "provinceName": "孟加拉国",
-            "provinceEnglishName": "Bangladesh",
-            "provinceShortName": "孟加拉国",
-            "currentConfirmedCount": 87373,
-            "confirmedCount": 165618,
-            "suspectedCount": 0,
-            "curedCount": 76149,
-            "deadCount": 2096,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 963002,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "捷克",
-            "countryEnglishName": "Czech Republic",
-            "countryFullName": "Czechia",
-            "provinceName": "捷克",
-            "provinceEnglishName": "Czech Republic",
-            "provinceShortName": "捷克",
-            "currentConfirmedCount": 4237,
-            "confirmedCount": 12440,
-            "suspectedCount": 0,
-            "curedCount": 7852,
-            "deadCount": 351,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 982013,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "尼日利亚",
-            "countryEnglishName": "Nigeria",
-            "countryFullName": "Nigeria",
-            "provinceName": "尼日利亚",
-            "provinceEnglishName": "Nigeria",
-            "provinceShortName": "尼日利亚",
-            "currentConfirmedCount": 16401,
-            "confirmedCount": 28711,
-            "suspectedCount": 0,
-            "curedCount": 11665,
-            "deadCount": 645,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 952005,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "印度尼西亚",
-            "countryEnglishName": "Indonesia",
-            "countryFullName": "Indonesia",
-            "provinceName": "印度尼西亚",
-            "provinceEnglishName": "Indonesia",
-            "provinceShortName": "印度尼西亚",
-            "currentConfirmedCount": 31798,
-            "confirmedCount": 64958,
-            "suspectedCount": 0,
-            "curedCount": 29919,
-            "deadCount": 3241,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 0,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "刚果（布）",
-            "countryEnglishName": null,
-            "countryFullName": "Congo",
-            "provinceName": "刚果（布）",
-            "provinceEnglishName": null,
-            "provinceShortName": "刚果（布）",
-            "currentConfirmedCount": 1027,
-            "confirmedCount": 1557,
-            "suspectedCount": 0,
-            "curedCount": 486,
-            "deadCount": 44,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 0,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "刚果（金）",
-            "countryEnglishName": "Democratic Republic of the Congo",
-            "countryFullName": "Democratic Republic of the Congo",
-            "provinceName": "刚果（金）",
-            "provinceEnglishName": "Democratic Republic of the Congo",
-            "provinceShortName": "刚果（金）",
-            "currentConfirmedCount": 4023,
-            "confirmedCount": 7431,
-            "suspectedCount": 0,
-            "curedCount": 3226,
-            "deadCount": 182,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 0,
-            "continentName": "北美洲",
-            "continentEnglishName": "North America",
-            "countryName": "阿鲁巴",
-            "countryEnglishName": null,
-            "countryFullName": "Aruba",
-            "provinceName": "阿鲁巴",
-            "provinceEnglishName": null,
-            "provinceShortName": "阿鲁巴",
-            "currentConfirmedCount": 101,
-            "confirmedCount": 104,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 3,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594033681174
-        },
-        {
-            "locationId": 984005,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "马达加斯加",
-            "countryEnglishName": "Madagascar",
-            "countryFullName": "Madagascar",
-            "provinceName": "马达加斯加",
-            "provinceEnglishName": "Madagascar",
-            "provinceShortName": "马达加斯加",
-            "currentConfirmedCount": 1801,
-            "confirmedCount": 2941,
-            "suspectedCount": 0,
-            "curedCount": 1108,
-            "deadCount": 32,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 964006,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "俄罗斯",
-            "countryEnglishName": "Russia",
-            "countryFullName": "Russian Federation",
-            "provinceName": "俄罗斯",
-            "provinceEnglishName": "Russia",
-            "provinceShortName": "俄罗斯",
-            "currentConfirmedCount": 223237,
-            "confirmedCount": 687862,
-            "suspectedCount": 0,
-            "curedCount": 454329,
-            "deadCount": 10296,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 954005,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "乌兹别克斯坦",
-            "countryEnglishName": "Uzbekistan",
-            "countryFullName": "Uzbekstan",
-            "provinceName": "乌兹别克斯坦",
-            "provinceEnglishName": "Uzbekistan",
-            "provinceShortName": "乌兹别克斯坦",
-            "currentConfirmedCount": 3524,
-            "confirmedCount": 10143,
-            "suspectedCount": 0,
-            "curedCount": 6584,
-            "deadCount": 35,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 0,
-            "continentName": "南美洲",
-            "continentEnglishName": "South America",
-            "countryName": "法属圭亚那",
-            "countryEnglishName": "French Guiana",
-            "countryFullName": "French Guiana",
-            "provinceName": "法属圭亚那",
-            "provinceEnglishName": "French Guiana",
-            "provinceShortName": "法属圭亚那",
-            "currentConfirmedCount": 4897,
-            "confirmedCount": 4913,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 16,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 955009,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "以色列",
-            "countryEnglishName": "Israel",
-            "countryFullName": "Israel",
-            "provinceName": "以色列",
-            "provinceEnglishName": "Israel",
-            "provinceShortName": "以色列",
-            "currentConfirmedCount": 11677,
-            "confirmedCount": 29958,
-            "suspectedCount": 0,
-            "curedCount": 17950,
-            "deadCount": 331,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 0,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "泽西岛",
-            "countryEnglishName": "Bailiwick of Jersey",
-            "countryFullName": "Jersey",
-            "provinceName": "泽西岛",
-            "provinceEnglishName": "Bailiwick of Jersey",
-            "provinceShortName": "泽西岛",
-            "currentConfirmedCount": 289,
-            "confirmedCount": 320,
-            "suspectedCount": 0,
-            "curedCount": 0,
-            "deadCount": 31,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 965011,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "罗马尼亚",
-            "countryEnglishName": "Romania",
-            "countryFullName": "Romania",
-            "provinceName": "罗马尼亚",
-            "provinceEnglishName": "Romania",
-            "provinceShortName": "罗马尼亚",
-            "currentConfirmedCount": 7197,
-            "confirmedCount": 28973,
-            "suspectedCount": 0,
-            "curedCount": 20026,
-            "deadCount": 1750,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 953006,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "巴基斯坦",
-            "countryEnglishName": "Pakistan",
-            "countryFullName": "Pakistan",
-            "provinceName": "巴基斯坦",
-            "provinceEnglishName": "Pakistan",
-            "provinceShortName": "巴基斯坦",
-            "currentConfirmedCount": 95407,
-            "confirmedCount": 231818,
-            "suspectedCount": 0,
-            "curedCount": 131649,
-            "deadCount": 4762,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 955004,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "巴林",
-            "countryEnglishName": "Bahrain",
-            "countryFullName": "Bahrain",
-            "provinceName": "巴林",
-            "provinceEnglishName": "Bahrain",
-            "provinceShortName": "巴林",
-            "currentConfirmedCount": 4620,
-            "confirmedCount": 29367,
-            "suspectedCount": 0,
-            "curedCount": 24649,
-            "deadCount": 98,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
-            "locationId": 953005,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "尼泊尔",
-            "countryEnglishName": "Nepal",
-            "countryFullName": "Nepal",
-            "provinceName": "尼泊尔",
-            "provinceEnglishName": "Nepal",
-            "provinceShortName": "尼泊尔",
-            "currentConfirmedCount": 9203,
-            "confirmedCount": 15784,
-            "suspectedCount": 0,
-            "curedCount": 6547,
-            "deadCount": 34,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032998483
-        },
-        {
             "locationId": 954001,
             "continentName": "亚洲",
             "continentEnglishName": "Asia",
@@ -492,197 +17,26 @@
             "deadCount": 188,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032570013
+            "updateTime": 1594037561946
         },
         {
-            "locationId": 982014,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "塞内加尔",
-            "countryEnglishName": "Senegal",
-            "countryFullName": "Senegal",
-            "provinceName": "塞内加尔",
-            "provinceEnglishName": "Senegal",
-            "provinceShortName": "塞内加尔",
-            "currentConfirmedCount": 2397,
-            "confirmedCount": 7400,
-            "suspectedCount": 0,
-            "curedCount": 4870,
-            "deadCount": 133,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 954002,
+            "locationId": 955007,
             "continentName": "亚洲",
             "continentEnglishName": "Asia",
-            "countryName": "吉尔吉斯斯坦",
-            "countryEnglishName": null,
-            "countryFullName": "Kyrgyzstan",
-            "provinceName": "吉尔吉斯斯坦",
-            "provinceEnglishName": null,
-            "provinceShortName": "吉尔吉斯斯坦",
-            "currentConfirmedCount": 4477,
-            "confirmedCount": 7408,
+            "countryName": "伊朗",
+            "countryEnglishName": "Iran",
+            "countryFullName": "Iran (Islamic Republic of)",
+            "provinceName": "伊朗",
+            "provinceEnglishName": "Iran",
+            "provinceShortName": "伊朗",
+            "currentConfirmedCount": 27237,
+            "confirmedCount": 243051,
             "suspectedCount": 0,
-            "curedCount": 2843,
-            "deadCount": 88,
+            "curedCount": 204083,
+            "deadCount": 11731,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 981004,
-            "continentName": "非洲",
-            "continentEnglishName": "Africa",
-            "countryName": "摩洛哥",
-            "countryEnglishName": "Morocco",
-            "countryFullName": "Morocco",
-            "provinceName": "摩洛哥",
-            "provinceEnglishName": "Morocco",
-            "provinceShortName": "摩洛哥",
-            "currentConfirmedCount": 4255,
-            "confirmedCount": 14215,
-            "suspectedCount": 0,
-            "curedCount": 9725,
-            "deadCount": 235,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 972003,
-            "continentName": "北美洲",
-            "continentEnglishName": "North America",
-            "countryName": "萨尔瓦多",
-            "countryEnglishName": "El Salvador",
-            "countryFullName": "The Republic of El Salvador",
-            "provinceName": "萨尔瓦多",
-            "provinceEnglishName": "El Salvador",
-            "provinceShortName": "萨尔瓦多",
-            "currentConfirmedCount": 3029,
-            "confirmedCount": 7507,
-            "suspectedCount": 0,
-            "curedCount": 4268,
-            "deadCount": 210,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 953004,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "马尔代夫",
-            "countryEnglishName": "Maldives",
-            "countryFullName": "Maldives",
-            "provinceName": "马尔代夫",
-            "provinceEnglishName": "Maldives",
-            "provinceShortName": "马尔代夫",
-            "currentConfirmedCount": 409,
-            "confirmedCount": 2468,
-            "suspectedCount": 0,
-            "curedCount": 2049,
-            "deadCount": 10,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 972002,
-            "continentName": "北美洲",
-            "continentEnglishName": "North America",
-            "countryName": "哥斯达黎加",
-            "countryEnglishName": "Costa Rica",
-            "countryFullName": "Costa Rica",
-            "provinceName": "哥斯达黎加",
-            "provinceEnglishName": "Costa Rica",
-            "provinceShortName": "哥斯达黎加",
-            "currentConfirmedCount": 3013,
-            "confirmedCount": 4311,
-            "suspectedCount": 0,
-            "curedCount": 1280,
-            "deadCount": 18,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 955014,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "巴勒斯坦",
-            "countryEnglishName": "Palestine",
-            "countryFullName": "occupied Palestinian territory",
-            "provinceName": "巴勒斯坦",
-            "provinceEnglishName": "Palestine",
-            "provinceShortName": "巴勒斯坦",
-            "currentConfirmedCount": 3749,
-            "confirmedCount": 4250,
-            "suspectedCount": 0,
-            "curedCount": 482,
-            "deadCount": 19,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 965007,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "希腊",
-            "countryEnglishName": "Greece",
-            "countryFullName": "Greece",
-            "provinceName": "希腊",
-            "provinceEnglishName": "Greece",
-            "provinceShortName": "希腊",
-            "currentConfirmedCount": 1854,
-            "confirmedCount": 3519,
-            "suspectedCount": 0,
-            "curedCount": 1473,
-            "deadCount": 192,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 965003,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "波黑",
-            "countryEnglishName": "Bosnia and Herzegovina",
-            "countryFullName": "Bosnia and Herzegovina",
-            "provinceName": "波黑",
-            "provinceEnglishName": "Bosnia and Herzegovina",
-            "provinceShortName": "波黑",
-            "currentConfirmedCount": 2658,
-            "confirmedCount": 5380,
-            "suspectedCount": 0,
-            "curedCount": 2532,
-            "deadCount": 190,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
-        },
-        {
-            "locationId": 964007,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "乌克兰",
-            "countryEnglishName": "Ukraine",
-            "countryFullName": "Ukraine",
-            "provinceName": "乌克兰",
-            "provinceEnglishName": "Ukraine",
-            "provinceShortName": "乌克兰",
-            "currentConfirmedCount": 25875,
-            "confirmedCount": 48500,
-            "suspectedCount": 0,
-            "curedCount": 21376,
-            "deadCount": 1249,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032570013
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -701,7 +55,7 @@
             "deadCount": 155,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 972004,
@@ -720,7 +74,7 @@
             "deadCount": 880,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965013,
@@ -739,7 +93,7 @@
             "deadCount": 377,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -758,7 +112,7 @@
             "deadCount": 36,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 962001,
@@ -777,7 +131,7 @@
             "deadCount": 606,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 964001,
@@ -796,7 +150,7 @@
             "deadCount": 418,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 964005,
@@ -815,7 +169,26 @@
             "deadCount": 582,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 982014,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "塞内加尔",
+            "countryEnglishName": "Senegal",
+            "countryFullName": "Senegal",
+            "provinceName": "塞内加尔",
+            "provinceEnglishName": "Senegal",
+            "provinceShortName": "塞内加尔",
+            "currentConfirmedCount": 2397,
+            "confirmedCount": 7400,
+            "suspectedCount": 0,
+            "curedCount": 4870,
+            "deadCount": 133,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 972001,
@@ -834,7 +207,7 @@
             "deadCount": 2,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952011,
@@ -853,7 +226,7 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 951002,
@@ -872,7 +245,7 @@
             "deadCount": 977,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984004,
@@ -891,7 +264,26 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 984005,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "马达加斯加",
+            "countryEnglishName": "Madagascar",
+            "countryFullName": "Madagascar",
+            "provinceName": "马达加斯加",
+            "provinceEnglishName": "Madagascar",
+            "provinceShortName": "马达加斯加",
+            "currentConfirmedCount": 1801,
+            "confirmedCount": 2941,
+            "suspectedCount": 0,
+            "curedCount": 1108,
+            "deadCount": 32,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965018,
@@ -910,7 +302,7 @@
             "deadCount": 14,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965019,
@@ -929,7 +321,26 @@
             "deadCount": 9,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 954002,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "吉尔吉斯斯坦",
+            "countryEnglishName": null,
+            "countryFullName": "Kyrgyzstan",
+            "provinceName": "吉尔吉斯斯坦",
+            "provinceEnglishName": null,
+            "provinceShortName": "吉尔吉斯斯坦",
+            "currentConfirmedCount": 4477,
+            "confirmedCount": 7408,
+            "suspectedCount": 0,
+            "curedCount": 2843,
+            "deadCount": 88,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 961001,
@@ -948,7 +359,7 @@
             "deadCount": 9771,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955019,
@@ -967,7 +378,7 @@
             "deadCount": 323,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -986,7 +397,7 @@
             "deadCount": 2,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1005,7 +416,26 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 981004,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "摩洛哥",
+            "countryEnglishName": "Morocco",
+            "countryFullName": "Morocco",
+            "provinceName": "摩洛哥",
+            "provinceEnglishName": "Morocco",
+            "provinceShortName": "摩洛哥",
+            "currentConfirmedCount": 4255,
+            "confirmedCount": 14215,
+            "suspectedCount": 0,
+            "curedCount": 9725,
+            "deadCount": 235,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973011,
@@ -1024,7 +454,7 @@
             "deadCount": 28,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965002,
@@ -1043,7 +473,7 @@
             "deadCount": 52,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973003,
@@ -1062,7 +492,7 @@
             "deadCount": 64900,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 974002,
@@ -1081,7 +511,7 @@
             "deadCount": 11,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963008,
@@ -1100,7 +530,7 @@
             "deadCount": 1685,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982005,
@@ -1119,7 +549,7 @@
             "deadCount": 2,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965001,
@@ -1138,7 +568,7 @@
             "deadCount": 76,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1157,7 +587,7 @@
             "deadCount": 13,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985008,
@@ -1176,7 +606,7 @@
             "deadCount": 92,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955015,
@@ -1195,7 +625,7 @@
             "deadCount": 128,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982009,
@@ -1214,26 +644,7 @@
             "deadCount": 37,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
-        },
-        {
-            "locationId": 962004,
-            "continentName": "欧洲",
-            "continentEnglishName": "Europe",
-            "countryName": "挪威",
-            "countryEnglishName": "Norway",
-            "countryFullName": "Norway",
-            "provinceName": "挪威",
-            "provinceEnglishName": "Norway",
-            "provinceShortName": "挪威",
-            "currentConfirmedCount": 532,
-            "confirmedCount": 8921,
-            "suspectedCount": 0,
-            "curedCount": 8138,
-            "deadCount": 251,
-            "comment": "",
-            "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973004,
@@ -1252,7 +663,7 @@
             "deadCount": 6308,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 961004,
@@ -1271,7 +682,7 @@
             "deadCount": 110,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1290,7 +701,7 @@
             "deadCount": 5,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 964003,
@@ -1309,7 +720,26 @@
             "deadCount": 30,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 972003,
+            "continentName": "北美洲",
+            "continentEnglishName": "North America",
+            "countryName": "萨尔瓦多",
+            "countryEnglishName": "El Salvador",
+            "countryFullName": "The Republic of El Salvador",
+            "provinceName": "萨尔瓦多",
+            "provinceEnglishName": "El Salvador",
+            "provinceShortName": "萨尔瓦多",
+            "currentConfirmedCount": 3029,
+            "confirmedCount": 7507,
+            "suspectedCount": 0,
+            "curedCount": 4268,
+            "deadCount": 210,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1328,7 +758,7 @@
             "deadCount": 2,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981003,
@@ -1347,7 +777,7 @@
             "deadCount": 27,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 974006,
@@ -1366,7 +796,7 @@
             "deadCount": 786,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982010,
@@ -1385,7 +815,7 @@
             "deadCount": 118,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982015,
@@ -1404,7 +834,7 @@
             "deadCount": 62,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982017,
@@ -1423,7 +853,7 @@
             "deadCount": 16,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955006,
@@ -1442,7 +872,7 @@
             "deadCount": 15,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984014,
@@ -1461,7 +891,45 @@
             "deadCount": 10,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 965008,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "意大利",
+            "countryEnglishName": "Italy",
+            "countryFullName": "Italy",
+            "provinceName": "意大利",
+            "provinceEnglishName": "Italy",
+            "provinceShortName": "意大利",
+            "currentConfirmedCount": 14642,
+            "confirmedCount": 241611,
+            "suspectedCount": 0,
+            "curedCount": 192108,
+            "deadCount": 34861,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 952009,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "新加坡",
+            "countryEnglishName": "Singapore",
+            "countryFullName": "Singapore",
+            "provinceName": "新加坡",
+            "provinceEnglishName": "Singapore",
+            "provinceShortName": "新加坡",
+            "currentConfirmedCount": 4516,
+            "confirmedCount": 44983,
+            "suspectedCount": 0,
+            "curedCount": 40441,
+            "deadCount": 26,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 954003,
@@ -1480,7 +948,7 @@
             "deadCount": 52,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965014,
@@ -1499,7 +967,7 @@
             "deadCount": 111,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955001,
@@ -1518,7 +986,7 @@
             "deadCount": 864,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965004,
@@ -1537,7 +1005,7 @@
             "deadCount": 241,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 974004,
@@ -1556,7 +1024,7 @@
             "deadCount": 86,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1575,7 +1043,7 @@
             "deadCount": 2,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 971002,
@@ -1594,7 +1062,7 @@
             "deadCount": 129946,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 962003,
@@ -1613,7 +1081,7 @@
             "deadCount": 10,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985004,
@@ -1632,7 +1100,7 @@
             "deadCount": 116,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955010,
@@ -1651,7 +1119,7 @@
             "deadCount": 10,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 964004,
@@ -1670,7 +1138,7 @@
             "deadCount": 79,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981006,
@@ -1689,7 +1157,26 @@
             "deadCount": 50,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 952008,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "菲律宾",
+            "countryEnglishName": "Philippines",
+            "countryFullName": "Philippines",
+            "provinceName": "菲律宾",
+            "provinceEnglishName": "Philippines",
+            "provinceShortName": "菲律宾",
+            "currentConfirmedCount": 32845,
+            "confirmedCount": 46333,
+            "suspectedCount": 0,
+            "curedCount": 12185,
+            "deadCount": 1303,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 971001,
@@ -1708,7 +1195,7 @@
             "deadCount": 8684,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955016,
@@ -1727,7 +1214,7 @@
             "deadCount": 1916,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985010,
@@ -1746,7 +1233,7 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1765,7 +1252,26 @@
             "deadCount": 338,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 955013,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "阿曼",
+            "countryEnglishName": "Oman",
+            "countryFullName": "Oman",
+            "provinceName": "阿曼",
+            "provinceEnglishName": "Oman",
+            "provinceShortName": "阿曼",
+            "currentConfirmedCount": 18371,
+            "confirmedCount": 47735,
+            "suspectedCount": 0,
+            "curedCount": 29146,
+            "deadCount": 218,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984010,
@@ -1784,7 +1290,26 @@
             "deadCount": 13,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 964006,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "俄罗斯",
+            "countryEnglishName": "Russia",
+            "countryFullName": "Russian Federation",
+            "provinceName": "俄罗斯",
+            "provinceEnglishName": "Russia",
+            "provinceShortName": "俄罗斯",
+            "currentConfirmedCount": 223237,
+            "confirmedCount": 687862,
+            "suspectedCount": 0,
+            "curedCount": 454329,
+            "deadCount": 10296,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973007,
@@ -1803,7 +1328,7 @@
             "deadCount": 14,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 983001,
@@ -1822,7 +1347,26 @@
             "deadCount": 313,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 954005,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "乌兹别克斯坦",
+            "countryEnglishName": "Uzbekistan",
+            "countryFullName": "Uzbekstan",
+            "provinceName": "乌兹别克斯坦",
+            "provinceEnglishName": "Uzbekistan",
+            "provinceShortName": "乌兹别克斯坦",
+            "currentConfirmedCount": 3524,
+            "confirmedCount": 10143,
+            "suspectedCount": 0,
+            "curedCount": 6584,
+            "deadCount": 35,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982001,
@@ -1841,7 +1385,26 @@
             "deadCount": 21,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 0,
+            "continentName": "南美洲",
+            "continentEnglishName": "South America",
+            "countryName": "法属圭亚那",
+            "countryEnglishName": "French Guiana",
+            "countryFullName": "French Guiana",
+            "provinceName": "法属圭亚那",
+            "provinceEnglishName": "French Guiana",
+            "provinceShortName": "法属圭亚那",
+            "currentConfirmedCount": 4897,
+            "confirmedCount": 4913,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 16,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 974009,
@@ -1860,7 +1423,7 @@
             "deadCount": 10,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952001,
@@ -1879,7 +1442,45 @@
             "deadCount": 6,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 984011,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "南非",
+            "countryEnglishName": "South Africa",
+            "countryFullName": "South Africa",
+            "provinceName": "南非",
+            "provinceEnglishName": "South Africa",
+            "provinceShortName": "南非",
+            "currentConfirmedCount": 100236,
+            "confirmedCount": 196750,
+            "suspectedCount": 0,
+            "curedCount": 93315,
+            "deadCount": 3199,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 953004,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "马尔代夫",
+            "countryEnglishName": "Maldives",
+            "countryFullName": "Maldives",
+            "provinceName": "马尔代夫",
+            "provinceEnglishName": "Maldives",
+            "provinceShortName": "马尔代夫",
+            "currentConfirmedCount": 409,
+            "confirmedCount": 2468,
+            "suspectedCount": 0,
+            "curedCount": 2049,
+            "deadCount": 10,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 961003,
@@ -1898,7 +1499,7 @@
             "deadCount": 1741,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984013,
@@ -1917,7 +1518,7 @@
             "deadCount": 8,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963001,
@@ -1936,7 +1537,252 @@
             "deadCount": 705,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 310000,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "中国",
+            "countryEnglishName": "China",
+            "countryFullName": null,
+            "provinceName": "上海市",
+            "provinceEnglishName": "Shanghai",
+            "provinceShortName": "上海",
+            "currentConfirmedCount": 24,
+            "confirmedCount": 716,
+            "suspectedCount": 300,
+            "curedCount": 685,
+            "deadCount": 7,
+            "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
+            "cities": [
+                {
+                    "cityName": "境外输入",
+                    "currentConfirmedCount": 23,
+                    "confirmedCount": 374,
+                    "suspectedCount": 4,
+                    "curedCount": 351,
+                    "deadCount": 0,
+                    "locationId": 0
+                },
+                {
+                    "cityName": "境外来沪",
+                    "currentConfirmedCount": 1,
+                    "confirmedCount": 1,
+                    "suspectedCount": 0,
+                    "curedCount": 0,
+                    "deadCount": 0,
+                    "locationId": 0
+                },
+                {
+                    "cityName": "外地来沪",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 113,
+                    "suspectedCount": 0,
+                    "curedCount": 112,
+                    "deadCount": 1,
+                    "locationId": 0
+                },
+                {
+                    "cityName": "浦东新区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 61,
+                    "suspectedCount": 0,
+                    "curedCount": 60,
+                    "deadCount": 1,
+                    "locationId": 310115,
+                    "cityEnglishName": "Pudong District"
+                },
+                {
+                    "cityName": "宝山区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 22,
+                    "suspectedCount": 0,
+                    "curedCount": 21,
+                    "deadCount": 1,
+                    "locationId": 310113,
+                    "cityEnglishName": "Baoshan District"
+                },
+                {
+                    "cityName": "闵行区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 19,
+                    "suspectedCount": 0,
+                    "curedCount": 19,
+                    "deadCount": 0,
+                    "locationId": 310112,
+                    "cityEnglishName": "Minhang District"
+                },
+                {
+                    "cityName": "徐汇区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 18,
+                    "suspectedCount": 0,
+                    "curedCount": 17,
+                    "deadCount": 1,
+                    "locationId": 310104,
+                    "cityEnglishName": "Xuhui District"
+                },
+                {
+                    "cityName": "静安区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 16,
+                    "suspectedCount": 0,
+                    "curedCount": 15,
+                    "deadCount": 1,
+                    "locationId": 310106,
+                    "cityEnglishName": "Jing'an District"
+                },
+                {
+                    "cityName": "松江区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 14,
+                    "suspectedCount": 0,
+                    "curedCount": 14,
+                    "deadCount": 0,
+                    "locationId": 310117,
+                    "cityEnglishName": "Songjiang District"
+                },
+                {
+                    "cityName": "长宁区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 13,
+                    "suspectedCount": 0,
+                    "curedCount": 13,
+                    "deadCount": 0,
+                    "locationId": 310105,
+                    "cityEnglishName": "Changning District"
+                },
+                {
+                    "cityName": "普陀区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 11,
+                    "suspectedCount": 0,
+                    "curedCount": 11,
+                    "deadCount": 0,
+                    "locationId": 310107,
+                    "cityEnglishName": "Putuo District"
+                },
+                {
+                    "cityName": "杨浦区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 9,
+                    "suspectedCount": 0,
+                    "curedCount": 9,
+                    "deadCount": 0,
+                    "locationId": 310110,
+                    "cityEnglishName": "Yangpu District"
+                },
+                {
+                    "cityName": "嘉定区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 9,
+                    "suspectedCount": 0,
+                    "curedCount": 7,
+                    "deadCount": 2,
+                    "locationId": 310114,
+                    "cityEnglishName": "Jiading District"
+                },
+                {
+                    "cityName": "奉贤区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 9,
+                    "suspectedCount": 0,
+                    "curedCount": 9,
+                    "deadCount": 0,
+                    "locationId": 310120,
+                    "cityEnglishName": "Fengxian District"
+                },
+                {
+                    "cityName": "虹口区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 7,
+                    "suspectedCount": 0,
+                    "curedCount": 7,
+                    "deadCount": 0,
+                    "locationId": 310109,
+                    "cityEnglishName": "Hongkou District"
+                },
+                {
+                    "cityName": "黄浦区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 6,
+                    "suspectedCount": 0,
+                    "curedCount": 6,
+                    "deadCount": 0,
+                    "locationId": 310101,
+                    "cityEnglishName": "Huangpu District"
+                },
+                {
+                    "cityName": "青浦区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 6,
+                    "suspectedCount": 0,
+                    "curedCount": 6,
+                    "deadCount": 0,
+                    "locationId": 310118,
+                    "cityEnglishName": "Qingpu District"
+                },
+                {
+                    "cityName": "金山区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 4,
+                    "suspectedCount": 0,
+                    "curedCount": 4,
+                    "deadCount": 0,
+                    "locationId": 310116,
+                    "cityEnglishName": "Jinshan District"
+                },
+                {
+                    "cityName": "崇明区",
+                    "currentConfirmedCount": 0,
+                    "confirmedCount": 4,
+                    "suspectedCount": 0,
+                    "curedCount": 4,
+                    "deadCount": 0,
+                    "locationId": 310151,
+                    "cityEnglishName": "Chongming District"
+                }
+            ],
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 955009,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "以色列",
+            "countryEnglishName": "Israel",
+            "countryFullName": "Israel",
+            "provinceName": "以色列",
+            "provinceEnglishName": "Israel",
+            "provinceShortName": "以色列",
+            "currentConfirmedCount": 11677,
+            "confirmedCount": 29958,
+            "suspectedCount": 0,
+            "curedCount": 17950,
+            "deadCount": 331,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 953003,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "印度",
+            "countryEnglishName": "India",
+            "countryFullName": "India",
+            "provinceName": "印度",
+            "provinceEnglishName": "India",
+            "provinceShortName": "印度",
+            "currentConfirmedCount": 253287,
+            "confirmedCount": 697413,
+            "suspectedCount": 0,
+            "curedCount": 424433,
+            "deadCount": 19693,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 974008,
@@ -1955,7 +1801,7 @@
             "deadCount": 110,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -1974,7 +1820,7 @@
             "deadCount": 13,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 953007,
@@ -1993,7 +1839,7 @@
             "deadCount": 11,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984001,
@@ -2012,7 +1858,7 @@
             "deadCount": 19,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984002,
@@ -2031,7 +1877,7 @@
             "deadCount": 1,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965012,
@@ -2050,7 +1896,7 @@
             "deadCount": 42,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955012,
@@ -2069,7 +1915,7 @@
             "deadCount": 35,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 972007,
@@ -2088,7 +1934,7 @@
             "deadCount": 698,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963003,
@@ -2107,7 +1953,7 @@
             "deadCount": 9016,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965010,
@@ -2126,7 +1972,7 @@
             "deadCount": 1614,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955008,
@@ -2145,7 +1991,7 @@
             "deadCount": 2473,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2164,7 +2010,7 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984006,
@@ -2183,7 +2029,7 @@
             "deadCount": 19,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 972005,
@@ -2202,7 +2048,7 @@
             "deadCount": 605,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982016,
@@ -2221,7 +2067,7 @@
             "deadCount": 15,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952003,
@@ -2240,7 +2086,26 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 955002,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "亚美尼亚",
+            "countryEnglishName": "Armenia",
+            "countryFullName": "Armenia",
+            "provinceName": "亚美尼亚",
+            "provinceEnglishName": "Armenia",
+            "provinceShortName": "亚美尼亚",
+            "currentConfirmedCount": 12143,
+            "confirmedCount": 28936,
+            "suspectedCount": 0,
+            "curedCount": 16302,
+            "deadCount": 491,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981005,
@@ -2259,7 +2124,7 @@
             "deadCount": 608,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985009,
@@ -2278,7 +2143,7 @@
             "deadCount": 21,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955018,
@@ -2297,7 +2162,140 @@
             "deadCount": 5225,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 953001,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "孟加拉国",
+            "countryEnglishName": "Bangladesh",
+            "countryFullName": "Bangladesh",
+            "provinceName": "孟加拉国",
+            "provinceEnglishName": "Bangladesh",
+            "provinceShortName": "孟加拉国",
+            "currentConfirmedCount": 87373,
+            "confirmedCount": 165618,
+            "suspectedCount": 0,
+            "curedCount": 76149,
+            "deadCount": 2096,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 972002,
+            "continentName": "北美洲",
+            "continentEnglishName": "North America",
+            "countryName": "哥斯达黎加",
+            "countryEnglishName": "Costa Rica",
+            "countryFullName": "Costa Rica",
+            "provinceName": "哥斯达黎加",
+            "provinceEnglishName": "Costa Rica",
+            "provinceShortName": "哥斯达黎加",
+            "currentConfirmedCount": 3013,
+            "confirmedCount": 4311,
+            "suspectedCount": 0,
+            "curedCount": 1280,
+            "deadCount": 18,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 0,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "泽西岛",
+            "countryEnglishName": "Bailiwick of Jersey",
+            "countryFullName": "Jersey",
+            "provinceName": "泽西岛",
+            "provinceEnglishName": "Bailiwick of Jersey",
+            "provinceShortName": "泽西岛",
+            "currentConfirmedCount": 289,
+            "confirmedCount": 320,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 31,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 963002,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "捷克",
+            "countryEnglishName": "Czech Republic",
+            "countryFullName": "Czechia",
+            "provinceName": "捷克",
+            "provinceEnglishName": "Czech Republic",
+            "provinceShortName": "捷克",
+            "currentConfirmedCount": 4237,
+            "confirmedCount": 12440,
+            "suspectedCount": 0,
+            "curedCount": 7852,
+            "deadCount": 351,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 982013,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "尼日利亚",
+            "countryEnglishName": "Nigeria",
+            "countryFullName": "Nigeria",
+            "provinceName": "尼日利亚",
+            "provinceEnglishName": "Nigeria",
+            "provinceShortName": "尼日利亚",
+            "currentConfirmedCount": 16401,
+            "confirmedCount": 28711,
+            "suspectedCount": 0,
+            "curedCount": 11665,
+            "deadCount": 645,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 965011,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "罗马尼亚",
+            "countryEnglishName": "Romania",
+            "countryFullName": "Romania",
+            "provinceName": "罗马尼亚",
+            "provinceEnglishName": "Romania",
+            "provinceShortName": "罗马尼亚",
+            "currentConfirmedCount": 7197,
+            "confirmedCount": 28973,
+            "suspectedCount": 0,
+            "curedCount": 20026,
+            "deadCount": 1750,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 952005,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "印度尼西亚",
+            "countryEnglishName": "Indonesia",
+            "countryFullName": "Indonesia",
+            "provinceName": "印度尼西亚",
+            "provinceEnglishName": "Indonesia",
+            "provinceShortName": "印度尼西亚",
+            "currentConfirmedCount": 31798,
+            "confirmedCount": 64958,
+            "suspectedCount": 0,
+            "curedCount": 29919,
+            "deadCount": 3241,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 983004,
@@ -2316,7 +2314,7 @@
             "deadCount": 44,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982003,
@@ -2335,7 +2333,7 @@
             "deadCount": 74,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973008,
@@ -2354,7 +2352,7 @@
             "deadCount": 10589,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2373,7 +2371,26 @@
             "deadCount": 6,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 955014,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "巴勒斯坦",
+            "countryEnglishName": "Palestine",
+            "countryFullName": "occupied Palestinian territory",
+            "provinceName": "巴勒斯坦",
+            "provinceEnglishName": "Palestine",
+            "provinceShortName": "巴勒斯坦",
+            "currentConfirmedCount": 3749,
+            "confirmedCount": 4250,
+            "suspectedCount": 0,
+            "curedCount": 482,
+            "deadCount": 19,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2392,7 +2409,7 @@
             "deadCount": 16,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952010,
@@ -2411,7 +2428,7 @@
             "deadCount": 58,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985003,
@@ -2430,7 +2447,7 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985006,
@@ -2449,7 +2466,7 @@
             "deadCount": 3,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 962005,
@@ -2468,7 +2485,7 @@
             "deadCount": 5447,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952002,
@@ -2487,7 +2504,26 @@
             "deadCount": 3,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 965007,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "希腊",
+            "countryEnglishName": "Greece",
+            "countryFullName": "Greece",
+            "provinceName": "希腊",
+            "provinceEnglishName": "Greece",
+            "provinceShortName": "希腊",
+            "currentConfirmedCount": 1854,
+            "confirmedCount": 3519,
+            "suspectedCount": 0,
+            "curedCount": 1473,
+            "deadCount": 192,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955017,
@@ -2506,7 +2542,7 @@
             "deadCount": 10,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973002,
@@ -2525,7 +2561,7 @@
             "deadCount": 1320,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 951004,
@@ -2544,7 +2580,7 @@
             "deadCount": 283,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2563,7 +2599,7 @@
             "deadCount": 1,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982011,
@@ -2582,7 +2618,7 @@
             "deadCount": 68,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 961007,
@@ -2601,7 +2637,7 @@
             "deadCount": 44220,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 952007,
@@ -2620,7 +2656,7 @@
             "deadCount": 121,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955003,
@@ -2639,7 +2675,7 @@
             "deadCount": 250,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2658,7 +2694,7 @@
             "deadCount": 30,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2677,7 +2713,7 @@
             "deadCount": 46,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981001,
@@ -2696,7 +2732,7 @@
             "deadCount": 952,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 972006,
@@ -2715,7 +2751,7 @@
             "deadCount": 83,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985005,
@@ -2734,7 +2770,7 @@
             "deadCount": 160,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981002,
@@ -2753,7 +2789,7 @@
             "deadCount": 3343,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973009,
@@ -2772,7 +2808,26 @@
             "deadCount": 20,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 953006,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "巴基斯坦",
+            "countryEnglishName": "Pakistan",
+            "countryFullName": "Pakistan",
+            "provinceName": "巴基斯坦",
+            "provinceEnglishName": "Pakistan",
+            "provinceShortName": "巴基斯坦",
+            "currentConfirmedCount": 95407,
+            "confirmedCount": 231818,
+            "suspectedCount": 0,
+            "curedCount": 131649,
+            "deadCount": 4762,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982002,
@@ -2791,7 +2846,7 @@
             "deadCount": 53,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2810,7 +2865,7 @@
             "deadCount": 14,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973006,
@@ -2829,7 +2884,7 @@
             "deadCount": 4769,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963006,
@@ -2848,7 +2903,26 @@
             "deadCount": 1517,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 0,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "刚果（布）",
+            "countryEnglishName": null,
+            "countryFullName": "Congo",
+            "provinceName": "刚果（布）",
+            "provinceEnglishName": null,
+            "provinceShortName": "刚果（布）",
+            "currentConfirmedCount": 1027,
+            "confirmedCount": 1557,
+            "suspectedCount": 0,
+            "curedCount": 486,
+            "deadCount": 44,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 985002,
@@ -2867,7 +2941,26 @@
             "deadCount": 55,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 965003,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "波黑",
+            "countryEnglishName": "Bosnia and Herzegovina",
+            "countryFullName": "Bosnia and Herzegovina",
+            "provinceName": "波黑",
+            "provinceEnglishName": "Bosnia and Herzegovina",
+            "provinceShortName": "波黑",
+            "currentConfirmedCount": 2658,
+            "confirmedCount": 5380,
+            "suspectedCount": 0,
+            "curedCount": 2532,
+            "deadCount": 190,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -2886,7 +2979,7 @@
             "deadCount": 3,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982006,
@@ -2905,7 +2998,7 @@
             "deadCount": 122,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963004,
@@ -2924,7 +3017,7 @@
             "deadCount": 589,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 964002,
@@ -2943,7 +3036,7 @@
             "deadCount": 69,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 983007,
@@ -2962,7 +3055,7 @@
             "deadCount": 13,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973010,
@@ -2981,7 +3074,7 @@
             "deadCount": 14,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973005,
@@ -3000,7 +3093,7 @@
             "deadCount": 4064,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982012,
@@ -3019,7 +3112,7 @@
             "deadCount": 130,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 973001,
@@ -3038,7 +3131,7 @@
             "deadCount": 1509,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 981007,
@@ -3057,7 +3150,7 @@
             "deadCount": 38,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 963007,
@@ -3076,7 +3169,7 @@
             "deadCount": 28,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984009,
@@ -3095,7 +3188,26 @@
             "deadCount": 0,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 955004,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "巴林",
+            "countryEnglishName": "Bahrain",
+            "countryFullName": "Bahrain",
+            "provinceName": "巴林",
+            "provinceEnglishName": "Bahrain",
+            "provinceShortName": "巴林",
+            "currentConfirmedCount": 4620,
+            "confirmedCount": 29367,
+            "suspectedCount": 0,
+            "curedCount": 24649,
+            "deadCount": 98,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 961006,
@@ -3114,7 +3226,26 @@
             "deadCount": 6117,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 964007,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "乌克兰",
+            "countryEnglishName": "Ukraine",
+            "countryFullName": "Ukraine",
+            "provinceName": "乌克兰",
+            "provinceEnglishName": "Ukraine",
+            "provinceShortName": "乌克兰",
+            "currentConfirmedCount": 25875,
+            "confirmedCount": 48500,
+            "suspectedCount": 0,
+            "curedCount": 21376,
+            "deadCount": 1249,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 990001,
@@ -3133,7 +3264,26 @@
             "deadCount": 104,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 953005,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "尼泊尔",
+            "countryEnglishName": "Nepal",
+            "countryFullName": "Nepal",
+            "provinceName": "尼泊尔",
+            "provinceEnglishName": "Nepal",
+            "provinceShortName": "尼泊尔",
+            "currentConfirmedCount": 9203,
+            "confirmedCount": 15784,
+            "suspectedCount": 0,
+            "curedCount": 6547,
+            "deadCount": 34,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 982004,
@@ -3152,7 +3302,7 @@
             "deadCount": 70,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -3171,7 +3321,7 @@
             "deadCount": 341,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 971003,
@@ -3190,7 +3340,7 @@
             "deadCount": 30639,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 983002,
@@ -3209,7 +3359,7 @@
             "deadCount": 48,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -3228,7 +3378,7 @@
             "deadCount": 24,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984008,
@@ -3247,7 +3397,7 @@
             "deadCount": 7,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 962002,
@@ -3266,7 +3416,7 @@
             "deadCount": 329,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955011,
@@ -3285,7 +3435,7 @@
             "deadCount": 368,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 965005,
@@ -3304,7 +3454,26 @@
             "deadCount": 113,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 0,
+            "continentName": "非洲",
+            "continentEnglishName": "Africa",
+            "countryName": "刚果（金）",
+            "countryEnglishName": "Democratic Republic of the Congo",
+            "countryFullName": "Democratic Republic of the Congo",
+            "provinceName": "刚果（金）",
+            "provinceEnglishName": "Democratic Republic of the Congo",
+            "provinceShortName": "刚果（金）",
+            "currentConfirmedCount": 4023,
+            "confirmedCount": 7431,
+            "suspectedCount": 0,
+            "curedCount": 3226,
+            "deadCount": 182,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 984003,
@@ -3323,7 +3492,26 @@
             "deadCount": 7,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 951001,
+            "continentName": "亚洲",
+            "continentEnglishName": "Asia",
+            "countryName": "中国",
+            "countryEnglishName": "China",
+            "countryFullName": "China",
+            "provinceName": "中国",
+            "provinceEnglishName": "China",
+            "provinceShortName": "中国",
+            "currentConfirmedCount": 511,
+            "confirmedCount": 85320,
+            "suspectedCount": 0,
+            "curedCount": 80161,
+            "deadCount": 4648,
+            "comment": null,
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 955005,
@@ -3342,7 +3530,7 @@
             "deadCount": 26,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -3361,7 +3549,26 @@
             "deadCount": 1,
             "comment": "",
             "cities": null,
-            "updateTime": 1594032325212
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 0,
+            "continentName": "北美洲",
+            "continentEnglishName": "North America",
+            "countryName": "阿鲁巴",
+            "countryEnglishName": null,
+            "countryFullName": "Aruba",
+            "provinceName": "阿鲁巴",
+            "provinceEnglishName": null,
+            "provinceShortName": "阿鲁巴",
+            "currentConfirmedCount": 101,
+            "confirmedCount": 104,
+            "suspectedCount": 0,
+            "curedCount": 0,
+            "deadCount": 3,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
         },
         {
             "locationId": 0,
@@ -3378,6 +3585,25 @@
             "suspectedCount": 0,
             "curedCount": 1649,
             "deadCount": 59,
+            "comment": "",
+            "cities": null,
+            "updateTime": 1594037561946
+        },
+        {
+            "locationId": 962004,
+            "continentName": "欧洲",
+            "continentEnglishName": "Europe",
+            "countryName": "挪威",
+            "countryEnglishName": "Norway",
+            "countryFullName": "Norway",
+            "provinceName": "挪威",
+            "provinceEnglishName": "Norway",
+            "provinceShortName": "挪威",
+            "currentConfirmedCount": 532,
+            "confirmedCount": 8921,
+            "suspectedCount": 0,
+            "curedCount": 8138,
+            "deadCount": 251,
             "comment": "",
             "cities": null,
             "updateTime": 1594032325212
@@ -4070,25 +4296,6 @@
             "updateTime": 1593998451429
         },
         {
-            "locationId": 951001,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "中国",
-            "countryEnglishName": "China",
-            "countryFullName": "China",
-            "provinceName": "中国",
-            "provinceEnglishName": "China",
-            "provinceShortName": "中国",
-            "currentConfirmedCount": 515,
-            "confirmedCount": 85320,
-            "suspectedCount": 0,
-            "curedCount": 80157,
-            "deadCount": 4648,
-            "comment": null,
-            "cities": null,
-            "updateTime": 1593995433782
-        },
-        {
             "locationId": 0,
             "continentName": "非洲",
             "continentEnglishName": "Africa",
@@ -4699,213 +4906,6 @@
                 }
             ],
             "updateTime": 1593912329164
-        },
-        {
-            "locationId": 310000,
-            "continentName": "亚洲",
-            "continentEnglishName": "Asia",
-            "countryName": "中国",
-            "countryEnglishName": "China",
-            "countryFullName": null,
-            "provinceName": "上海市",
-            "provinceEnglishName": "Shanghai",
-            "provinceShortName": "上海",
-            "currentConfirmedCount": 28,
-            "confirmedCount": 716,
-            "suspectedCount": 300,
-            "curedCount": 681,
-            "deadCount": 7,
-            "comment": "因未公布分区死亡和治愈，仅展示累计确诊和现存确诊",
-            "cities": [
-                {
-                    "cityName": "境外输入",
-                    "currentConfirmedCount": 27,
-                    "confirmedCount": 374,
-                    "suspectedCount": 4,
-                    "curedCount": 347,
-                    "deadCount": 0,
-                    "locationId": 0
-                },
-                {
-                    "cityName": "境外来沪",
-                    "currentConfirmedCount": 1,
-                    "confirmedCount": 1,
-                    "suspectedCount": 0,
-                    "curedCount": 0,
-                    "deadCount": 0,
-                    "locationId": 0
-                },
-                {
-                    "cityName": "外地来沪",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 113,
-                    "suspectedCount": 0,
-                    "curedCount": 112,
-                    "deadCount": 1,
-                    "locationId": 0
-                },
-                {
-                    "cityName": "浦东新区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 61,
-                    "suspectedCount": 0,
-                    "curedCount": 60,
-                    "deadCount": 1,
-                    "locationId": 310115,
-                    "cityEnglishName": "Pudong District"
-                },
-                {
-                    "cityName": "宝山区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 22,
-                    "suspectedCount": 0,
-                    "curedCount": 21,
-                    "deadCount": 1,
-                    "locationId": 310113,
-                    "cityEnglishName": "Baoshan District"
-                },
-                {
-                    "cityName": "闵行区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 19,
-                    "suspectedCount": 0,
-                    "curedCount": 19,
-                    "deadCount": 0,
-                    "locationId": 310112,
-                    "cityEnglishName": "Minhang District"
-                },
-                {
-                    "cityName": "徐汇区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 18,
-                    "suspectedCount": 0,
-                    "curedCount": 17,
-                    "deadCount": 1,
-                    "locationId": 310104,
-                    "cityEnglishName": "Xuhui District"
-                },
-                {
-                    "cityName": "静安区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 16,
-                    "suspectedCount": 0,
-                    "curedCount": 15,
-                    "deadCount": 1,
-                    "locationId": 310106,
-                    "cityEnglishName": "Jing'an District"
-                },
-                {
-                    "cityName": "松江区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 14,
-                    "suspectedCount": 0,
-                    "curedCount": 14,
-                    "deadCount": 0,
-                    "locationId": 310117,
-                    "cityEnglishName": "Songjiang District"
-                },
-                {
-                    "cityName": "长宁区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 13,
-                    "suspectedCount": 0,
-                    "curedCount": 13,
-                    "deadCount": 0,
-                    "locationId": 310105,
-                    "cityEnglishName": "Changning District"
-                },
-                {
-                    "cityName": "普陀区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 11,
-                    "suspectedCount": 0,
-                    "curedCount": 11,
-                    "deadCount": 0,
-                    "locationId": 310107,
-                    "cityEnglishName": "Putuo District"
-                },
-                {
-                    "cityName": "杨浦区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 9,
-                    "suspectedCount": 0,
-                    "curedCount": 9,
-                    "deadCount": 0,
-                    "locationId": 310110,
-                    "cityEnglishName": "Yangpu District"
-                },
-                {
-                    "cityName": "嘉定区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 9,
-                    "suspectedCount": 0,
-                    "curedCount": 7,
-                    "deadCount": 2,
-                    "locationId": 310114,
-                    "cityEnglishName": "Jiading District"
-                },
-                {
-                    "cityName": "奉贤区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 9,
-                    "suspectedCount": 0,
-                    "curedCount": 9,
-                    "deadCount": 0,
-                    "locationId": 310120,
-                    "cityEnglishName": "Fengxian District"
-                },
-                {
-                    "cityName": "虹口区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 7,
-                    "suspectedCount": 0,
-                    "curedCount": 7,
-                    "deadCount": 0,
-                    "locationId": 310109,
-                    "cityEnglishName": "Hongkou District"
-                },
-                {
-                    "cityName": "黄浦区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 6,
-                    "suspectedCount": 0,
-                    "curedCount": 6,
-                    "deadCount": 0,
-                    "locationId": 310101,
-                    "cityEnglishName": "Huangpu District"
-                },
-                {
-                    "cityName": "青浦区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 6,
-                    "suspectedCount": 0,
-                    "curedCount": 6,
-                    "deadCount": 0,
-                    "locationId": 310118,
-                    "cityEnglishName": "Qingpu District"
-                },
-                {
-                    "cityName": "金山区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 4,
-                    "suspectedCount": 0,
-                    "curedCount": 4,
-                    "deadCount": 0,
-                    "locationId": 310116,
-                    "cityEnglishName": "Jinshan District"
-                },
-                {
-                    "cityName": "崇明区",
-                    "currentConfirmedCount": 0,
-                    "confirmedCount": 4,
-                    "suspectedCount": 0,
-                    "curedCount": 4,
-                    "deadCount": 0,
-                    "locationId": 310151,
-                    "cityEnglishName": "Chongming District"
-                }
-            ],
-            "updateTime": 1593909428033
         },
         {
             "locationId": 440000,
