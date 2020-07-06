@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594004741000",
+            "title": "美国华盛顿大学出现聚集性疫情 121名学生新冠病毒检测结果呈阳性",
+            "summary": "据美国有线电视新闻网当地时间7月5日报道，位于华盛顿州西雅图市的“华盛顿大学”暴发聚集性疫情。根据华盛顿大学和西雅图卫生部门联合发布的最新消息，这所大学已有121名学生新冠病毒检测结果呈阳性。据悉，上周华盛顿大学校区内设立了一处新冠病毒检测点，截至4日共进行了大约1300次检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOCDMUAuzmTPnqfJKqv74200706&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594000996000",
             "title": "法国卢浮宫今日重开 11岁以上参观者须全程戴口罩",
             "summary": "因新冠肺炎疫情关闭三个多月后，7月6日，法国卢浮宫博物馆将重新开放。重开后，参观者需要事先预约参观时段，在入口处使用手部消毒剂，11岁以上的参观者必须全程戴口罩。另外，博物馆只接受刷卡支付，不再收现金，快餐和衣物存储服务也暂不开放。",
@@ -78,15 +87,6 @@
             "summary": "高考是个特殊的战场，不只学生们要拼搏坚持，家长们也要积极“备考”。今年的高考在新冠肺炎疫情期间举行，为了确保特殊时期的高考万无一失，国家卫健委发布了2020年高考防疫家长关键提示，一共10条内容，您一定要看看！\n监制丨唐怡\n制片人丨张奇斌\n编辑丨邵希炜",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiSmV1S0GGcSeC0nwdZ7mb200705&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1593949162000",
-            "title": "中国驻比利时大使馆：中国公民经比利时转机回国要注意这些事情",
-            "summary": "近期，不少中国公民选择经比利时布鲁塞尔国际机场转机回国。中国驻比利时大使馆提醒中国公民，如确需经比利时转机回国，请注意以下事项：（一）在比利时转机时间不能超过 24 小时，且不得出机场国际转机区域。如转机时间超过 24 小时，按规定将被拒绝过境，造成滞留甚至被遣返至出发地。（二）根据当地规定，如含比利时在内连续过境两个或两个以上申根国，须走申根区境内转机通道。但目前比利时仍未对中国公民放开入境限制，中国公民如无当地长期居留许可，即使持有效申根签证亦无法入境，从而无法通过申根区境内转机通道，造成滞留甚至被遣返至出发地……",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiedHyTok1JYgMyvXHLEeG200705&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
