@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594130292000",
+            "title": "巴西首都巴西利亚美容院和健身房等场所恢复营业",
+            "summary": "在因疫情关闭了3个多月后，巴西首都所在的巴西利亚联邦区7日允许美容院、理发店和健身房等场所恢复营业，但必须遵循相应的营业规定，例如服务人员和顾客都必须佩戴口罩，以及需要采取预约制度避免顾客排队等待。此外，巴西利亚联邦区政府计划于7月15日恢复餐馆和酒吧的营业，7月27日重新开放私立教育机构，8月3日公立学校可以开始复课。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594121280000",
             "title": "2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况",
             "summary": "7月6日0时至24时，辽宁省新增2例境外输入（均来自俄罗斯）新冠肺炎确诊病例，均为沈阳市报告病例，均属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例28例，治愈出院22例，在院治疗6例。全省累计报告本土确诊病例131例，治愈出院128例，死亡2例，在院治疗1例。\n\n                   \n    \n                \n                  \n                    \n                     \n                  \n                \n      \n        ",
@@ -78,15 +87,6 @@
             "summary": "受新冠肺炎疫情影响，在德国，联邦政府此前让16个州自行决定是否继续举行高中毕业考试，但各州最后统一意见，坚持在线下举行考试。3月中旬，德国政府要求各州就疫情期间的毕业考试达成应急战略共识，并且制订相应的紧急计划，以完成今年的高考工作。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594063359000",
-            "title": "​奥地利多家屠宰场发现新冠肺炎确诊病例",
-            "summary": "据奥地利卫生部网站消息，截至7月6日，奥共进行了654105次新冠病毒检测，累计确诊病例18294例，24小时新增77例，累计死亡706例。周末以来，奥地利上奥州多家屠宰场发现新冠肺炎确诊病例，引发各界广泛关注。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
