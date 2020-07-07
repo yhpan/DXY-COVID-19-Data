@@ -1,6 +1,60 @@
 {
     "results": [
         {
+            "pubDate": "1594079085000",
+            "title": "​美国加州洛杉矶县新冠肺炎死亡人数超过3500例",
+            "summary": "加州洛杉矶县公共卫生部门于当地时间7月6日报告了1584例新增新冠病例，和48例新增死亡病例，这使得该县累计死亡人数突破3500例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisCDXGJImmWENAaHzKHIL200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594074707000",
+            "title": "加拿大新增399例新冠肺炎确诊病例 累计确诊105935例",
+            "summary": "截至加拿大东部时间7月6日18:10，据加拿大各省公布的新冠肺炎疫情数据统计，加拿大新增399例新冠肺炎确诊病例，累计确诊病例达105935例；新增死亡病例9例，累计死亡8693例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artis7uDO1qJ8nfu1LzsH65S200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594072413000",
+            "title": "​中加建交60周年 中国医疗队助加纳抗疫增进两国友谊",
+            "summary": "中加建交60周年之际，加纳第一大报《每日写真报》于7月6日刊文报道了中国第九批援加纳医疗队加强中加医疗合作，帮助当地抗击疫情的事迹。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiekuiR9Wjz3ZY6qoEJrbn200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594065946000",
+            "title": "德国坚持线下高考 疫情防控两手抓",
+            "summary": "受新冠肺炎疫情影响，在德国，联邦政府此前让16个州自行决定是否继续举行高中毕业考试，但各州最后统一意见，坚持在线下举行考试。3月中旬，德国政府要求各州就疫情期间的毕业考试达成应急战略共识，并且制订相应的紧急计划，以完成今年的高考工作。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHsPLsAEcYPrStim5Czmw200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594063359000",
+            "title": "​奥地利多家屠宰场发现新冠肺炎确诊病例",
+            "summary": "据奥地利卫生部网站消息，截至7月6日，奥共进行了654105次新冠病毒检测，累计确诊病例18294例，24小时新增77例，累计死亡706例。周末以来，奥地利上奥州多家屠宰场发现新冠肺炎确诊病例，引发各界广泛关注。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihYZzv0C2pMoliVmbPPT3200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594055699000",
+            "title": "​阿曼卫生部启动新冠肺炎疫情全国调查行动",
+            "summary": "当地时间7月6日，阿曼卫生部就将于本月12日开始的新冠肺炎疫情全国范围调查行动作出详细说明和部署。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artive9wMpv9LzmCEiF1Ed9j200707&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594042342000",
             "title": "葡萄牙瓜尔达理工学院16名学生感染新冠病毒",
             "summary": "当地时间7月6日，根据葡萄牙卢萨社消息，在一次生日聚会后，葡萄牙瓜尔达理工学院16名学生及一名学生的两个月大的幼儿感染新冠病毒。其中15名学生及幼儿在医院接受治疗，1名学生在家隔离。",
@@ -33,60 +87,6 @@
             "summary": "截至北京时间7月6日16时，全球累计确诊11437991例，累计死亡534385例。其中，美国新冠肺炎确诊超288万。",
             "infoSource": "人民日报",
             "sourceUrl": "https://m.weibo.cn/2803301701/4523771610347333",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594033020000",
-            "title": "民航局发出首份外航熔断指令",
-            "summary": "7 月 6 日，民航局再次发布通知，决定即日起，暂停孟加拉优速航空公司孟加拉国达卡至广州 BS325 航班运行 1 周。这是民航局发布的第三份熔断指令，也是对外国航空公司的首份熔断指令。6 月 28 日，孟加拉优速航空公司孟加拉国达卡至广州 BS325 航班上，5 名旅客新冠病毒核酸检测呈阳性，触发航班熔断条件。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilHDBvPjfYmY9t9ennh9g200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594029624000",
-            "title": "北京市疾控中心发布 2020 年高考防疫关键提示",
-            "summary": "2020 年高考在即，北京市疾控中心提醒您注意以下十条高考防疫关键提示：\n一、做好自身健康监测：\n家长考前及高考期间做好自身的健康监测，如有异常，应向考生所在学校报告，并及时就医。身体不适时，尽量减少与考生直接接触。\n二、准备考试物品：\n帮助孩子准备好口罩、手套、速干手消毒剂等个人防护和消毒用品。提醒孩子严格按照考试规定，携带准考证、身份证以及相关考试用品、防护物品。\n三、保持良好卫生习惯……",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivRTuZrIKlMX9GJAJzrnm200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594027483000",
-            "title": "西班牙国王出席新冠肺炎逝者悼念仪式，7 月 16 日举行官方哀悼",
-            "summary": "西班牙王室宣布，国王费利佩六世与其他王室成员将于当地时间 6 日晚间出席在马德里阿尔穆德纳教堂举办的新冠肺炎逝者悼念仪式。截至目前，西班牙卫生部的官方数据显示，该国已有 28385 人死于新冠肺炎。此外，本月 16 日西班牙政府将举行为新冠肺炎逝者的官方悼念仪式。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirkdJ8QdiHXLcVZRMcMRB200706&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594025798000",
-            "title": "北京为确诊患者提供心理干预",
-            "summary": "北京市民疫情心理问题热线电话：010-58303286，010-58340263。北京安定医院临床心理病区主任西英俊表示，北京开展了很多线上的心理健康服务工作，提供给患者心理健康的微信公众号，引导其通过扫码进行心理自助健康服务，包括心理健康测评、压力管理技巧等。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4523734431978026",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594024586000",
-            "title": "北京已解除 54 个小区封控管理",
-            "summary": "新发地市场疫情发生后，北京对部分小区村实行封控管理，其他社区村实行封闭式管理。当前，全市疫情防控形势趋稳向好，先后对西城区、海淀区、丰台区等 54 个小区解除封控管理。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4523729353591939",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594021203000",
-            "title": "疫情加剧医院不堪重负，印度一患者遭 18 家医院拒收后身亡",
-            "summary": "印度南部城市班加罗尔一名 52 岁的男子苏贾尼出现疑似新冠肺炎症状，却被 18 家医院拒收，他最终在一家医院门口身亡。目前印度政府正在调查涉事医院。 ",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4523715160000750",
             "province": null,
             "provinceId": ""
         }
