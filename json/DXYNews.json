@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594222986000",
+            "title": "意大利卫生部长：呼吁欧盟严格限制入境 美国退出世卫的决定“严重且错误”",
+            "summary": "8日，意大利卫生部长斯佩兰扎呼吁欧洲各国对非欧盟及非申根国家的入境采取更严格的统一措施，以遏制新冠病毒传播。据意卫生部官网公告，因近期意大利输入病例增多，斯佩兰扎已致函欧盟卫生与食品安全事务委员基里亚基德斯和德国卫生部长施潘，要求通过协调加强管控措施。当地时间7日，意大利方面在从孟加拉国直飞罗马的飞机乘客中检测出多名新冠病毒感染者，随后决定暂停该国航班一周。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594218480000",
             "title": "法国巴黎废水中检测出新冠病毒",
             "summary": "法国《世界报》8日报道称，近日，研究人员对巴黎废水样本的检测结果显示，新冠病毒有重来迹象。与此同时，巴黎所在的法兰西岛大区的部分省份新冠病毒感染率有所上升，但目前判断出现疫情反弹还为时过早。\n报道显示，研究人员对6月22—25日采集到的12个废水样本进行检测，其中有6个样本测出微量新冠病毒。随后一周，研究人员再次进行了检测，结果与此前相同。",
@@ -78,15 +87,6 @@
             "summary": "尽管美国总统特朗普多次声称，美国新冠病毒检测能力“世界领先”，但在疫情暴发几个月后，美国多地却再次陷入检测危机。许多大城市正面临检测材料供应短缺、检测处理实验室样本积压等难题。专家认为，全国协调机制和供应链等领域存在的问题，是美国迟迟难以解决检测危机的重要原因。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594176358000",
-            "title": "新西兰一男子擅自离开隔离酒店被起诉",
-            "summary": "当地时间7月8日，新西兰卫生部门宣布新增一名新冠肺炎确诊患者。这名确诊男子于7月3日从印度抵达新西兰，目前还在强制隔离期间。7月7日晚间，这名男子擅自离开隔离酒店，前往市中心一家超市。检测结果显示这名男子感染了新冠病毒。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWbxZ83PiDBVt4SZ4xva4200708&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
