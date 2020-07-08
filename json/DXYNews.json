@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594248000000",
+            "title": "美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月8日18时58分（北京时间7月9日0时58分），全球累计新冠肺炎确诊病例11669259例，累计死亡病例539906例，美国确诊病例超300万例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594228379000",
+            "title": "非洲地区新冠肺炎确诊病例累计达50.9万例",
+            "summary": "截至非洲东部时间7月8日18时，非洲疾控中心数据显示，非洲地区54个国家累计报告了509584例新冠肺炎确诊病例，累计死亡病例12000例，共有247207人治愈康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8AHkTeY9ckMFarss7pJ3200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594222986000",
             "title": "意大利卫生部长：呼吁欧盟严格限制入境 美国退出世卫的决定“严重且错误”",
             "summary": "8日，意大利卫生部长斯佩兰扎呼吁欧洲各国对非欧盟及非申根国家的入境采取更严格的统一措施，以遏制新冠病毒传播。据意卫生部官网公告，因近期意大利输入病例增多，斯佩兰扎已致函欧盟卫生与食品安全事务委员基里亚基德斯和德国卫生部长施潘，要求通过协调加强管控措施。当地时间7日，意大利方面在从孟加拉国直飞罗马的飞机乘客中检测出多名新冠病毒感染者，随后决定暂停该国航班一周。",
@@ -69,24 +87,6 @@
             "summary": "按照哈萨克斯坦卫生部通报的数据，截至努尔苏丹时间8日10时，哈萨克斯坦国内新冠肺炎确诊病例较前一日增加1376例，累计51059例，治愈16928例，死亡264例。另据当地媒体报道，日前哈政府在全国范围内对药品销售进行了突击检查，打击投机倒把，稳定药价。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594186404000",
-            "title": "美国政府推动重启又出“新招” 这次“中招”的是留学生",
-            "summary": "当地时间6日，美国国土安全部下属的移民和海关执法局（ICE）发布通\n报说，2020年秋季学期的留学生如果仅上网课，将无法取得赴美签证或者当前已持有的签证也将失效。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594178101000",
-            "title": "北美观察丨美国为何无法摆脱新冠病毒检测危机？",
-            "summary": "尽管美国总统特朗普多次声称，美国新冠病毒检测能力“世界领先”，但在疫情暴发几个月后，美国多地却再次陷入检测危机。许多大城市正面临检测材料供应短缺、检测处理实验室样本积压等难题。专家认为，全国协调机制和供应链等领域存在的问题，是美国迟迟难以解决检测危机的重要原因。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
