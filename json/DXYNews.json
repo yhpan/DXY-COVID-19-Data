@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594187125000",
+            "title": "哈萨克斯坦新冠肺炎确诊病例超5.1万例 政府打击药品投机",
+            "summary": "按照哈萨克斯坦卫生部通报的数据，截至努尔苏丹时间8日10时，哈萨克斯坦国内新冠肺炎确诊病例较前一日增加1376例，累计51059例，治愈16928例，死亡264例。另据当地媒体报道，日前哈政府在全国范围内对药品销售进行了突击检查，打击投机倒把，稳定药价。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594186404000",
+            "title": "美国政府推动重启又出“新招” 这次“中招”的是留学生",
+            "summary": "当地时间6日，美国国土安全部下属的移民和海关执法局（ICE）发布通\n报说，2020年秋季学期的留学生如果仅上网课，将无法取得赴美签证或者当前已持有的签证也将失效。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiazxzoep9jUJWcWyLndhL200708&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594178101000",
             "title": "北美观察丨美国为何无法摆脱新冠病毒检测危机？",
             "summary": "尽管美国总统特朗普多次声称，美国新冠病毒检测能力“世界领先”，但在疫情暴发几个月后，美国多地却再次陷入检测危机。许多大城市正面临检测材料供应短缺、检测处理实验室样本积压等难题。专家认为，全国协调机制和供应链等领域存在的问题，是美国迟迟难以解决检测危机的重要原因。",
@@ -69,24 +87,6 @@
             "summary": "当地时间7月7日，美国总统特朗普表示，美国“不会关闭，永远不会关闭”，再次要求美国全面重新开放。特朗普在一场围绕有关重新开放学校的活动中称，现在已有超过13万美国人死于新冠病毒。“我认为我们本来可能会死250万或300万人。”他说，所以美国可能已经拯救了数十万人的生命。尽管特朗普坚持重启，但随着各地疫情反弹，已有超过20个州宣布暂停重启计划。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIs5O40quQlyljR3CJWJh200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594130292000",
-            "title": "巴西首都巴西利亚美容院和健身房等场所恢复营业",
-            "summary": "在因疫情关闭了3个多月后，巴西首都所在的巴西利亚联邦区7日允许美容院、理发店和健身房等场所恢复营业，但必须遵循相应的营业规定，例如服务人员和顾客都必须佩戴口罩，以及需要采取预约制度避免顾客排队等待。此外，巴西利亚联邦区政府计划于7月15日恢复餐馆和酒吧的营业，7月27日重新开放私立教育机构，8月3日公立学校可以开始复课。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPh8CjkBXLsYcfPzXymPu200707&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594121280000",
-            "title": "2020年7月6日0时至24时辽宁新型冠状病毒肺炎疫情情况",
-            "summary": "7月6日0时至24时，辽宁省新增2例境外输入（均来自俄罗斯）新冠肺炎确诊病例，均为沈阳市报告病例，均属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例28例，治愈出院22例，在院治疗6例。全省累计报告本土确诊病例131例，治愈出院128例，死亡2例，在院治疗1例。\n\n                   \n    \n                \n                  \n                    \n                     \n                  \n                \n      \n        ",
-            "infoSource": "辽宁卫健委",
-            "sourceUrl": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html",
             "province": null,
             "provinceId": ""
         }
