@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594178101000",
+            "title": "北美观察丨美国为何无法摆脱新冠病毒检测危机？",
+            "summary": "尽管美国总统特朗普多次声称，美国新冠病毒检测能力“世界领先”，但在疫情暴发几个月后，美国多地却再次陷入检测危机。许多大城市正面临检测材料供应短缺、检测处理实验室样本积压等难题。专家认为，全国协调机制和供应链等领域存在的问题，是美国迟迟难以解决检测危机的重要原因。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHq98wP3Vag6Zh5R08bA8200708&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594176358000",
             "title": "新西兰一男子擅自离开隔离酒店被起诉",
             "summary": "当地时间7月8日，新西兰卫生部门宣布新增一名新冠肺炎确诊患者。这名确诊男子于7月3日从印度抵达新西兰，目前还在强制隔离期间。7月7日晚间，这名男子擅自离开隔离酒店，前往市中心一家超市。检测结果显示这名男子感染了新冠病毒。",
@@ -78,15 +87,6 @@
             "summary": "7月6日0时至24时，辽宁省新增2例境外输入（均来自俄罗斯）新冠肺炎确诊病例，均为沈阳市报告病例，均属普通型病例。无新增治愈出院病例。全省累计报告境外输入确诊病例28例，治愈出院22例，在院治疗6例。全省累计报告本土确诊病例131例，治愈出院128例，死亡2例，在院治疗1例。\n\n                   \n    \n                \n                  \n                    \n                     \n                  \n                \n      \n        ",
             "infoSource": "辽宁卫健委",
             "sourceUrl": "http://wsjk.ln.gov.cn/wst_zdzt/xxgzbd/yqtb/202007/t20200707_3902589.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594118270000",
-            "title": "世卫组织：全球新冠肺炎确诊病例累计超1146万例",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月7日10时50分（北京时间7月7日16时50分），全球累计确诊新冠肺炎病例11468979例，累计死亡535181例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti645aeGuNpSVoyojsXTaB200707&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
