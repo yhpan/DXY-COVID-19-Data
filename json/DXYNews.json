@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1594304357000",
+            "title": "塞尔维亚宵禁引发十年最大规模抗议 骚乱中有36人受伤",
+            "summary": "7月8日和9日凌晨，塞尔维亚一些城市爆发反政府抗议活动，约有1万人聚集在贝尔格莱德中心广场的议会大楼前，抗议者向议会大楼投掷燃烧弹、石块、瓶子和鸡蛋。抗议者对该国疫情所采措施不满，要求提供提供有关新冠疫情的“真实”信息。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artir04IsrRgpO0RINatN7QW200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594302990000",
+            "title": "受疫情影响 今年泰国约有50万名高校毕业生面临“毕业即失业”风险",
+            "summary": "7月9日，泰国贸易与工业雇主理事会副主席塔尼Thanit Sorat先生透露，受到新冠肺炎疫情的影响，2020年度泰国约有50万名各类高校毕业生面临“毕业即失业”的风险，可能在未来1—2年都处在待业状态。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLUOO3wQKY8yu0GngUmRf200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594300206000",
+            "title": "葡萄牙圣何塞医院新冠肺炎感染人数升至12人",
+            "summary": "当地时间7月9日，位于葡萄牙首都里斯本的圣何塞医院新冠肺炎感染人数升至12人，其中7名为病人，4名为护士，1名为助理。目前医护人员均在家隔离，感染新冠肺炎的病人被送往库里卡布拉尔医院。此次局部暴发起因是此前一名接受手术治疗的病人新冠病毒测试呈阳性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artimivz1bGe5ifZSem2myLz200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594297443000",
+            "title": "​法国多市镇展开新冠病毒大规模筛查",
+            "summary": "当地时间9日，法国布列塔尼地区公共卫生署表示，将在阿摩尔滨海省（Côtes-d'Armor）的五个市镇展开大规模新冠病毒筛查，涉及63000位当地居民。卫生当局表示，此次筛查旨在找出无症状感染者，确保切断病毒传播。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiOFdZTc28GcxBkGPxkrjl200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594297246000",
+            "title": "英国：开始对部分高风险岗位工人进行新冠病毒检测",
+            "summary": "当地时间9日，英国政府宣布，将对部分高风险岗位工人进行新冠病毒检测，试点计划中将包括一批特定的工人，例如出租车司机、清洁工和销售人员等，即使他们没有出现任何症状也需要测试。英国卫生部表示，将通过试点来分析这些行业的工人受新冠病毒影响有多大，从而决定是否需要对所有高风险岗位工人进行新冠测试。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyybkqmDHrgHq3gBS0LQR200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594264803000",
             "title": "美联航对3.6万名员工发出裁员警告",
             "summary": "当地时间8日，美联航向员工发出裁员通知，警告3.6万名员工或将在今年10月被裁员，数量接近该公司在美国区域员工总量的一半。美媒称，这是一个清晰的信号，显示出新冠肺炎疫情如何重创美国航空产业。",
@@ -42,51 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月8日18时58分（北京时间7月9日0时58分），全球累计新冠肺炎确诊病例11669259例，累计死亡病例539906例，美国确诊病例超300万例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594228379000",
-            "title": "非洲地区新冠肺炎确诊病例累计达50.9万例",
-            "summary": "截至非洲东部时间7月8日18时，非洲疾控中心数据显示，非洲地区54个国家累计报告了509584例新冠肺炎确诊病例，累计死亡病例12000例，共有247207人治愈康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti8AHkTeY9ckMFarss7pJ3200709&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594222986000",
-            "title": "意大利卫生部长：呼吁欧盟严格限制入境 美国退出世卫的决定“严重且错误”",
-            "summary": "8日，意大利卫生部长斯佩兰扎呼吁欧洲各国对非欧盟及非申根国家的入境采取更严格的统一措施，以遏制新冠病毒传播。据意卫生部官网公告，因近期意大利输入病例增多，斯佩兰扎已致函欧盟卫生与食品安全事务委员基里亚基德斯和德国卫生部长施潘，要求通过协调加强管控措施。当地时间7日，意大利方面在从孟加拉国直飞罗马的飞机乘客中检测出多名新冠病毒感染者，随后决定暂停该国航班一周。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti1tA0OkBME12dEOjvzROz200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594218480000",
-            "title": "法国巴黎废水中检测出新冠病毒",
-            "summary": "法国《世界报》8日报道称，近日，研究人员对巴黎废水样本的检测结果显示，新冠病毒有重来迹象。与此同时，巴黎所在的法兰西岛大区的部分省份新冠病毒感染率有所上升，但目前判断出现疫情反弹还为时过早。\n报道显示，研究人员对6月22—25日采集到的12个废水样本进行检测，其中有6个样本测出微量新冠病毒。随后一周，研究人员再次进行了检测，结果与此前相同。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtipBUGLCcdfQQRZyEDiVTy200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594216284000",
-            "title": "​俄罗斯外长：美国似乎准备与任何国家发生冲突",
-            "summary": "当地时间7月8日，俄罗斯外交部长拉夫罗夫表示，华盛顿似乎准备与任何捍卫自己利益的国家发生冲突。\n拉夫罗夫在与三个非盟国家（刚果民主共和国、埃及、南非）外交部长会谈后举行的记者招待会说：“美国正准备与任何试图捍卫自己利益的国家发生冲突，这对美国本身来说很糟糕。”作为例证，拉夫罗夫指出，华盛顿在与莫斯科的对话中，试图使用“战略对抗”一词来代替“战略稳定”。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiu2ntfzvGXA1fhz6OqasQ200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594215282000",
-            "title": "希腊进一步放开疫情管制措施 取消就餐人数限制",
-            "summary": "希腊政府当地时间7月8日宣布进一步对疫情管制进行松绑。主要内容有：1.原规定进入大型商城的人员必须戴口罩，现调整为顾客不必戴口罩，而工作人员必须戴口罩；2.原规定餐厅每张桌子最多容纳6人就餐，现取消人数限制。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiP1b21wQUqneOZOvazY8x200708&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
