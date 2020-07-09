@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594252260000",
+            "title": "上海7月8日新增境外输入新冠肺炎确诊病例3例",
+            "summary": "上海市卫健委通报：7月8日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自西班牙。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594248000000",
             "title": "美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫",
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月8日18时58分（北京时间7月9日0时58分），全球累计新冠肺炎确诊病例11669259例，累计死亡病例539906例，美国确诊病例超300万例。",
@@ -78,15 +87,6 @@
             "summary": "当地时间7月7日，巴西总统博索纳罗称自己正服用羟氯喹治疗新冠肺炎，“我们知道还有其他药物可以帮助对抗新冠病毒，我们知道没有一种药物的功效得到科学证明，但是我是另外一个药起作用的活例子，我相信羟氯喹。”当地时间5月18日，美国总统特朗普也曾在白宫会议上推荐“治疗方案” ，并表示自己正在服用抗疟疾药物“羟氯喹”，博索纳罗和特朗普一样都是羟氯喹的忠实拥趸。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594187125000",
-            "title": "哈萨克斯坦新冠肺炎确诊病例超5.1万例 政府打击药品投机",
-            "summary": "按照哈萨克斯坦卫生部通报的数据，截至努尔苏丹时间8日10时，哈萨克斯坦国内新冠肺炎确诊病例较前一日增加1376例，累计51059例，治愈16928例，死亡264例。另据当地媒体报道，日前哈政府在全国范围内对药品销售进行了突击检查，打击投机倒把，稳定药价。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisPJ8kUa5UGopHUufcI8U200708&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
