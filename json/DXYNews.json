@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594256074000",
+            "title": "北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例 ",
+            "summary": "7月8日0时至24时，无新增报告本地确诊病例、疑似病例，新增无症状感染者1例，治愈出院病例32例；无新增报告境外输入确诊病例、疑似病例和无症状感染者。         ",
+            "infoSource": "北京卫健委",
+            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594252260000",
             "title": "上海7月8日新增境外输入新冠肺炎确诊病例3例",
             "summary": "上海市卫健委通报：7月8日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自西班牙。",
@@ -78,15 +87,6 @@
             "summary": "7月8日，天津第137例本地新冠肺炎确诊病例符合出院标准，于8日下午出院。该病例22岁，系康莱德酒店西餐厅帮厨人员，6月17日核酸检测结果阳性，后经专家组确诊，分型为轻型，于天津市海河医院进行治疗。据海河医院医生介绍，这名患者刚入院的时候，自述右胸疼痛。并伴有发热、咳嗽的症状，在经过治疗后，很快这些症状就消失了，身体恢复的也不错。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiyYM6wTdWmuj4aHGJ4ZgV200708&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594201227000",
-            "title": "巴西总统确诊新冠后称正服用羟氯喹：很有效 我觉得我没事了",
-            "summary": "当地时间7月7日，巴西总统博索纳罗称自己正服用羟氯喹治疗新冠肺炎，“我们知道还有其他药物可以帮助对抗新冠病毒，我们知道没有一种药物的功效得到科学证明，但是我是另外一个药起作用的活例子，我相信羟氯喹。”当地时间5月18日，美国总统特朗普也曾在白宫会议上推荐“治疗方案” ，并表示自己正在服用抗疟疾药物“羟氯喹”，博索纳罗和特朗普一样都是羟氯喹的忠实拥趸。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiBQGEhkv43LzSThu08eUr200708&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
