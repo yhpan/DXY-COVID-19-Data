@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594307279000",
+            "title": "比利时将强制隔离从疫情高风险地区返回的人员",
+            "summary": "当地时间9日下午，比利时外交部在其官方网站上更新了疫情期间的旅行提示，并将葡萄牙首都里斯本、西班牙莱里达省及卢戈省阿玛里尼亚镇列为疫情高风险“红色”区域。按照8日比利时联邦政府同各语区、各大区协商的结果，从以上地点返回比利时的人员必须接受隔离及新冠病毒检测。目前，比利时仅向欧盟、申根区及英国共31个国家开放边境，暂不考虑欧盟建议的15个第三方对象国。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtivVZukX4QWFwEnIjQTnvD200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594306777000",
+            "title": "巴西“高考”将推迟两个月至明年1月举行",
+            "summary": "巴西教育部临时部长安东尼奥·沃格尔当地时间7月8日宣布，原定于11月举行的巴西国家中等教育考试（Enem），即巴西的“高考”，纸质试卷考试将推迟至2021年1月17日和24日举行。巴西教育部原定从2020年开始试点“高考”数字化，学生可以在纸质试卷考试或者在线机考两种考试方式中二选一，首次在线机考的时间定于2021年1月31日和2月7日举行，考试结果将于3月29日公布。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia14SGPCRfWmDQ1Pd7KlC200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594304357000",
             "title": "塞尔维亚宵禁引发十年最大规模抗议 骚乱中有36人受伤",
             "summary": "7月8日和9日凌晨，塞尔维亚一些城市爆发反政府抗议活动，约有1万人聚集在贝尔格莱德中心广场的议会大楼前，抗议者向议会大楼投掷燃烧弹、石块、瓶子和鸡蛋。抗议者对该国疫情所采措施不满，要求提供提供有关新冠疫情的“真实”信息。",
@@ -69,24 +87,6 @@
             "summary": "7月8日0时至24时，无新增报告本地确诊病例、疑似病例，新增无症状感染者1例，治愈出院病例32例；无新增报告境外输入确诊病例、疑似病例和无症状感染者。         ",
             "infoSource": "北京卫健委",
             "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594252260000",
-            "title": "上海7月8日新增境外输入新冠肺炎确诊病例3例",
-            "summary": "上海市卫健委通报：7月8日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。新增治愈出院1例，来自西班牙。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artiwq8SXVkCxcjVu7GEhjtE200709&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594248000000",
-            "title": "美国确诊病例超300万例，多国批评美“退群”不利于全球抗疫",
-            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月8日18时58分（北京时间7月9日0时58分），全球累计新冠肺炎确诊病例11669259例，累计死亡病例539906例，美国确诊病例超300万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtirmDCGqyhun05tOc6iFVZ200709&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
