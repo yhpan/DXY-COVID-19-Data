@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594310152000",
+            "title": "希腊新增50例新冠肺炎确诊病例 或于下周重启限制出行措施",
+            "summary": "根据希腊卫生部当地时间7月9日下午发布的最新疫情通报，过去24小时，希腊新增50例新冠肺炎确诊病例，累计确诊病例3672例，累计死亡病例193例。7月8日，希腊多位政府部长联合发布了一份决定，进一步放宽此前为遏制新冠肺炎疫情，对购物中心、商店、餐馆和咖啡馆实施的限制措施。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti4QXhN3Lf2fCpNKojq1EN200709&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594307279000",
             "title": "比利时将强制隔离从疫情高风险地区返回的人员",
             "summary": "当地时间9日下午，比利时外交部在其官方网站上更新了疫情期间的旅行提示，并将葡萄牙首都里斯本、西班牙莱里达省及卢戈省阿玛里尼亚镇列为疫情高风险“红色”区域。按照8日比利时联邦政府同各语区、各大区协商的结果，从以上地点返回比利时的人员必须接受隔离及新冠病毒检测。目前，比利时仅向欧盟、申根区及英国共31个国家开放边境，暂不考虑欧盟建议的15个第三方对象国。",
@@ -78,15 +87,6 @@
             "summary": "当地时间6日，《美国科学院院报》（PNAS）刊登了一篇学术论文《隐性传播对新冠肺炎疫情应对的启示》（The implications of silent transmission for the control of COVID-19 outbreaks）。该研究发现，新冠病毒的传播主要是潜伏期感染者和无症状感染者造成的。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtimOrbISIS0y81VX8QKQQz200709&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594256074000",
-            "title": "北京昨日无新增报告新冠肺炎确诊病例，治愈出院32例 ",
-            "summary": "7月8日0时至24时，无新增报告本地确诊病例、疑似病例，新增无症状感染者1例，治愈出院病例32例；无新增报告境外输入确诊病例、疑似病例和无症状感染者。         ",
-            "infoSource": "北京卫健委",
-            "sourceUrl": "http://wjw.beijing.gov.cn/xwzx_20031/xwfb/202007/t20200709_1942411.html",
             "province": null,
             "provinceId": ""
         }
