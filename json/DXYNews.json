@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594547280000",
+            "title": "18国发布联合声明坚决支持世卫组织",
+            "summary": "10日，在美国宣布退出世卫组织仅仅4天后，欧盟、加勒比和南美国家就对美国的单边主义行动做出了回应，包括德国、法国、西班牙、巴西和阿根廷在内的18个国家外长共同发表声明，称坚决支持联合国，特别是世卫组织。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3fYuil1hQS073m9XJmME200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594546331000",
+            "title": "​香港新增38例新冠肺炎确诊病例 累计确诊1469例",
+            "summary": "据香港特区政府卫生防护中心的消息，截至7月12日17时，香港单日新增38例新冠肺炎确诊病例。其中有8例属于境外输入型病例，其余30例均为本地确诊病例，另有13例确诊病例暂未查明病源。此外还有逾20例初步确诊病例。至此，香港累计确诊病例增至1469例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artig2ikqwp3sPYHENTfvbB3200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594523358000",
             "title": "日本美军基地61人确诊新冠",
             "summary": "日本冲绳县11日宣布，驻冲绳美军基地向冲绳县通报，本月7日至11日冲绳美军基地已累计出现61例新冠肺炎确诊病例。冲绳县副知事谢花喜一郎表示，该县已经要求出现多名感染者的普天间和汉森营两处美军基地进行封锁，并要求该基地将防疫等级提高至最高级别。据《朝日新闻》报道，这些基地里的美军士兵还在7月4日美国独立日纪念日时离开基地，在外开派对庆祝。",
@@ -69,24 +87,6 @@
             "summary": "截至非洲东部时间7月11日12时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例543136例，死亡12474例，265810人治愈康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594470485000",
-            "title": "疫情暴发严重 西班牙莱里达省隔离所有养老院",
-            "summary": "西班牙加泰罗尼亚自治区政府在当地时间（7月11日）本周六的声明中宣布，莱里达省和比利牛斯卫生区的所有养老院将进入隔离状态，该地区的养老院将不允许民众前往探视，也不会接收新的老人入住，目的是在新冠疫情暴发期间保护最脆弱的群体。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWQMs4RfH4MvTXq3Gas8d200711&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594468697000",
-            "title": "菲律宾马尼拉轻轨3号感染新冠肺炎员工累计达281人",
-            "summary": "据菲律宾媒体报道，7月11日，菲律宾马尼拉轻轨3号线管理部门称，轻轨3号线感染新冠肺炎员工人数累计达281人。为此，即将在13日恢复运营的轻轨3号线将只恢复12列车的有限运营。 ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
