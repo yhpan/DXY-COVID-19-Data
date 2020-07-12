@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594553109000",
+            "title": "印度新冠肺炎疫情严峻 北方邦每个周末将实施严格封锁",
+            "summary": "为了有效防控疫情，印度北方邦政府决定在每个周末对全邦实施严格封锁。据《今日印度》网站报道，北方邦一名高级官员7月12日表示，“周末封锁的措施将从下周末开始实施，特别是在拥挤的地区。市场和办公室将在这几天保持关闭。” ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594547280000",
             "title": "18国发布联合声明坚决支持世卫组织",
             "summary": "10日，在美国宣布退出世卫组织仅仅4天后，欧盟、加勒比和南美国家就对美国的单边主义行动做出了回应，包括德国、法国、西班牙、巴西和阿根廷在内的18个国家外长共同发表声明，称坚决支持联合国，特别是世卫组织。",
@@ -78,15 +87,6 @@
             "summary": "据阿联酋《海湾新闻》消息，当地时间7月11日，阿联酋航空公司总裁蒂姆·克拉克向外界表示，受新冠肺炎疫情冲击，阿联酋航空公司裁员比例极有可能达到15％，估计约有9000个工作岗位会受到影响。他还表示，在运营上，阿联酋航空将在2022年夏季恢复到疫情之前的水平，即2019年底的水平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594490652000",
-            "title": "高温警告叠加疫情 美国疾病控制与预防中心提醒民众继续佩戴口罩",
-            "summary": "本周末，美国从墨西哥湾沿岸到西南部沙漠地区都发布高温警告。其中，得克萨斯州中部地区气温将高达106华氏度（约41摄氏度），西部则高达120华氏度（约49摄氏度）。拉斯维加斯气温预计将达110华氏度（约43摄氏度）。这种程度的高温有致命危险，各地官员敦促民众严肃对待这一风险，同时提醒居民采取措施确保安全。此外，新冠肺炎疫情使当前的解暑工作难上加难。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
