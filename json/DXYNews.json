@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1594594770000",
+            "title": "巴西新增24831例新冠肺炎确诊病例 累计确诊人数超186万",
+            "summary": "根据巴西卫生部7月12日公布的数据，截至当地时间18时，该国单日新增新冠肺炎确诊病例24831例，累计确诊1864681例，新增死亡病例631例，累计死亡72100人，共有1123204名患者康复。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594589711000",
+            "title": "葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例",
+            "summary": "当地时间7月12日，一家位于葡萄牙卡雷加杜工业区的陶瓷公司发现至少14例新冠肺炎病例，该公司在5月已经出现过新冠肺炎病例。该公司近日为400多名员工做了新冠测试，正在等待其他员工的检测结果。公司的基础设施已经消毒，一部分测试结果已经出来并为阴性的员工周一可以上班，其余人员需在家隔离等待结果。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594581507000",
+            "title": "阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明",
+            "summary": "据阿联酋《国民报》消息，当地时间7月12日，阿联酋联邦身份和公民权管理局发言人哈米斯·阿勒卡比（Khamis Al Kaabi）向外界表示，除迪拜以外的阿联酋居民，今年夏季出国旅行前无需申请出国许可，且不必进行新冠病毒核酸检测。但是在返回阿联酋之前，须先通过阿联酋政府官网申请入境许可，然后再预订回程机票，登机前须持有过去96小时内核酸检测阴性报告。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594564634000",
             "title": "美国新冠肺炎累计确诊病例超过324万例",
             "summary": "根据美国约翰斯·霍普金斯大学发布的新冠疫情最新统计数据显示，截至美东时间7月12日9时34分，美国新冠肺炎累计确诊病例超过324万例，为3248220例，死亡病例为134817例。",
@@ -60,33 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月12日8时15分（北京时间7月12日14时15分），全球累计新冠肺炎确诊病例12401262例，累计死亡病例559047例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594523358000",
-            "title": "日本美军基地61人确诊新冠",
-            "summary": "日本冲绳县11日宣布，驻冲绳美军基地向冲绳县通报，本月7日至11日冲绳美军基地已累计出现61例新冠肺炎确诊病例。冲绳县副知事谢花喜一郎表示，该县已经要求出现多名感染者的普天间和汉森营两处美军基地进行封锁，并要求该基地将防疫等级提高至最高级别。据《朝日新闻》报道，这些基地里的美军士兵还在7月4日美国独立日纪念日时离开基地，在外开派对庆祝。",
-            "infoSource": "人民日报",
-            "sourceUrl": "https://m.weibo.cn/2803301701/4525821350454346",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594522059000",
-            "title": "上海7月11日无新增本地新冠肺炎确诊病例 新增境外输入2例",
-            "summary": "7月11日0—24时，通过口岸联防联控机制，报告2例境外输入性新冠肺炎确诊病例。病例1、病例2为俄罗斯籍，国际海员，6月28日自俄罗斯出发，7月9日抵达上海，因有症状，入关后即被送至指定医疗机构隔离留观。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。",
-            "infoSource": "上海卫健委",
-            "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200712/c9284ec3774a4c03bcc75cb9f2665f6a.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594513117000",
-            "title": "国家卫健委：31个省区市昨日报告新增确诊病例7例 均为境外输入病例",
-            "summary": "7月11日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例7例，均为境外输入病例（天津4例，上海2例，浙江1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例11例，解除医学观察的密切接触者235人，重症病例与前一日持平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
