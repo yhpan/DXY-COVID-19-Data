@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594564634000",
+            "title": "美国新冠肺炎累计确诊病例超过324万例",
+            "summary": "根据美国约翰斯·霍普金斯大学发布的新冠疫情最新统计数据显示，截至美东时间7月12日9时34分，美国新冠肺炎累计确诊病例超过324万例，为3248220例，死亡病例为134817例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594558523000",
+            "title": "新加坡首次出现校园内感染新冠肺炎病例",
+            "summary": "新加坡卫生部11日晚上发布的公告显示，一名13岁女生当天被确诊感染新冠肺炎。她之前与确诊的另一位男同学有接触。这名女生从6日起被隔离，一直未表现出症状，接受检测后确诊。该学生最后一次上学是本月3日。这是新加坡首次出现校园内感染病例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594553109000",
             "title": "印度新冠肺炎疫情严峻 北方邦每个周末将实施严格封锁",
             "summary": "为了有效防控疫情，印度北方邦政府决定在每个周末对全邦实施严格封锁。据《今日印度》网站报道，北方邦一名高级官员7月12日表示，“周末封锁的措施将从下周末开始实施，特别是在拥挤的地区。市场和办公室将在这几天保持关闭。” ",
@@ -69,24 +87,6 @@
             "summary": "7月11日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例7例，均为境外输入病例（天津4例，上海2例，浙江1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例11例，解除医学观察的密切接触者235人，重症病例与前一日持平。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artii1jP8uj5m52pCCPDN6sr200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594503738000",
-            "title": "安哥拉总统安全办公室的30名安保工作人员新冠肺炎检测呈阳性",
-            "summary": "据安通社报道，安哥拉国务部长兼总统安全办公室主任佩德罗·塞巴斯蒂昂近日在新闻发布会上通报，安哥拉总统安全办公室有30名护卫士兵在安哥拉卫生部门新冠肺炎筛查中检测呈阳性，目前上述人员已经在医院接受治疗。佩德罗·塞巴斯蒂昂说，上述感染新冠肺炎的护卫士兵并不会对安哥拉总统洛伦索及总统夫人的健康构成威胁，因为这些被感染的士兵是安哥拉总统府第四安保小组的一部分，与总统夫妇没有直接接触。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiHI6y1u9Mr3AZ3piT07UH200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594498485000",
-            "title": "受新冠肺炎疫情影响 阿联酋航空宣布裁员9000人",
-            "summary": "据阿联酋《海湾新闻》消息，当地时间7月11日，阿联酋航空公司总裁蒂姆·克拉克向外界表示，受新冠肺炎疫情冲击，阿联酋航空公司裁员比例极有可能达到15％，估计约有9000个工作岗位会受到影响。他还表示，在运营上，阿联酋航空将在2022年夏季恢复到疫情之前的水平，即2019年底的水平。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiLaKEKWpXvppV6Mx3LafN200712&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
