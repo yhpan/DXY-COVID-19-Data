@@ -19,6 +19,24 @@
             "provinceId": ""
         },
         {
+            "pubDate": "1594542300000",
+            "title": "北京中风险地区降至9个",
+            "summary": "北京市召开第149场新冠肺炎疫情防控新闻发布会，北京市疾病预防控制中心副主任庞星火介绍：经评估，丰台区卢沟桥（地区）乡、大兴区魏善庄镇、大兴区高米店街道连续14天内无新增本地确诊病例，由中风险地区调整为低风险地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti9YsKdzrrEdsZ8DrIdlFY200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594541773000",
+            "title": "世卫组织：全球新冠肺炎确诊病例超过1240万例",
+            "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月12日8时15分（北京时间7月12日14时15分），全球累计新冠肺炎确诊病例12401262例，累计死亡病例559047例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artijd3QOp1J8kKN1JAPFRno200712&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594523358000",
             "title": "日本美军基地61人确诊新冠",
             "summary": "日本冲绳县11日宣布，驻冲绳美军基地向冲绳县通报，本月7日至11日冲绳美军基地已累计出现61例新冠肺炎确诊病例。冲绳县副知事谢花喜一郎表示，该县已经要求出现多名感染者的普天间和汉森营两处美军基地进行封锁，并要求该基地将防疫等级提高至最高级别。据《朝日新闻》报道，这些基地里的美军士兵还在7月4日美国独立日纪念日时离开基地，在外开派对庆祝。",
@@ -69,24 +87,6 @@
             "summary": "本周末，美国从墨西哥湾沿岸到西南部沙漠地区都发布高温警告。其中，得克萨斯州中部地区气温将高达106华氏度（约41摄氏度），西部则高达120华氏度（约49摄氏度）。拉斯维加斯气温预计将达110华氏度（约43摄氏度）。这种程度的高温有致命危险，各地官员敦促民众严肃对待这一风险，同时提醒居民采取措施确保安全。此外，新冠肺炎疫情使当前的解暑工作难上加难。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiioETYcRHuq2ZRuTcS6P5200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594476253000",
-            "title": "德国奔驰工厂出现新冠肺炎聚集性疫情",
-            "summary": "当地时间7月11日，德国北威州杜塞尔多夫市梅赛德斯-奔驰的一家工厂出现新冠肺炎确诊病例。截至目前，有20名员工病毒测试结果呈阳性。工厂内另外有50名员工正处于隔离中。该工厂工会主席表示相对于8500名员工的总数而言，20人不算多。当地卫生部门发言人表示，梅赛德斯的防护措施是谨慎的，目前尚不确定确诊员工是否是在工作环境中被传染。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiaiLQ9WZJM7UkmgJnGonv200711&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594473730000",
-            "title": "非洲地区新冠肺炎确诊病例快速增长至54.3万",
-            "summary": "截至非洲东部时间7月11日12时，非洲疾控中心数据显示：非洲地区54个国家报告了新冠肺炎确诊病例543136例，死亡12474例，265810人治愈康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2W86cI7Zawd0ffns7VqI200711&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
