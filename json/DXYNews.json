@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594523358000",
+            "title": "日本美军基地61人确诊新冠",
+            "summary": "日本冲绳县11日宣布，驻冲绳美军基地向冲绳县通报，本月7日至11日冲绳美军基地已累计出现61例新冠肺炎确诊病例。冲绳县副知事谢花喜一郎表示，该县已经要求出现多名感染者的普天间和汉森营两处美军基地进行封锁，并要求该基地将防疫等级提高至最高级别。据《朝日新闻》报道，这些基地里的美军士兵还在7月4日美国独立日纪念日时离开基地，在外开派对庆祝。",
+            "infoSource": "人民日报",
+            "sourceUrl": "https://m.weibo.cn/2803301701/4525821350454346",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594522059000",
             "title": "上海7月11日无新增本地新冠肺炎确诊病例 新增境外输入2例",
             "summary": "7月11日0—24时，通过口岸联防联控机制，报告2例境外输入性新冠肺炎确诊病例。病例1、病例2为俄罗斯籍，国际海员，6月28日自俄罗斯出发，7月9日抵达上海，因有症状，入关后即被送至指定医疗机构隔离留观。综合流行病学史、临床症状、实验室检测和影像学检查结果等，诊断为确诊病例。",
@@ -78,15 +87,6 @@
             "summary": "据菲律宾媒体报道，7月11日，菲律宾马尼拉轻轨3号线管理部门称，轻轨3号线感染新冠肺炎员工人数累计达281人。为此，即将在13日恢复运营的轻轨3号线将只恢复12列车的有限运营。 ",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilfDKfRMojmdkAIX4GZTn200711&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594463288000",
-            "title": "疫情形势严峻！美国三大州确诊病例累计超 78 万例",
-            "summary": "美国的新冠肺炎疫情在快速蔓延，美国三个人口大州——加利福尼亚州、得克萨斯州和佛罗里达州的疫情形势依然严峻。加州累计确诊病例超 30 万例，得州与佛州累计病例都超过了 24 万例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6p0bkcwBHY5n4OUpb1LB200711&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
