@@ -1,6 +1,60 @@
 {
     "results": [
         {
+            "pubDate": "1594798646000",
+            "title": "新加坡新增249例新冠肺炎确诊病例 累计达46878例",
+            "summary": "当地时间7月15日新加坡卫生部宣布，截至当天中午12时新加坡新增249例新冠肺炎确诊病例，累计确诊病例达46878例。当天新增的确诊病例中16例为社区感染病例，5例为输入病例，其余病例均来自外籍劳工宿舍区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5v74UMVGOBxJs5g7yuht200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594798388000",
+            "title": "美国多州疫情持续恶化 医疗系统压力加大",
+            "summary": "7月14日，美国佛罗里达州、加利福尼亚州、密西西比州等多个州疫情持续恶化，死亡病例数不断上升。因新冠肺炎疫情住院的人数也不断增加，医疗系统面临持续压力。佛罗里达州14日报告新增死亡病例133例，为疫情暴发以来该州单日死亡病例数的最高。该州累计死亡病例已超过4500例。佛罗里达州医疗管理局表示，目前，当地多家医院重症监护室已经饱和，",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiCZsVyfqWeyWQFO3cylme200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594797900000",
+            "title": "​东京15日新增165例新冠肺炎确诊病例 连续7天新增病例超100例",
+            "summary": "日本东京都政府7月15日发布消息称，15日东京新增165例新冠肺炎确诊病例。自9日以来，东京单日新增确诊病例连续7天超过100例。东京都当日已决定将有关新冠肺炎疫情的4个阶段警惕指标上调至最高级别的“疫情正在扩大”。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAuHMV3r8ROhPjRIpPlor200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594797788000",
+            "title": "​中非共和国新增35例新冠肺炎确诊病例 累计达4356例",
+            "summary": "当地时间7月14日，中非共和国卫生部发布公告，中非共和国新增35例新冠肺炎确诊病例，其中33例为本土病例，2例为输入病例，包括19名男性患者和16名女性患者，患者年龄从2岁到92岁不等。此外，该国新增21例新冠肺炎治愈病例。截止到当地时间7月14日，中非共和国累计27561人接受了新冠肺炎检测，累计确诊病例4356例，累计治愈病例1229例，累计死亡病例53例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifD38EgCKMeQRm5q0dZhv200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594797294000",
+            "title": "乌克兰新增836例新冠肺炎确诊病例 累计达55607例",
+            "summary": "根据乌克兰卫生部消息，截至当地时间7月15日，乌克兰较上一日新增836例新冠肺炎确诊病例，累计确诊病例55607例。新增977例治愈病例，累计治愈病例28131例。新增死亡病例15例，累计死亡病例1427例。乌克兰全国适应性隔离措施将持续至7月31日。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7yYZujBdKotNiJzKmMP200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594797089000",
+            "title": "卢旺达新增38例新冠肺炎确诊病例 累计达1416例",
+            "summary": "根据卢旺达卫生部消息，该国7月14日新增38例新冠肺炎确诊病例，累计确诊病例1416例，累计死亡病例4例，累计治愈病例737例，现存确诊病例675例，累计192379人进行了新冠病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN0zbGCt6JwjC6XwZquL200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594792184000",
             "title": "乌兹别克斯坦新增702例新冠肺炎确诊病例 中亚国家元首峰会改期举行",
             "summary": "据乌兹别克斯坦卫生部通报的数据，截至当地时间15日10时，国内新增702例新冠肺炎确诊病例，累计确诊病例14293例，累计治愈病例8327例，新增死亡病例4例，累计死亡病例68例。另据当地媒体报道，乌兹别克斯坦外交部副部长涅马托夫14日表示，受新冠肺炎疫情影响，原定于8月在吉尔吉斯斯坦举行的中亚国家元首峰会将延迟举行。",
@@ -33,60 +87,6 @@
             "summary": "7月14日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。7月14日0—24时，无新增本地新冠肺炎确诊病例。截至7月14日24时，累计报告境外输入性确诊病例389例，治愈出院356例，在院治疗33例。",
             "infoSource": "上海卫健委",
             "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594773014000",
-            "title": "5月份巴西央行经济活动指数上升1.31% 为疫情暴发以来首次回升",
-            "summary": "据巴西央行于当地时间14日发布的数据显示，新冠肺炎疫情的暴发使巴西经济活动指数在3月至5月的3个月内暴跌11.43%。但5月份的经济活动指数上升1.31%，为疫情暴发以来的首次回升。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594771800000",
-            "title": "国家卫健委：昨日新增6例新冠肺炎确诊病例 均为境外输入病例",
-            "summary": "7月14日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例6例，均为境外输入病例（上海3例，山西1例，重庆1例，云南1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例19例，解除医学观察的密切接触者219人，重症病例与前一日持平。境外输入现有确诊病例86例（其中重症病例2例），现有疑似病例2例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594770023000",
-            "title": "阿根廷新增3645例新冠肺炎确诊病例 部分省份将于8月复课",
-            "summary": "当地时间14日，阿根廷卫生部公布，过去24小时全国新增3645例新冠肺炎确诊病例，累计确诊病例106910例。新增65例死亡病例，累计死亡病例1968例。新增确诊病例中，90%以上来自首都和布宜诺斯艾利斯省。14日，这些地区的官员共同参加会议，商讨7月17日严格隔离政策到期后将采取的措施。布宜诺斯艾利斯省省长表示，将与首都政府协商后制定新规，但政策将有别于首都。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594765327000",
-            "title": "秘鲁防长：本月1日调整隔离政策后 新冠肺炎病毒确诊病例增速略有回升 但仍可控",
-            "summary": "据秘鲁卫生部14日报告，过去24小时，该国新增3744例新冠肺炎确诊病例，累计确诊病例达到333867例。新增死亡病例175例，累计死亡12229例。当天，秘鲁卫生部发文强调，尽管和全球其他国家情况一致，该国80%的新冠病毒感染者均为无症状感染者，但相关人员仍应严格遵守自我隔离14天的卫生安全规定。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594765200000",
-            "title": "美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值",
-            "summary": "当地时间7月14日，美国当地媒体报道称，加州公共卫生部门提供的数据显示，受新冠疫情再次反扑影响，加州因新冠肺炎而住院的患者和在重症监护病房接受治疗的患者人数持续上升，达到疫情暴发以来最高值，分别为6745人住院和1886人重症监护治疗。该州14日报告称加州新增加了260名因新冠肺炎住院的患者，较周一（13日）增加4%。而新增入住重症监护治疗患者为53人，相比较13日也增加2.9%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594610403000",
-            "title": "美国卫生局长：#美国政府正就戴口罩问题纠错",
-            "summary": "在美国疫情形势不容乐观的当下，全美多个州和城市都已下令，要求民众在公共场合佩戴口罩或面罩，以预防新冠病毒。美国卫生局局长杰罗姆·亚当斯12日接受采访时表示，特朗普政府正“试图纠正”在疫情早期敦促美国人不要戴口罩的错误指导方针。在今年3月疫情开始在美国蔓延之际，亚当斯和其他的政府官员建议民众不要戴口罩，当时正值美国医院面临严重的个人防护设备短缺之际。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4526186443623613",
             "province": null,
             "provinceId": ""
         }
