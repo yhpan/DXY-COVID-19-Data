@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1594773014000",
+            "title": "5月份巴西央行经济活动指数上升1.31% 为疫情暴发以来首次回升",
+            "summary": "据巴西央行于当地时间14日发布的数据显示，新冠肺炎疫情的暴发使巴西经济活动指数在3月至5月的3个月内暴跌11.43%。但5月份的经济活动指数上升1.31%，为疫情暴发以来的首次回升。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6biT04Jrsbk8fNMBBM5B200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594771800000",
+            "title": "国家卫健委：昨日新增6例新冠肺炎确诊病例 均为境外输入病例",
+            "summary": "7月14日0—24时，31个省（自治区、直辖市）和新疆生产建设兵团报告新增确诊病例6例，均为境外输入病例（上海3例，山西1例，重庆1例，云南1例）；无新增死亡病例；无新增疑似病例。当日新增治愈出院病例19例，解除医学观察的密切接触者219人，重症病例与前一日持平。境外输入现有确诊病例86例（其中重症病例2例），现有疑似病例2例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiB5LjQj8cHQM1MuGBAIvZ200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594770023000",
+            "title": "阿根廷新增3645例新冠肺炎确诊病例 部分省份将于8月复课",
+            "summary": "当地时间14日，阿根廷卫生部公布，过去24小时全国新增3645例新冠肺炎确诊病例，累计确诊病例106910例。新增65例死亡病例，累计死亡病例1968例。新增确诊病例中，90%以上来自首都和布宜诺斯艾利斯省。14日，这些地区的官员共同参加会议，商讨7月17日严格隔离政策到期后将采取的措施。布宜诺斯艾利斯省省长表示，将与首都政府协商后制定新规，但政策将有别于首都。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilP5PsvP7oGboOEH6Uloe200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594765327000",
+            "title": "秘鲁防长：本月1日调整隔离政策后 新冠肺炎病毒确诊病例增速略有回升 但仍可控",
+            "summary": "据秘鲁卫生部14日报告，过去24小时，该国新增3744例新冠肺炎确诊病例，累计确诊病例达到333867例。新增死亡病例175例，累计死亡12229例。当天，秘鲁卫生部发文强调，尽管和全球其他国家情况一致，该国80%的新冠病毒感染者均为无症状感染者，但相关人员仍应严格遵守自我隔离14天的卫生安全规定。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtioptXbBWPLrrY2zORJmw1200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594765200000",
+            "title": "美国加州的住院人数和重症监护治疗人数达疫情暴发以来最高值",
+            "summary": "当地时间7月14日，美国当地媒体报道称，加州公共卫生部门提供的数据显示，受新冠疫情再次反扑影响，加州因新冠肺炎而住院的患者和在重症监护病房接受治疗的患者人数持续上升，达到疫情暴发以来最高值，分别为6745人住院和1886人重症监护治疗。该州14日报告称加州新增加了260名因新冠肺炎住院的患者，较周一（13日）增加4%。而新增入住重症监护治疗患者为53人，相比较13日也增加2.9%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtixZLTi1HwpDIBYhPGEYV7200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594610403000",
             "title": "美国卫生局长：#美国政府正就戴口罩问题纠错",
             "summary": "在美国疫情形势不容乐观的当下，全美多个州和城市都已下令，要求民众在公共场合佩戴口罩或面罩，以预防新冠病毒。美国卫生局局长杰罗姆·亚当斯12日接受采访时表示，特朗普政府正“试图纠正”在疫情早期敦促美国人不要戴口罩的错误指导方针。在今年3月疫情开始在美国蔓延之际，亚当斯和其他的政府官员建议民众不要戴口罩，当时正值美国医院面临严重的个人防护设备短缺之际。",
@@ -42,51 +87,6 @@
             "summary": "根据巴西卫生部7月12日公布的数据，截至当地时间18时，该国单日新增新冠肺炎确诊病例24831例，累计确诊1864681例，新增死亡病例631例，累计死亡72100人，共有1123204名患者康复。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594589711000",
-            "title": "葡萄牙一家陶瓷公司发现至少14例新冠肺炎病例",
-            "summary": "当地时间7月12日，一家位于葡萄牙卡雷加杜工业区的陶瓷公司发现至少14例新冠肺炎病例，该公司在5月已经出现过新冠肺炎病例。该公司近日为400多名员工做了新冠测试，正在等待其他员工的检测结果。公司的基础设施已经消毒，一部分测试结果已经出来并为阴性的员工周一可以上班，其余人员需在家隔离等待结果。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiWtHvf9tJmFnLjWSEyeod200713&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594581507000",
-            "title": "阿联酋迪拜以外居民出国旅行无需申请许可和提供核酸检测证明",
-            "summary": "据阿联酋《国民报》消息，当地时间7月12日，阿联酋联邦身份和公民权管理局发言人哈米斯·阿勒卡比（Khamis Al Kaabi）向外界表示，除迪拜以外的阿联酋居民，今年夏季出国旅行前无需申请出国许可，且不必进行新冠病毒核酸检测。但是在返回阿联酋之前，须先通过阿联酋政府官网申请入境许可，然后再预订回程机票，登机前须持有过去96小时内核酸检测阴性报告。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidBrx5gvu7c5VdB8soyk0200713&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594564634000",
-            "title": "美国新冠肺炎累计确诊病例超过324万例",
-            "summary": "根据美国约翰斯·霍普金斯大学发布的新冠疫情最新统计数据显示，截至美东时间7月12日9时34分，美国新冠肺炎累计确诊病例超过324万例，为3248220例，死亡病例为134817例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiqU3qd5KR7PwqRdUZAaNo200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594558523000",
-            "title": "新加坡首次出现校园内感染新冠肺炎病例",
-            "summary": "新加坡卫生部11日晚上发布的公告显示，一名13岁女生当天被确诊感染新冠肺炎。她之前与确诊的另一位男同学有接触。这名女生从6日起被隔离，一直未表现出症状，接受检测后确诊。该学生最后一次上学是本月3日。这是新加坡首次出现校园内感染病例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiNxFdT7UG2v05jeZkcTfi200712&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594553109000",
-            "title": "印度新冠肺炎疫情严峻 北方邦每个周末将实施严格封锁",
-            "summary": "为了有效防控疫情，印度北方邦政府决定在每个周末对全邦实施严格封锁。据《今日印度》网站报道，北方邦一名高级官员7月12日表示，“周末封锁的措施将从下周末开始实施，特别是在拥挤的地区。市场和办公室将在这几天保持关闭。” ",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtidVUWpTNn5jboprM9p8qd200712&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
