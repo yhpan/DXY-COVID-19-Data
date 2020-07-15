@@ -1,6 +1,51 @@
 {
     "results": [
         {
+            "pubDate": "1594853857000",
+            "title": "澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例",
+            "summary": "当地时间16日，澳大利亚联邦老年护理部长理查德·科尔贝克（Richard Colbeck）介绍，维多利亚州有32个老年护理机构出现新冠肺炎确诊病例，这个数字比15日增加了7个。在新报告的7家养老机构里，共有39名工作人员检测结果呈阳性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594852604000",
+            "title": "巴西新冠肺炎确诊病例超196万 首都所属联邦区酒吧及餐厅恢复营业",
+            "summary": "截至当地时间7月15日18时，巴西新增新冠肺炎确诊病例39924例，累计确诊1966748例，新增死亡病例1233例，累计死亡75366例。因疫情停业四个多月后，首都巴西利亚所属的联邦区的酒吧和餐厅于本日恢复营业，为防疫需要，该类场所需提供酒精凝胶，并为顾客测量体温，进店所有人员均需佩戴口罩、保持社交距离。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594849004000",
+            "title": "巴西总统博索纳罗一周后进行第二次新冠病毒检测 结果仍为阳性",
+            "summary": "当地时间15日，在新冠病毒检测呈阳性的一周后，巴西总统博索纳罗宣布其于14日晚间再进行新冠病毒检测的结果仍为阳性。当地时间7日，巴西总统博索纳罗通过电视直播的方式，公开宣布确认其新冠病毒检测结果为阳性。确诊后，博索纳罗在总统府内进行隔离，但仍通过视频会议的方式继续工作，他在网络直播中表示自己已服用羟氯喹来治疗新冠肺炎。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5JTtpW0QL0xPa5lsj5Bh200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594848236000",
+            "title": "​秘鲁新冠肺炎确诊病例升至337724例 重启国内航班及城际长途客运",
+            "summary": "当地时间15日，据秘鲁卫生部报告，过去24小时，该国新增3857例新冠肺炎确诊病例，累计确诊病例达到337724例。新增死亡病例188例，累计死亡12417例。此外，秘鲁当日开始恢复国内商业航班及省际长途客运，民众可在遵守各项卫生安全规定的前提条件下，在除7个仍在继续实行全民隔离政策大区外的其他区域间往返。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiURG7npHpsZIryqsaxtOb200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594845717000",
+            "title": "乌克兰卫生部长建议再延长全国新冠病毒防疫措施一个月",
+            "summary": "据乌克兰媒体报道，乌克兰卫生部部长马克西姆·斯捷潘诺夫15日表示，鉴于该国国内新冠肺炎疫情仍十分严峻，他建议将全国新冠病毒检疫隔离状态至少再延长1个月。乌克兰政府将在7月21日会议上研究延长新冠病毒疫情防疫限制措施的问题。现行的限制措施将于7月31日期满。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiPn7dDdsJv27vCG8PzJDJ200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594825207000",
             "title": "英国首相首次承诺未来将对新冠疫情应对情况进行独立调查",
             "summary": "英国首相鲍里斯·约翰逊15日在英国议会下院接受首相每周例行答问时首次承诺，未来将会对英国的新冠疫情应对情况进行独立调查。\n",
@@ -42,51 +87,6 @@
             "summary": "根据世卫组织最新实时统计数据，截至欧洲中部夏令时间7月15日9时20分（北京时间7月15日15时20分），全球累计新冠肺炎确诊病例13119239例，累计死亡病例573752例。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihSl55EnlCIvOY23R0ynA200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594813848000",
-            "title": "哈萨克斯坦感谢中国等15国提供人道主义抗疫物资",
-            "summary": "15日，哈萨克斯坦外交部副部长阿什克巴耶夫在新闻发布会上表示，迄今为止，共有15个国家向哈萨克斯坦提供人道主义援助物资。他表示，自疫情发生以来，哈外交部同卫生部负责协调世界各国向哈提供人道主义医疗物资接收工作，借此机会，向中国、俄罗斯、美国、阿联酋、日本、土耳其、韩国、卡塔尔、乌兹别克斯坦等国家和世界卫生组织等国际组织、企业以及个人提供的帮助表示诚挚感谢。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594812014000",
-            "title": "​保加利亚新增234例新冠肺炎确诊病例 累计达7645例",
-            "summary": "当地时间7月15日，保加利亚卫生部发布的最新疫情通报称，过去24小时保加利亚共进行了新冠病毒检测4885次，新增234例确诊病例，累计确诊病例7645例。新增7例死亡病例，累计死亡病例283例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594807864000",
-            "title": "重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性",
-            "summary": "据沙坪坝区新冠肺炎疫情防控工作领导小组通报，按照国家相关部委部署，重庆市新冠肺炎疫情防控工作领导小组工作要求，沙坪坝区疫情防控工作领导小组对从厄瓜多尔进口的冻南美白虾进行了全面清查。7月14日，检测发现西部物流园一冷冻仓库部分产品外包装新冠病毒核酸呈阳性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594807501000",
-            "title": "​伊朗新增2388例新冠肺炎确诊病例 累计达264561例",
-            "summary": "根据伊朗卫生部最新消息，过去24小时伊朗新增2388例新冠肺炎确诊病例，新增199例死亡病例。截至当地时间15日中午，伊朗累计新冠肺炎确诊病例264561例，其中227561例治愈病例，13410例死亡病例，3411例重症。截至15日，伊朗累计进行了2048049次新冠病毒检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594805864000",
-            "title": "菲律宾新增1392例新冠肺炎确诊病例 累计达58850例",
-            "summary": "7月15日，菲律宾卫生部发布消息称，截至15日下午4时，菲律宾新增1392例新冠肺炎确诊病例，累计确诊病例58850例。此外，新增死亡病例11例，累计死亡病例1614例。新增517例治愈病例，累计治愈病例20976例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5cUQo1kkzbmVEzR36hCW200715&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
