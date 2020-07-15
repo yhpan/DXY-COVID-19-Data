@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594782578000",
+            "title": "上海7月14日无新增本地新冠肺炎确诊病例 新增境外输入3例",
+            "summary": "7月14日0—24时，通过口岸联防联控机制，报告3例境外输入性新冠肺炎确诊病例。7月14日0—24时，无新增本地新冠肺炎确诊病例。截至7月14日24时，累计报告境外输入性确诊病例389例，治愈出院356例，在院治疗33例。",
+            "infoSource": "上海卫健委",
+            "sourceUrl": "http://wsjkw.sh.gov.cn/xwfb/20200715/ac0c333c30804ef4be689eefafe5d421.html",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594773014000",
             "title": "5月份巴西央行经济活动指数上升1.31% 为疫情暴发以来首次回升",
             "summary": "据巴西央行于当地时间14日发布的数据显示，新冠肺炎疫情的暴发使巴西经济活动指数在3月至5月的3个月内暴跌11.43%。但5月份的经济活动指数上升1.31%，为疫情暴发以来的首次回升。",
@@ -78,15 +87,6 @@
             "summary": "目前，全美已经有20多个州外加华盛顿哥伦比亚特区发布了不同程度的“公共场所佩戴口罩强制令”，而众多美国防疫专家、卫生官员一再呼吁公众戴口罩，以限制病毒传播——但是如今在美国，戴或者不戴口罩甚至已经成为政治对立的新标志。美国卫生与公众服务部助理部长 布雷特·吉鲁瓦尔：我想卫生官员们已经讲得非常清楚了，戴口罩是基本的要求，这非常重要，真的能降低病毒的传播。你可以不保护你自己，但你要保护别人。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFzNBN55LD50k95cwRAdE200713&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594594770000",
-            "title": "巴西新增24831例新冠肺炎确诊病例 累计确诊人数超186万",
-            "summary": "根据巴西卫生部7月12日公布的数据，截至当地时间18时，该国单日新增新冠肺炎确诊病例24831例，累计确诊1864681例，新增死亡病例631例，累计死亡72100人，共有1123204名患者康复。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2AcMasVAgZpccRROO0yH200713&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
