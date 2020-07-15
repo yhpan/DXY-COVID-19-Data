@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594807864000",
+            "title": "重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性",
+            "summary": "据沙坪坝区新冠肺炎疫情防控工作领导小组通报，按照国家相关部委部署，重庆市新冠肺炎疫情防控工作领导小组工作要求，沙坪坝区疫情防控工作领导小组对从厄瓜多尔进口的冻南美白虾进行了全面清查。7月14日，检测发现西部物流园一冷冻仓库部分产品外包装新冠病毒核酸呈阳性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVw2zDi4NjWemI6YfyaPN200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594807501000",
+            "title": "​伊朗新增2388例新冠肺炎确诊病例 累计达264561例",
+            "summary": "根据伊朗卫生部最新消息，过去24小时伊朗新增2388例新冠肺炎确诊病例，新增199例死亡病例。截至当地时间15日中午，伊朗累计新冠肺炎确诊病例264561例，其中227561例治愈病例，13410例死亡病例，3411例重症。截至15日，伊朗累计进行了2048049次新冠病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAB99CU2HO3fcgYYiycre200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594805864000",
             "title": "菲律宾新增1392例新冠肺炎确诊病例 累计达58850例",
             "summary": "7月15日，菲律宾卫生部发布消息称，截至15日下午4时，菲律宾新增1392例新冠肺炎确诊病例，累计确诊病例58850例。此外，新增死亡病例11例，累计死亡病例1614例。新增517例治愈病例，累计治愈病例20976例。",
@@ -69,24 +87,6 @@
             "summary": "根据乌克兰卫生部消息，截至当地时间7月15日，乌克兰较上一日新增836例新冠肺炎确诊病例，累计确诊病例55607例。新增977例治愈病例，累计治愈病例28131例。新增死亡病例15例，累计死亡病例1427例。乌克兰全国适应性隔离措施将持续至7月31日。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7yYZujBdKotNiJzKmMP200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594797089000",
-            "title": "卢旺达新增38例新冠肺炎确诊病例 累计达1416例",
-            "summary": "根据卢旺达卫生部消息，该国7月14日新增38例新冠肺炎确诊病例，累计确诊病例1416例，累计死亡病例4例，累计治愈病例737例，现存确诊病例675例，累计192379人进行了新冠病毒检测。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifN0zbGCt6JwjC6XwZquL200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594792184000",
-            "title": "乌兹别克斯坦新增702例新冠肺炎确诊病例 中亚国家元首峰会改期举行",
-            "summary": "据乌兹别克斯坦卫生部通报的数据，截至当地时间15日10时，国内新增702例新冠肺炎确诊病例，累计确诊病例14293例，累计治愈病例8327例，新增死亡病例4例，累计死亡病例68例。另据当地媒体报道，乌兹别克斯坦外交部副部长涅马托夫14日表示，受新冠肺炎疫情影响，原定于8月在吉尔吉斯斯坦举行的中亚国家元首峰会将延迟举行。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti67wwnyd3GKtvbSIoMRTp200715&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
