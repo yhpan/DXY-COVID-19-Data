@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594813848000",
+            "title": "哈萨克斯坦感谢中国等15国提供人道主义抗疫物资",
+            "summary": "15日，哈萨克斯坦外交部副部长阿什克巴耶夫在新闻发布会上表示，迄今为止，共有15个国家向哈萨克斯坦提供人道主义援助物资。他表示，自疫情发生以来，哈外交部同卫生部负责协调世界各国向哈提供人道主义医疗物资接收工作，借此机会，向中国、俄罗斯、美国、阿联酋、日本、土耳其、韩国、卡塔尔、乌兹别克斯坦等国家和世界卫生组织等国际组织、企业以及个人提供的帮助表示诚挚感谢。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihJTzh2ZNBv4hwsU8dqAC200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594812014000",
+            "title": "​保加利亚新增234例新冠肺炎确诊病例 累计达7645例",
+            "summary": "当地时间7月15日，保加利亚卫生部发布的最新疫情通报称，过去24小时保加利亚共进行了新冠病毒检测4885次，新增234例确诊病例，累计确诊病例7645例。新增7例死亡病例，累计死亡病例283例。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiIaa8pkfBynxRMiK0tB4x200715&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594807864000",
             "title": "重庆西部物流园一冷冻仓库部分产品外包装新冠病毒检测呈阳性",
             "summary": "据沙坪坝区新冠肺炎疫情防控工作领导小组通报，按照国家相关部委部署，重庆市新冠肺炎疫情防控工作领导小组工作要求，沙坪坝区疫情防控工作领导小组对从厄瓜多尔进口的冻南美白虾进行了全面清查。7月14日，检测发现西部物流园一冷冻仓库部分产品外包装新冠病毒核酸呈阳性。",
@@ -69,24 +87,6 @@
             "summary": "日本东京都政府7月15日发布消息称，15日东京新增165例新冠肺炎确诊病例。自9日以来，东京单日新增确诊病例连续7天超过100例。东京都当日已决定将有关新冠肺炎疫情的4个阶段警惕指标上调至最高级别的“疫情正在扩大”。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAuHMV3r8ROhPjRIpPlor200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594797788000",
-            "title": "​中非共和国新增35例新冠肺炎确诊病例 累计达4356例",
-            "summary": "当地时间7月14日，中非共和国卫生部发布公告，中非共和国新增35例新冠肺炎确诊病例，其中33例为本土病例，2例为输入病例，包括19名男性患者和16名女性患者，患者年龄从2岁到92岁不等。此外，该国新增21例新冠肺炎治愈病例。截止到当地时间7月14日，中非共和国累计27561人接受了新冠肺炎检测，累计确诊病例4356例，累计治愈病例1229例，累计死亡病例53例。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtifD38EgCKMeQRm5q0dZhv200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594797294000",
-            "title": "乌克兰新增836例新冠肺炎确诊病例 累计达55607例",
-            "summary": "根据乌克兰卫生部消息，截至当地时间7月15日，乌克兰较上一日新增836例新冠肺炎确诊病例，累计确诊病例55607例。新增977例治愈病例，累计治愈病例28131例。新增死亡病例15例，累计死亡病例1427例。乌克兰全国适应性隔离措施将持续至7月31日。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artia7yYZujBdKotNiJzKmMP200715&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
