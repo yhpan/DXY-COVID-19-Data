@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594881082000",
+            "title": "新疆新增新冠肺炎确诊病例1例",
+            "summary": "7月15日，乌鲁木齐市天山区发现新冠肺炎确诊病例1例，无症状感染者3例（均在医学观察中）。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594875603000",
+            "title": "东京将疫情警戒状态上调至最高",
+            "summary": "日本东京都政府15日发布消息称，当天东京新增165例新冠肺炎确诊病例。卫生专家将东京新冠病毒感染警戒状态上调至最高，并表示对该市最近新冠肺炎确诊病例激增感到震惊，东京知事稍早也表示该市的形势“相当严峻”。",
+            "infoSource": "人民日报海外版",
+            "sourceUrl": "https://m.weibo.cn/3057540037/4527267462783132",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594873203000",
             "title": "警惕！多国在2019年废水中发现新冠病毒",
             "summary": "西班牙、巴西、意大利研究人员分别在去年3月、11月、12月的废水样本中检出新冠病毒。有专家称，新冠病毒可能在亚洲暴发疫情前就已“休眠”于全球多地。许多病例或因被误诊为流感而被掩盖。研究表明，新冠病毒的遗传物质可能经由感染者排泄物进入废水。",
@@ -69,24 +87,6 @@
             "summary": "截至当地时间7月15日18时，巴西新增新冠肺炎确诊病例39924例，累计确诊1966748例，新增死亡病例1233例，累计死亡75366例。因疫情停业四个多月后，首都巴西利亚所属的联邦区的酒吧和餐厅于本日恢复营业，为防疫需要，该类场所需提供酒精凝胶，并为顾客测量体温，进店所有人员均需佩戴口罩、保持社交距离。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594849004000",
-            "title": "巴西总统博索纳罗一周后进行第二次新冠病毒检测 结果仍为阳性",
-            "summary": "当地时间15日，在新冠病毒检测呈阳性的一周后，巴西总统博索纳罗宣布其于14日晚间再进行新冠病毒检测的结果仍为阳性。当地时间7日，巴西总统博索纳罗通过电视直播的方式，公开宣布确认其新冠病毒检测结果为阳性。确诊后，博索纳罗在总统府内进行隔离，但仍通过视频会议的方式继续工作，他在网络直播中表示自己已服用羟氯喹来治疗新冠肺炎。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti5JTtpW0QL0xPa5lsj5Bh200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594848236000",
-            "title": "​秘鲁新冠肺炎确诊病例升至337724例 重启国内航班及城际长途客运",
-            "summary": "当地时间15日，据秘鲁卫生部报告，过去24小时，该国新增3857例新冠肺炎确诊病例，累计确诊病例达到337724例。新增死亡病例188例，累计死亡12417例。此外，秘鲁当日开始恢复国内商业航班及省际长途客运，民众可在遵守各项卫生安全规定的前提条件下，在除7个仍在继续实行全民隔离政策大区外的其他区域间往返。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiURG7npHpsZIryqsaxtOb200716&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
