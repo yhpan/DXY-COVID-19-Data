@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594909860000",
+            "title": "阿塞拜疆新增493例新冠肺炎确诊病例 累计确诊26165例",
+            "summary": "当地时间7月16日，阿塞拜疆国家疫情防控指挥部发布消息，在过去24小时内，阿塞拜疆新增新冠肺炎确诊病例493例，累计确诊26165例。累计治愈17256例，死亡334例，8575例正住院治疗。截至目前，全国已进行了超过60万次新冠病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtilXipcXjWdjL9pI2eVdAr200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594909788000",
+            "title": "​科威特新增791例新冠肺炎确诊病例 累计确诊57668例",
+            "summary": "科威特卫生部当地时间16日下午发布通告，确认过去24小时境内新增791例新冠肺炎确诊病例，同时新增3例死亡病例。至此科威特境内新冠肺炎累计确诊病例数量已达57668例，其中402名患者病重不治去世，142名患者病情较为严重，47545名患者已治愈出院。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artib1tjTEa8BRHHyE9VIph4200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594906014000",
             "title": "罗马尼亚新增777例新冠肺炎确诊病例 累计确诊35003例",
             "summary": "据罗马尼亚政府7月16日公布的数据，过去24小时对19097人进行新冠病毒检测，确诊777例，比此前的最高值（7月11日的698例）高出79例；截止到目前，罗马尼亚累计确诊35003例；新增死亡19例，累计死亡1971例；重症患者261例；累计治愈22189例，总检测样本906015份。",
@@ -69,24 +87,6 @@
             "summary": "来自香港特区政府卫生防护中心的消息，截至7月16日17时，香港单日新增67例新冠肺炎确诊病例，其中有4例为境外输入病例，剩余63例均为本土病例。当中有28例与此前曾发现多个确诊病例的群组相关，另有35例病例暂未查明病源。截至目前，香港累计确诊病例1655例。在新增的确诊病例中，有一名是荃湾港安医院的护士。有两名伊利沙伯医院的员工相继确诊，该医院早前已有至少三名住在普通病房的患者被确诊。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594891168000",
-            "title": "西班牙在马德里皇宫举行新冠肺炎逝者悼念仪式",
-            "summary": "当地时间16日上午九点，西班牙政府为新冠肺炎遇难者举行的悼念仪式在马德里皇宫举行，这一仪式由西班牙国王费利佩六世主持，有大约400名来宾出席仪式，出席来宾包括西班牙王室和内阁全体成员、各大区政府领导人以及来自欧洲各界的代表。仪式送别在新冠疫情大流行期间失去生命的每一个人，同时对在疫情第一线坚持工作的人们进行表彰，这次仪式代表着西班牙全国在疫情期间所展现的勇气和疫情后重振国家的希望。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtikfRExxJzyCGOaPJTTujM200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594890669000",
-            "title": "法国总理：从下周起民众进入封闭公共空间必须佩戴口罩",
-            "summary": "法国总理让·卡斯泰当地时间16日对参议院表示，从下周开始，民众进入封闭公共空间将必须佩戴口罩。卡斯泰当天向参议院议员阐述其施政计划时做出上述表示。此外，法国还将加强入境时的检查，并加大针对法国民众的检测力度。此前，法国总统马克龙在7月14日国庆日电视直播采访中表示，或将从8月1日起要求11岁以上民众进入封闭公共空间时必须佩戴口罩。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
