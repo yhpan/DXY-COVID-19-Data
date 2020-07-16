@@ -1,6 +1,33 @@
 {
     "results": [
         {
+            "pubDate": "1594900528000",
+            "title": "摩洛哥新增162例新冠肺炎确诊病例 累计确诊16424例",
+            "summary": "摩洛哥卫生部7月16日证实，从15日18时至16日10时，该国新增162例新冠肺炎确诊病例和1例死亡病例。目前，摩洛哥累计确诊16424例，死亡260例，治愈13896例。目前，摩洛哥共对943691例新冠肺炎疑似病例进行了病毒检测，其中927267例检测结果呈阴性。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti6hCD4E5Scw6HDRaqShGG200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594898689000",
+            "title": "塞内加尔新增112例新冠肺炎确诊病例 累计确诊8481例",
+            "summary": "当地时间16日，塞内加尔卫生部发布最新通告称，在1173份检测样本中，新发现112例确诊病例，此外有130名患者康复。截至目前，塞内加尔已有累计确诊病例8481例，其中5735例已被治愈，156例死亡。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtisV4IuWO5dZZcrvA0BUpf200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594898537000",
+            "title": "白俄罗斯新增180例新冠肺炎确诊病例 累计确诊65623例",
+            "summary": "根据白俄罗斯卫生部当地时间7月16日发布的消息，过去24小时该国新增180例新冠肺炎确诊病例，累计确诊65623例。此外，该国新增536例治愈病例，累计治愈56915例，新增5例死亡病例，累计死亡485例。截至目前，白俄罗斯共进行了超过116万次新冠病毒检测。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiAZbydRJED0le3Ky9IrUA200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594895507000",
             "title": "​非洲地区新冠肺炎确诊病例累计达64.4万例",
             "summary": "截至非洲东部时间7月16日12时，非洲疾控中心数据显示：非洲地区54个国家累计报告了新冠肺炎确诊病例644205例，累计死亡病例14044例，共有334547人治愈康复。",
@@ -60,33 +87,6 @@
             "summary": "今天（16日）下午，北京市召开第153场新冠肺炎疫情防控新闻发布会，北京市疾病预防控制中心副主任刘晓峰介绍说：经评估，丰台区卢沟桥街道连续14天内无新增本地确诊病例，由中风险地区调整为低风险地区，截至目前，全市共有中风险地区3个，为丰台区花乡乡、马家堡街道、新村街道，丰台区其余街道为低风险地区，全市其他区街乡均为低风险地区。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594887366000",
-            "title": "受新冠肺炎疫情影响 英国64.9万人3月到6月没有收入",
-            "summary": "尽管英国政府最近几周一直在提供支持大力促进经济复苏，但英国国家统计局当地时间16日公布数字称，由于新冠疫情带来的经济停滞，从3月到6月，全国有64.9万人没有收入。而6月份，纳税登记人数比5月进一步减少了7.4万人。这一数字是在英国预算责任办公室报告称英国今年可能面临高达13%失业率后公布的，此前英国官方公布的失业率为3.9%。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594881082000",
-            "title": "新疆新增新冠肺炎确诊病例1例",
-            "summary": "7月15日，乌鲁木齐市天山区发现新冠肺炎确诊病例1例，无症状感染者3例（均在医学观察中）。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiGlpk9IVjYqADzRIEQFuM200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594875603000",
-            "title": "东京将疫情警戒状态上调至最高",
-            "summary": "日本东京都政府15日发布消息称，当天东京新增165例新冠肺炎确诊病例。卫生专家将东京新冠病毒感染警戒状态上调至最高，并表示对该市最近新冠肺炎确诊病例激增感到震惊，东京知事稍早也表示该市的形势“相当严峻”。",
-            "infoSource": "人民日报海外版",
-            "sourceUrl": "https://m.weibo.cn/3057540037/4527267462783132",
             "province": null,
             "provinceId": ""
         }
