@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594866784000",
+            "title": "受疫情冲击 新加坡航空集团6月份客运量下跌99.3%",
+            "summary": "新加坡航空集团当地时间15日披露的运营报告显示，受新冠肺炎疫情影响，6月份集团客运量下跌99.3%。新加坡航空表示会继续评估运载量规划，“复苏的步伐会比预期慢，并对2020/2021财年的营收能力造成重大影响”。数据显示，6月份新航集团的运能（座位数乘以飞行的距离）同比大跌95.1％，整体乘客运载量（乘客收入乘以飞行的公里数）跌幅高达99.3％，导致乘客运载率跌至12.2％，下滑74个百分点。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtieFGKReOeq0xyaRiTX8hl200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594859258000",
             "title": "北京15日无新增报告新冠肺炎确诊病例 治愈出院23例",
             "summary": "7月15日0时至24时，北京无新增报告本地确诊病例、疑似病例和无症状感染者，治愈出院病例23例；无新增报告境外输入确诊病例、疑似病例和无症状感染者。6月11日0时至7月15日24时，累计报告本地确诊病例335例，在院168例，治愈出院167例。尚在观察的无症状感染者17例；无新增报告境外输入新冠肺炎确诊病例、疑似病例和无症状感染者。",
@@ -78,15 +87,6 @@
             "summary": "英国首相鲍里斯·约翰逊15日在英国议会下院接受首相每周例行答问时首次承诺，未来将会对英国的新冠疫情应对情况进行独立调查。\n",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiS5sedPGCofivUBbOWmwd200715&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594821744000",
-            "title": "塞尔维亚新冠肺炎确诊病例新增351例 累计确诊19334例",
-            "summary": "据塞尔维亚卫生部网站消息，截至7月15日15:00，塞尔维亚累计新冠肺炎确诊病例19334例，较昨日（14日）新增351例；死亡429例，较昨日新增11例，死亡率2.22%。目前共对 515395人进行了新冠病毒检测，较上次发布增加8393人。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtijyWKe1ry7hFuojCVFFab200715&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
