@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594887833000",
+            "title": "北京疫情防控形势持续向好 仅剩3个中风险地区",
+            "summary": "今天（16日）下午，北京市召开第153场新冠肺炎疫情防控新闻发布会，北京市疾病预防控制中心副主任刘晓峰介绍说：经评估，丰台区卢沟桥街道连续14天内无新增本地确诊病例，由中风险地区调整为低风险地区，截至目前，全市共有中风险地区3个，为丰台区花乡乡、马家堡街道、新村街道，丰台区其余街道为低风险地区，全市其他区街乡均为低风险地区。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594887366000",
+            "title": "受新冠肺炎疫情影响 英国64.9万人3月到6月没有收入",
+            "summary": "尽管英国政府最近几周一直在提供支持大力促进经济复苏，但英国国家统计局当地时间16日公布数字称，由于新冠疫情带来的经济停滞，从3月到6月，全国有64.9万人没有收入。而6月份，纳税登记人数比5月进一步减少了7.4万人。这一数字是在英国预算责任办公室报告称英国今年可能面临高达13%失业率后公布的，此前英国官方公布的失业率为3.9%。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiKeOeEn0EGww5FhrEaOjI200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594881082000",
             "title": "新疆新增新冠肺炎确诊病例1例",
             "summary": "7月15日，乌鲁木齐市天山区发现新冠肺炎确诊病例1例，无症状感染者3例（均在医学观察中）。",
@@ -69,24 +87,6 @@
             "summary": "根据玻利维亚卫生部数据，截至当地时间7月15日，玻利维亚累计新冠肺炎确诊病例50867例，累计死亡1898人，累计治愈15819人。当地时间7月14日晚，玻利维亚碳氢化合物部召开新闻发布会，公告该部部长维克多·雨果·萨莫拉新冠病毒检测呈阳性，成为最新感染的部长级官员。据悉，萨莫拉目前为无症状感染者，现根据玻利维亚防疫规定处于居家隔离中。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti2NscARnEhWiMxHRJBIVZ200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594853857000",
-            "title": "澳大利亚维多利亚州32个老年护理机构出现新冠肺炎确诊病例",
-            "summary": "当地时间16日，澳大利亚联邦老年护理部长理查德·科尔贝克（Richard Colbeck）介绍，维多利亚州有32个老年护理机构出现新冠肺炎确诊病例，这个数字比15日增加了7个。在新报告的7家养老机构里，共有39名工作人员检测结果呈阳性。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Arti3ouY4NETbNGs8V854pNB200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594852604000",
-            "title": "巴西新冠肺炎确诊病例超196万 首都所属联邦区酒吧及餐厅恢复营业",
-            "summary": "截至当地时间7月15日18时，巴西新增新冠肺炎确诊病例39924例，累计确诊1966748例，新增死亡病例1233例，累计死亡75366例。因疫情停业四个多月后，首都巴西利亚所属的联邦区的酒吧和餐厅于本日恢复营业，为防疫需要，该类场所需提供酒精凝胶，并为顾客测量体温，进店所有人员均需佩戴口罩、保持社交距离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiV091VtQ9mkMzMp7tHUsl200716&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
