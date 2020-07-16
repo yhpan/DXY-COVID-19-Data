@@ -1,6 +1,24 @@
 {
     "results": [
         {
+            "pubDate": "1594937209000",
+            "title": "巴西新冠肺炎确诊病例破201万，近六成大城市确诊病例加速增长",
+            "summary": "截至当地时间7月16日18时，巴西新增新冠肺炎确诊病例45403例，累计确诊2012151例，新增死亡病例1322例，累计死亡76688人，治愈人数为1296328。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artif6ZVD2qGpvKSSYUiZgNq200717&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
+            "pubDate": "1594935608000",
+            "title": "美国新增71434例新冠肺炎确诊病例，累计确诊超354万例",
+            "summary": "据美国约翰斯·霍普金斯大学统计数据显示，截至美东时间7月16日17:33时（北京时间17日05:33时），美国新冠肺炎确诊病例已达到3549451例，死亡病例达到138072例。 ",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiFt4CPJAwLotMCXXfnADT200717&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594909860000",
             "title": "阿塞拜疆新增493例新冠肺炎确诊病例 累计确诊26165例",
             "summary": "当地时间7月16日，阿塞拜疆国家疫情防控指挥部发布消息，在过去24小时内，阿塞拜疆新增新冠肺炎确诊病例493例，累计确诊26165例。累计治愈17256例，死亡334例，8575例正住院治疗。截至目前，全国已进行了超过60万次新冠病毒检测。",
@@ -69,24 +87,6 @@
             "summary": "据越南外交部发言人黎氏秋姮7月16日在越南外交部记者会上表示。7月中旬起，越南将根据具体情况恢复部分国家地区的国际航班，其中包括：中国广州、中国台湾、韩国首尔、日本东京以及柬埔寨金边以及老挝万象等地。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiVldRzQorLp7eLD5f8K4v200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594892785000",
-            "title": "驻韩美军新增14例新冠肺炎确诊患者 确诊人数激增引发忧虑",
-            "summary": "根据驻韩美军当地时间16日通报，又有14名驻韩美军及相关人员确诊感染新冠肺炎，由此驻韩美军及相关人员累计确诊感染病例已升至88例。新确诊的14名患者中，有12人为现役成员，另有2人为驻韩美军家属。上述人员于7月9日至15日间抵达韩国后相继确诊。驻韩美军表示，所有确诊人员在进入隔离地点前均进行了新冠病毒检测，目前他们已经被安置在韩国平泽市乌山空军基地或汉弗莱营进行隔离。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiMLcM1hx0DjYMEC3e0wqb200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594892052000",
-            "title": "​香港16日新增67例新冠肺炎确诊病例",
-            "summary": "来自香港特区政府卫生防护中心的消息，截至7月16日17时，香港单日新增67例新冠肺炎确诊病例，其中有4例为境外输入病例，剩余63例均为本土病例。当中有28例与此前曾发现多个确诊病例的群组相关，另有35例病例暂未查明病源。截至目前，香港累计确诊病例1655例。在新增的确诊病例中，有一名是荃湾港安医院的护士。有两名伊利沙伯医院的员工相继确诊，该医院早前已有至少三名住在普通病房的患者被确诊。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=Artixu5ZXY3ATkHzupTzHMOU200716&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
