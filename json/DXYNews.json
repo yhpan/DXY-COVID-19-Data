@@ -1,6 +1,15 @@
 {
     "results": [
         {
+            "pubDate": "1594906014000",
+            "title": "罗马尼亚新增777例新冠肺炎确诊病例 累计确诊35003例",
+            "summary": "据罗马尼亚政府7月16日公布的数据，过去24小时对19097人进行新冠病毒检测，确诊777例，比此前的最高值（7月11日的698例）高出79例；截止到目前，罗马尼亚累计确诊35003例；新增死亡19例，累计死亡1971例；重症患者261例；累计治愈22189例，总检测样本906015份。",
+            "infoSource": "央视新闻app",
+            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtiUFyDutqeHcWhgUUAcY1G200716&isfromapp=1",
+            "province": null,
+            "provinceId": ""
+        },
+        {
             "pubDate": "1594900528000",
             "title": "摩洛哥新增162例新冠肺炎确诊病例 累计确诊16424例",
             "summary": "摩洛哥卫生部7月16日证实，从15日18时至16日10时，该国新增162例新冠肺炎确诊病例和1例死亡病例。目前，摩洛哥累计确诊16424例，死亡260例，治愈13896例。目前，摩洛哥共对943691例新冠肺炎疑似病例进行了病毒检测，其中927267例检测结果呈阴性。",
@@ -78,15 +87,6 @@
             "summary": "法国总理让·卡斯泰当地时间16日对参议院表示，从下周开始，民众进入封闭公共空间将必须佩戴口罩。卡斯泰当天向参议院议员阐述其施政计划时做出上述表示。此外，法国还将加强入境时的检查，并加大针对法国民众的检测力度。此前，法国总统马克龙在7月14日国庆日电视直播采访中表示，或将从8月1日起要求11岁以上民众进入封闭公共空间时必须佩戴口罩。",
             "infoSource": "央视新闻app",
             "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtihsNVsFvImuBHqR4QAeb9200716&isfromapp=1",
-            "province": null,
-            "provinceId": ""
-        },
-        {
-            "pubDate": "1594887833000",
-            "title": "北京疫情防控形势持续向好 仅剩3个中风险地区",
-            "summary": "今天（16日）下午，北京市召开第153场新冠肺炎疫情防控新闻发布会，北京市疾病预防控制中心副主任刘晓峰介绍说：经评估，丰台区卢沟桥街道连续14天内无新增本地确诊病例，由中风险地区调整为低风险地区，截至目前，全市共有中风险地区3个，为丰台区花乡乡、马家堡街道、新村街道，丰台区其余街道为低风险地区，全市其他区街乡均为低风险地区。",
-            "infoSource": "央视新闻app",
-            "sourceUrl": "http://app.cctv.com/special/cportal/detail/arti/index.html?id=ArtigSjiprGwHSyNJvZBm3DE200716&isfromapp=1",
             "province": null,
             "provinceId": ""
         }
