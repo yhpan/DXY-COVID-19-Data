@@ -31,6 +31,45 @@ collections = {
 time_types = ('pubDate', 'createTime', 'modifyTime', 'dataInfoTime', 'crawlTime', 'updateTime')
 
 
+def dict_parser(document, city_dict=None):
+    result = dict()
+
+    try:
+        result['continentName'] = document['continentName']
+        result['continentEnglishName'] = document['continentEnglishName']
+    except KeyError:
+        result['continentName'] = None
+        result['continentEnglishName'] = None
+
+    result['countryName'] = document['countryName']
+
+    try:
+        result['countryEnglishName'] = document['countryEnglishName']
+    except KeyError:
+        result['countryEnglishName'] = None
+
+    result['provinceName'] = document['provinceName']
+    result['provinceEnglishName'] = document.get('provinceEnglishName')
+    result['province_zipCode'] = document.get('locationId')
+    result['province_confirmedCount'] = document['confirmedCount']
+    result['province_suspectedCount'] = document['suspectedCount']
+    result['province_curedCount'] = document['curedCount']
+    result['province_deadCount'] = document['deadCount']
+
+    if city_dict:
+        result['cityName'] = city_dict['cityName']
+        result['cityEnglishName'] = city_dict.get('cityEnglishName')
+        result['city_zipCode'] = city_dict.get('locationId')
+        result['city_confirmedCount'] = city_dict['confirmedCount']
+        result['city_suspectedCount'] = city_dict['suspectedCount']
+        result['city_curedCount'] = city_dict['curedCount']
+        result['city_deadCount'] = city_dict['deadCount']
+
+    result['updateTime'] = datetime.datetime.fromtimestamp(int(document['updateTime']/1000))
+
+    return result
+
+
 def git_manager(changed_files):
     repo = Repo(path=os.path.split(os.path.realpath(__file__))[0])
     repo.index.add(changed_files)
@@ -56,7 +95,8 @@ class DB:
                         'crawlTime': -1
                     }
                 }
-            ]
+            ],
+            allowDiskUse=True
         )
 
 
@@ -77,7 +117,10 @@ class Listener:
                     os.path.split(os.path.realpath(__file__))[0], 'json', collection + '.json'),
                 'r', encoding='utf-8'
             )
-            static_data = json.load(json_file)
+            try:
+                static_data = json.load(json_file)
+            except (UnicodeDecodeError, FileNotFoundError, json.decoder.JSONDecodeError):
+                static_data = None
             json_file.close()
             while True:
                 request = requests.get(url='https://lab.isaaclin.cn/nCoV/api/' + collections.get(collection))
@@ -85,70 +128,99 @@ class Listener:
                     current_data = request.json()
                     break
                 else:
+                    time.sleep(1)
                     continue
             if static_data != current_data:
                 self.json_dumper(collection=collection, content=current_data)
                 changed_files.append('json/' + collection + '.json')
-                self.csv_dumper(collection=collection)
+                cursor = self.db.dump(collection=collection)
+                self.csv_dumper(collection=collection, cursor=cursor)
                 changed_files.append('csv/' + collection + '.csv')
-                logger.info('{collection} updated!'.format(collection=collection))
+                cursor = self.db.dump(collection=collection)
+                self.db_dumper(collection=collection, cursor=cursor)
+                changed_files.append('json/' + collection + '-TimeSeries.json')
+            logger.info('{collection} checked!'.format(collection=collection))
         if changed_files:
             git_manager(changed_files=changed_files)
 
-    def json_dumper(self, collection, content):
+    def json_dumper(self, collection, content=None):
         json_file = open(
             os.path.join(
-                os.path.split(os.path.realpath(__file__))[0], 'json', collection + '.json'),
+                os.path.split(
+                    os.path.realpath(__file__))[0], 'json', collection + '.json'
+            ),
             'w', encoding='utf-8'
         )
         json.dump(content, json_file, ensure_ascii=False, indent=4)
         json_file.close()
 
-    def csv_dumper(self, collection):
+    def csv_dumper(self, collection, cursor):
         if collection == 'DXYArea':
             structured_results = list()
-            results = self.db.dump(collection=collection)
-            for province_dict in results:
-                if province_dict.get('cities', None):
-                    for city_counter in range(len(province_dict['cities'])):
-                        city_dict = province_dict['cities'][city_counter]
-                        result = dict()
-                        result['provinceName'] = province_dict['provinceName']
-                        result['provinceEnglishName'] = province_dict.get('provinceEnglishName')
-                        result['province_zipCode'] = province_dict.get('locationId')
-                        result['cityName'] = city_dict['cityName']
-                        result['cityEnglishName'] = city_dict.get('cityEnglishName')
-                        result['city_zipCode'] = city_dict.get('locationId')
+            for document in cursor:
+                if document.get('cities', None):
+                    for city_counter in range(len(document['cities'])):
+                        city_dict = document['cities'][city_counter]
+                        structured_results.append(dict_parser(document=document, city_dict=city_dict))
+                else:
+                    structured_results.append(dict_parser(document=document))
 
-                        result['province_confirmedCount'] = province_dict['confirmedCount']
-                        result['province_suspectedCount'] = province_dict['suspectedCount']
-                        result['province_curedCount'] = province_dict['curedCount']
-                        result['province_deadCount'] = province_dict['deadCount']
-
-                        result['city_confirmedCount'] = city_dict['confirmedCount']
-                        result['city_suspectedCount'] = city_dict['suspectedCount']
-                        result['city_curedCount'] = city_dict['curedCount']
-                        result['city_deadCount'] = city_dict['deadCount']
-
-                        result['updateTime'] = datetime.datetime.fromtimestamp(province_dict['updateTime']/1000)
-
-                        structured_results.append(result)
             df = pd.DataFrame(structured_results)
             df.to_csv(
                 path_or_buf=os.path.join(
                     os.path.split(os.path.realpath(__file__))[0], 'csv', collection + '.csv'),
-                index=False, encoding='utf_8_sig'
+                index=False, encoding='utf_8_sig', float_format="%i"
+            )
+        elif collection == 'DXYOverall':
+            df = pd.DataFrame(data=cursor)
+            for time_type in time_types:
+                if time_type in df.columns:
+                    df[time_type] = df[time_type].apply(lambda x: datetime.datetime.fromtimestamp(x / 1000) if not pd.isna(x) else '')
+            del df['_id']
+            del df['infectSource']
+            del df['passWay']
+            del df['virus']
+            df.to_csv(
+                path_or_buf=os.path.join(
+                    os.path.split(os.path.realpath(__file__))[0], 'csv', collection + '.csv'),
+                index=False, encoding='utf_8_sig', date_format="%Y-%m-%d %H:%M:%S"
             )
         else:
-            df = pd.DataFrame(data=self.db.dump(collection=collection))
+            df = pd.DataFrame(data=cursor)
             for time_type in time_types:
                 if time_type in df.columns:
                     df[time_type] = df[time_type].apply(lambda x: datetime.datetime.fromtimestamp(x / 1000) if not pd.isna(x) else '')
             df.to_csv(
                 path_or_buf=os.path.join(
                     os.path.split(os.path.realpath(__file__))[0], 'csv', collection + '.csv'),
-                index=False, encoding='utf_8_sig'
+                index=False, encoding='utf_8_sig', date_format="%Y-%m-%d %H:%M:%S"
             )
+
+    def db_dumper(self, collection, cursor):
+        data = list()
+        if collection != 'DXYArea':
+            for document in cursor:
+                document.pop('_id')
+                if document.get('comment'):
+                    document.pop('comment')
+                data.append(document)
+        else:
+            for document in cursor:
+                document.pop('_id')
+                document.pop('statisticsData', None)
+                document.pop('showRank', None)
+                document.pop('operator', None)
+                data.append(document)
+
+        json_file = open(
+            os.path.join(
+                os.path.split(
+                    os.path.realpath(__file__))[0], 'json', collection + '-TimeSeries.json'
+            ),
+            'w', encoding='utf-8'
+        )
+        json.dump(data, json_file, ensure_ascii=False, indent=4)
+        json_file.close()
 
 
 if __name__ == '__main__':
